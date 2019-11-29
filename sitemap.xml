@@ -1,917 +1,897 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://aindien.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://aindien.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>http://aindien.com/</loc>
+<loc>https://aindien.com/</loc>
 </url>
 <url>
-<loc>http://aindien.com/11-clever-tips-for-word-2016.html</loc>
+<loc>https://aindien.com/11-clever-tips-for-word-2016.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\12/word2016_0-1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\12/word2016_0-1.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\12/word2016_1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\12/word2016_1.png</image:loc>
 <image:title><![CDATA[clever tips for word 2016]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\12/word2016_2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\12/word2016_2.png</image:loc>
 <image:title><![CDATA[clever tips for word 2016]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\12/word2016_3.png</image:loc>
+<image:loc>https://aindien.com/media\posts\12/word2016_3.png</image:loc>
 <image:title><![CDATA[clever tips for word 2016]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\12/word2016_4.png</image:loc>
+<image:loc>https://aindien.com/media\posts\12/word2016_4.png</image:loc>
 <image:title><![CDATA[clever tips for word 2016]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\12/word2016_5.png</image:loc>
+<image:loc>https://aindien.com/media\posts\12/word2016_5.png</image:loc>
 <image:title><![CDATA[clever tips for word 2016]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\12/word2016_6.png</image:loc>
+<image:loc>https://aindien.com/media\posts\12/word2016_6.png</image:loc>
 <image:title><![CDATA[clever tips for word 2016]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/15-actionable-tips-for-outlook-2016.html</loc>
+<loc>https://aindien.com/15-actionable-tips-for-outlook-2016.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\10/outlook0.png</image:loc>
+<image:loc>https://aindien.com/media\posts\10/outlook0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\10/outlook1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\10/outlook1.png</image:loc>
 <image:title><![CDATA[tips for outlook 2016]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\10/outlook2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\10/outlook2.png</image:loc>
 <image:title><![CDATA[tips for outlook 2016]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\10/outlook3.png</image:loc>
+<image:loc>https://aindien.com/media\posts\10/outlook3.png</image:loc>
 <image:title><![CDATA[tips for outlook 2016]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\10/outlook4.png</image:loc>
+<image:loc>https://aindien.com/media\posts\10/outlook4.png</image:loc>
 <image:title><![CDATA[tips for outlook 2016]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\10/outlook5.png</image:loc>
+<image:loc>https://aindien.com/media\posts\10/outlook5.png</image:loc>
 <image:title><![CDATA[tips for outlook 2016]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\10/outlook6.png</image:loc>
+<image:loc>https://aindien.com/media\posts\10/outlook6.png</image:loc>
 <image:title><![CDATA[tips for outlook 2016]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/aindiens-elementary-guide-to-evernote.html</loc>
-<lastmod>2019-11-28T14:00:37-06:00</lastmod>
-</url>
-<url>
-<loc>http://aindien.com/aindiens-guide-to-digital-analytics-principles.html</loc>
+<loc>https://aindien.com/aindiens-guide-to-digital-analytics-principles.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\25/digital-analytics-principles0.jpeg</image:loc>
+<image:loc>https://aindien.com/media\posts\25/digital-analytics-principles0.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/aindiens-guide-to-network-communications.html</loc>
+<loc>https://aindien.com/aindiens-guide-to-network-communications.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\24/network_communications.png</image:loc>
+<image:loc>https://aindien.com/media\posts\24/network_communications.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\24/network_communications3-1024x410.png</image:loc>
+<image:loc>https://aindien.com/media\posts\24/network_communications3-1024x410.png</image:loc>
 <image:title><![CDATA[network_communications]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\24/network_communications1-1024x455.png</image:loc>
+<image:loc>https://aindien.com/media\posts\24/network_communications1-1024x455.png</image:loc>
 <image:title><![CDATA[network communications]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\24/network_communications2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\24/network_communications2.png</image:loc>
 <image:title><![CDATA[network communications]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/aindiens-hints-on-using-onenote.html</loc>
+<loc>https://aindien.com/aindiens-hints-on-using-onenote.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\23/hints-on-using-onenote0-1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\23/hints-on-using-onenote0-1.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\23/hints-on-using-OneNote1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\23/hints-on-using-OneNote1.png</image:loc>
 <image:title><![CDATA[hints on using OneNote1]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\23/hints-on-using-onenote2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\23/hints-on-using-onenote2.png</image:loc>
 <image:title><![CDATA[hints on using onenote2]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\23/hints-on-using-onenote3.png</image:loc>
+<image:loc>https://aindien.com/media\posts\23/hints-on-using-onenote3.png</image:loc>
 <image:title><![CDATA[hints on using onenote3]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\23/hints-on-using-onenote4.png</image:loc>
+<image:loc>https://aindien.com/media\posts\23/hints-on-using-onenote4.png</image:loc>
 <image:title><![CDATA[hints on using onenote4]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\23/hints-on-using-onenote5.png</image:loc>
+<image:loc>https://aindien.com/media\posts\23/hints-on-using-onenote5.png</image:loc>
 <image:title><![CDATA[hints on using onenote5]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\23/hints-on-using-onenote6.png</image:loc>
+<image:loc>https://aindien.com/media\posts\23/hints-on-using-onenote6.png</image:loc>
 <image:title><![CDATA[hints on using onenote6]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/beginning-c-input-and-output-basics.html</loc>
+<loc>https://aindien.com/beginning-c-input-and-output-basics.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\4/Banner-2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\4/Banner-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\4/Beg_c1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\4/Beg_c1.png</image:loc>
 <image:title><![CDATA[beginning c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\4/beg_c2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\4/beg_c2.png</image:loc>
 <image:title><![CDATA[beginning c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\4/beg_c3.png</image:loc>
+<image:loc>https://aindien.com/media\posts\4/beg_c3.png</image:loc>
 <image:title><![CDATA[beginning c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\4/beg_c4.png</image:loc>
+<image:loc>https://aindien.com/media\posts\4/beg_c4.png</image:loc>
 <image:title><![CDATA[beginning c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\4/beg_c5.png</image:loc>
+<image:loc>https://aindien.com/media\posts\4/beg_c5.png</image:loc>
 <image:title><![CDATA[beginning c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\4/beg_c6.png</image:loc>
+<image:loc>https://aindien.com/media\posts\4/beg_c6.png</image:loc>
 <image:title><![CDATA[beginning c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\4/beg_c7.png</image:loc>
+<image:loc>https://aindien.com/media\posts\4/beg_c7.png</image:loc>
 <image:title><![CDATA[beginning c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\4/beg_c8.png</image:loc>
+<image:loc>https://aindien.com/media\posts\4/beg_c8.png</image:loc>
 <image:title><![CDATA[beginning c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\4/beg_c9.png</image:loc>
+<image:loc>https://aindien.com/media\posts\4/beg_c9.png</image:loc>
 <image:title><![CDATA[beginning c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\4/beg_c10.png</image:loc>
+<image:loc>https://aindien.com/media\posts\4/beg_c10.png</image:loc>
 <image:title><![CDATA[beginning c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\4/beg_c11.png</image:loc>
+<image:loc>https://aindien.com/media\posts\4/beg_c11.png</image:loc>
 <image:title><![CDATA[beginning c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\4/beg_c12.png</image:loc>
+<image:loc>https://aindien.com/media\posts\4/beg_c12.png</image:loc>
 <image:title><![CDATA[beginning c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\4/beg_c13.png</image:loc>
+<image:loc>https://aindien.com/media\posts\4/beg_c13.png</image:loc>
 <image:title><![CDATA[beginning c++]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/beginning-c-making-decisions.html</loc>
+<loc>https://aindien.com/beginning-c-making-decisions.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\6/decision1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\6/decision1.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\6/decision2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\6/decision2.png</image:loc>
 <image:title><![CDATA[making decisions]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\6/decision3.png</image:loc>
+<image:loc>https://aindien.com/media\posts\6/decision3.png</image:loc>
 <image:title><![CDATA[making decisions]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\6/decision4.png</image:loc>
+<image:loc>https://aindien.com/media\posts\6/decision4.png</image:loc>
 <image:title><![CDATA[making decisions]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\6/decision5.png</image:loc>
+<image:loc>https://aindien.com/media\posts\6/decision5.png</image:loc>
 <image:title><![CDATA[making decisions]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\6/decision6.png</image:loc>
+<image:loc>https://aindien.com/media\posts\6/decision6.png</image:loc>
 <image:title><![CDATA[making decisions]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\6/decision7.png</image:loc>
+<image:loc>https://aindien.com/media\posts\6/decision7.png</image:loc>
 <image:title><![CDATA[making decisions]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\6/decision8.png</image:loc>
+<image:loc>https://aindien.com/media\posts\6/decision8.png</image:loc>
 <image:title><![CDATA[making decisions]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\6/decision9.png</image:loc>
+<image:loc>https://aindien.com/media\posts\6/decision9.png</image:loc>
 <image:title><![CDATA[making decisions]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/blog.html</loc>
-<lastmod>2019-11-28T14:00:37-06:00</lastmod>
-</url>
-<url>
-<loc>http://aindien.com/computer-networking-devices.html</loc>
+<loc>https://aindien.com/computer-networking-devices.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\21/computer-networking-devices-0.png</image:loc>
+<image:loc>https://aindien.com/media\posts\21/computer-networking-devices-0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/computer-networking-networking-hardware.html</loc>
+<loc>https://aindien.com/computer-networking-networking-hardware.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\8/nh0-1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\8/nh0-1.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/essential-linux-commands-to-get-you-started.html</loc>
-<lastmod>2019-11-28T14:00:37-06:00</lastmod>
+<loc>https://aindien.com/essential-linux-commands-to-get-you-started.html</loc>
+<lastmod>2019-11-28T19:21:39-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/Linux_feature.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/Linux_feature.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/linux12.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/linux12.png</image:loc>
 <image:title><![CDATA[essential linux commands]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/linux1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/linux1.png</image:loc>
 <image:title><![CDATA[essential linux commands]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/linux2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/linux2.png</image:loc>
 <image:title><![CDATA[essential linux commands]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/linux13.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/linux13.png</image:loc>
 <image:title><![CDATA[essential Linux command]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/linux3.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/linux3.png</image:loc>
 <image:title><![CDATA[essential linux commands]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/linux4.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/linux4.png</image:loc>
 <image:title><![CDATA[essential linux commands]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/linux5.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/linux5.png</image:loc>
 <image:title><![CDATA[essential linux commands]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/linux6.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/linux6.png</image:loc>
 <image:title><![CDATA[essential linux commands]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/linux7.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/linux7.png</image:loc>
 <image:title><![CDATA[essential linux commands]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/linux14.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/linux14.png</image:loc>
 <image:title><![CDATA[essential Linux command]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/linux8.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/linux8.png</image:loc>
 <image:title><![CDATA[essential linux commands]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/linux9.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/linux9.png</image:loc>
 <image:title><![CDATA[essential linux commands]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/linux10.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/linux10.png</image:loc>
 <image:title><![CDATA[essential linux commands]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/linux11.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/linux11.png</image:loc>
 <image:title><![CDATA[essential linux commands]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\2/linux15.png</image:loc>
+<image:loc>https://aindien.com/media\posts\2/linux15.png</image:loc>
 <image:title><![CDATA[essential Linux command]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/getting-started-with-windows-10-accounts.html</loc>
+<loc>https://aindien.com/getting-started-with-windows-10-accounts.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\26/IMG_20180417_082431-1.jpg</image:loc>
+<image:loc>https://aindien.com/media\posts\26/IMG_20180417_082431-1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/google-docs-tutorial-for-beginners.html</loc>
+<loc>https://aindien.com/google-docs-tutorial-for-beginners.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\18/docs0-1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\18/docs0-1.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\18/docs0-1024x414.png</image:loc>
+<image:loc>https://aindien.com/media\posts\18/docs0-1024x414.png</image:loc>
 <image:title><![CDATA[how google docs work]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\18/docs1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\18/docs1.png</image:loc>
 <image:title><![CDATA[how google docs work]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\18/docs2-300x245.png</image:loc>
+<image:loc>https://aindien.com/media\posts\18/docs2-300x245.png</image:loc>
 <image:title><![CDATA[how google docs work]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\18/docs3.png</image:loc>
+<image:loc>https://aindien.com/media\posts\18/docs3.png</image:loc>
 <image:title><![CDATA[how google docs work]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\18/docs4.png</image:loc>
+<image:loc>https://aindien.com/media\posts\18/docs4.png</image:loc>
 <image:title><![CDATA[how google docs work]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\18/docs5.png</image:loc>
+<image:loc>https://aindien.com/media\posts\18/docs5.png</image:loc>
 <image:title><![CDATA[how google docs work]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\18/docs6.png</image:loc>
+<image:loc>https://aindien.com/media\posts\18/docs6.png</image:loc>
 <image:title><![CDATA[how google docs work]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\18/docs7.png</image:loc>
+<image:loc>https://aindien.com/media\posts\18/docs7.png</image:loc>
 <image:title><![CDATA[how google docs work]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\18/docs8.png</image:loc>
+<image:loc>https://aindien.com/media\posts\18/docs8.png</image:loc>
 <image:title><![CDATA[how google docs work]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\18/docs9-300x193.png</image:loc>
+<image:loc>https://aindien.com/media\posts\18/docs9-300x193.png</image:loc>
 <image:title><![CDATA[how google docs work]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\18/docs10.png</image:loc>
+<image:loc>https://aindien.com/media\posts\18/docs10.png</image:loc>
 <image:title><![CDATA[how google docs work]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\18/docs12-300x162.png</image:loc>
+<image:loc>https://aindien.com/media\posts\18/docs12-300x162.png</image:loc>
 <image:title><![CDATA[how google docs work]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\18/docs13-300x180.png</image:loc>
+<image:loc>https://aindien.com/media\posts\18/docs13-300x180.png</image:loc>
 <image:title><![CDATA[how google docs work]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/how-the-osi-model-works.html</loc>
+<loc>https://aindien.com/how-the-osi-model-works.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\16/OsiModel0.png</image:loc>
+<image:loc>https://aindien.com/media\posts\16/OsiModel0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\16/OsiModel1-300x212.png</image:loc>
+<image:loc>https://aindien.com/media\posts\16/OsiModel1-300x212.png</image:loc>
 <image:title><![CDATA[how the osi model works]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/how-to-construct-loops-in-c.html</loc>
+<loc>https://aindien.com/how-to-construct-loops-in-c.html</loc>
 <lastmod>2019-11-28T14:00:38-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\29/loops-in-c-0.png</image:loc>
+<image:loc>https://aindien.com/media\posts\29/loops-in-c-0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\29/looping-in-c-1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\29/looping-in-c-1.png</image:loc>
 <image:title><![CDATA[loops in c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\29/Screenshot-from-2019-07-20-15-30-49-1024x356.png</image:loc>
+<image:loc>https://aindien.com/media\posts\29/Screenshot-from-2019-07-20-15-30-49-1024x356.png</image:loc>
 <image:title><![CDATA[loops in c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\29/loops-in-c-2-1024x245.png</image:loc>
+<image:loc>https://aindien.com/media\posts\29/loops-in-c-2-1024x245.png</image:loc>
 <image:title><![CDATA[loops in c++ 2]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\29/loops-in-c-3-1024x151.png</image:loc>
+<image:loc>https://aindien.com/media\posts\29/loops-in-c-3-1024x151.png</image:loc>
 <image:title><![CDATA[loops in c++ 3]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\29/loops-in-c-4-1024x238.png</image:loc>
+<image:loc>https://aindien.com/media\posts\29/loops-in-c-4-1024x238.png</image:loc>
 <image:title><![CDATA[loops in c++ 4]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/how-to-get-users-to-submit-work-tickets.html</loc>
+<loc>https://aindien.com/how-to-get-users-to-submit-work-tickets.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\9/submit_ticket0.png</image:loc>
+<image:loc>https://aindien.com/media\posts\9/submit_ticket0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/how-to-make-the-jump-to-system-administrator.html</loc>
+<loc>https://aindien.com/how-to-make-the-jump-to-system-administrator.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\5/sysadmin0-2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\5/sysadmin0-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\5/sysadmin1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\5/sysadmin1.png</image:loc>
 <image:title><![CDATA[jump to system administrator]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/how-to-protect-yourself-from-ransomware.html</loc>
+<loc>https://aindien.com/how-to-protect-yourself-from-ransomware.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware0.jpg</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware0.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware1.png</image:loc>
 <image:title><![CDATA[protect yourself from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware2.png</image:loc>
 <image:title><![CDATA[protect yourself from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware3.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware3.png</image:loc>
 <image:title><![CDATA[protect yourself from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware1.png</image:loc>
 <image:title><![CDATA[protect your computer from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware4.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware4.png</image:loc>
 <image:title><![CDATA[protect yourself from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware5.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware5.png</image:loc>
 <image:title><![CDATA[protect yourself from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware6.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware6.png</image:loc>
 <image:title><![CDATA[protect yourself from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware1.png</image:loc>
 <image:title><![CDATA[protect your computer from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware2.png</image:loc>
 <image:title><![CDATA[protect yourself from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware7.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware7.png</image:loc>
 <image:title><![CDATA[protect yourself from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware8.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware8.png</image:loc>
 <image:title><![CDATA[protect yourself from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware9.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware9.png</image:loc>
 <image:title><![CDATA[protect yourself from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware10.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware10.png</image:loc>
 <image:title><![CDATA[protect yourself from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware11.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware11.png</image:loc>
 <image:title><![CDATA[protect yourself from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware12.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware12.png</image:loc>
 <image:title><![CDATA[protect yourself from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware13.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware13.png</image:loc>
 <image:title><![CDATA[protect yourself from ransomware]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\14/ransomware14.png</image:loc>
+<image:loc>https://aindien.com/media\posts\14/ransomware14.png</image:loc>
 <image:title><![CDATA[protect yourself from ransomware]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/how-to-read-data-from-a-file-with-c.html</loc>
+<loc>https://aindien.com/how-to-read-data-from-a-file-with-c.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\11/IMG_20170630_100800_resized_20170630_10084903040.jpg</image:loc>
+<image:loc>https://aindien.com/media\posts\11/IMG_20170630_100800_resized_20170630_10084903040.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\11/reading_data0.png</image:loc>
+<image:loc>https://aindien.com/media\posts\11/reading_data0.png</image:loc>
 <image:title><![CDATA[read data from a file with c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\11/reading_data1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\11/reading_data1.png</image:loc>
 <image:title><![CDATA[read data from a file with c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\11/reading_data2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\11/reading_data2.png</image:loc>
 <image:title><![CDATA[read data from a file in c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\11/IMG_20170630_083131_resized_20170630_08334928638.jpg</image:loc>
+<image:loc>https://aindien.com/media\posts\11/IMG_20170630_083131_resized_20170630_08334928638.jpg</image:loc>
 <image:title><![CDATA[read data from a file with c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\11/reading_data3.png</image:loc>
+<image:loc>https://aindien.com/media\posts\11/reading_data3.png</image:loc>
 <image:title><![CDATA[read data from a file with c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\11/reading_data5.png</image:loc>
+<image:loc>https://aindien.com/media\posts\11/reading_data5.png</image:loc>
 <image:title><![CDATA[read data from a file with c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\11/reading_data4.png</image:loc>
+<image:loc>https://aindien.com/media\posts\11/reading_data4.png</image:loc>
 <image:title><![CDATA[read data from a file with c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\11/reading_data6.png</image:loc>
+<image:loc>https://aindien.com/media\posts\11/reading_data6.png</image:loc>
 <image:title><![CDATA[read data from a file with c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\11/reading_data7.png</image:loc>
+<image:loc>https://aindien.com/media\posts\11/reading_data7.png</image:loc>
 <image:title><![CDATA[read data from a file with c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\11/reading_data8.png</image:loc>
+<image:loc>https://aindien.com/media\posts\11/reading_data8.png</image:loc>
 <image:title><![CDATA[read data from a file with c++]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\11/reading_data9.png</image:loc>
+<image:loc>https://aindien.com/media\posts\11/reading_data9.png</image:loc>
 <image:title><![CDATA[read data from a file with c++]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/how-to-use-raid-on-your-computer.html</loc>
+<loc>https://aindien.com/how-to-use-raid-on-your-computer.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\22/how-to-use-raid-in-your-computer-0.png</image:loc>
+<image:loc>https://aindien.com/media\posts\22/how-to-use-raid-in-your-computer-0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/how-to-use-the-computer-management-tools-in-windows-10.html</loc>
+<loc>https://aindien.com/how-to-use-the-computer-management-tools-in-windows-10.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/AdminTools0.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/AdminTools0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/AdminTools12.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/AdminTools12.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/EventViewer1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/EventViewer1.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/EventViewer2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/EventViewer2.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/AdminTools4.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/AdminTools4.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/AdminTools5.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/AdminTools5.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/AdminTools7-1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/AdminTools7-1.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/AdminTools8.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/AdminTools8.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/AdminTools9.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/AdminTools9.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/AdminTools10.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/AdminTools10.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/AdminTools11.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/AdminTools11.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/AdminTools14.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/AdminTools14.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/AdminTools15.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/AdminTools15.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/AdminTools16.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/AdminTools16.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/AdminTools17-1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/AdminTools17-1.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/AdminTools18.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/AdminTools18.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\15/AdminTools19.png</image:loc>
+<image:loc>https://aindien.com/media\posts\15/AdminTools19.png</image:loc>
 <image:title><![CDATA[computer management tools in windows 10]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/network-basics-easy-addressing-and-routing.html</loc>
+<loc>https://aindien.com/network-basics-easy-addressing-and-routing.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\19/addressing0.png</image:loc>
+<image:loc>https://aindien.com/media\posts\19/addressing0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/network-management-guide.html</loc>
+<loc>https://aindien.com/network-management-guide.html</loc>
 <lastmod>2019-11-28T14:00:38-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\28/network-management-0.png</image:loc>
+<image:loc>https://aindien.com/media\posts\28/network-management-0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\28/network-management-2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\28/network-management-2.png</image:loc>
 <image:title><![CDATA[network management]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\28/network-management-1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\28/network-management-1.png</image:loc>
 <image:title><![CDATA[network management]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\28/network-management-3.png</image:loc>
+<image:loc>https://aindien.com/media\posts\28/network-management-3.png</image:loc>
 <image:title><![CDATA[network management]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\28/network-management-4.png</image:loc>
+<image:loc>https://aindien.com/media\posts\28/network-management-4.png</image:loc>
 <image:title><![CDATA[network management]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/networking-basics-applications-of-network-devices.html</loc>
+<loc>https://aindien.com/networking-basics-applications-of-network-devices.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\13/networkdevices0.jpg</image:loc>
+<image:loc>https://aindien.com/media\posts\13/networkdevices0.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/networking-basics-physical-topologies.html</loc>
+<loc>https://aindien.com/networking-basics-physical-topologies.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\7/nt0-3.png</image:loc>
+<image:loc>https://aindien.com/media\posts\7/nt0-3.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\7/nt1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\7/nt1.png</image:loc>
 <image:title><![CDATA[networking basics]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\7/nt2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\7/nt2.png</image:loc>
 <image:title><![CDATA[networking basics]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\7/nt3.png</image:loc>
+<image:loc>https://aindien.com/media\posts\7/nt3.png</image:loc>
 <image:title><![CDATA[networking basics]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\7/nt4.png</image:loc>
+<image:loc>https://aindien.com/media\posts\7/nt4.png</image:loc>
 <image:title><![CDATA[networking basics]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/page/2/</loc>
+<loc>https://aindien.com/page/2/</loc>
 </url>
 <url>
-<loc>http://aindien.com/page/3/</loc>
-</url>
-<url>
-<loc>http://aindien.com/page/4/</loc>
-</url>
-<url>
-<loc>http://aindien.com/page/5/</loc>
-</url>
-<url>
-<loc>http://aindien.com/page/6/</loc>
-</url>
-<url>
-<loc>http://aindien.com/powershell-for-beginners.html</loc>
+<loc>https://aindien.com/powershell-for-beginners.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-0.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/powershell-for-beginners-1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/powershell-for-beginners-1.png</image:loc>
 <image:title><![CDATA[powershell for beginners 1]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-for-Beginners-2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-for-Beginners-2.png</image:loc>
 <image:title><![CDATA[Powershell for Beginners 2]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-3.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-3.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 3]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-4.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-4.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 4]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-5-1024x527.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-5-1024x527.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 5]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-6.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-6.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 6]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-7.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-7.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 7]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-8.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-8.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 8]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-9.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-9.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 9]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-10.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-10.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 10]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-12.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-12.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 12]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-11-1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-11-1.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 11]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-13.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-13.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 13]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-14.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-14.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 14]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-15.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-15.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 15]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-16.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-16.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 16]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-17.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-17.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 17]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-18.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-18.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 18]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-19.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-19.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 19]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-20.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-20.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 20]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\27/Powershell-For-Beginners-21.png</image:loc>
+<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-21.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 21]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/scaling-your-network-in-2016.html</loc>
+<loc>https://aindien.com/scaling-your-network-in-2016.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\3/keyboard-453760_1920.jpg</image:loc>
+<image:loc>https://aindien.com/media\posts\3/keyboard-453760_1920.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\3/scale_network2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\3/scale_network2.png</image:loc>
 <image:title><![CDATA[scaling your network]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\3/scale_network3.png</image:loc>
+<image:loc>https://aindien.com/media\posts\3/scale_network3.png</image:loc>
 <image:title><![CDATA[scaling your network]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\3/scale_network4.png</image:loc>
+<image:loc>https://aindien.com/media\posts\3/scale_network4.png</image:loc>
 <image:title><![CDATA[scaling your network]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/step-by-step-excel-2016-tutorial.html</loc>
+<loc>https://aindien.com/step-by-step-excel-2016-tutorial.html</loc>
 <lastmod>2019-11-28T14:00:37-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\20/excel0.png</image:loc>
+<image:loc>https://aindien.com/media\posts\20/excel0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\20/excel1.png</image:loc>
+<image:loc>https://aindien.com/media\posts\20/excel1.png</image:loc>
 <image:title><![CDATA[step by step excel 2016 tutorial]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\20/excel9.png</image:loc>
+<image:loc>https://aindien.com/media\posts\20/excel9.png</image:loc>
 <image:title><![CDATA[step by step excel 2016 tutorial]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\20/excel10.png</image:loc>
+<image:loc>https://aindien.com/media\posts\20/excel10.png</image:loc>
 <image:title><![CDATA[step by step excel 2016 tutorial]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\20/excel11.png</image:loc>
+<image:loc>https://aindien.com/media\posts\20/excel11.png</image:loc>
 <image:title><![CDATA[step by step excel 2016 tutorial]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\20/EXCEL2.png</image:loc>
+<image:loc>https://aindien.com/media\posts\20/EXCEL2.png</image:loc>
 <image:title><![CDATA[step by step excel 2016 tutorial]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\20/excel3.png</image:loc>
+<image:loc>https://aindien.com/media\posts\20/excel3.png</image:loc>
 <image:title><![CDATA[step by step excel 2016 tutorial]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\20/excel4.png</image:loc>
+<image:loc>https://aindien.com/media\posts\20/excel4.png</image:loc>
 <image:title><![CDATA[step by step excel 2016 tutorial]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\20/excel5.png</image:loc>
+<image:loc>https://aindien.com/media\posts\20/excel5.png</image:loc>
 <image:title><![CDATA[step by step excel 2016 tutorial]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\20/excel6.png</image:loc>
+<image:loc>https://aindien.com/media\posts\20/excel6.png</image:loc>
 <image:title><![CDATA[step by step excel 2016 tutorial]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\20/excel7.png</image:loc>
+<image:loc>https://aindien.com/media\posts\20/excel7.png</image:loc>
 <image:title><![CDATA[step by step excel 2016 tutorial]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\20/excel8.png</image:loc>
+<image:loc>https://aindien.com/media\posts\20/excel8.png</image:loc>
 <image:title><![CDATA[step by step excel 2016 tutorial]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\20/excel12.png</image:loc>
+<image:loc>https://aindien.com/media\posts\20/excel12.png</image:loc>
 <image:title><![CDATA[step by step excel 2016 tutorial]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://aindien.com/media\posts\20/excel13.png</image:loc>
+<image:loc>https://aindien.com/media\posts\20/excel13.png</image:loc>
 <image:title><![CDATA[step by step excel 2016 tutorial]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://aindien.com/what-cloud-computing-really-means.html</loc>
+<loc>https://aindien.com/what-cloud-computing-really-means.html</loc>
 <lastmod>2019-11-28T14:00:38-06:00</lastmod>
 <image:image>
-<image:loc>http://aindien.com/media\posts\30/cloud-computing.jpg</image:loc>
+<image:loc>https://aindien.com/media\posts\30/cloud-computing.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
