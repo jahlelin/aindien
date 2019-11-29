@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Aindien&#x27;s Computer Guides</title>
-    <link href="https://jahlelin.github.io/aindien/feed.xml" rel="self" />
-    <link href="https://jahlelin.github.io/aindien" />
-    <updated>2019-11-28T18:09:46-06:00</updated>
+    <link href="http://aindien.com/feed.xml" rel="self" />
+    <link href="http://aindien.com" />
+    <updated>2019-11-28T18:49:34-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
-    <id>https://jahlelin.github.io/aindien</id>
+    <id>http://aindien.com</id>
 
     <entry>
         <title>What Cloud Computing Really Means</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/aindien/what-cloud-computing-really-means.html"/>
-        <id>https://jahlelin.github.io/aindien/what-cloud-computing-really-means.html</id>
+        <link href="http://aindien.com/what-cloud-computing-really-means.html"/>
+        <id>http://aindien.com/what-cloud-computing-really-means.html</id>
 
         <updated>2019-11-28T14:00:38-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/aindien/media/posts/30/cloud-computing.jpg" alt="" />
+                        <img src="http://aindien.com/media/posts/30/cloud-computing.jpg" alt="" />
                     <p>Cloud computing is used a lot these days. Many times people are referring to totally different concepts. When mentioning it, however, there is definitely a disconnect or a lack of understanding of what this means. I will clear some things up and give a good overview of what we are talking about when we say "cloud computing".</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/aindien/media/posts/30/cloud-computing.jpg" alt="" />
+                    <img src="http://aindien.com/media/posts/30/cloud-computing.jpg" alt="" />
                 <p>Cloud computing is used a lot these days. Many times people are referring to totally different concepts. When mentioning it, however, there is definitely a disconnect or a lack of understanding of what this means. I will clear some things up and give a good overview of what we are talking about when we say "cloud computing".</p>
 
 <h2 style="text-align: center;"><strong>Introduction</strong></h2>
@@ -65,20 +65,20 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/aindien/how-to-construct-loops-in-c.html"/>
-        <id>https://jahlelin.github.io/aindien/how-to-construct-loops-in-c.html</id>
+        <link href="http://aindien.com/how-to-construct-loops-in-c.html"/>
+        <id>http://aindien.com/how-to-construct-loops-in-c.html</id>
 
         <updated>2019-11-28T14:00:38-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/aindien/media/posts/29/loops-in-c-0.png" alt="" />
+                        <img src="http://aindien.com/media/posts/29/loops-in-c-0.png" alt="" />
                     <p>Today's guide will be over loops in C++. I have been wanting to get to my latest C++ article for a while. So lets break out our favorite text editor and compiler and have some real fun today!</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/aindien/media/posts/29/loops-in-c-0.png" alt="" />
+                    <img src="http://aindien.com/media/posts/29/loops-in-c-0.png" alt="" />
                 <p>Today's guide will be over loops in C++. I have been wanting to get to my latest C++ article for a while. So lets break out our favorite text editor and compiler and have some real fun today!</p>
 
 <h2 style="text-align: center;"><strong>Loops in C++</strong></h2>
@@ -91,7 +91,7 @@
 <h2 style="text-align: center;"><strong>Incrementing Example</strong></h2>
 <p>This is a short example of incrementing a variable.</p>
 <p>&nbsp;</p>
-<p><img class="wp-image-880 size-full" src="https://jahlelin.github.io/aindien/media/posts/29/looping-in-c-1.png" alt="loops in c++" width="656" height="342" /> loops in c++</p>
+<p><img class="wp-image-880 size-full" src="http://aindien.com/media/posts/29/looping-in-c-1.png" alt="loops in c++" width="656" height="342" /> loops in c++</p>
 <p>This is an example of a post-increment variable. That means the variable was read first and then incremented. You can also increment the variable first and then read the variable in to memory. If you want to do that, put ++ before the variable name. Nice and simple!</p>
 <h2 style="text-align: center;"><strong>The While Loop</strong></h2>
 <p>This is the standard first loop that you usually see. It is simple and has a lot of uses. A loop is a construct that helps you repeat actions. For example, if you have a text file that has 5,000 computer names in it, all on a separate line, you can use a loop to look at each line. Now it might not make sense why you would want to do that but you could sort these items, see how many started with a certain letter, or look for certain names within each line. The point is, it is much quicker to use a loop to do this than have a person look at each line individually.</p>
@@ -102,12 +102,12 @@
 <p>Lets go to an example now.</p>
 <p>https://gist.github.com/jahlelin/be697086e0c1a725b4c1418625dd5f3c</p>
 <p>This is just  basic while loop. I asked the loop to print to screen the numbers from 1 to 20. The (num &lt; 21) ensures that the loop does not go past 20. As you can see in the loop, I also asked the variable (num) to increment by +1 each time the loop executed. There isn't much more to it than that. Here is what the output looks like.</p>
-<p><img class="size-large wp-image-908" src="https://jahlelin.github.io/aindien/media/posts/29/Screenshot-from-2019-07-20-15-30-49-1024x356.png" alt="loops in c++" width="1024" height="356" /> loops in c++</p>
+<p><img class="size-large wp-image-908" src="http://aindien.com/media/posts/29/Screenshot-from-2019-07-20-15-30-49-1024x356.png" alt="loops in c++" width="1024" height="356" /> loops in c++</p>
 <p>Lets do another example where we decrement a variable after each loop execution.</p>
 <p>https://gist.github.com/jahlelin/5260d78249a25a8d5e3b36123994e4a8</p>
 <p>In this short example I just decrement the variable (num) from 25 to 15.  During the loop I decreased the value of the variable by 1. That is called decrementing. Let me show the output below so you can see.</p>
 <p>&nbsp;</p>
-<p><img class="aligncenter size-large wp-image-909" src="https://jahlelin.github.io/aindien/media/posts/29/loops-in-c-2-1024x245.png" alt="loops in c++ 2" width="1024" height="245" /></p>
+<p><img class="aligncenter size-large wp-image-909" src="http://aindien.com/media/posts/29/loops-in-c-2-1024x245.png" alt="loops in c++ 2" width="1024" height="245" /></p>
 <p>There, that is nice and easy.</p>
 <h2 style="text-align: center;"><strong>Variable Counters</strong></h2>
 <p>Counters go hand in hand with loops. The reason is that sometimes we want to know how many iterations a loop has gone through. Another scenario is that sometimes we want a loop to only run a certain number of times. That is why counters are important. They are just variables that are incremented or decremented when a loop executes. You will see I use them to control the loops I use.</p>
@@ -115,14 +115,14 @@
 <p>A do-while loop is the opposite of a while loop. What I mean by this is that its statement is done before its condition is tested. This makes it a post-test loop. This loop will always make one iteration because of this. So when you are writing a function or whole program, if you need your loop to execute at least once then use a do-while loop. A unique part of this loop is that it always ends with a semicolon, which makes it different than a straight while loop. That makes it confusing to people first learning too. Lets look at an example.</p>
 <p>https://gist.github.com/jahlelin/5880f5f628d6c23861b9af9a9339b741</p>
 <p>Everything looks mostly the same except the format of the loop. That would be correct too. This is how a do_while loop works and it is also a simple way to construct loops in c++. In this loop you can see we take an action first and then evaluate whether our condition is true. I then increment the variable in the loop. The loop then repeats as long as our condition is true. Here is the output for this very simple loop if anyone is curious.</p>
-<p><img class="aligncenter size-large wp-image-912" src="https://jahlelin.github.io/aindien/media/posts/29/loops-in-c-3-1024x151.png" alt="loops in c++ 3" width="1024" height="151" /></p>
+<p><img class="aligncenter size-large wp-image-912" src="http://aindien.com/media/posts/29/loops-in-c-3-1024x151.png" alt="loops in c++ 3" width="1024" height="151" /></p>
 <p>&nbsp;</p>
 <h2 style="text-align: center;"><strong>The For Loop</strong></h2>
 <p>When you know the exact number of times a loop should execute then a for loop is an even better choice. A for loop will initialize a counter to its starting value. It will test the counter to its max value. Finally it will update the counter after each iteration of the loop. It is a pre-test loop which means it does its comparisons before going through the rest of the loop. You should use a for loop whenever you need a variable  initialized or know how many times you want the loop to run.</p>
 <p>There are several tricks you can do with for loops. You can update the counter directly to better control your loop. Going forward or backward is no problem of course. Defining and initializing your main variable in the loop is often a good idea. So lets try one of these out.</p>
 <p>https://gist.github.com/jahlelin/6597f8efac0361556450f4f068401ebf</p>
 <p>So this one is slightly different. The initialization, condition, and updtate of the variable is done on all one line. You then just have whatever valid c++ statement down below. Here is the resulting output when I compiled and ran it.</p>
-<p><img class="aligncenter size-large wp-image-913" src="https://jahlelin.github.io/aindien/media/posts/29/loops-in-c-4-1024x238.png" alt="loops in c++ 4" width="1024" height="238" /></p>
+<p><img class="aligncenter size-large wp-image-913" src="http://aindien.com/media/posts/29/loops-in-c-4-1024x238.png" alt="loops in c++ 4" width="1024" height="238" /></p>
 <p>So nice and simple.</p>
 <h2 style="text-align: center;"><strong>Working With Accumulators</strong></h2>
 <p>An accumulator is the sum of numbers every time a <a href="https://www.w3schools.in/cplusplus-tutorial/loops/for/">loop</a> iterates. This is very common in loops and is important when constructing loops in c++. This could be sales totals, number of laps in a race, or how many cards you have discarded in a game of pokemon. Its important. In each iteration of the loop the accumulator will contain the total from the numbers read by the loop.</p>
@@ -138,26 +138,26 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/aindien/network-management-guide.html"/>
-        <id>https://jahlelin.github.io/aindien/network-management-guide.html</id>
+        <link href="http://aindien.com/network-management-guide.html"/>
+        <id>http://aindien.com/network-management-guide.html</id>
 
         <updated>2019-11-28T14:00:38-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/aindien/media/posts/28/network-management-0.png" alt="" />
+                        <img src="http://aindien.com/media/posts/28/network-management-0.png" alt="" />
                     <p>In this network management guide I try to talk about the basics of everything that goes into managing and monitoring a network. I will talk about monitoring most aspects of you network along with things to do to help it.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/aindien/media/posts/28/network-management-0.png" alt="" />
+                    <img src="http://aindien.com/media/posts/28/network-management-0.png" alt="" />
                 <p>In this network management guide I try to talk about the basics of everything that goes into managing and monitoring a network. I will talk about monitoring most aspects of you network along with things to do to help it.</p>
 
 <h2 style="text-align: center;"><strong>Network Management</strong></h2>
 <p>In <a href="http://aindien.com/networking-basics-physical-topologies/">network</a> management there are many details to keep track of. Monitoring is a huge task but it is one that needs to be done thoroughly. There are many ways to do it and tools to use. This guide talks about many of the requirements that you will need to monitor.</p>
 <h2 style="text-align: center;"><strong>Network Monitoring Tools</strong></h2>
-<p><img class="wp-image-873 size-full" src="https://jahlelin.github.io/aindien/media/posts/28/network-management-2.png" alt="network management" width="786" height="450" /> network management</p>
+<p><img class="wp-image-873 size-full" src="http://aindien.com/media/posts/28/network-management-2.png" alt="network management" width="786" height="450" /> network management</p>
 <p>A packet or protocol analyzer is one of the first tools that we can use to examine a network. They can display, capture, and save packets. This software can read packets intended for other devices. If it is used in promiscuous mode then the packet sniffer is seeing the information pass across a network.</p>
 <p>One of the most popular example of protocol analyzers is called <a href="https://www.wireshark.org/">Wireshark</a>. It is very popular because it is free and works quite well. It can specify which network interface is to capture packets. You can operate it in promiscuous mode to see all traffic. The software can define what types of packets are to be captured. Finally, you can tell Wireshark how long a packet capture should run before it terminates the connection.</p>
 <h2 style="text-align: center;"><strong>Scanning Tools</strong></h2>
@@ -174,7 +174,7 @@
 <p>They can be very resource intensive so monitor that when you can. We use these to see what is happening on any given day or minute of a day.</p>
 <p>SYSLOG is important to know about. It is a standard for logging and reporting. It has error codes from 0-7 with 0 being the worst and classified as an emergency. The SYSLOG software functions as a server. This is nice because applications can send their local logs to this remote server. It will collect and make things easy to analyze.</p>
 <p>&nbsp;</p>
-<p><img class="wp-image-868 size-full" src="https://jahlelin.github.io/aindien/media/posts/28/network-management-1.png" alt="network management" width="887" height="339" /> network management</p>
+<p><img class="wp-image-868 size-full" src="http://aindien.com/media/posts/28/network-management-1.png" alt="network management" width="887" height="339" /> network management</p>
 <p>Monitoring alerts can be sent to anyone that requires it. SMS messaging is often chosen and convenient. This allows administrators to be on call and responsible for their systems.</p>
 <h2 style="text-align: center;"><strong>Environment Monitoring</strong></h2>
 <p>Conditions need to be monitored in your network closets and server rooms. The rooms do not need to be too hot, cold, or humid. So we need to keep them within a safe operating range. These locations should be monitored for temperature and humidity. The solution tot his is to add sensors that connect to our network. These <a href="http://www.apc.com/shop/us/en/products/APC-Temperature-Humidity-Sensor/P-AP9335TH">sensors</a> should have SNMP and alerts so they can tell the administrator when something is wrong.</p>
@@ -189,7 +189,7 @@
 <h2 style="text-align: center;"><strong>Network Telemetry Logging</strong></h2>
 <p>Every operating system has different telemetry tools available. It is important to use these often know what is happening on key machines. You can analyze traffic going in and out. Seeing what spikes your <a href="http://aindien.com/how-to-protect-yourself-from-ransomware/">network traffic</a> is also important.</p>
 <h2 style="text-align: center;"><strong>Analyzing Network Utilization</strong></h2>
-<p><img class="wp-image-874 size-full" src="https://jahlelin.github.io/aindien/media/posts/28/network-management-3.png" alt="network management" width="1057" height="429" /> network management</p>
+<p><img class="wp-image-874 size-full" src="http://aindien.com/media/posts/28/network-management-3.png" alt="network management" width="1057" height="429" /> network management</p>
 <p>While we always hope our traffic is moving quickly we sometimes get bottlenecks. It is a component with a lower capacity than the rest of the system. It is what is holding the rest of the system from going faster. In a machine it is often the hard drive that is the slowest part of the system for example. That is a bottleneck.</p>
 <p>Bandwidth usage is important for our WAN connections. WAN is of course our wide area network. When WAN traffic is unusually slow we may have configurations issues at our router or gateway.</p>
 <p>We should also monitor our storage. SAN's are a popular type of storage for enterprises. A SAN is a storage area network. Tracking the usage of our storage is very important to ensure users have what they need.</p>
@@ -213,7 +213,7 @@
 <p>A NAC is a network access control. It is a method of ensuring connecting devices meet our network policy. When machines or mobile devices connect to our network we can make sure that it meets certain standards.</p>
 <p>A network access control will usually check for antivirus, operating system updates, and make sure the firewall is enabled. NAC's will quarantine systems if they do not meet certain standards.</p>
 <h2 style="text-align: center;"><strong>Documenting Your Network</strong></h2>
-<p><img class="wp-image-875 size-full" src="https://jahlelin.github.io/aindien/media/posts/28/network-management-4.png" alt="network management" width="999" height="418" /> network management</p>
+<p><img class="wp-image-875 size-full" src="http://aindien.com/media/posts/28/network-management-4.png" alt="network management" width="999" height="418" /> network management</p>
 <p>Documentation is always important. You should document everything you can. Network configuration is especially vital. Configurations of your firewalls and <a href="http://aindien.com/network-basics-easy-addressing-and-routing/">switches</a> should always be done. You should document your server and cable closets. Labeling cables that go into switches is also very useful.</p>
 <p>Documenting your IP's is something every network admin should do. This lets you now what is happening and lets you know how to access everything on your network.</p>
 <p>Assets should be documented too. Every significant device needs to be on a list somewhere to keep track of what you have. This will let you see if everything has the same patches and operating system.</p>
@@ -237,20 +237,20 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/aindien/powershell-for-beginners.html"/>
-        <id>https://jahlelin.github.io/aindien/powershell-for-beginners.html</id>
+        <link href="http://aindien.com/powershell-for-beginners.html"/>
+        <id>http://aindien.com/powershell-for-beginners.html</id>
 
         <updated>2019-11-28T14:00:37-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-0.png" alt="" />
+                        <img src="http://aindien.com/media/posts/27/Powershell-For-Beginners-0.png" alt="" />
                     <p>My Powershell for beginners guide will teach you the fundamentals of this tool in a Windows environment. It has been around a long time and has been through several versions already. Many information technology people have waited to become familiar with this tool. They did so because many were not sure it would continue to be supported in the future. Well we now know that not only has it continued to be supported but it is the preferred way by many to administer a Windows environment. So continue with me and we will discuss the basics so that you can go on and make this a long learning endeavor.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-0.png" alt="" />
+                    <img src="http://aindien.com/media/posts/27/Powershell-For-Beginners-0.png" alt="" />
                 <p>My Powershell for beginners guide will teach you the fundamentals of this tool in a Windows environment. It has been around a long time and has been through several versions already. Many information technology people have waited to become familiar with this tool. They did so because many were not sure it would continue to be supported in the future. Well we now know that not only has it continued to be supported but it is the preferred way by many to administer a Windows environment. So continue with me and we will discuss the basics so that you can go on and make this a long learning endeavor.</p>
 
 <h2 style="text-align: center;"><strong>Powershell For Beginners</strong></h2>
@@ -258,14 +258,14 @@
 <p>If you work in <a href="http://aindien.com/how-to-make-the-jump-to-system-administrator/">information technology</a> then you need to start learning this as soon as possible. There is much you can do with it and there will be even more you can do with it in the future. It will help you earn more money in your career too. Who can really argue with that?</p>
 <h2 style="text-align: center;"><strong>Using The Help System</strong></h2>
 <p>So you have convinced yourself to start learning Powershell for beginners. Now what? The single best piece piece of advice I can give is to learn the help system. Let me give you a short example. I was asked the other day to do something. I had no idea at the time how to do it. So I went to my desk and opened up the console and started the help system. From a console it is [get-help] and looks like this.</p>
-<p><img class="aligncenter wp-image-833 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/powershell-for-beginners-1.png" alt="powershell for beginners 1" width="1090" height="182" /></p>
+<p><img class="aligncenter wp-image-833 size-full" src="http://aindien.com/media/posts/27/powershell-for-beginners-1.png" alt="powershell for beginners 1" width="1090" height="182" /></p>
 <p>I had a slight idea of what command I would need and looked at the help options for it. I was actually wrong the first time so then tried another option which would work eventually. The important thing to learn here is that using the help system allows you to see the options and arguments with helpful descriptions to see if a command might work for you.</p>
-<p><img class="aligncenter wp-image-834 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-for-Beginners-2.png" alt="Powershell for Beginners 2" width="1086" height="255" /></p>
+<p><img class="aligncenter wp-image-834 size-full" src="http://aindien.com/media/posts/27/Powershell-for-Beginners-2.png" alt="Powershell for Beginners 2" width="1086" height="255" /></p>
 <p>I wanted to import a third party module and the help showed me how to do it.</p>
 <p>To start lets make sure you have the current version of help so you have all of its benefits. Type the command in yellow at your prompt.</p>
-<p><img class="aligncenter wp-image-835 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-3.png" alt="Powershell For Beginners 3" width="1087" height="179" /></p>
+<p><img class="aligncenter wp-image-835 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-3.png" alt="Powershell For Beginners 3" width="1087" height="179" /></p>
 <p>The help system will even give examples. This is especially handy like when your totally unfamiliar with a command. Below is an example.</p>
-<p><img class="aligncenter wp-image-836 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-4.png" alt="Powershell For Beginners 4" width="1077" height="357" /></p>
+<p><img class="aligncenter wp-image-836 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-4.png" alt="Powershell For Beginners 4" width="1077" height="357" /></p>
 <p>As you can see it shows two different examples of how to use this command. There were actually lots of examples but the following ones get more and more niche.</p>
 <h2 style="text-align: center;"><strong>Powershell Terminology</strong></h2>
 <p>There are several terms you should know in this Powershell for beginners guide. They are not difficult at all but will help so you know what the help system is trying to tell you.</p>
@@ -280,66 +280,66 @@
 <p>A Cmdlet is the command you will be typing. It has a nice naming convention that will be of the verb-noun format. The verb parts are actions that do something. Example of verbs are import, set, get, and stop. The noun parts are what the verbs act upon. This could be module, process, help, or service.</p>
 <p>Parameters customize what a Cmdlet will do. You will see the parameters of a Cmdlet when using the help for it. To use a parameter you will use a dash, a space, the parameter name, another space, and a value.</p>
 <p>An Alias is another form of a Cmdlet that you use a lot. It is a shortcut basically. You can make an Alias by the below syntax.</p>
-<p><img class="wp-image-837 size-large" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-5-1024x527.png" alt="Powershell For Beginners 5" width="1024" height="527" /> Powershell For Beginners</p>
+<p><img class="wp-image-837 size-large" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-5-1024x527.png" alt="Powershell For Beginners 5" width="1024" height="527" /> Powershell For Beginners</p>
 <p>You can see from the above command that I made a shortcut to calc.exe and named it just c. So then when I typed c at the prompt my calculator opened. You can do this for any Cmdlet to save you time so make use of it when the need arises.</p>
 <p>A Function is a piece of code that is re-usable. If you have any programming experience at all then you are already familiar with this terminology.</p>
 <p>Variables are just the same as they are in <a href="http://aindien.com/how-to-read-data-from-a-file-with-c/">programming languages</a>. They hold values. It is like an empty box until it has a value.</p>
 <p>Modules are a series of commands that are related to other products usually.</p>
 <h2 style="text-align: center;"><strong>Piping Commands</strong></h2>
 <p>Powershell, just like other tools, can send the output of one command into another command. This is called piping. In the syntax you do it with a vertical bar just like with Unix. Look at the following example. I have a simple text file on my desktop with some content inside. I am going to run two different commands which are [Get-Content] and [Measure-Object]. However, I am going to do it in one line and pipe the output of [Get-Content] into the [Measure-Object] command so that it can do its magic.</p>
-<p><img class="aligncenter wp-image-838 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-6.png" alt="Powershell For Beginners 6" width="1093" height="125" /></p>
+<p><img class="aligncenter wp-image-838 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-6.png" alt="Powershell For Beginners 6" width="1093" height="125" /></p>
 <p>I used the [Get-Content] Cmdlet or command followed by the path to my text file that I wanted to analyze with [Measure-Object]. I then used a vertical bar to pipe its output into [Measure-Object]. You should also notice that I used the parameters character, line, and word for [Measure-Object]. So pretty interesting for sure. This is just one example of piping Powershell for beginners.</p>
 <h2 style="text-align: center;"><strong>Running Scripts</strong></h2>
 <p>What is scripting? Scripting is the automation of tasks. You usually perform a task every time you type out a full working command in Powershell. To get scripting working you will need to set things up first.</p>
 <p>By default Powershell is set to only run signed scripts. So to run your own scripts you will need to change this behavior. Run the following command below.</p>
-<p><img class="aligncenter wp-image-840 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-7.png" alt="Powershell For Beginners 7" width="1083" height="129" /></p>
+<p><img class="aligncenter wp-image-840 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-7.png" alt="Powershell For Beginners 7" width="1083" height="129" /></p>
 <p>You will need to run this as an administrator. There are several other execution policies available but this is the one I recommend. You should not use the -unrestricted policy. It is too insecure.</p>
 <h2 style="text-align: center;"><strong>Commenting Code</strong></h2>
 <p>You should always comment whatever code or commands you type so that you or others will know exactly what is meant. Systems can break with the wrong commands so comment so that everyone knows exactly what is happening or will happen. To comment you add a # on the line of code that you do not want to execute.</p>
-<p><img class="aligncenter wp-image-841 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-8.png" alt="Powershell For Beginners 8" width="1068" height="101" /></p>
+<p><img class="aligncenter wp-image-841 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-8.png" alt="Powershell For Beginners 8" width="1068" height="101" /></p>
 <p>That's easy enough. Lets move on then.</p>
 <h2 style="text-align: center;"><strong>Variables</strong></h2>
 <p>As mentioned above somewhere, a variable is an empty container. It is waiting to hold a value so that it can be used. The data type of a variable can be a string, integer, decimal, or an array. Variables start with the $ symbol. Here is a basic example.</p>
-<p><img class="aligncenter wp-image-842 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-9.png" alt="Powershell For Beginners 9" width="1064" height="118" /></p>
+<p><img class="aligncenter wp-image-842 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-9.png" alt="Powershell For Beginners 9" width="1064" height="118" /></p>
 <p>Yes this is very simple but it shows how the variables work. You can do this from the console , like I just did, or  within a script. It works the same way. You could even pipe that into a text file and email it to your boss so he would know how much money to allocate for new equipment. The [Write] command just writes the output to the screen so you all could see the results.</p>
 <p>This is a string variable and I include it because it is done slightly different than a numerical variable. See below.</p>
-<p><img class="wp-image-843 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-10.png" alt="Powershell For Beginners 10" width="1070" height="165" /> Powershell For Beginners</p>
+<p><img class="wp-image-843 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-10.png" alt="Powershell For Beginners 10" width="1070" height="165" /> Powershell For Beginners</p>
 <p>Now we are ready to use that variable any time we want.</p>
 <p>If you are working in the console and you want to remove a variable then there are ways to do that.</p>
-<p><img class="aligncenter wp-image-846 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-12.png" alt="Powershell For Beginners 12" width="1072" height="200" /></p>
+<p><img class="aligncenter wp-image-846 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-12.png" alt="Powershell For Beginners 12" width="1072" height="200" /></p>
 <p>You can see that when I sent the <a href="http://aindien.com/beginning-c-input-output-basics/">output</a> to the screen at first the variable $Switches had a value of 2. After I removed the variable there was nothing to write to the screen.</p>
 <h2 style="text-align: center;"><strong>Arrays</strong></h2>
 <p>An Array is a container, like a variable, that holds a definable number of values that are of a single type. Every value inside an Array is called an element. They are indexed starting at 0. An Array can hold numerical or string values. Look to my example below to see how to do it.</p>
-<p><img class="aligncenter wp-image-845 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-11-1.png" alt="Powershell For Beginners 11" width="1066" height="201" /></p>
+<p><img class="aligncenter wp-image-845 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-11-1.png" alt="Powershell For Beginners 11" width="1066" height="201" /></p>
 <p>That should be easy enough to follow. I made two different arrays with data on the types of phones I have and the respective quantities.</p>
 <h2 style="text-align: center;"><strong>Sorting And Filtering</strong></h2>
 <p>Sorting and filtering the data that you have will be very important in Powershell for beginners. For example, you may want to do a certain action on only a select few items. You could run a command to find the few that you are looking for and do some action to them. Now you may be thinking this is not a big deal if you have 10 total items in your list and you would be right then. If, however, you have 15,000 items in your list or spreadsheet then you will appreciate being able to do this in five minutes instead of weeks. I will look again at my phone type array and look for anything that starts with "p".</p>
-<p><img class="aligncenter wp-image-847 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-13.png" alt="Powershell For Beginners 13" width="1073" height="199" /></p>
+<p><img class="aligncenter wp-image-847 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-13.png" alt="Powershell For Beginners 13" width="1073" height="199" /></p>
 <p>Ok that is helpful. My phone list does not have too many in it but if it did this would take the same amount of time.</p>
 <p>Lets sort my list of phone brands now. That is easily done and will be quite helpful at some point.</p>
-<p><img class="wp-image-848 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-14.png" alt="Powershell For Beginners 14" width="1071" height="201" /> Powershell For Beginners</p>
+<p><img class="wp-image-848 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-14.png" alt="Powershell For Beginners 14" width="1071" height="201" /> Powershell For Beginners</p>
 <p>That is quick and very useful. As you can see I once again piped the output of my array into the sort command. If you want it to sort in descending order then just add the -descending parameter to sort-object.</p>
 <p>You can also sort by length. I am sure this would be useful to someone.</p>
-<p><img class="aligncenter wp-image-849 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-15.png" alt="Powershell For Beginners 15" width="1071" height="198" /></p>
+<p><img class="aligncenter wp-image-849 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-15.png" alt="Powershell For Beginners 15" width="1071" height="198" /></p>
 <p>There we go. It is pretty cool to be able to manipulate data like this. My phone brands are sorted by the length of their name.</p>
 <h2 style="text-align: center;"><strong>Incorporating Logic</strong></h2>
 <p>Conditional logic and <a href="http://aindien.com/beginning-c-making-decisions/">decisions</a> can be very important in Powershell for beginners to run scripts correctly. You might have certain conditions you need to be met before you want certain things to run. It could be your whole script or just portions. There are many ways to do this but the most basic is through [if] and [if-else] loops. Here is a short [if] statement.</p>
-<p><img class="aligncenter wp-image-851 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-16.png" alt="Powershell For Beginners 16" width="1156" height="201" /></p>
+<p><img class="aligncenter wp-image-851 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-16.png" alt="Powershell For Beginners 16" width="1156" height="201" /></p>
 <p>You can see I made a variable and called it [$magnets]. The next line is a statement where I test a basic condition. Since the condition passes (magnets = 5), the next part writes "You have enough magnets" to the screen.</p>
 <p>Now that is okay but we can do better. Another version of an [if] loop is an [if-else] loop. This will let us deal with the problem if the condition is not met.</p>
-<p><img class="wp-image-852 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-17.png" alt="Powershell For Beginners 17" width="1147" height="200" /> Powershell For Beginners</p>
+<p><img class="wp-image-852 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-17.png" alt="Powershell For Beginners 17" width="1147" height="200" /> Powershell For Beginners</p>
 <p>At first you can see that I had [$magnets] equal to 7 and when I ran the condition loop it passed and my success message appeared on the screen. Then, however, I went back and changed my variable [$magnets] to equal 4 and ran my conditional loop again. Of course it failed and told me to go back and get more magnets. While this is basic it does show you some of the capabilities of basic programming that Powershell is capable of.</p>
 <h2 style="text-align: center;"><strong>Looping</strong></h2>
 <p>Looping your <a href="http://aindien.com/essential-linux-commands-to-get-you-started/">commands</a> and part of your scripts is the next topic I want to talk about in this Powershell for beginners guide. If you have been exposed to any programming before then you knew I was going to get here eventually. So what is a loop? Loops are commands or tasks that are repeated until they reach a condition that tells them to stop. So lets do some looping shall we?</p>
-<p><img class="aligncenter wp-image-854 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-18.png" alt="Powershell For Beginners 18" width="1149" height="200" /></p>
+<p><img class="aligncenter wp-image-854 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-18.png" alt="Powershell For Beginners 18" width="1149" height="200" /></p>
 <p>Alright I admit it, I enjoy playing the Pokemon card game. My son and I play together now after he introduced me to it. These are some of my favorites that I play with and I needed something to put into an array.</p>
 <p>We can also do a [for] loop. These are handy when you want to work on certain elements of an array or just run a loop a certain number of times. Here is an example where 0-13 are output to the screen.</p>
-<p><img class="wp-image-855 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-19.png" alt="Powershell For Beginners 19" width="1152" height="224" /> Powershell For Beginners</p>
+<p><img class="wp-image-855 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-19.png" alt="Powershell For Beginners 19" width="1152" height="224" /> Powershell For Beginners</p>
 <p>The [for] loop looks a bit crazy I know if you have not seen them before but they work like a charm. The first part after [for] initializes the $i variable to 0. In the middle section the ending value of the $i variable is given. The last part increments $i step by step. The rest of the line outputs the value of the $i variable one value and step at a time.</p>
 <p>Another type of loop is the [while] loop. It can do a lot too. It just depends on what you need of course. Here is an example of counting down while the variable $n does not equal 0.</p>
-<p><img class="aligncenter wp-image-856 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-20.png" alt="Powershell For Beginners 20" width="839" height="520" /></p>
+<p><img class="aligncenter wp-image-856 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-20.png" alt="Powershell For Beginners 20" width="839" height="520" /></p>
 <p>The last major type of loop is a [Do] loop. This is a handy loop when you need to run through your commands at least once. It allows you to loop while the condition is true or false.  So here is a small [Do] loop where I start my variable $n at 0, then increment for each time the loop runs, prints the value of the variable $n at each loop iteration, until finally the value of the variable $n reaches 10 and the loop exits.</p>
-<p><img class="wp-image-858 size-full" src="https://jahlelin.github.io/aindien/media/posts/27/Powershell-For-Beginners-21.png" alt="Powershell For Beginners 21" width="837" height="221" /> Powershell For Beginners</p>
+<p><img class="wp-image-858 size-full" src="http://aindien.com/media/posts/27/Powershell-For-Beginners-21.png" alt="Powershell For Beginners 21" width="837" height="221" /> Powershell For Beginners</p>
 <p>&nbsp;</p>
 <h2 style="text-align: center;"><strong>Conclusion</strong></h2>
 <p>This <a href="https://powershell.org/articles/">Powershell</a> for beginners guide is really a small sampling of the basics. There is still a lot to cover and I hope you will go through all of these examples with me. Hopefully once you do that you will be able to come up with your own testing and experiments. That is truly the fun of scripting and programming. Create your own scripts that do something you need to automate. It will be very fun for you and make you more efficient at whatever tasks you need to complete.</p>
@@ -352,20 +352,20 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/aindien/aindiens-hints-on-using-onenote.html"/>
-        <id>https://jahlelin.github.io/aindien/aindiens-hints-on-using-onenote.html</id>
+        <link href="http://aindien.com/aindiens-hints-on-using-onenote.html"/>
+        <id>http://aindien.com/aindiens-hints-on-using-onenote.html</id>
 
         <updated>2019-11-28T14:00:37-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/aindien/media/posts/23/hints-on-using-onenote0-1.png" alt="" />
+                        <img src="http://aindien.com/media/posts/23/hints-on-using-onenote0-1.png" alt="" />
                     <p>In this article I am going to give you some hints on using OneNote from Microsoft Office. OneNote is a great program to keep detailed records, a journal, documentation, or even a simple checklist. It has a lot of uses for a lot of people. Since you can customize the workflow in it almost anyone can make use of it.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/aindien/media/posts/23/hints-on-using-onenote0-1.png" alt="" />
+                    <img src="http://aindien.com/media/posts/23/hints-on-using-onenote0-1.png" alt="" />
                 <p>In this article I am going to give you some hints on using OneNote from Microsoft Office. OneNote is a great program to keep detailed records, a journal, documentation, or even a simple checklist. It has a lot of uses for a lot of people. Since you can customize the workflow in it almost anyone can make use of it.</p>
 
 <h2 style="text-align: center;"><strong>Hints On Using OneNote</strong></h2>
@@ -379,7 +379,7 @@
 <li>Under Notebook Name: name it for the project you want it to represent</li>
 <li>Then right below that click on the [Create Notebook] button</li>
 </ul>
-<p><img class="aligncenter wp-image-812 size-full" src="https://jahlelin.github.io/aindien/media/posts/23/hints-on-using-OneNote1.png" alt="hints on using OneNote1" width="735" height="262" /></p>
+<p><img class="aligncenter wp-image-812 size-full" src="http://aindien.com/media/posts/23/hints-on-using-OneNote1.png" alt="hints on using OneNote1" width="735" height="262" /></p>
 <p>Make sure and save your notebook to the OneDrive account that came with Microsoft Office. This will allow you to access it anywhere.</p>
 <p>I have tabs for Powershell, Bash commands, checklists for hard things to remember, lists of ideas for various things, and projects I want to work on. I have many others as well but I won't bore you with everything. The point is that I document things I need to remember or would be helpful to be able to refer to.</p>
 <h2 style="text-align: center;"><strong>Organizing Your Thoughts</strong></h2>
@@ -408,13 +408,13 @@
 <li>Click the small arrow next to [Font Color].</li>
 <li>A huge selection of colors will be shown, just click one of the colors.</li>
 </ul>
-<p><img class="aligncenter wp-image-813 size-full" src="https://jahlelin.github.io/aindien/media/posts/23/hints-on-using-onenote2.png" alt="hints on using onenote2" width="614" height="376" /></p>
+<p><img class="aligncenter wp-image-813 size-full" src="http://aindien.com/media/posts/23/hints-on-using-onenote2.png" alt="hints on using onenote2" width="614" height="376" /></p>
 <p>Another color tip I just thought of is to color your section tabs and screen color. You can do this by right-clicking on a section tab and choose the color option at the bottom. This is a nice way to organize your pages and sections by type. It makes them just look nicer as well.</p>
 <h2 style="text-align: center;"><strong>Using Tags</strong></h2>
 <p>A lot of people use tags in other programs so this is one of the more familiar hints on using OneNote. This is a good way to cross reference your individual sections and notes together. For example I script a lot using Powershell and I have a section just for it. I have added tags to certain types of scripts that I have in there and I can search just for those types of scripts using that tag.</p>
 <p>Another example is that I have a section for customer I do work for. I use a tag for each customer. I just use their name. So now when they call me I can just search their name in the tags and see their history of work I have done for them.</p>
 <p>To use tags just click [Home] on the menu. There is a large [Tag] section at the top middle of menu. Just to the right of the [Heading] box is the [Tags] box. You will see a list of tags that Microsoft thinks is important. There are small arrows for up and down at the right edge of the box. Click those to scroll through their list of tags. To create your own tags go to bottom of list and select customize to make your own.</p>
-<p><img class="aligncenter wp-image-825 size-full" src="https://jahlelin.github.io/aindien/media/posts/23/hints-on-using-onenote3.png" alt="hints on using onenote3" width="329" height="153" /></p>
+<p><img class="aligncenter wp-image-825 size-full" src="http://aindien.com/media/posts/23/hints-on-using-onenote3.png" alt="hints on using onenote3" width="329" height="153" /></p>
 <p>Microsoft has included so many tags in their list that sometimes they are hard to keep up with. A solution to this is that you can make your own tags. You do this by choosing the [Customize Tags] selection. Just call the tag what you want and hit ok. They should now appear at the top of the tag list for you.</p>
 <p>You can also delete any tags that you want. When looking at your list you can select one and see a big [x] on the right. Hit the [x] to delete that tag. Do this if you don't like the tags by Microsoft or no longer need one that you created.</p>
 <h2 style="text-align: center;"><strong>Searching For Content</strong></h2>
@@ -426,18 +426,18 @@
 <li>All notebooks</li>
 <li>Set this scope as default</li>
 </ul>
-<p><img class="aligncenter size-full wp-image-827" src="https://jahlelin.github.io/aindien/media/posts/23/hints-on-using-onenote4.png" alt="hints on using onenote4" width="248" height="203" /></p>
+<p><img class="aligncenter size-full wp-image-827" src="http://aindien.com/media/posts/23/hints-on-using-onenote4.png" alt="hints on using onenote4" width="248" height="203" /></p>
 <p>When you hit the arrow select one of those first four options then hit it again and select [Set this scope as default]. That will make it easier on you to find things.</p>
 <h2 style="text-align: center;"><strong>Inserting Content</strong></h2>
 <p>Getting content into OneNote is your goal here and this app makes it easy. I have already talked about typing notes but there is so much more. Under the [Insert] menu option there are a lot of ways to add content. The [Screen Clipping] option is one of the more commonly used. It will grab a screen capture and save it right into your notebook section that your on. This is a good way to keep track of things to visit later like a recipe page or that cool website that has a OneNote guide on it!</p>
-<p><img class="aligncenter wp-image-828 size-full" src="https://jahlelin.github.io/aindien/media/posts/23/hints-on-using-onenote5.png" alt="hints on using onenote5" width="381" height="554" /></p>
+<p><img class="aligncenter wp-image-828 size-full" src="http://aindien.com/media/posts/23/hints-on-using-onenote5.png" alt="hints on using onenote5" width="381" height="554" /></p>
 <p>Other good options to use are adding pictures, video, and audio recordings. These are pretty self explanatory. You just click the [Pictures] button, for instance, and select the picture you want to add and it is now there in your page. The other options work the same way. There is no right or wrong way, just do whatever makes sense to you. OneNote can adapt to about anything.</p>
 <p>One of the things I do a lot is add the date or time to a lot of my notes. This is in the same section just down the tab some on the right.</p>
 <h2 style="text-align: center;"><strong>Adding Files To Sections</strong></h2>
 <p>I mentioned before this is one of my favorite hints on using OneNote. I do this regularly. When I find things I like I will drag it into a section to look at later. I can then modify it, delete it, or even add to it. It just depends on what I think of it after I read it. I put PDF's in it mostly but occasionally a spreadsheet as well. This can be very handy if you ever need it. You can even modify them right from there.</p>
 <h2 style="text-align: center;"><strong>Emailing Sections</strong></h2>
 <p>Since this is a Microsoft product it works seamlessly with their other products. A good feature that I like a lot is where you can just email a section to someone else. One of the things I do is keep documentation for difficult installs that take lots of steps. One such installs takes 67 steps to get right. For something like that I definitely want to keep track of the individual steps so I can follow a list when I need to do this.</p>
-<p><img class="aligncenter wp-image-829 size-full" src="https://jahlelin.github.io/aindien/media/posts/23/hints-on-using-onenote6.png" alt="hints on using onenote6" width="722" height="350" /></p>
+<p><img class="aligncenter wp-image-829 size-full" src="http://aindien.com/media/posts/23/hints-on-using-onenote6.png" alt="hints on using onenote6" width="722" height="350" /></p>
 <p>Someone else was having trouble getting this installed right because he did not keep a list. So I just went to my [Home] button and on the far right there is a large button that says [Email Page]. You just click this and your email program pops up. Add the email address that you want to send it to and they now have it exactly the way you see it. They can even edit it if they need to so they have their own personal notes on it. This is another of my hints on using OneNote that is easy to do and makes efficient use of your time.</p>
 <h2 style="text-align: center;"><strong>Linking Sections</strong></h2>
 <p>Another one of my hints on using OneNote is linking sections that are related. For example, I have two different sections and they are called Powershell and Windows Commands. A lot of those are usable regardless of which tool you use. Some, however, are not though. I put a link at the bottom of each of those sections that goes to the other section. If I don't find the command and its syntax I am looking for in one section then I can click link at the bottom to take me to the other section. This is faster than looking for the tab. If you do this a lot it just makes sense to link related sections.</p>
@@ -459,20 +459,20 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/aindien/aindiens-guide-to-digital-analytics-principles.html"/>
-        <id>https://jahlelin.github.io/aindien/aindiens-guide-to-digital-analytics-principles.html</id>
+        <link href="http://aindien.com/aindiens-guide-to-digital-analytics-principles.html"/>
+        <id>http://aindien.com/aindiens-guide-to-digital-analytics-principles.html</id>
 
         <updated>2019-11-28T14:00:37-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/aindien/media/posts/25/digital-analytics-principles0.jpeg" alt="" />
+                        <img src="http://aindien.com/media/posts/25/digital-analytics-principles0.jpeg" alt="" />
                     <p>Digital analytics principles is all the rage these days. It is easy to understand why. When you have a website you need to know exactly what your visitors are doing. You need to know where they are going and what buttons they are clicking on.This is where Analytics comes in. It is an extremely useful tool but you need to know how to use it. In this article I talk about terms, how to get started, and using it to your website's advantage.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/aindien/media/posts/25/digital-analytics-principles0.jpeg" alt="" />
+                    <img src="http://aindien.com/media/posts/25/digital-analytics-principles0.jpeg" alt="" />
                 <p>Digital analytics principles is all the rage these days. It is easy to understand why. When you have a website you need to know exactly what your visitors are doing. You need to know where they are going and what buttons they are clicking on.This is where Analytics comes in. It is an extremely useful tool but you need to know how to use it. In this article I talk about terms, how to get started, and using it to your website's advantage.</p>
 
 <h2 style="text-align: center;"><strong>Digital Analytics Principles</strong></h2>
@@ -566,20 +566,20 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/aindien/getting-started-with-windows-10-accounts.html"/>
-        <id>https://jahlelin.github.io/aindien/getting-started-with-windows-10-accounts.html</id>
+        <link href="http://aindien.com/getting-started-with-windows-10-accounts.html"/>
+        <id>http://aindien.com/getting-started-with-windows-10-accounts.html</id>
 
         <updated>2019-11-28T14:00:37-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/aindien/media/posts/26/IMG_20180417_082431-1.jpg" alt="" />
+                        <img src="http://aindien.com/media/posts/26/IMG_20180417_082431-1.jpg" alt="" />
                     <p>Getting started with Windows 10 accounts is easy. There is a lot to Microsoft's new operating system and it changes constantly. It has been out a while now but it seems that the major changes are over for a while. So now is a good time to talk about user accounts.  In this article I will go over the things you need to have a great experience with it.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/aindien/media/posts/26/IMG_20180417_082431-1.jpg" alt="" />
+                    <img src="http://aindien.com/media/posts/26/IMG_20180417_082431-1.jpg" alt="" />
                 <p>Getting started with Windows 10 accounts is easy. There is a lot to Microsoft's new operating system and it changes constantly. It has been out a while now but it seems that the major changes are over for a while. So now is a good time to talk about user accounts.  In this article I will go over the things you need to have a great experience with it.</p>
 
 <h2 style="text-align: center;"><strong>Getting Started With Windows 10 Accounts</strong></h2>
@@ -676,13 +676,13 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/aindien/aindiens-guide-to-network-communications.html"/>
-        <id>https://jahlelin.github.io/aindien/aindiens-guide-to-network-communications.html</id>
+        <link href="http://aindien.com/aindiens-guide-to-network-communications.html"/>
+        <id>http://aindien.com/aindiens-guide-to-network-communications.html</id>
 
         <updated>2019-11-28T14:00:37-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/aindien/media/posts/24/network_communications.png" alt="" />
+                        <img src="http://aindien.com/media/posts/24/network_communications.png" alt="" />
                     <p>&nbsp;</p>
 <p>A computer network can handle a lot of different roles these days. Essentially it pushes data around to devices and controls what happens. Some of the more interesting uses for a network now is VOIP communications and video conferencing. In this guide to network communications I go over some of those details.</p>
 <p>&nbsp;</p>
@@ -691,7 +691,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/aindien/media/posts/24/network_communications.png" alt="" />
+                    <img src="http://aindien.com/media/posts/24/network_communications.png" alt="" />
                 <p>&nbsp;</p>
 <p>A computer network can handle a lot of different roles these days. Essentially it pushes data around to devices and controls what happens. Some of the more interesting uses for a network now is VOIP communications and video conferencing. In this guide to network communications I go over some of those details.</p>
 <p>&nbsp;</p>
@@ -705,7 +705,7 @@
 <li><span style="color: #339966;">Collaboration software.</span></li>
 <li><span style="color: #339966;">Quality of Service.</span></li>
 </ul>
-<p><img class="aligncenter wp-image-697 size-large" src="https://jahlelin.github.io/aindien/media/posts/24/network_communications3-1024x410.png" alt="network_communications" width="1024" height="410" /></p>
+<p><img class="aligncenter wp-image-697 size-large" src="http://aindien.com/media/posts/24/network_communications3-1024x410.png" alt="network_communications" width="1024" height="410" /></p>
 <h3 style="text-align: center;"><strong>Voice over IP</strong></h3>
 <p>Voice over IP is used in many if not most business environments today. You can get a lot of cool features with these types of phones and save a ton of money over traditional phone services. Another reason this has become so popular is because it uses the same Ethernet cabling as the rest of our network.</p>
 <h3 style="text-align: center;"><strong>Video Broadcasts</strong></h3>
@@ -776,7 +776,7 @@
 </ul>
 <h3 style="text-align: center;"><strong>Infrastructure as a Service</strong></h3>
 <p>Infrastructure as a Service is talking about your physical devices. It is the lowest <a href="http://aindien.com/how-the-osi-model-works/">level</a> of the network communications. This can be routers, switches, computers, printers, storage devices, power units, racks, locks on doors, and cooling. You can see there is a lot to it. All of this is essential though.</p>
-<p><img class="aligncenter wp-image-695 size-large" src="https://jahlelin.github.io/aindien/media/posts/24/network_communications1-1024x455.png" alt="network communications" width="1024" height="455" /></p>
+<p><img class="aligncenter wp-image-695 size-large" src="http://aindien.com/media/posts/24/network_communications1-1024x455.png" alt="network communications" width="1024" height="455" /></p>
 <ul>
 <li><span style="color: #339966;">This infrastructure can replace aging units in your office.</span></li>
 <li><span style="color: #339966;">You can have a separate site that is a backup in case your main office goes down.</span></li>
@@ -816,7 +816,7 @@
 <li><span style="color: #339966;">Hybrid cloud computing.</span></li>
 <li><span style="color: #339966;">Community cloud computing.</span></li>
 </ul>
-<p><img class="aligncenter wp-image-696 size-full" src="https://jahlelin.github.io/aindien/media/posts/24/network_communications2.png" alt="network communications" width="1013" height="714" /></p>
+<p><img class="aligncenter wp-image-696 size-full" src="http://aindien.com/media/posts/24/network_communications2.png" alt="network communications" width="1013" height="714" /></p>
 <h3 style="text-align: center;"><strong>Public Cloud Computing</strong></h3>
 <p>This will be hosted off site. It is owned by a third party company that sells cloud services to the public in a multi tenant fashion. This means they will have many customers for their services.</p>
 <ul>
@@ -874,8 +874,8 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/aindien/aindiens-elementary-guide-to-evernote.html"/>
-        <id>https://jahlelin.github.io/aindien/aindiens-elementary-guide-to-evernote.html</id>
+        <link href="http://aindien.com/aindiens-elementary-guide-to-evernote.html"/>
+        <id>http://aindien.com/aindiens-elementary-guide-to-evernote.html</id>
 
         <updated>2019-11-28T14:00:37-06:00</updated>
             <summary></summary>
@@ -886,20 +886,20 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/aindien/how-to-use-raid-on-your-computer.html"/>
-        <id>https://jahlelin.github.io/aindien/how-to-use-raid-on-your-computer.html</id>
+        <link href="http://aindien.com/how-to-use-raid-on-your-computer.html"/>
+        <id>http://aindien.com/how-to-use-raid-on-your-computer.html</id>
 
         <updated>2019-11-28T14:00:37-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/aindien/media/posts/22/how-to-use-raid-in-your-computer-0.png" alt="" />
+                        <img src="http://aindien.com/media/posts/22/how-to-use-raid-in-your-computer-0.png" alt="" />
                     <p>How to use Raid on your computer is a guide explaining what Raid is and how you should approach it. I talk about how to get started with it and descriptions of the various types. It can be a tough decision as to whether you should use as hardware controller or software but I talk about this as well.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/aindien/media/posts/22/how-to-use-raid-in-your-computer-0.png" alt="" />
+                    <img src="http://aindien.com/media/posts/22/how-to-use-raid-in-your-computer-0.png" alt="" />
                 <p>How to use Raid on your computer is a guide explaining what Raid is and how you should approach it. I talk about how to get started with it and descriptions of the various types. It can be a tough decision as to whether you should use as hardware controller or software but I talk about this as well.</p>
 
 <p>&nbsp;</p>
