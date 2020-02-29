@@ -1,4 +1,0 @@
-void HelloWorld ()
-{
-cout << "Hello World\n"
-}

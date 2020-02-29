@@ -3,7 +3,7 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2020-02-29T09:35:25-06:00</updated>
+    <updated>2020-02-29T10:16:36-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://aindien.com/using-functions-in-c.html"/>
         <id>https://aindien.com/using-functions-in-c.html</id>
 
-        <updated>2020-02-29T09:35:18-06:00</updated>
+        <updated>2020-02-29T10:16:29-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/31/Using-Functions-in-C.png" alt="Using Functions in C++" />
@@ -36,6 +36,9 @@
 <div></div>
 <h2 id="mcetoc_1e28lqmck0"><strong>Definition of a Function</strong></h2>
 <div>When you write a function you can save it use it in another part of your code. This is called "calling your function". There are methods designed to do this that are built into C++ and most other languages. A function is made of a name, parameters, body, and return type.</div>
+<div>
+<script src="https://gist.github.com/jahlelin/52597a10f322db0815c2f5f2186232b8.js"></script>
+</div>
 <div> </div>
 <div>The name should make sense and describe what the purpose of this function is.</div>
 <div>Parameters will usually be a variable that the function use.</div>
@@ -44,10 +47,14 @@
 <div> </div>
 <h2 id="mcetoc_1e28lr2bt1"><strong>Calling Your Function</strong></h2>
 <div>After you write a function that does some task, you have to call it when you want to use it.</div>
+<div>
+<script src="https://gist.github.com/jahlelin/c77699e2c9fc7270f7cf24474699f057.js"></script>
+</div>
 <div> </div>
-<div>I created the function HelloWorld() and then called it from the main() function. now you can see at the top of the program is the function definition of HelloWorld(). That is where I described what it is and how it is to be used.</div>
+<div>I created the function HelloWorld() and then called it from the main() function. Now you can see at the top of the program is the function definition of HelloWorld(). That is where I described what it is and how it is to be used.</div>
 <div> </div>
 <div>You can also loop a function. So we start by defining a loop and then include the function to be called.</div>
+<div> </div>
 <div> </div>
 <h2 id="mcetoc_1e28lrbt12"><strong>Function Prototypes</strong></h2>
 <div>When using function the compiler has to know about it before any calls to one of these functions. First, we did this by typing in the whole function definition at the top of the program. However, you can also use a prototype and finish the rest later in the program. The main difference in the header is that a protype will use a [;] after the header. That means its a prototype.</div>
