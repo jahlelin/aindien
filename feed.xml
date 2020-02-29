@@ -3,7 +3,7 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2020-02-29T08:36:23-06:00</updated>
+    <updated>2020-02-29T08:52:26-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -17,9 +17,10 @@
         <link href="https://aindien.com/using-functions-in-c.html"/>
         <id>https://aindien.com/using-functions-in-c.html</id>
 
-        <updated>2020-02-29T08:36:07-06:00</updated>
+        <updated>2020-02-29T08:52:21-06:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://aindien.com/media/posts/31/Using-Functions-in-C.png" alt="Using Functions in C++" />
                     <div>This article is about using functions in C++. Functions reuse code to help solve problems. It is described as doing a small part that can be used elsewhere in your program. Today I want to show you how to do that.</div>
 <div> </div>
 <div> </div>
@@ -28,6 +29,7 @@
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://aindien.com/media/posts/31/Using-Functions-in-C.png" alt="Using Functions in C++" />
                 <div>This article is about using functions in C++. Functions reuse code to help solve problems. It is described as doing a small part that can be used elsewhere in your program. Today I want to show you how to do that.</div>
 <div> </div>
 <div> </div>
@@ -41,7 +43,7 @@
 <div>The return type is referring to the data type of the value that the function created.</div>
 <div> </div>
 <h2 id="mcetoc_1e28lr2bt1"><strong>Calling Your Function</strong></h2>
-<div>After you write a function that does some task, you have to call it when you want to use it. </div>
+<div>After you write a function that does some task, you have to call it when you want to use it.</div>
 <div> </div>
 <div>I created the function HelloWorld() and then called it from the main() function. now you can see at the top of the program is the function definition of HelloWorld(). That is where I described what it is and how it is to be used.</div>
 <div> </div>
@@ -51,20 +53,20 @@
 <div>When using function the compiler has to know about it before any calls to one of these functions. First, we did this by typing in the whole function definition at the top of the program. However, you can also use a prototype and finish the rest later in the program. The main difference in the header is that a protype will use a [;] after the header. That means its a prototype.</div>
 <div> </div>
 <h2 id="mcetoc_1e28lrisi3"><strong>Parameters</strong></h2>
-<div>A parameter is a variable that holds some type of value that will go into a function. </div>
+<div>A parameter is a variable that holds some type of value that will go into a function.</div>
 <div> </div>
 <div>You can see in this new function that there is an argument inside the function parentheses.</div>
 <div> </div>
 <div>Using expressions is more useful. Calculations, for example, can be done. Parameters make these types of functions very useful.</div>
 <div> </div>
 <h2 id="mcetoc_1e28lrpah4"><strong>Return Statement</strong></h2>
-<div>This statement ends a function immediately. This would be used when you design a function to only end after a certain condition. </div>
-<div>There are also functions that can return values. Many mathematical functions are like this. Values are given to the function and it returns a value. This is handy and is why everyone likes calculators. </div>
+<div>This statement ends a function immediately. This would be used when you design a function to only end after a certain condition.</div>
+<div>There are also functions that can return values. Many mathematical functions are like this. Values are given to the function and it returns a value. This is handy and is why everyone likes calculators.</div>
 <div> </div>
 <h2 id="mcetoc_1e28ls1ju5"><strong>Returning True/False Values</strong></h2>
 <div>A true/false value is often called a boolean value. This lets the designer of the function test to see if a certain condition exists. It is very helpful to do this.</div>
 <div> </div>
-<div>&lt;script src="//onlinegdb.com/embed/js/rJjhLeO4I?theme=dark"&gt;&lt;/script&gt;</div>
+<div> &lt;script src="//onlinegdb.com/embed/js/BktIqxO48?theme=dark"&gt;&lt;/script&gt;</div>
 <div> </div>
             ]]>
         </content>
