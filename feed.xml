@@ -3,7 +3,7 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2020-02-29T09:32:12-06:00</updated>
+    <updated>2020-02-29T09:35:25-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://aindien.com/using-functions-in-c.html"/>
         <id>https://aindien.com/using-functions-in-c.html</id>
 
-        <updated>2020-02-29T09:32:04-06:00</updated>
+        <updated>2020-02-29T09:35:18-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/31/Using-Functions-in-C.png" alt="Using Functions in C++" />
@@ -69,7 +69,7 @@
 <div>&lt;script src="https://gist.github.com/jahlelin/d2d5febff9db829a4378a9e82e7bf172.js"&gt;&lt;/script&gt;</div>
 <div> </div>
 <div>
-<script src="https://gist.github.com/jahlelin/d2d5febff9db829a4378a9e82e7bf172.js"></script>
+<script src="//onlinegdb.com/embed/js/BktIqxO48?theme=dark"></script>
 </div>
 <div> </div>
             ]]>
