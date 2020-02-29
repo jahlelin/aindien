@@ -3,7 +3,7 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2020-02-29T10:42:57-06:00</updated>
+    <updated>2020-02-29T10:45:06-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://aindien.com/using-functions-in-c.html"/>
         <id>https://aindien.com/using-functions-in-c.html</id>
 
-        <updated>2020-02-29T10:42:49-06:00</updated>
+        <updated>2020-02-29T10:44:57-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/31/Using-Functions-in-C.png" alt="Using Functions in C++" />
@@ -81,7 +81,7 @@
 <h2 id="mcetoc_1e28ls1ju5"><strong>Returning True/False Values</strong></h2>
 <div>A true/false value is often called a boolean value. This lets the designer of the function test to see if a certain condition exists. It is very helpful to do this.</div>
 <div> </div>
-<div>&lt;script src="https://gist.github.com/jahlelin/d2d5febff9db829a4378a9e82e7bf172.js"&gt;&lt;/script&gt;</div>
+<div> </div>
 <div> </div>
 <div>
 <script src="//onlinegdb.com/embed/js/BktIqxO48?theme=dark"></script>
