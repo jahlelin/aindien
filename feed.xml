@@ -3,7 +3,7 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2020-02-29T10:16:36-06:00</updated>
+    <updated>2020-02-29T10:20:47-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://aindien.com/using-functions-in-c.html"/>
         <id>https://aindien.com/using-functions-in-c.html</id>
 
-        <updated>2020-02-29T10:16:29-06:00</updated>
+        <updated>2020-02-29T10:20:36-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/31/Using-Functions-in-C.png" alt="Using Functions in C++" />
@@ -49,6 +49,10 @@
 <div>After you write a function that does some task, you have to call it when you want to use it.</div>
 <div>
 <script src="https://gist.github.com/jahlelin/c77699e2c9fc7270f7cf24474699f057.js"></script>
+</div>
+<div> </div>
+<div>
+<script src="//onlinegdb.com/embed/js/rkDZyzdNU?theme=dark"></script>
 </div>
 <div> </div>
 <div>I created the function HelloWorld() and then called it from the main() function. Now you can see at the top of the program is the function definition of HelloWorld(). That is where I described what it is and how it is to be used.</div>
