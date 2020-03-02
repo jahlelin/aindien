@@ -3,7 +3,7 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2020-02-29T10:45:06-06:00</updated>
+    <updated>2020-03-02T06:48:59-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://aindien.com/using-functions-in-c.html"/>
         <id>https://aindien.com/using-functions-in-c.html</id>
 
-        <updated>2020-02-29T10:44:57-06:00</updated>
+        <updated>2020-03-02T06:48:52-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/31/Using-Functions-in-C.png" alt="Using Functions in C++" />
@@ -35,7 +35,7 @@
 <div> </div>
 <div></div>
 <h2 id="mcetoc_1e28lqmck0"><strong>Definition of a Function</strong></h2>
-<div>When you write a function you can save it use it in another part of your code. This is called "calling your function". There are methods designed to do this that are built into C++ and most other languages. A function is made of a name, parameters, body, and return type.</div>
+<div>When you write a function you can save it and use it in another part of your code. This is called "calling your function". There are methods designed to do this that are built into C++ and most other languages. A function is made of a name, parameters, body, and return type.</div>
 <div>
 <script src="//onlinegdb.com/embed/js/B1gEez_NU?theme=dark"></script>
 </div>
@@ -46,7 +46,7 @@
 <div>The return type is referring to the data type of the value that the function created.</div>
 <div> </div>
 <h2 id="mcetoc_1e28lr2bt1"><strong>Calling Your Function</strong></h2>
-<div>After you write a function that does some task, you have to call it when you want to use it.</div>
+<div>After you write a function that does some task, you have to call it when you want to use it. This will be in your [main()] function.</div>
 <div> </div>
 <div> </div>
 <div>
@@ -55,7 +55,7 @@
 <div> </div>
 <div>I created the function HelloWorld() and then called it from the main() function. Now you can see at the top of the program is the function definition of HelloWorld(). That is where I described what it is and how it is to be used.</div>
 <div> </div>
-<div>You can also loop a function. So we start by defining a loop and then include the function to be called.</div>
+<div>You can also loop a function. So we start by defining a loop and then include the function to be called. You can have lots of fun doing this. Math and many other tasks can do some interesting tasks when looped.</div>
 <div> </div>
 <div> </div>
 <h2 id="mcetoc_1e28lrbt12"><strong>Function Prototypes</strong></h2>
@@ -64,6 +64,7 @@
 <div>
 <script src="//onlinegdb.com/embed/js/SkXOWz_4I?theme=dark"></script>
 </div>
+<p id="mcetoc_1e2dkd9br0">I will say its a matter of personal opinion whether you use a prototype or not. At this point it doesn't make any difference. I prefer not to use prototypes myself but again it doesn't matter.</p>
 <h2 id="mcetoc_1e28lrisi3"><strong>Parameters</strong></h2>
 <div>A parameter is a variable that holds some type of value that will go into a function.</div>
 <div> </div>
@@ -86,7 +87,8 @@
 <div>
 <script src="//onlinegdb.com/embed/js/BktIqxO48?theme=dark"></script>
 </div>
-<div> </div>
+<h2 id="mcetoc_1e2dkh8ch1"> <strong>Conclusion</strong></h2>
+<p>So these are functions. I have gone over how they are created and slightly how they are used. There are infinite combinations. It may not seem very useful but as you get more proficient in using functions in C++ you will want to use them. I just wanted to explain their basic usage so you will be prepared. Have a great day and if you enjoyed this article please share it on social media and subscribe to my mailing list for more articles like this. </p>
             ]]>
         </content>
     </entry>
