@@ -130,7 +130,7 @@
 </url>
 <url>
 <loc>https://aindien.com/beginning-c-input-and-output-basics.html</loc>
-<lastmod>2020-05-19T13:53:24-05:00</lastmod>
+<lastmod>2020-07-31T12:12:51-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\4/Banner-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -190,7 +190,7 @@
 </url>
 <url>
 <loc>https://aindien.com/beginning-c-making-decisions.html</loc>
-<lastmod>2020-05-19T13:54:10-05:00</lastmod>
+<lastmod>2020-07-31T12:29:26-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\6/decision1.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -229,6 +229,94 @@
 </image:image>
 </url>
 <url>
+<loc>https://aindien.com/c-essentials.html</loc>
+<lastmod>2020-08-04T23:08:27-05:00</lastmod>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/4/Beg_c1.png</image:loc>
+<image:title><![CDATA[beginning c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/4/beg_c2.png</image:loc>
+<image:title><![CDATA[beginning c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/4/beg_c3.png</image:loc>
+<image:title><![CDATA[beginning c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/4/beg_c4.png</image:loc>
+<image:title><![CDATA[beginning c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/4/beg_c5.png</image:loc>
+<image:title><![CDATA[beginning c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/4/beg_c6.png</image:loc>
+<image:title><![CDATA[beginning c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/4/beg_c7.png</image:loc>
+<image:title><![CDATA[beginning c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/4/beg_c8.png</image:loc>
+<image:title><![CDATA[beginning c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/4/beg_c9.png</image:loc>
+<image:title><![CDATA[beginning c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/4/beg_c10.png</image:loc>
+<image:title><![CDATA[beginning c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/4/beg_c11.png</image:loc>
+<image:title><![CDATA[beginning c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/4/beg_c12.png</image:loc>
+<image:title><![CDATA[beginning c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/4/beg_c13.png</image:loc>
+<image:title><![CDATA[beginning c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/6/decision2.png</image:loc>
+<image:title><![CDATA[making decisions]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/6/decision3.png</image:loc>
+<image:title><![CDATA[making decisions]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/6/decision4.png</image:loc>
+<image:title><![CDATA[making decisions]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/6/decision5.png</image:loc>
+<image:title><![CDATA[making decisions]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/6/decision6.png</image:loc>
+<image:title><![CDATA[making decisions]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/6/decision7.png</image:loc>
+<image:title><![CDATA[making decisions]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/6/decision8.png</image:loc>
+<image:title><![CDATA[making decisions]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/6/decision9.png</image:loc>
+<image:title><![CDATA[making decisions]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://aindien.com/computer-networking-devices.html</loc>
 <lastmod>2020-05-19T13:56:53-05:00</lastmod>
 <image:image>
@@ -254,7 +342,7 @@
 </url>
 <url>
 <loc>https://aindien.com/essential-linux-commands-to-get-you-started.html</loc>
-<lastmod>2020-05-19T13:52:52-05:00</lastmod>
+<lastmod>2020-08-04T23:13:27-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\2/Linux_feature.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -577,6 +665,14 @@
 </image:image>
 </url>
 <url>
+<loc>https://aindien.com/how-to-start-with-arrays-in-c.html</loc>
+<lastmod>2020-08-04T22:56:43-05:00</lastmod>
+<image:image>
+<image:loc>https://aindien.com/media\posts\34/arrays0.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://aindien.com/how-to-use-raid-on-your-computer.html</loc>
 <lastmod>2019-11-29T22:19:52-06:00</lastmod>
 <image:image>
@@ -698,7 +794,7 @@
 </url>
 <url>
 <loc>https://aindien.com/networking-basics-physical-topologies.html</loc>
-<lastmod>2020-05-19T13:54:23-05:00</lastmod>
+<lastmod>2020-08-04T23:00:35-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\7/nt0-3.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -717,6 +813,42 @@
 </image:image>
 <image:image>
 <image:loc>https://aindien.com/media\posts\7/nt4.png</image:loc>
+<image:title><![CDATA[networking basics]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://aindien.com/networking-essentials.html</loc>
+<lastmod>2020-08-04T23:10:46-05:00</lastmod>
+<image:image>
+<image:loc>https://aindien.com/media\posts\35/digital-analytics-principles0.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/3/scale_network2.png</image:loc>
+<image:title><![CDATA[scaling your network]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/3/scale_network3.png</image:loc>
+<image:title><![CDATA[scaling your network]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/3/scale_network4.png</image:loc>
+<image:title><![CDATA[scaling your network]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/7/nt1.png</image:loc>
+<image:title><![CDATA[networking basics]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/7/nt2.png</image:loc>
+<image:title><![CDATA[networking basics]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/7/nt3.png</image:loc>
+<image:title><![CDATA[networking basics]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/7/nt4.png</image:loc>
 <image:title><![CDATA[networking basics]]></image:title>
 </image:image>
 </url>
