@@ -3,12 +3,30 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2020-08-04T23:14:02-05:00</updated>
+    <updated>2020-08-10T22:16:15-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Intro To Network Security</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/intro-to-network-security.html"/>
+        <id>https://aindien.com/intro-to-network-security.html</id>
+
+        <updated>2020-08-10T22:06:54-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/36/network-security-0.jpg" alt="network security 0" />
+                    <p data-pm-slice="1 1 []">In today’s topic, Intro to Network Security, I am going to discuss the different ways you keep yourself and your network safe. As criminals are always trying to penetrate your network, it is important to have a good foundation concerning security.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Networking Essentials</title>
         <author>
@@ -17,7 +35,7 @@
         <link href="https://aindien.com/networking-essentials.html"/>
         <id>https://aindien.com/networking-essentials.html</id>
 
-        <updated>2020-08-04T23:10:46-05:00</updated>
+        <updated>2020-08-10T22:15:56-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/35/digital-analytics-principles0.jpeg" alt="" />
@@ -55,9 +73,10 @@
         <link href="https://aindien.com/c-essentials.html"/>
         <id>https://aindien.com/c-essentials.html</id>
 
-        <updated>2020-08-04T23:08:27-05:00</updated>
+        <updated>2020-08-09T11:31:23-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://aindien.com/media/posts/33/c-essentials-0.png" alt="c++ essentials 0" />
                     <p>This is my guide for students just starting with beginning C++. Programming in general is not the easiest thing to do. With just a little effort it can be easy to pick up. I cover the essential basics here with lots of examples.</p>
 
                 ]]>
@@ -170,24 +189,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/27/Powershell-For-Beginners-0.png" alt="" />
                     <p>My Powershell for beginners guide will teach you the fundamentals of this tool in a Windows environment. It has been around a long time and has been through several versions already. Many information technology people have waited to become familiar with this tool. They did so because many were not sure it would continue to be supported in the future. Well we now know that not only has it continued to be supported but it is the preferred way by many to administer a Windows environment. So continue with me and we will discuss the basics so that you can go on and make this a long learning endeavor.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Aindien&#x27;s Hints On Using Onenote</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/aindiens-hints-on-using-onenote.html"/>
-        <id>https://aindien.com/aindiens-hints-on-using-onenote.html</id>
-
-        <updated>2020-05-19T13:57:40-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/23/hints-on-using-onenote0-1.png" alt="" />
-                    <p>In this article I am going to give you some hints on using OneNote from Microsoft Office. OneNote is a great program to keep detailed records, a journal, documentation, or even a simple checklist. It has a lot of uses for a lot of people. Since you can customize the workflow in it almost anyone can make use of it.</p>
 
                 ]]>
             </summary>
