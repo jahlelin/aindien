@@ -230,7 +230,7 @@
 </url>
 <url>
 <loc>https://aindien.com/c-essentials.html</loc>
-<lastmod>2020-08-09T11:31:23-05:00</lastmod>
+<lastmod>2020-08-24T22:18:32-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\33/c-essentials-0.png</image:loc>
 <image:title><![CDATA[c++ essentials 0]]></image:title>
@@ -318,6 +318,50 @@
 <image:image>
 <image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/6/decision9.png</image:loc>
 <image:title><![CDATA[making decisions]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/11/reading_data0.png</image:loc>
+<image:title><![CDATA[read data from a file with c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/11/reading_data1.png</image:loc>
+<image:title><![CDATA[read data from a file with c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/11/reading_data2.png</image:loc>
+<image:title><![CDATA[read data from a file in c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/11/IMG_20170630_083131_resized_20170630_08334928638.jpg</image:loc>
+<image:title><![CDATA[read data from a file with c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/11/reading_data3.png</image:loc>
+<image:title><![CDATA[read data from a file with c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/11/reading_data5.png</image:loc>
+<image:title><![CDATA[read data from a file with c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/11/reading_data4.png</image:loc>
+<image:title><![CDATA[read data from a file with c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/11/reading_data6.png</image:loc>
+<image:title><![CDATA[read data from a file with c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/11/reading_data7.png</image:loc>
+<image:title><![CDATA[read data from a file with c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/11/reading_data8.png</image:loc>
+<image:title><![CDATA[read data from a file with c++]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/aindiens-computer-guides/input/media/posts/11/reading_data9.png</image:loc>
+<image:title><![CDATA[read data from a file with c++]]></image:title>
 </image:image>
 </url>
 <url>
@@ -542,7 +586,7 @@
 </url>
 <url>
 <loc>https://aindien.com/how-to-protect-yourself-from-ransomware.html</loc>
-<lastmod>2019-11-29T22:09:31-06:00</lastmod>
+<lastmod>2020-08-24T22:06:33-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\14/ransomware0.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -757,6 +801,26 @@
 </image:image>
 </url>
 <url>
+<loc>https://aindien.com/how-to-use-zoom-securely.html</loc>
+<lastmod>2020-08-24T22:00:58-05:00</lastmod>
+<image:image>
+<image:loc>https://aindien.com/media\posts\37/how-to-use-zoom-securely-0.png</image:loc>
+<image:title><![CDATA[how to use zoom securely 0]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://aindien.com/media\posts\37/how-to-use-zoom-securely-1.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://aindien.com/media\posts\37/how-to-use-zoom-securely-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://aindien.com/media\posts\37/how-to-use-zoom-securely-3.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://aindien.com/intro-to-network-security.html</loc>
 <lastmod>2020-08-10T22:06:54-05:00</lastmod>
 <image:image>
@@ -766,7 +830,7 @@
 </url>
 <url>
 <loc>https://aindien.com/network-basics-easy-addressing-and-routing.html</loc>
-<lastmod>2020-05-19T13:56:23-05:00</lastmod>
+<lastmod>2020-08-24T22:07:45-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\19/addressing0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -830,7 +894,7 @@
 </url>
 <url>
 <loc>https://aindien.com/networking-essentials.html</loc>
-<lastmod>2020-08-10T22:15:56-05:00</lastmod>
+<lastmod>2020-08-24T22:13:59-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\35/digital-analytics-principles0.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>

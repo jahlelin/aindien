@@ -3,12 +3,30 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2020-08-10T22:16:15-05:00</updated>
+    <updated>2020-08-24T22:19:54-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Use Zoom Securely</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-use-zoom-securely.html"/>
+        <id>https://aindien.com/how-to-use-zoom-securely.html</id>
+
+        <updated>2020-08-24T22:00:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/37/how-to-use-zoom-securely-0.png" alt="how to use zoom securely 0" />
+                    <p data-pm-slice="0 0 []">With many people having to work from home, Zoom has become an important solution. Since remote work is now so popular, it is vital to understand how to be safe.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Intro To Network Security</title>
         <author>
@@ -35,7 +53,7 @@
         <link href="https://aindien.com/networking-essentials.html"/>
         <id>https://aindien.com/networking-essentials.html</id>
 
-        <updated>2020-08-10T22:15:56-05:00</updated>
+        <updated>2020-08-24T22:13:59-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/35/digital-analytics-principles0.jpeg" alt="" />
@@ -73,7 +91,7 @@
         <link href="https://aindien.com/c-essentials.html"/>
         <id>https://aindien.com/c-essentials.html</id>
 
-        <updated>2020-08-09T11:31:23-05:00</updated>
+        <updated>2020-08-24T22:18:32-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/33/c-essentials-0.png" alt="c++ essentials 0" />
@@ -171,24 +189,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/28/network-management-0.png" alt="" />
                     <p>In this network management guide I try to talk about the basics of everything that goes into managing and monitoring a network. I will talk about monitoring most aspects of you network along with things to do to help it.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Powershell For Beginners</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/powershell-for-beginners.html"/>
-        <id>https://aindien.com/powershell-for-beginners.html</id>
-
-        <updated>2020-05-19T13:58:26-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/27/Powershell-For-Beginners-0.png" alt="" />
-                    <p>My Powershell for beginners guide will teach you the fundamentals of this tool in a Windows environment. It has been around a long time and has been through several versions already. Many information technology people have waited to become familiar with this tool. They did so because many were not sure it would continue to be supported in the future. Well we now know that not only has it continued to be supported but it is the preferred way by many to administer a Windows environment. So continue with me and we will discuss the basics so that you can go on and make this a long learning endeavor.</p>
 
                 ]]>
             </summary>
