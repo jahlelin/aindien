@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/using-vectors-in-c.html",
+            "url": "https://aindien.com/using-vectors-in-c.html",
+            "title": "Using Vectors In C++",
+            "summary": "<p>The Vector container in C++ is very useful. It will be the better option when you want to store data in an array. Vector has several advantages over a traditional array structure. This makes it more flexible.</p>\n",
+            "image": "https://aindien.com/media/posts/38/using-vectors-in-c-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-13T15:22:17-05:00",
+            "date_modified": "2020-09-13T15:37:26-05:00"
+        },
+        {
             "id": "https://aindien.com/how-to-use-zoom-securely.html",
             "url": "https://aindien.com/how-to-use-zoom-securely.html",
             "title": "How To Use Zoom Securely",
@@ -41,7 +55,7 @@
             "id": "https://aindien.com/networking-essentials.html",
             "url": "https://aindien.com/networking-essentials.html",
             "title": "Networking Essentials",
-            "summary": "<div>Scaling your network is the next step for most businesses. There are computer networks everywhere these days. From the business to our homes, local area networks and wireless systems are common and easy to create. What happens though when you want to connect 2 or more local area networks together? Well it gets really interesting then. Most organizations aspire to grow. When an organization or business grows they will need to connect remote offices. Connecting your lans together or just adding wireless in a wide area network is the natural evolution of scaling your infrastructure.</div>\n<div> </div>\n<div> </div>\n<div>",
+            "summary": "<div>Scaling your network is the next step for most businesses. There are computer networks everywhere these days. From the business to our homes, local area networks and wireless systems are common and easy to create.</div>\n<div> </div>\n<div>",
             "image": "https://aindien.com/media/posts/35/digital-analytics-principles0.jpeg",
             "author": {
                 "name": "Jason Moore"
@@ -49,7 +63,7 @@
             "tags": [
             ],
             "date_published": "2020-08-04T22:58:01-05:00",
-            "date_modified": "2020-08-24T22:13:59-05:00"
+            "date_modified": "2020-09-13T16:29:13-05:00"
         },
         {
             "id": "https://aindien.com/how-to-start-with-arrays-in-c.html",
@@ -77,7 +91,7 @@
             "tags": [
             ],
             "date_published": "2020-07-31T12:06:00-05:00",
-            "date_modified": "2020-08-24T22:18:32-05:00"
+            "date_modified": "2020-09-13T16:09:52-05:00"
         },
         {
             "id": "https://aindien.com/elements-of-unified-communications.html",
@@ -133,21 +147,7 @@
             "tags": [
             ],
             "date_published": "2019-07-21T16:30:11-05:00",
-            "date_modified": "2020-05-19T13:58:44-05:00"
-        },
-        {
-            "id": "https://aindien.com/network-management-guide.html",
-            "url": "https://aindien.com/network-management-guide.html",
-            "title": "Network Management Guide",
-            "summary": "<p>In this network management guide I try to talk about the basics of everything that goes into managing and monitoring a network. I will talk about monitoring most aspects of you network along with things to do to help it.</p>\n",
-            "image": "https://aindien.com/media/posts/28/network-management-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2018-06-26T12:56:11-05:00",
-            "date_modified": "2020-05-19T13:58:35-05:00"
+            "date_modified": "2020-09-13T15:40:54-05:00"
         }
     ]
 }

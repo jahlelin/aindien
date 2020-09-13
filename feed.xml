@@ -3,12 +3,30 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2020-08-24T22:19:54-05:00</updated>
+    <updated>2020-09-13T18:35:44-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Using Vectors In C++</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/using-vectors-in-c.html"/>
+        <id>https://aindien.com/using-vectors-in-c.html</id>
+
+        <updated>2020-09-13T15:37:26-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/38/using-vectors-in-c-0.png" alt="using vectors in c++" />
+                    <p>The Vector container in C++ is very useful. It will be the better option when you want to store data in an array. Vector has several advantages over a traditional array structure. This makes it more flexible.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Use Zoom Securely</title>
         <author>
@@ -53,12 +71,11 @@
         <link href="https://aindien.com/networking-essentials.html"/>
         <id>https://aindien.com/networking-essentials.html</id>
 
-        <updated>2020-08-24T22:13:59-05:00</updated>
+        <updated>2020-09-13T16:29:13-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/35/digital-analytics-principles0.jpeg" alt="" />
-                    <div>Scaling your network is the next step for most businesses. There are computer networks everywhere these days. From the business to our homes, local area networks and wireless systems are common and easy to create. What happens though when you want to connect 2 or more local area networks together? Well it gets really interesting then. Most organizations aspire to grow. When an organization or business grows they will need to connect remote offices. Connecting your lans together or just adding wireless in a wide area network is the natural evolution of scaling your infrastructure.</div>
-<div> </div>
+                    <div>Scaling your network is the next step for most businesses. There are computer networks everywhere these days. From the business to our homes, local area networks and wireless systems are common and easy to create.</div>
 <div> </div>
 <div>
                 ]]>
@@ -91,7 +108,7 @@
         <link href="https://aindien.com/c-essentials.html"/>
         <id>https://aindien.com/c-essentials.html</id>
 
-        <updated>2020-08-24T22:18:32-05:00</updated>
+        <updated>2020-09-13T16:09:52-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/33/c-essentials-0.png" alt="c++ essentials 0" />
@@ -166,29 +183,11 @@
         <link href="https://aindien.com/how-to-construct-loops-in-c.html"/>
         <id>https://aindien.com/how-to-construct-loops-in-c.html</id>
 
-        <updated>2020-05-19T13:58:44-05:00</updated>
+        <updated>2020-09-13T15:40:54-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/29/loops-in-c-0.png" alt="" />
                     <p>Today's guide will be over loops in C++. I have been wanting to get to my latest C++ article for a while. So lets break out our favorite text editor and compiler and have some real fun today!</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Network Management Guide</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/network-management-guide.html"/>
-        <id>https://aindien.com/network-management-guide.html</id>
-
-        <updated>2020-05-19T13:58:35-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/28/network-management-0.png" alt="" />
-                    <p>In this network management guide I try to talk about the basics of everything that goes into managing and monitoring a network. I will talk about monitoring most aspects of you network along with things to do to help it.</p>
 
                 ]]>
             </summary>
