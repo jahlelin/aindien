@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/history-and-usage-of-linux.html",
+            "url": "https://aindien.com/history-and-usage-of-linux.html",
+            "title": "History and Usage Of Linux",
+            "summary": "<p>This section will be about Linux and its beginnings. Since its inception, Linux has become prevalent and almost every computing sphere.</p>\n",
+            "image": "https://aindien.com/media/posts/41/History-and-Usage-of-Linux-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-20T10:57:08-05:00",
+            "date_modified": "2020-09-20T10:57:27-05:00"
+        },
+        {
+            "id": "https://aindien.com/linux-essentials.html",
+            "url": "https://aindien.com/linux-essentials.html",
+            "title": "Linux Essentials",
+            "summary": "<p>In this living document I will be talking about the Linux essentials that I think everyone will need to know if they use this wonderful software.</p>\n<p> </p>\n",
+            "image": "https://aindien.com/media/posts/40/Linux-Essentials-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-19T13:44:17-05:00",
+            "date_modified": "2020-09-20T11:12:02-05:00"
+        },
+        {
             "id": "https://aindien.com/using-vectors-in-c.html",
             "url": "https://aindien.com/using-vectors-in-c.html",
             "title": "Using Vectors In C++",
@@ -120,34 +148,6 @@
             ],
             "date_published": "2020-02-29T08:36:07-06:00",
             "date_modified": "2020-03-02T06:48:52-06:00"
-        },
-        {
-            "id": "https://aindien.com/what-cloud-computing-really-means.html",
-            "url": "https://aindien.com/what-cloud-computing-really-means.html",
-            "title": "What Cloud Computing Really Means",
-            "summary": "<p>Cloud computing is used a lot these days. Many times people are referring to totally different concepts. When mentioning it, however, there is definitely a disconnect or a lack of understanding of what this means. I will clear some things up and give a good overview of what we are talking about when we say \"cloud computing\".</p>\n",
-            "image": "https://aindien.com/media/posts/30/cloud-computing.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-09-27T07:58:40-05:00",
-            "date_modified": "2020-05-19T13:58:53-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-construct-loops-in-c.html",
-            "url": "https://aindien.com/how-to-construct-loops-in-c.html",
-            "title": "How To Construct Loops in C++",
-            "summary": "<p>Today's guide will be over loops in C++. I have been wanting to get to my latest C++ article for a while. So lets break out our favorite text editor and compiler and have some real fun today!</p>\n",
-            "image": "https://aindien.com/media/posts/29/loops-in-c-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-07-21T16:30:11-05:00",
-            "date_modified": "2020-09-13T15:40:54-05:00"
         }
     ]
 }
