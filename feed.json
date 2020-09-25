@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/disaster-recovery.html",
+            "url": "https://aindien.com/disaster-recovery.html",
+            "title": "Disaster Recovery",
+            "summary": "<p data-pm-slice=\"1 1 []\">Any network can fail. Even parts can fail that have grave consequences. When any of this happens, it is time to move on to the next step. You better have a plan for when it happens.</p>\n",
+            "image": "https://aindien.com/media/posts/43/Disaster-Recovery-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-25T06:28:59-05:00",
+            "date_modified": "2020-09-25T06:39:47-05:00"
+        },
+        {
             "id": "https://aindien.com/history-and-usage-of-linux.html",
             "url": "https://aindien.com/history-and-usage-of-linux.html",
             "title": "History and Usage Of Linux",
@@ -91,7 +105,7 @@
             "tags": [
             ],
             "date_published": "2020-08-04T22:58:01-05:00",
-            "date_modified": "2020-09-20T13:26:17-05:00"
+            "date_modified": "2020-09-25T06:41:21-05:00"
         },
         {
             "id": "https://aindien.com/how-to-start-with-arrays-in-c.html",
@@ -119,7 +133,7 @@
             "tags": [
             ],
             "date_published": "2020-07-31T12:06:00-05:00",
-            "date_modified": "2020-09-13T16:09:52-05:00"
+            "date_modified": "2020-09-25T06:50:46-05:00"
         },
         {
             "id": "https://aindien.com/elements-of-unified-communications.html",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2020-05-19T13:49:36-05:00",
             "date_modified": "2020-09-20T12:39:32-05:00"
-        },
-        {
-            "id": "https://aindien.com/using-functions-in-c.html",
-            "url": "https://aindien.com/using-functions-in-c.html",
-            "title": "Using Functions in C++",
-            "summary": "<div>This article is about using functions in C++. Functions reuse code to help solve problems. It is described as doing a small part that can be used elsewhere in your program. Today I want to show you how to do that.</div>\n<div> </div>\n<div> </div>\n<div>",
-            "image": "https://aindien.com/media/posts/31/Using-Functions-in-C.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-02-29T08:36:07-06:00",
-            "date_modified": "2020-03-02T06:48:52-06:00"
         }
     ]
 }

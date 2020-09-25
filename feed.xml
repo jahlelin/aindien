@@ -3,12 +3,30 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2020-09-20T13:26:37-05:00</updated>
+    <updated>2020-09-25T06:51:01-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Disaster Recovery</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/disaster-recovery.html"/>
+        <id>https://aindien.com/disaster-recovery.html</id>
+
+        <updated>2020-09-25T06:39:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/43/Disaster-Recovery-0.png" alt="disaster recovery 0" />
+                    <p data-pm-slice="1 1 []">Any network can fail. Even parts can fail that have grave consequences. When any of this happens, it is time to move on to the next step. You better have a plan for when it happens.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>History and Usage Of Linux</title>
         <author>
@@ -108,7 +126,7 @@
         <link href="https://aindien.com/networking-essentials.html"/>
         <id>https://aindien.com/networking-essentials.html</id>
 
-        <updated>2020-09-20T13:26:17-05:00</updated>
+        <updated>2020-09-25T06:41:21-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/35/Networking-Essentials-0.png" alt="Networking Essentials 0" />
@@ -143,7 +161,7 @@
         <link href="https://aindien.com/c-essentials.html"/>
         <id>https://aindien.com/c-essentials.html</id>
 
-        <updated>2020-09-13T16:09:52-05:00</updated>
+        <updated>2020-09-25T06:50:46-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/33/c-essentials-0.png" alt="c++ essentials 0" />
@@ -166,26 +184,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/32/Unified-Communications-0.png" alt="" />
                     <div>Unified communications is an important buzzword these days. It can mean several different things. There are some things in common though. Almost all implementations include messaging, VOIP, and some sort of collaboration. I want to talk about those today. </div>
-<div> </div>
-<div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Using Functions in C++</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/using-functions-in-c.html"/>
-        <id>https://aindien.com/using-functions-in-c.html</id>
-
-        <updated>2020-03-02T06:48:52-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/31/Using-Functions-in-C.png" alt="Using Functions in C++" />
-                    <div>This article is about using functions in C++. Functions reuse code to help solve problems. It is described as doing a small part that can be used elsewhere in your program. Today I want to show you how to do that.</div>
-<div> </div>
 <div> </div>
 <div>
                 ]]>
