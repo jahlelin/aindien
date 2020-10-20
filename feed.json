@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/using-linear-search-in-c.html",
+            "url": "https://aindien.com/using-linear-search-in-c.html",
+            "title": "Using Linear Search In C++",
+            "summary": "<p>Programmers will often search data for specific items. The most basic way is to use a linear search. This algorithm will form the foundation of your searching.</p>\n<p> </p>\n",
+            "image": "https://aindien.com/media/posts/44/Linear-Search-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-19T06:52:14-05:00",
+            "date_modified": "2020-10-19T22:02:57-05:00"
+        },
+        {
             "id": "https://aindien.com/disaster-recovery.html",
             "url": "https://aindien.com/disaster-recovery.html",
             "title": "Disaster Recovery",
@@ -105,7 +119,7 @@
             "tags": [
             ],
             "date_published": "2020-08-04T22:58:01-05:00",
-            "date_modified": "2020-09-25T06:41:21-05:00"
+            "date_modified": "2020-10-19T22:07:14-05:00"
         },
         {
             "id": "https://aindien.com/how-to-start-with-arrays-in-c.html",
@@ -133,21 +147,7 @@
             "tags": [
             ],
             "date_published": "2020-07-31T12:06:00-05:00",
-            "date_modified": "2020-09-25T06:50:46-05:00"
-        },
-        {
-            "id": "https://aindien.com/elements-of-unified-communications.html",
-            "url": "https://aindien.com/elements-of-unified-communications.html",
-            "title": "Elements Of Unified Communications",
-            "summary": "<div>Unified communications is an important buzzword these days. It can mean several different things. There are some things in common though. Almost all implementations include messaging, VOIP, and some sort of collaboration. I want to talk about those today. </div>\n<div> </div>\n<div>",
-            "image": "https://aindien.com/media/posts/32/Unified-Communications-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-05-19T13:49:36-05:00",
-            "date_modified": "2020-09-20T12:39:32-05:00"
+            "date_modified": "2020-10-19T22:10:38-05:00"
         }
     ]
 }

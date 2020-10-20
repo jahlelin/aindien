@@ -230,7 +230,7 @@
 </url>
 <url>
 <loc>https://aindien.com/c-essentials.html</loc>
-<lastmod>2020-09-25T06:50:46-05:00</lastmod>
+<lastmod>2020-10-19T22:10:38-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\33/c-essentials-0.png</image:loc>
 <image:title><![CDATA[c++ essentials 0]]></image:title>
@@ -822,7 +822,7 @@
 </url>
 <url>
 <loc>https://aindien.com/networking-essentials.html</loc>
-<lastmod>2020-09-25T06:41:21-05:00</lastmod>
+<lastmod>2020-10-19T22:07:14-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\35/Networking-Essentials-0.png</image:loc>
 <image:title><![CDATA[Networking Essentials 0]]></image:title>
@@ -1057,6 +1057,26 @@
 <image:image>
 <image:loc>https://aindien.com/media\posts\31/Using-Functions-in-C.png</image:loc>
 <image:title><![CDATA[Using Functions in C++]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://aindien.com/using-linear-search-in-c.html</loc>
+<lastmod>2020-10-19T22:02:57-05:00</lastmod>
+<image:image>
+<image:loc>https://aindien.com/media\posts\44/Linear-Search-0.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://aindien.com/media\posts\44/Linear-Search-1.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://aindien.com/media\posts\44/Linear-Search-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://aindien.com/media\posts\44/Linear-Search-3.png</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
