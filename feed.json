@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/things-to-know-before-you-install-linux.html",
+            "url": "https://aindien.com/things-to-know-before-you-install-linux.html",
+            "title": "Things To Know Before You Install Linux",
+            "summary": "<p data-pm-slice=\"0 0 []\">Installing Linux is pretty easy these days. Anyone can do it if they want to. However, there are a few options you should know about. </p>\n",
+            "image": "https://aindien.com/media/posts/45/Things-to-know-before-you-install-linux.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-24T06:56:26-06:00",
+            "date_modified": "2020-11-24T07:03:30-06:00"
+        },
+        {
             "id": "https://aindien.com/using-linear-search-in-c.html",
             "url": "https://aindien.com/using-linear-search-in-c.html",
             "title": "Using Linear Search In C++",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2020-08-02T18:48:05-05:00",
             "date_modified": "2020-08-04T22:56:43-05:00"
-        },
-        {
-            "id": "https://aindien.com/c-essentials.html",
-            "url": "https://aindien.com/c-essentials.html",
-            "title": "C++ Essentials",
-            "summary": "<p>This is my guide for students just starting with beginning C++. Programming in general is not the easiest thing to do. With just a little effort it can be easy to pick up. I cover the essential basics here with lots of examples.</p>\n",
-            "image": "https://aindien.com/media/posts/33/c-essentials-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-07-31T12:06:00-05:00",
-            "date_modified": "2020-10-19T22:10:38-05:00"
         }
     ]
 }

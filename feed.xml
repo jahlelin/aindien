@@ -3,12 +3,30 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2020-10-19T22:11:40-05:00</updated>
+    <updated>2020-11-24T07:03:40-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Things To Know Before You Install Linux</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/things-to-know-before-you-install-linux.html"/>
+        <id>https://aindien.com/things-to-know-before-you-install-linux.html</id>
+
+        <updated>2020-11-24T07:03:30-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/45/Things-to-know-before-you-install-linux.png" alt="" />
+                    <p data-pm-slice="0 0 []">Installing Linux is pretty easy these days. Anyone can do it if they want to. However, there are a few options you should know about. </p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Using Linear Search In C++</title>
         <author>
@@ -167,24 +185,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/34/arrays0.png" alt="" />
                     <p data-pm-slice="1 1 []">This article is over arrays in c++ and how to get started with them. I will show you how to initialize them and then examples of some basic tasks.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>C++ Essentials</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/c-essentials.html"/>
-        <id>https://aindien.com/c-essentials.html</id>
-
-        <updated>2020-10-19T22:10:38-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/33/c-essentials-0.png" alt="c++ essentials 0" />
-                    <p>This is my guide for students just starting with beginning C++. Programming in general is not the easiest thing to do. With just a little effort it can be easy to pick up. I cover the essential basics here with lots of examples.</p>
 
                 ]]>
             </summary>

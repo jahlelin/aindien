@@ -880,6 +880,9 @@
 <loc>https://aindien.com/page/2/</loc>
 </url>
 <url>
+<loc>https://aindien.com/page/3/</loc>
+</url>
+<url>
 <loc>https://aindien.com/powershell-for-beginners.html</loc>
 <lastmod>2020-05-19T13:58:26-05:00</lastmod>
 <image:image>
@@ -1049,6 +1052,14 @@
 <image:image>
 <image:loc>https://aindien.com/media\posts\20/excel13.png</image:loc>
 <image:title><![CDATA[step by step excel 2016 tutorial]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://aindien.com/things-to-know-before-you-install-linux.html</loc>
+<lastmod>2020-11-24T07:03:30-06:00</lastmod>
+<image:image>
+<image:loc>https://aindien.com/media\posts\45/Things-to-know-before-you-install-linux.png</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
