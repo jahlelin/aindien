@@ -3,12 +3,31 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2020-11-24T07:03:40-06:00</updated>
+    <updated>2021-02-09T23:20:00-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Troubleshooting A Computer Network</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/troubleshooting-a-computer-network.html"/>
+        <id>https://aindien.com/troubleshooting-a-computer-network.html</id>
+
+        <updated>2021-02-09T23:19:39-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/46/Troubleshooting-A-Computer-Network.png" alt="Troubleshooting A Computer Network" />
+                    <p>Troubleshooting a network is not hard but requires a little bit of forethought. In this article I cover the most popular methods and scenarios to watch out for.</p>
+<p> </p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Things To Know Before You Install Linux</title>
         <author>
@@ -168,24 +187,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/35/Networking-Essentials-0.png" alt="Networking Essentials 0" />
                      Chapter 1 - Networking BasicsBefore I go any farther I need to cover a few basics. This will be at a real high level but I will expand this as time goes on. To make a network you need a few pieces of correct&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Start With Arrays In C++</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-start-with-arrays-in-c.html"/>
-        <id>https://aindien.com/how-to-start-with-arrays-in-c.html</id>
-
-        <updated>2020-08-04T22:56:43-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/34/arrays0.png" alt="" />
-                    <p data-pm-slice="1 1 []">This article is over arrays in c++ and how to get started with them. I will show you how to initialize them and then examples of some basic tasks.</p>
-
                 ]]>
             </summary>
         <content></content>

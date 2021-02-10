@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/troubleshooting-a-computer-network.html",
+            "url": "https://aindien.com/troubleshooting-a-computer-network.html",
+            "title": "Troubleshooting A Computer Network",
+            "summary": "<p>Troubleshooting a network is not hard but requires a little bit of forethought. In this article I cover the most popular methods and scenarios to watch out for.</p>\n<p> </p>\n",
+            "image": "https://aindien.com/media/posts/46/Troubleshooting-A-Computer-Network.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-09T14:58:33-06:00",
+            "date_modified": "2021-02-09T23:19:39-06:00"
+        },
+        {
             "id": "https://aindien.com/things-to-know-before-you-install-linux.html",
             "url": "https://aindien.com/things-to-know-before-you-install-linux.html",
             "title": "Things To Know Before You Install Linux",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2020-08-04T22:58:01-05:00",
             "date_modified": "2020-10-19T22:07:14-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-start-with-arrays-in-c.html",
-            "url": "https://aindien.com/how-to-start-with-arrays-in-c.html",
-            "title": "How To Start With Arrays In C++",
-            "summary": "<p data-pm-slice=\"1 1 []\">This article is over arrays in c++ and how to get started with them. I will show you how to initialize them and then examples of some basic tasks.</p>\n",
-            "image": "https://aindien.com/media/posts/34/arrays0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-08-02T18:48:05-05:00",
-            "date_modified": "2020-08-04T22:56:43-05:00"
         }
     ]
 }
