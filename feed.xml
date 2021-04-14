@@ -3,12 +3,31 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2021-02-09T23:20:00-06:00</updated>
+    <updated>2021-04-13T21:45:27-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Use Pointers In C++</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-use-pointers-in-c.html"/>
+        <id>https://aindien.com/how-to-use-pointers-in-c.html</id>
+            <category term="C++"/>
+
+        <updated>2021-04-13T21:45:27-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/47/startup-photos.jpg" alt="how to use pointers in c++" />
+                    <p>Pointers may not be the most intuitive of concepts. However, in C++, they can<br>still be useful in the right situation.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Troubleshooting A Computer Network</title>
         <author>
@@ -16,6 +35,7 @@
         </author>
         <link href="https://aindien.com/troubleshooting-a-computer-network.html"/>
         <id>https://aindien.com/troubleshooting-a-computer-network.html</id>
+            <category term="Networking"/>
 
         <updated>2021-02-09T23:19:39-06:00</updated>
             <summary>
@@ -35,6 +55,7 @@
         </author>
         <link href="https://aindien.com/things-to-know-before-you-install-linux.html"/>
         <id>https://aindien.com/things-to-know-before-you-install-linux.html</id>
+            <category term="Linux"/>
 
         <updated>2020-11-24T07:03:30-06:00</updated>
             <summary>
@@ -53,6 +74,7 @@
         </author>
         <link href="https://aindien.com/using-linear-search-in-c.html"/>
         <id>https://aindien.com/using-linear-search-in-c.html</id>
+            <category term="C++"/>
 
         <updated>2020-10-19T22:02:57-05:00</updated>
             <summary>
@@ -72,6 +94,7 @@
         </author>
         <link href="https://aindien.com/disaster-recovery.html"/>
         <id>https://aindien.com/disaster-recovery.html</id>
+            <category term="Networking"/>
 
         <updated>2020-09-25T06:39:47-05:00</updated>
             <summary>
@@ -90,6 +113,7 @@
         </author>
         <link href="https://aindien.com/history-and-usage-of-linux.html"/>
         <id>https://aindien.com/history-and-usage-of-linux.html</id>
+            <category term="Linux"/>
 
         <updated>2020-09-20T11:38:41-05:00</updated>
             <summary>
@@ -108,6 +132,7 @@
         </author>
         <link href="https://aindien.com/linux-essentials.html"/>
         <id>https://aindien.com/linux-essentials.html</id>
+            <category term="Linux"/>
 
         <updated>2020-09-20T11:36:46-05:00</updated>
             <summary>
@@ -127,6 +152,7 @@
         </author>
         <link href="https://aindien.com/using-vectors-in-c.html"/>
         <id>https://aindien.com/using-vectors-in-c.html</id>
+            <category term="C++"/>
 
         <updated>2020-09-13T15:37:26-05:00</updated>
             <summary>
@@ -145,6 +171,7 @@
         </author>
         <link href="https://aindien.com/how-to-use-zoom-securely.html"/>
         <id>https://aindien.com/how-to-use-zoom-securely.html</id>
+            <category term="Zoom"/>
 
         <updated>2020-08-24T22:00:58-05:00</updated>
             <summary>
@@ -163,6 +190,7 @@
         </author>
         <link href="https://aindien.com/intro-to-network-security.html"/>
         <id>https://aindien.com/intro-to-network-security.html</id>
+            <category term="Networking"/>
 
         <updated>2020-09-20T11:47:11-05:00</updated>
             <summary>
@@ -170,23 +198,6 @@
                         <img src="https://aindien.com/media/posts/36/network-security-0.jpg" alt="network security 0" />
                     <p data-pm-slice="1 1 []">In today’s topic, Intro to Network Security, I am going to discuss the different ways you keep yourself and your network safe. As criminals are always trying to penetrate your network, it is important to have a good foundation concerning security.</p>
 
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Networking Essentials</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/networking-essentials.html"/>
-        <id>https://aindien.com/networking-essentials.html</id>
-
-        <updated>2020-10-19T22:07:14-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/35/Networking-Essentials-0.png" alt="Networking Essentials 0" />
-                     Chapter 1 - Networking BasicsBefore I go any farther I need to cover a few basics. This will be at a real high level but I will expand this as time goes on. To make a network you need a few pieces of correct&hellip;
                 ]]>
             </summary>
         <content></content>

@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/how-to-use-pointers-in-c.html",
+            "url": "https://aindien.com/how-to-use-pointers-in-c.html",
+            "title": "How To Use Pointers In C++",
+            "summary": "<p>Pointers may not be the most intuitive of concepts. However, in C++, they can<br>still be useful in the right situation.</p>\n",
+            "image": "https://aindien.com/media/posts/47/startup-photos.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "C++"
+            ],
+            "date_published": "2021-04-13T21:22:42-05:00",
+            "date_modified": "2021-04-13T21:45:27-05:00"
+        },
+        {
             "id": "https://aindien.com/troubleshooting-a-computer-network.html",
             "url": "https://aindien.com/troubleshooting-a-computer-network.html",
             "title": "Troubleshooting A Computer Network",
@@ -19,6 +34,7 @@
                 "name": "Jason Moore"
             },
             "tags": [
+                   "Networking"
             ],
             "date_published": "2021-02-09T14:58:33-06:00",
             "date_modified": "2021-02-09T23:19:39-06:00"
@@ -33,6 +49,7 @@
                 "name": "Jason Moore"
             },
             "tags": [
+                   "Linux"
             ],
             "date_published": "2020-11-24T06:56:26-06:00",
             "date_modified": "2020-11-24T07:03:30-06:00"
@@ -47,6 +64,7 @@
                 "name": "Jason Moore"
             },
             "tags": [
+                   "C++"
             ],
             "date_published": "2020-10-19T06:52:14-05:00",
             "date_modified": "2020-10-19T22:02:57-05:00"
@@ -61,6 +79,7 @@
                 "name": "Jason Moore"
             },
             "tags": [
+                   "Networking"
             ],
             "date_published": "2020-09-25T06:28:59-05:00",
             "date_modified": "2020-09-25T06:39:47-05:00"
@@ -75,6 +94,7 @@
                 "name": "Jason Moore"
             },
             "tags": [
+                   "Linux"
             ],
             "date_published": "2020-09-20T10:57:08-05:00",
             "date_modified": "2020-09-20T11:38:41-05:00"
@@ -89,6 +109,7 @@
                 "name": "Jason Moore"
             },
             "tags": [
+                   "Linux"
             ],
             "date_published": "2020-09-19T13:44:17-05:00",
             "date_modified": "2020-09-20T11:36:46-05:00"
@@ -103,6 +124,7 @@
                 "name": "Jason Moore"
             },
             "tags": [
+                   "C++"
             ],
             "date_published": "2020-09-13T15:22:17-05:00",
             "date_modified": "2020-09-13T15:37:26-05:00"
@@ -117,6 +139,7 @@
                 "name": "Jason Moore"
             },
             "tags": [
+                   "Zoom"
             ],
             "date_published": "2020-08-24T21:19:05-05:00",
             "date_modified": "2020-08-24T22:00:58-05:00"
@@ -131,23 +154,10 @@
                 "name": "Jason Moore"
             },
             "tags": [
+                   "Networking"
             ],
             "date_published": "2020-08-10T21:49:32-05:00",
             "date_modified": "2020-09-20T11:47:11-05:00"
-        },
-        {
-            "id": "https://aindien.com/networking-essentials.html",
-            "url": "https://aindien.com/networking-essentials.html",
-            "title": "Networking Essentials",
-            "summary": " Chapter 1 - Networking BasicsBefore I go any farther I need to cover a few basics. This will be at a real high level but I will expand this as time goes on. To make a network you need a few pieces of correct&hellip;",
-            "image": "https://aindien.com/media/posts/35/Networking-Essentials-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-08-04T22:58:01-05:00",
-            "date_modified": "2020-10-19T22:07:14-05:00"
         }
     ]
 }
