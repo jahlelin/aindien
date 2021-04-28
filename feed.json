@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/the-linux-shell-for-beginners.html",
+            "url": "https://aindien.com/the-linux-shell-for-beginners.html",
+            "title": "The Linux Shell For Beginners",
+            "summary": "<p>The shell or command line interface has many great features and makes you into a better computer user. In this section I will go into details of how that happens.</p>\n",
+            "image": "https://aindien.com/media/posts/48/linux-shell-for-beginners-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2021-04-27T22:35:05-05:00",
+            "date_modified": "2021-04-27T23:26:56-05:00"
+        },
+        {
             "id": "https://aindien.com/how-to-use-pointers-in-c.html",
             "url": "https://aindien.com/how-to-use-pointers-in-c.html",
             "title": "How To Use Pointers In C++",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2020-08-24T21:19:05-05:00",
             "date_modified": "2020-08-24T22:00:58-05:00"
-        },
-        {
-            "id": "https://aindien.com/intro-to-network-security.html",
-            "url": "https://aindien.com/intro-to-network-security.html",
-            "title": "Intro To Network Security",
-            "summary": "<p data-pm-slice=\"1 1 []\">In today’s topic, Intro to Network Security, I am going to discuss the different ways you keep yourself and your network safe. As criminals are always trying to penetrate your network, it is important to have a good foundation concerning security.</p>\n",
-            "image": "https://aindien.com/media/posts/36/network-security-0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Networking"
-            ],
-            "date_published": "2020-08-10T21:49:32-05:00",
-            "date_modified": "2020-09-20T11:47:11-05:00"
         }
     ]
 }

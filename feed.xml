@@ -3,12 +3,31 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2021-04-13T21:45:27-05:00</updated>
+    <updated>2021-04-27T23:26:56-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>The Linux Shell For Beginners</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/the-linux-shell-for-beginners.html"/>
+        <id>https://aindien.com/the-linux-shell-for-beginners.html</id>
+            <category term="Linux"/>
+
+        <updated>2021-04-27T23:26:56-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/48/linux-shell-for-beginners-0.png" alt="" />
+                    <p>The shell or command line interface has many great features and makes you into a better computer user. In this section I will go into details of how that happens.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Use Pointers In C++</title>
         <author>
@@ -178,25 +197,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/37/how-to-use-zoom-securely-0.png" alt="how to use zoom securely 0" />
                     <p data-pm-slice="0 0 []">With many people having to work from home, Zoom has become an important solution. Since remote work is now so popular, it is vital to understand how to be safe.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Intro To Network Security</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/intro-to-network-security.html"/>
-        <id>https://aindien.com/intro-to-network-security.html</id>
-            <category term="Networking"/>
-
-        <updated>2020-09-20T11:47:11-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/36/network-security-0.jpg" alt="network security 0" />
-                    <p data-pm-slice="1 1 []">In today’s topic, Intro to Network Security, I am going to discuss the different ways you keep yourself and your network safe. As criminals are always trying to penetrate your network, it is important to have a good foundation concerning security.</p>
 
                 ]]>
             </summary>
