@@ -10,6 +10,36 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/powershell-essentials.html",
+            "url": "https://aindien.com/powershell-essentials.html",
+            "title": "Powershell Essentials",
+            "summary": "<p>In this powershell essentials guide, I will go over most of the important topics in a business environment.</p>\n",
+            "image": "https://aindien.com/media/posts/50/corona.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Powershell"
+            ],
+            "date_published": "2021-05-13T22:48:32-05:00",
+            "date_modified": "2021-05-13T22:58:19-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-run-powershell-commands.html",
+            "url": "https://aindien.com/how-to-run-powershell-commands.html",
+            "title": "How To Run Powershell Commands",
+            "summary": "<p>Powershell is a shell that allows you to run commands. In this chapter, I will show you how to make the most of this.</p>\n",
+            "image": "https://aindien.com/media/posts/49/squircle1.svg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Powershell"
+            ],
+            "date_published": "2021-05-13T22:31:49-05:00",
+            "date_modified": "2021-05-13T22:42:51-05:00"
+        },
+        {
             "id": "https://aindien.com/the-linux-shell-for-beginners.html",
             "url": "https://aindien.com/the-linux-shell-for-beginners.html",
             "title": "The Linux Shell For Beginners",
@@ -22,7 +52,7 @@
                    "Linux"
             ],
             "date_published": "2021-04-27T22:35:05-05:00",
-            "date_modified": "2021-04-27T23:26:56-05:00"
+            "date_modified": "2021-04-28T20:53:45-05:00"
         },
         {
             "id": "https://aindien.com/how-to-use-pointers-in-c.html",
@@ -128,36 +158,6 @@
             ],
             "date_published": "2020-09-19T13:44:17-05:00",
             "date_modified": "2020-09-20T11:36:46-05:00"
-        },
-        {
-            "id": "https://aindien.com/using-vectors-in-c.html",
-            "url": "https://aindien.com/using-vectors-in-c.html",
-            "title": "Using Vectors In C++",
-            "summary": "<p>The Vector container in C++ is very useful. It will be the better option when you want to store data in an array. Vector has several advantages over a traditional array structure. This makes it more flexible.</p>\n",
-            "image": "https://aindien.com/media/posts/38/using-vectors-in-c-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "C++"
-            ],
-            "date_published": "2020-09-13T15:22:17-05:00",
-            "date_modified": "2020-09-13T15:37:26-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-use-zoom-securely.html",
-            "url": "https://aindien.com/how-to-use-zoom-securely.html",
-            "title": "How To Use Zoom Securely",
-            "summary": "<p data-pm-slice=\"0 0 []\">With many people having to work from home, Zoom has become an important solution. Since remote work is now so popular, it is vital to understand how to be safe.</p>\n",
-            "image": "https://aindien.com/media/posts/37/how-to-use-zoom-securely-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Zoom"
-            ],
-            "date_published": "2020-08-24T21:19:05-05:00",
-            "date_modified": "2020-08-24T22:00:58-05:00"
         }
     ]
 }

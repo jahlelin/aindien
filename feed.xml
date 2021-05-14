@@ -3,12 +3,50 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2021-04-27T23:26:56-05:00</updated>
+    <updated>2021-05-13T22:58:19-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Powershell Essentials</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/powershell-essentials.html"/>
+        <id>https://aindien.com/powershell-essentials.html</id>
+            <category term="Powershell"/>
+
+        <updated>2021-05-13T22:58:19-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/50/corona.jpg" alt="" />
+                    <p>In this powershell essentials guide, I will go over most of the important topics in a business environment.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How To Run Powershell Commands</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-run-powershell-commands.html"/>
+        <id>https://aindien.com/how-to-run-powershell-commands.html</id>
+            <category term="Powershell"/>
+
+        <updated>2021-05-13T22:42:51-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/49/squircle1.svg" alt="" />
+                    <p>Powershell is a shell that allows you to run commands. In this chapter, I will show you how to make the most of this.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>The Linux Shell For Beginners</title>
         <author>
@@ -18,7 +56,7 @@
         <id>https://aindien.com/the-linux-shell-for-beginners.html</id>
             <category term="Linux"/>
 
-        <updated>2021-04-27T23:26:56-05:00</updated>
+        <updated>2021-04-28T20:53:45-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/48/linux-shell-for-beginners-0.png" alt="" />
@@ -159,44 +197,6 @@
                         <img src="https://aindien.com/media/posts/40/Linux-Essentials-0.png" alt="Linux Essentials" />
                     <p>In this living document I will be talking about the Linux essentials that I think everyone will need to know if they use this wonderful software.</p>
 <p> </p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Using Vectors In C++</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/using-vectors-in-c.html"/>
-        <id>https://aindien.com/using-vectors-in-c.html</id>
-            <category term="C++"/>
-
-        <updated>2020-09-13T15:37:26-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/38/using-vectors-in-c-0.png" alt="using vectors in c++" />
-                    <p>The Vector container in C++ is very useful. It will be the better option when you want to store data in an array. Vector has several advantages over a traditional array structure. This makes it more flexible.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Use Zoom Securely</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-use-zoom-securely.html"/>
-        <id>https://aindien.com/how-to-use-zoom-securely.html</id>
-            <category term="Zoom"/>
-
-        <updated>2020-08-24T22:00:58-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/37/how-to-use-zoom-securely-0.png" alt="how to use zoom securely 0" />
-                    <p data-pm-slice="0 0 []">With many people having to work from home, Zoom has become an important solution. Since remote work is now so popular, it is vital to understand how to be safe.</p>
 
                 ]]>
             </summary>

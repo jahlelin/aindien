@@ -286,7 +286,7 @@
 </url>
 <url>
 <loc>https://aindien.com/google-docs-tutorial-for-beginners.html</loc>
-<lastmod>2019-11-29T22:14:30-06:00</lastmod>
+<lastmod>2021-05-10T20:04:39-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\18/docs0-1.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -541,6 +541,14 @@
 </image:image>
 </url>
 <url>
+<loc>https://aindien.com/how-to-run-powershell-commands.html</loc>
+<lastmod>2021-05-13T22:42:51-05:00</lastmod>
+<image:image>
+<image:loc>https://aindien.com/media\posts\49/squircle1.svg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://aindien.com/how-to-start-with-arrays-in-c.html</loc>
 <lastmod>2020-08-04T22:56:43-05:00</lastmod>
 <image:image>
@@ -558,7 +566,7 @@
 </url>
 <url>
 <loc>https://aindien.com/how-to-use-raid-on-your-computer.html</loc>
-<lastmod>2019-11-29T22:19:52-06:00</lastmod>
+<lastmod>2021-05-10T20:03:46-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\22/how-to-use-raid-in-your-computer-0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -738,7 +746,7 @@
 </url>
 <url>
 <loc>https://aindien.com/networking-essentials.html</loc>
-<lastmod>2021-04-20T11:43:39-05:00</lastmod>
+<lastmod>2021-04-28T21:24:43-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\35/Networking-Essentials-0.png</image:loc>
 <image:title><![CDATA[Networking Essentials 0]]></image:title>
@@ -751,8 +759,16 @@
 <loc>https://aindien.com/page/3/</loc>
 </url>
 <url>
+<loc>https://aindien.com/powershell-essentials.html</loc>
+<lastmod>2021-05-13T22:58:19-05:00</lastmod>
+<image:image>
+<image:loc>https://aindien.com/media\posts\50/corona.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://aindien.com/powershell-for-beginners.html</loc>
-<lastmod>2020-05-19T13:58:26-05:00</lastmod>
+<lastmod>2021-05-10T20:07:53-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -924,7 +940,7 @@
 </url>
 <url>
 <loc>https://aindien.com/the-linux-shell-for-beginners.html</loc>
-<lastmod>2021-04-27T23:26:56-05:00</lastmod>
+<lastmod>2021-04-28T20:53:45-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\48/linux-shell-for-beginners-0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
