@@ -69,6 +69,10 @@
 </image:image>
 </url>
 <url>
+<loc>https://aindien.com/about-me.html</loc>
+<lastmod>2021-05-29T08:54:14-05:00</lastmod>
+</url>
+<url>
 <loc>https://aindien.com/aindiens-guide-to-digital-analytics-principles.html</loc>
 <lastmod>2020-09-20T11:46:47-05:00</lastmod>
 <image:image>
@@ -230,7 +234,7 @@
 </url>
 <url>
 <loc>https://aindien.com/c-essentials.html</loc>
-<lastmod>2020-10-19T22:10:38-05:00</lastmod>
+<lastmod>2021-05-20T23:28:02-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\33/c-essentials-0.png</image:loc>
 <image:title><![CDATA[c++ essentials 0]]></image:title>
@@ -746,7 +750,7 @@
 </url>
 <url>
 <loc>https://aindien.com/networking-essentials.html</loc>
-<lastmod>2021-04-28T21:24:43-05:00</lastmod>
+<lastmod>2021-05-20T23:29:51-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\35/Networking-Essentials-0.png</image:loc>
 <image:title><![CDATA[Networking Essentials 0]]></image:title>
@@ -856,26 +860,6 @@
 <image:image>
 <image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-21.png</image:loc>
 <image:title><![CDATA[Powershell For Beginners 21]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://aindien.com/scaling-your-network-in-2016.html</loc>
-<lastmod>2020-09-20T12:20:36-05:00</lastmod>
-<image:image>
-<image:loc>https://aindien.com/media\posts\3/keyboard-453760_1920.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\3/scale_network2.png</image:loc>
-<image:title><![CDATA[scaling your network]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\3/scale_network3.png</image:loc>
-<image:title><![CDATA[scaling your network]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\3/scale_network4.png</image:loc>
-<image:title><![CDATA[scaling your network]]></image:title>
 </image:image>
 </url>
 <url>

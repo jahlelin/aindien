@@ -1,0 +1,586 @@
+<!doctype html><html amp lang="en"><head><meta charset="utf-8"><title>Powershell Essentials - Aindien&#x27;s Computer Guides</title><meta name="description" content="In this powershell essentials guide, I will go over most of the important topics in a business environment."><link rel="canonical" href="https://aindien.com/powershell-essentials.html"><meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"><link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" type="text/css"><script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script><script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script><script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script><script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://aindien.com/amp/powershell-essentials.html"},"headline":"Powershell Essentials","datePublished":"2021-05-13T22:48","dateModified":"2021-05-13T22:58","image":{"@type":"ImageObject","url":"https://aindien.com/media/posts/50/corona.jpg","height":800,"width":800},"description":"In this powershell essentials guide, I will go over most of the important topics in a business environment.","author":{"@type":"Person","name":"Jason Moore"},"publisher":{"@type":"Organization","name":"Jason Moore"}}</script><style amp-custom>article,
+aside,
+footer,
+header,
+hgroup,
+main,
+nav,
+section {
+  display: block; }
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  margin: 0;
+  padding: 0; }
+
+li {
+  list-style: none; }
+
+amp-img {
+  max-width: 100%; }
+
+button,
+input,
+select,
+textarea {
+  font: inherit; }
+
+html {
+  font-size: 1rem; }
+
+body {
+  background: #f1f1f1;
+  color: #262626;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  line-height: 1.6; }
+
+a {
+  color:  #039be5;
+  text-decoration: none;
+  -webkit-transition: all 0.12s linear 0s;
+  -o-transition: all 0.12s linear 0s;
+  transition: all 0.12s linear 0s; }
+
+a:hover {
+  color: #262626;
+  text-decoration: underline;
+  -webkit-text-decoration-skip: ink;
+  text-decoration-skip: ink; }
+
+a:active {
+  color: #262626; }
+
+a:focus {
+  outline: 2px dotted #039be5; }
+
+figure,
+blockquote,
+p,
+ul,
+ol,
+dl,
+table,
+hr,
+fieldset {
+  margin-top: 1.6rem; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #262626;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+  margin-top: 2.13333rem; }
+
+h1 {
+  font-size: 1.67583rem;
+  font-weight: normal; }
+
+h2 {
+  font-size: 1.4729rem; }
+
+h3 {
+  font-size: 1.29454rem; }
+
+h4 {
+  font-size: 1.13778rem; }
+
+h5 {
+  font-size: 1rem; }
+
+h6 {
+  font-size: 0.87891rem; }
+
+h2 + p,
+h3 + p,
+h4 + p,
+h5 + p,
+h6 + p {
+  margin-top: 0.8rem; }
+
+b,
+strong {
+  font-weight: 600; }
+
+blockquote {
+  color: #6c7175;
+  font-family: "Droid Serif", "Times", "Source Serif Pro", serif;
+  font-style: italic;
+  padding: 1.33333rem 0.53333rem 1.33333rem 3.2rem;
+  position: relative; }
+  blockquote:before {
+    display: block;
+    content: "\201C";
+    font-size: 4.41226rem;
+    position: absolute;
+    left: 0;
+    top: -12px;
+    color: rgba(108, 113, 117, 0.5); }
+  blockquote > :nth-child(1) {
+    margin-top: 0; }
+
+ul,
+ol {
+  margin-left: 2rem; }
+  ul > li,
+  ol > li {
+    list-style: inherit;
+    padding: 0 0 0.26667rem 0.26667rem; }
+
+dl dt {
+  color: #262626;
+  font-weight: 600; }
+
+code,
+pre {
+  background-color: #f1f1f1;
+  font-family: monospace; }
+
+pre {
+  margin: 1.6rem 0 0;
+  padding: 1.6rem;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  overflow-x: auto; }
+  pre > code {
+    color: #262626;
+    padding: 0; }
+
+code {
+  border-radius: 3px;
+  color: #262626;
+  padding: 0.26667rem 0.53333rem; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid #d4d4d4;
+  width: 100%;
+  overflow-x: auto;
+  vertical-align: top;
+  text-align: left;
+  white-space: nowrap; }
+  table th {
+    font-weight: 500;
+    padding: 0.53333rem 1.06667rem; }
+  table tr {
+    border-bottom: 1px solid #d4d4d4; }
+    table tr:nth-child(2n) {
+      background: #f1f1f1; }
+  table td {
+    padding: 0.53333rem 1.06667rem; }
+
+figcaption {
+  clear: both;
+  color: rgba(108, 113, 117, 0.6);
+  font-size: 0.82397rem;
+  margin: 0.8rem 0 0;
+  text-align: center; }
+
+sub,
+sup {
+  font-size: 65%; }
+
+hr {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3); }
+
+.btn, [type=button],
+[type=submit],
+button {
+  background: #039be5;
+  border: none;
+  border-radius: 2px;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 0.87891rem;
+  font-weight: 500;
+  line-height: 1.9;
+  padding: 0.53333rem 1.33333rem;
+  text-align: center;
+  text-decoration: none;
+  -webkit-transition: all .15s ease;
+  -o-transition: all .15s ease;
+  transition: all .15s ease;
+  width: auto; }
+  .btn:hover, [type=button]:hover,
+  [type=submit]:hover,
+  button:hover {
+    background: #262626;
+    color: #ffffff; }
+  .btn:focus, [type=button]:focus,
+  [type=submit]:focus,
+  button:focus {
+    outline: none; }
+  .btn-outline {
+    border: 1px solid #ddd;
+    background: #ffffff;
+    border-radius: 3px;
+    color: #262626; }
+
+[type=button],
+[type=submit],
+button {
+  text-transform: uppercase;
+  -webkit-appearance: none;
+  -moz-appearance: none; }
+
+.navbar {
+  background: #039be5;
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.2);
+  line-height: 3;
+  max-height: 4rem; }
+  .navbar > div {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: left;
+    max-width: 700px;
+    margin: 0 auto; }
+  .navbar a {
+    color: #ffffff;
+    text-decoration: none; }
+  .navbar-sidebar-toggle {
+    left: 0;
+    position: relative;
+    text-indent: -99999rem; }
+    .navbar-sidebar-toggle:before {
+      content: "";
+      display: block;
+      border-top: 0.375rem double #ffffff;
+      border-bottom: 0.125rem solid #ffffff;
+      height: 0.125rem;
+      position: absolute;
+      text-indent: 0;
+      top: 50%;
+      width: 1.3rem;
+      -webkit-transform: translate(0px, -50%);
+      -ms-transform: translate(0px, -50%);
+      transform: translate(0px, -50%); }
+
+
+.logo {
+            display: inline-block;
+  font-weight: 600;
+  line-height: 1;
+            margin: 0 auto;
+            height: 2rem;
+            text-indent: -9999px;
+            width: 240px;vertical-align: middle;
+        }
+        .logo.logo-text {
+            line-height: 2;
+            text-align: center;
+            text-indent: 0;
+        }
+
+amp-sidebar {
+  background: #ffffff;
+  width: 240px; }
+  amp-sidebar > ul {
+    margin: 0.8rem 0 0;
+    padding: 0; }
+    amp-sidebar > ul ul {
+      border-left: 1px solid #d4d4d4;
+      margin: 0.53333rem 0 0; }
+    amp-sidebar > ul li {
+      color: #262626;
+      font-size: 0.9375rem;
+      font-weight: 600;
+      list-style: none;
+      line-height: 1.4;
+      padding: 0.42667rem 1.06667rem; }
+      amp-sidebar > ul li li {
+        font-weight: normal;
+        padding: 0.26667rem 0 0.26667rem 1.06667rem; }
+    amp-sidebar > ul a,
+    amp-sidebar > ul a:visited {
+      color: #262626; }
+
+.bg-white {
+  background: #ffffff; }
+
+.wrap-page {
+  max-width: 700px;
+  margin: 0 auto; }
+
+@media all and (max-width: 43.6875em) {
+  .wrap-inner {
+    padding: 0 6%; } }
+
+.page-title {
+  background: #ffffff;
+  -webkit-box-shadow: 0 2px 3px rgba(38, 38, 38, 0.1);
+  box-shadow: 0 2px 3px rgba(38, 38, 38, 0.1);
+  margin-bottom: 0.8rem;
+  padding: 1.6rem 6%; }
+  .page-title > h1 {
+    margin: 0;
+    font-size: 1.29454rem; }
+  .page-title > p {
+    font-size: 0.87891rem;
+    color: #6c7175;
+    line-height: 1.3;
+    margin: 0.26667rem 0 0; }
+  .page-title-author {
+    border-radius: 50%;
+    float: left;
+    height: 2.5rem;
+    width: 2.5rem; }
+    .page-title-author + h1 {
+      margin-left: 3.5rem; }
+      .page-title-author + h1 + p {
+        margin-left: 3.5rem; }
+
+.card {
+  background: #ffffff;
+  -webkit-box-shadow: 0 2px 3px rgba(38, 38, 38, 0.1);
+  box-shadow: 0 2px 3px rgba(38, 38, 38, 0.1);
+  margin-bottom: 0.8rem;
+  padding-bottom: 1.06667rem; }
+
+  .card-meta {
+    border-top: 1px solid #d4d4d4;
+    color: rgba(108, 113, 117, 0.6);
+    font-size: 0.7242rem;
+    font-weight: 500;
+    margin-top: 1.06667rem;
+    padding-top: 1.06667rem;
+    text-transform: uppercase; }
+    .card-meta a + time:before {
+      content: "";
+      background: #d4d4d4;
+      display: inline-block;
+      height: 3px;
+      margin: 0 8px;
+      width: 3px;
+      vertical-align: middle;
+      border-radius: 50%; }
+  .card-text {
+    font-size: 0.9375rem;
+    overflow: hidden;
+    padding: 0 6%; }
+    .card-text h2 {
+      font-size: 1.13778rem; }
+
+.post {
+  margin-bottom: 2.13333rem; }
+  .post-featured-image {
+    margin-top: 0;
+    position: relative; }
+    .post-featured-image > figcaption {
+      background: rgba(0, 0, 0, 0.5);
+      border-radius: 3px;
+      color: #ffffff;
+      position: absolute;
+      bottom: 0.8rem;
+      padding: 0 0.26667rem;
+      right: 6%; }
+  .post-header {
+    margin-bottom: 2.13333rem; }
+  .post-meta {
+    border-bottom: 1px solid #d4d4d4;
+    color: rgba(108, 113, 117, 0.6);
+    font-size: 0.7242rem;
+    font-weight: 500;
+    margin-top: 1.06667rem;
+    padding-bottom: 1.06667rem;
+    text-transform: uppercase; }
+    .post-meta a + time:before {
+      content: "";
+      background: #d4d4d4;
+      display: inline-block;
+      height: 3px;
+      margin: 0 8px;
+      width: 3px;
+      vertical-align: middle;
+      border-radius: 50%; }
+  .post-tag {
+    margin: 0; }
+    .post-tag > li {
+      display: inline-block;
+      padding: 0; }
+      .post-tag > li a {
+        background: #f1f1f1;
+        border-radius: 2px;
+        color: #6c7175;
+        font-size: 0.77248rem;
+        display: inline-block;
+        margin: 0 0.26667rem 0.26667rem 0;
+        padding: 0.26667rem 0.53333rem; }
+        .post-tag > li a:hover {
+          background: #039be5;
+          color: #ffffff;
+          text-decoration: none; }
+  .post-share {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: 1.6rem;
+    width: 100%; }
+    .post-share amp-social-share {
+      -webkit-box-flex: 1;
+      -ms-flex: 1 0 auto;
+      flex: 1 0 auto;
+      background-size: 24px; }
+  .post-scroll {
+    color: #ffffff;
+    background: #039be5;
+    bottom: 10px;
+    border-radius: 50%;
+    border: none;
+    -webkit-box-shadow: 0 1px 1.5px 0 rgba(38, 38, 38, 0.12), 0 1px 1px 0 rgba(38, 38, 38, 0.24);
+    box-shadow: 0 1px 1.5px 0 rgba(38, 38, 38, 0.12), 0 1px 1px 0 rgba(38, 38, 38, 0.24);
+    font-size: 1.13778rem;
+    height: 46px;
+    opacity: 0;
+    outline: none;
+    position: fixed;
+    padding: 0;
+    right: 4%;
+    visibility: hidden;
+    width: 46px;
+    z-index: 9999; }
+    .post-scroll-marker {
+      height: 0px;
+      position: absolute;
+      top: 100px;
+      width: 0px; }
+        .post-pagination {
+    background: #f1f1f1;
+    -webkit-box-shadow: inset 0 2px 3px rgba(38, 38, 38, 0.1);
+    box-shadow: inset 0 2px 3px rgba(38, 38, 38, 0.1);
+    border-top: 1px solid #d4d4d4;
+    padding: 1.06667rem 0; }
+    .post-pagination > div {
+      line-height: 1.2;
+      padding: 0.53333rem 1.06667rem;
+      text-align: center; }
+      .post-pagination > div span {
+        display: block;
+        color: #6c7175;
+        font-size: 0.7242rem;
+        font-weight: 500;
+        margin-bottom: 0.26667rem;
+        text-transform: uppercase; }
+    .post-pagination-prev a:before {
+      content: "\2190";
+      margin-right: 0.26667rem; }
+    .post-pagination-next a:after {
+      content: "\2192";
+      margin-left: 0.26667rem; }
+
+aside {
+  margin: 1.6rem 0 0; }
+
+.align-left {
+  text-align: left; }
+
+.align-right {
+  text-align: right; }
+
+.align-center {
+  text-align: center; }
+
+.align-justify {
+  text-align: justify; }
+
+.msg {
+  border-left: 2px solid transparent;
+  padding: 1.06667rem 1.06667rem; }
+  .msg--highlight {
+    background-color: #fff8e6;
+    border-color: #e2ac4f; }
+  .msg--info {
+    background: rgba(45, 97, 201, 0.03);
+    border-color: #039be5; }
+  .msg--success {
+    background: #f7fbf6;
+    border-color: #5ab44b; }
+  .msg--warning {
+    background: #fff3f3;
+    border-color: #c06367;
+    color: #a94442; }
+
+.dropcap:first-letter {
+  float: left;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 2.16943rem;
+  line-height: 0.7;
+  margin-right: 0.53333rem;
+  padding: 0.53333rem 0.53333rem 0.53333rem 0; }
+
+.pagination {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin: 0.8rem 0; }
+  .pagination > a {
+    padding-left: 0;
+    padding-right: 0;
+    width: 49%; }
+  .pagination-right {
+    margin-left: auto; }
+
+.bottom {
+  background: #039be5;
+  color: #ffffff;
+  padding: 1.06667rem 4%;
+  text-align: center; }
+
+    /*
+ * Put your custom CSS code here (it will be used only in the AMP mode)
+ */</style><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript><script async src="https://cdn.ampproject.org/v0.js"></script><script custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js" async></script><script custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js" async></script></head><body class="bg-white"><nav class="navbar wrap-inner" id="top"><div><a on="tap:navbar-sidebar.toggle" class="navbar-sidebar-toggle" title="Menu">Menu</a> <a class="logo logo-text" href="https://aindien.com/amp/">Aindien&#x27;s Computer Guides</a></div></nav><main class="wrap-page"><article class="post"><figure class="post-featured-image"><amp-img src="https://aindien.com/media/posts/50/corona.jpg" alt="" srcset="https://aindien.com/media/posts/50/responsive/corona-xs.jpg 300w ,https://aindien.com/media/posts/50/responsive/corona-sm.jpg 480w ,https://aindien.com/media/posts/50/responsive/corona-md.jpg 768w" sizes="(max-width: 768px) 100vw, 768px" height="800" layout="responsive" width="800"></amp-img><figcaption>wow patterns</figcaption></figure><div class="wrap-inner"><header class="post-header"><h1>Powershell Essentials</h1><p class="post-meta">By <a href="https://aindien.com/amp/authors/jason-moore/" rel="nofollow" title="Jason Moore">Jason Moore</a> <time datetime="2021-05-13T22:48">May 13, 2021</time></p></header><p>In this powershell essentials guide, I will go over most of the important topics in a business environment.</p><p> </p><h2 class="align-center"><strong>Chapter 1 - Powershell For Beginners</strong></h2><p> </p><p>It has been around a long time and has been through several versions already. Many information technology people have waited to become familiar with this tool. They did so because many were not sure it would continue to be supported in the future.</p><p>Well we now know that not only has it continued to be supported but it is the preferred way by many to administer a Windows environment. So continue with me and we will discuss the basics so that you can go on and make this a long learning endeavor.</p><p>Powershell is a command oriented scripting environment. This means that you can open up a console and run a series of commands to accomplish various tasks. It also means that you can run a series of commands as a script over and over.</p><p>Scripting is very important for your environment as it lets you automate certain tasks over and over.</p><p>If you work in <a href="http://aindien.com/how-to-make-the-jump-to-system-administrator.html">information technology</a> then you need to start learning this as soon as possible. There is much you can do with it and there will be even more you can do with it in the future. It will help you earn more money in your career too. Who can really argue with that?</p><h3><strong>Using The Help System</strong></h3><p> </p><p>So you have convinced yourself to start learning Powershell for beginners. Now what? The single best piece piece of advice I can give is to learn the help system. Let me give you a short example. I was asked the other day to do something.</p><p>I had no idea at the time how to do it. So I went to my desk and opened up the console and started the help system. From a console it is [get-help] and looks like this.</p><figure class="aligncenter wp-image-833 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/powershell-for-beginners-1.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/powershell-for-beginners-1-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/powershell-for-beginners-1-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/powershell-for-beginners-1-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/powershell-for-beginners-1-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/powershell-for-beginners-1-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/powershell-for-beginners-1-2xl.png 1600w" alt="powershell for beginners 1" width="1090" height="182" layout="responsive"></amp-img></figure><p>I had a slight idea of what command I would need and looked at the help options for it. I was actually wrong the first time so then tried another option which would work eventually.</p><p>The important thing to learn here is that using the help system allows you to see the options and arguments with helpful descriptions to see if a command might work for you.</p><figure class="aligncenter wp-image-834 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-for-Beginners-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-for-Beginners-2-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-for-Beginners-2-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-for-Beginners-2-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-for-Beginners-2-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-for-Beginners-2-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-for-Beginners-2-2xl.png 1600w" alt="Powershell for Beginners 2" width="1086" height="255" layout="responsive"></amp-img></figure><p>I wanted to import a third party module and the help showed me how to do it.</p><p>To start lets make sure you have the current version of help so you have all of its benefits. Type the command in yellow at your prompt.</p><figure class="aligncenter wp-image-835 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-3-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-3-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-3-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-3-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-3-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-3-2xl.png 1600w" alt="Powershell For Beginners 3" width="1087" height="179" layout="responsive"></amp-img></figure><p>The help system will even give examples. This is especially handy like when your totally unfamiliar with a command. Below is an example.</p><figure class="aligncenter wp-image-836 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-4.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-4-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-4-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-4-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-4-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-4-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-4-2xl.png 1600w" alt="Powershell For Beginners 4" width="1077" height="357" layout="responsive"></amp-img></figure><p>As you can see it shows two different examples of how to use this command. There were actually lots of examples but the following ones get more and more niche.</p><h3><strong>Powershell Terminology</strong></h3><p> </p><p>There are several terms you should know in this Powershell for beginners guide. They are not difficult at all but will help so you know what the help system is trying to tell you.</p><ul><li>Cmdlet</li><li>Parameter</li><li>Alias</li><li>Function</li><li>Variable</li><li>Module</li></ul><p>A Cmdlet is the command you will be typing. It has a nice naming convention that will be of the verb-noun format. The verb parts are actions that do something. Example of verbs are import, set, get, and stop.</p><p>The noun parts are what the verbs act upon. This could be module, process, help, or service.</p><p>Parameters customize what a Cmdlet will do. You will see the parameters of a Cmdlet when using the help for it. To use a parameter you will use a dash, a space, the parameter name, another space, and a value.</p><p>An Alias is another form of a Cmdlet that you use a lot. It is a shortcut basically. You can make an Alias by the below syntax.</p><figure class="wp-image-837 size-large"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-5-1024x527.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-5-1024x527-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-5-1024x527-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-5-1024x527-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-5-1024x527-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-5-1024x527-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-5-1024x527-2xl.png 1600w" alt="Powershell For Beginners 5" width="1024" height="527" layout="responsive"></amp-img></figure>Powershell For Beginners<p></p><p>You can see from the above command that I made a shortcut to calc.exe and named it just c. So then when I typed c at the prompt my calculator opened. You can do this for any Cmdlet to save you time so make use of it when the need arises.</p><p>A Function is a piece of code that is re-usable. If you have any programming experience at all then you are already familiar with this terminology.</p><p>Variables are just the same as they are in <a href="http://aindien.com/how-to-read-data-from-a-file-with-c.html">programming languages</a>. They hold values. It is like an empty box until it has a value.</p><p>Modules are a series of commands that are related to other products usually.</p><h3><strong>Piping Commands</strong></h3><p> </p><p>Powershell, just like other tools, can send the output of one command into another command. This is called piping. In the syntax you do it with a vertical bar just like with Unix. Look at the following example.</p><p>I have a simple text file on my desktop with some content inside. I am going to run two different commands which are [Get-Content] and [Measure-Object].</p><p>However, I am going to do it in one line and pipe the output of [Get-Content] into the [Measure-Object] command so that it can do its magic.</p><figure class="aligncenter wp-image-838 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-6.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-6-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-6-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-6-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-6-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-6-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-6-2xl.png 1600w" alt="Powershell For Beginners 6" width="1093" height="125" layout="responsive"></amp-img></figure><p>I used the [Get-Content] Cmdlet or command followed by the path to my text file that I wanted to analyze with [Measure-Object]. I then used a vertical bar to pipe its output into [Measure-Object].</p><p>You should also notice that I used the parameters character, line, and word for [Measure-Object]. So pretty interesting for sure. This is just one example of piping Powershell for beginners.</p><h3><strong>Running Scripts</strong></h3><p> </p><p>What is scripting? Scripting is the automation of tasks. You usually perform a task every time you type out a full working command in Powershell. To get scripting working you will need to set things up first.</p><p>By default Powershell is set to only run signed scripts. So to run your own scripts you will need to change this behavior. Run the following command below.</p><figure class="aligncenter wp-image-840 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-7.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-7-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-7-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-7-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-7-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-7-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-7-2xl.png 1600w" alt="Powershell For Beginners 7" width="1083" height="129" layout="responsive"></amp-img></figure><p>You will need to run this as an administrator. There are several other execution policies available but this is the one I recommend. You should not use the -unrestricted policy. It is too insecure.</p><h3><strong>Commenting Code</strong></h3><p> </p><p>You should always comment whatever code or commands you type so that you or others will know exactly what is meant. Systems can break with the wrong commands so comment so that everyone knows exactly what is happening or will happen.</p><p>To comment you add a # on the line of code that you do not want to execute.</p><figure class="aligncenter wp-image-841 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-8.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-8-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-8-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-8-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-8-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-8-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-8-2xl.png 1600w" alt="Powershell For Beginners 8" width="1068" height="101" layout="responsive"></amp-img></figure><p>That's easy enough. Lets move on then.</p><h3><strong>Variables</strong></h3><p> </p><p>As mentioned above somewhere, a variable is an empty container. It is waiting to hold a value so that it can be used. The data type of a variable can be a string, integer, decimal, or an array. Variables start with the $ symbol. Here is a basic example.</p><figure class="aligncenter wp-image-842 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-9.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-9-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-9-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-9-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-9-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-9-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-9-2xl.png 1600w" alt="Powershell For Beginners 9" width="1064" height="118" layout="responsive"></amp-img></figure><p>Yes this is very simple but it shows how the variables work. You can do this from the console , like I just did, or  within a script. It works the same way. You could even pipe that into a text file and email it to your boss so he would know how much money to allocate for new equipment.</p><p>The [Write] command just writes the output to the screen so you all could see the results.</p><p>This is a string variable and I include it because it is done slightly different than a numerical variable. See below.</p><figure class="wp-image-843 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-10.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-10-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-10-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-10-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-10-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-10-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-10-2xl.png 1600w" alt="Powershell For Beginners 10" width="1070" height="165" layout="responsive"></amp-img></figure>Powershell For Beginners<p></p><p>Now we are ready to use that variable any time we want.</p><p>If you are working in the console and you want to remove a variable then there are ways to do that.</p><figure class="aligncenter wp-image-846 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-12.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-12-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-12-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-12-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-12-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-12-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-12-2xl.png 1600w" alt="Powershell For Beginners 12" width="1072" height="200" layout="responsive"></amp-img></figure><p>You can see that when I sent the <a href="http://aindien.com/beginning-c-input-output-basics.html">output</a> to the screen at first the variable $Switches had a value of 2. After I removed the variable there was nothing to write to the screen.</p><h3><strong>Arrays</strong></h3><p> </p><p>An Array is a container, like a variable, that holds a definable number of values that are of a single type. Every value inside an Array is called an element. They are indexed starting at 0. An Array can hold numerical or string values.</p><p>Look to my example below to see how to do it.</p><figure class="aligncenter wp-image-845 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-11-1.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-11-1-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-11-1-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-11-1-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-11-1-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-11-1-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-11-1-2xl.png 1600w" alt="Powershell For Beginners 11" width="1066" height="201" layout="responsive"></amp-img></figure><p>That should be easy enough to follow. I made two different arrays with data on the types of phones I have and the respective quantities.</p><h3><strong>Sorting And Filtering</strong></h3><p> </p><p>Sorting and filtering the data that you have will be very important in Powershell for beginners. For example, you may want to do a certain action on only a select few items. You could run a command to find the few that you are looking for and do some action to them.</p><p>Now you may be thinking this is not a big deal if you have 10 total items in your list and you would be right then. If, however, you have 15,000 items in your list or spreadsheet then you will appreciate being able to do this in five minutes instead of weeks.</p><p>I will look again at my phone type array and look for anything that starts with "p".</p><figure class="aligncenter wp-image-847 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-13.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-13-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-13-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-13-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-13-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-13-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-13-2xl.png 1600w" alt="Powershell For Beginners 13" width="1073" height="199" layout="responsive"></amp-img></figure><p>Ok that is helpful. My phone list does not have too many in it but if it did this would take the same amount of time.</p><p>Lets sort my list of phone brands now. That is easily done and will be quite helpful at some point.</p><figure class="wp-image-848 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-14.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-14-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-14-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-14-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-14-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-14-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-14-2xl.png 1600w" alt="Powershell For Beginners 14" width="1071" height="201" layout="responsive"></amp-img></figure>Powershell For Beginners<p></p><p>That is quick and very useful. As you can see I once again piped the output of my array into the sort command. If you want it to sort in descending order then just add the -descending parameter to sort-object.</p><p>You can also sort by length. I am sure this would be useful to someone.</p><figure class="aligncenter wp-image-849 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-15.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-15-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-15-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-15-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-15-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-15-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-15-2xl.png 1600w" alt="Powershell For Beginners 15" width="1071" height="198" layout="responsive"></amp-img></figure><p>There we go. It is pretty cool to be able to manipulate data like this. My phone brands are sorted by the length of their name.</p><h3><strong>Incorporating Logic</strong></h3><p> </p><p>Conditional logic and <a href="http://aindien.com/beginning-c-making-decisions.html">decisions</a> can be very important in Powershell for beginners to run scripts correctly. You might have certain conditions you need to be met before you want certain things to run. It could be your whole script or just portions.</p><p>There are many ways to do this but the most basic is through [if] and [if-else] loops. Here is a short [if] statement.</p><figure class="aligncenter wp-image-851 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-16.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-16-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-16-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-16-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-16-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-16-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-16-2xl.png 1600w" alt="Powershell For Beginners 16" width="1156" height="201" layout="responsive"></amp-img></figure><p>You can see I made a variable and called it [$magnets]. The next line is a statement where I test a basic condition. Since the condition passes (magnets = 5), the next part writes "You have enough magnets" to the screen.</p><p>Now that is okay but we can do better. Another version of an [if] loop is an [if-else] loop. This will let us deal with the problem if the condition is not met.</p><figure class="wp-image-852 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-17.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-17-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-17-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-17-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-17-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-17-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-17-2xl.png 1600w" alt="Powershell For Beginners 17" width="1147" height="200" layout="responsive"></amp-img></figure>Powershell For Beginners<p></p><p>At first you can see that I had [$magnets] equal to 7 and when I ran the condition loop it passed and my success message appeared on the screen. Then, however, I went back and changed my variable [$magnets] to equal 4 and ran my conditional loop again.</p><p>Of course it failed and told me to go back and get more magnets. While this is basic it does show you some of the capabilities of basic programming that Powershell is capable of.</p><h3><strong>Looping</strong></h3><p> </p><p>Looping your <a href="http://aindien.com/essential-linux-commands-to-get-you-started.html">commands</a> and part of your scripts is the next topic I want to talk about in this Powershell for beginners guide. If you have been exposed to any programming before then you knew I was going to get here eventually.</p><p>So what is a loop? Loops are commands or tasks that are repeated until they reach a condition that tells them to stop. So lets do some looping shall we?</p><figure class="aligncenter wp-image-854 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-18.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-18-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-18-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-18-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-18-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-18-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-18-2xl.png 1600w" alt="Powershell For Beginners 18" width="1149" height="200" layout="responsive"></amp-img></figure><p>Alright I admit it, I enjoy playing the Pokemon card game. My son and I play together now after he introduced me to it. These are some of my favorites that I play with and I needed something to put into an array.</p><p>We can also do a [for] loop. These are handy when you want to work on certain elements of an array or just run a loop a certain number of times. Here is an example where 0-13 are output to the screen.</p><figure class="wp-image-855 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-19.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-19-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-19-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-19-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-19-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-19-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-19-2xl.png 1600w" alt="Powershell For Beginners 19" width="1152" height="224" layout="responsive"></amp-img></figure>Powershell For Beginners<p></p><p>The [for] loop looks a bit crazy I know if you have not seen them before but they work like a charm. The first part after [for] initializes the $i variable to 0. In the middle section the ending value of the $i variable is given.</p><p>The last part increments $i step by step. The rest of the line outputs the value of the $i variable one value and step at a time.</p><p>Another type of loop is the [while] loop. It can do a lot too. It just depends on what you need of course. Here is an example of counting down while the variable $n does not equal 0.</p><figure class="aligncenter wp-image-856 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-20.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-20-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-20-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-20-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-20-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-20-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-20-2xl.png 1600w" alt="Powershell For Beginners 20" width="839" height="520" layout="responsive"></amp-img></figure><p>The last major type of loop is a [Do] loop. This is a handy loop when you need to run through your commands at least once. It allows you to loop while the condition is true or false. </p><p>So here is a small [Do] loop where I start my variable $n at 0, then increment for each time the loop runs, prints the value of the variable $n at each loop iteration, until finally the value of the variable $n reaches 10 and the loop exits.</p><figure class="wp-image-858 size-full"><amp-img src="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/Powershell-For-Beginners-21.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-21-xs.png 300w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-21-sm.png 480w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-21-md.png 768w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-21-lg.png 1024w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-21-xl.png 1360w ,file:///C:/Users/Owner/Dropbox/Websites/aindiens-computer-guides/input/media/posts/27/responsive/Powershell-For-Beginners-21-2xl.png 1600w" alt="Powershell For Beginners 21" width="837" height="221" layout="responsive"></amp-img></figure>Powershell For Beginners<p></p><p> </p><h3><strong>Conclusion</strong></h3><p> </p><p>This <a href="https://powershell.org/articles/">Powershell</a> for beginners guide is really a small sampling of the basics. There is still a lot to cover and I hope you will go through all of these examples with me. Hopefully once you do that you will be able to come up with your own testing and experiments.</p><p>That is truly the fun of scripting and programming. Create your own scripts that do something you need to automate. It will be very fun for you and make you more efficient at whatever tasks you need to complete.</p><p> </p><h2 class="align-center"><strong>Chapter 2 - How to Run Powershell Commands</strong></h2><p> </p><p>Running commands is the most basic way to use <a href="https://aindien.com/amp/powershell-for-beginners.html" target="_blank" rel="noopener noreferrer">Powershell for beginners</a>. It is how most people get started. We often have a quick task or need some information quickly on a remote machine.<br><br><br>These kind of uses are ideal for shells. They are ideal because they are quick and reliable. I was a Linux user long before Powershell existed. So when I needed to work on a Windows machine, the first thing I did was learn its shell environment.<br><br><br>Others may look for a tool with a gui and that is perfectly acceptable if that is what you want. However, when you get used to working with shells and their advantages, you never want to use anything else.</p><h3 class="align-center"><br><br><strong>Running A Command</strong></h3><p><br><br>A Powershell command always has a verb-noun structure. Something like:<br><br><br><code>get-content</code><br><br>It is done like this so it is relatively easy to know what the command does. </p><p>You can use the help system to learn how to use a particular command. This will probably be a very often used technique. There have been many times when I have forgot a command and just had to search for it.</p><p>So I do appreciate having this ability built in to the system. It has helped me greatly, as I am fairly forgetful at times.<br><br><br><code>get-help get-content -examples</code><br><br><br>This will give you several details and a few good examples of the command. It does not go into the full depth of the command. That is an option though. The help system will also tell you of any required parameters.<br><br><br>If it is required, then you must supply that information in order for the command to run. If any parameter includes spaces then you will need to enclose it in quotation marks. Commands are also not case sensitive.</p><h3 class="align-center"><br><br><strong>Using Aliases</strong></h3><p><br>Aliases can be a convenient way to remember long commands. It is one of the powershell essentials that will always be useful. Some of these long commands are just a pain. In these instances, using an alias makes a lot of sense. It is what they are for.<br><br><br>There is a nice way to find out if a command has an alias. So, if it is a pain to type or you type it a lot, then try this.<br><br><br><code>get-alias -definition get-content</code><br><br><br>This does indeed tell us there is an alias for the "get-content" command.<br>It is "gc".<br><br><br>If you need to know what an alias is, then there is a way for that also. I know I can never remember anything but the most basic ones. I end up having to use this a lot. People like to use aliases when they write code.<br><br><br><code>help gc</code><br><br><br>This will give you the full command and all of its details.</p><p> </p><h3 class="align-center"><strong>Useful Commands</strong></h3><p><br><br>For the rest of this chapter I want to go over some of the more useful commands. I want to do this so you will start to become familiar as soon as possible with them.<br><br><br><em><strong><code>get-childitem</code></strong></em><br><br><br>This command will list files in a certain location. Use it like this.<br><br><br><code>get-childitem c:/Documents</code><br><br><br>This is useful when you want to check if there is anything in a directory. You can use the "-recurse" option to list subfolders and files.<br><br><br><em><strong><code>copy-item</code></strong></em><br><br><br>Thanks to Powershell's naming scheme, it is pretty easy to figure out what most commands do. This is a good example. Copying an item to another location is easy with this command.<br><br><br><code>get-childitem c:\users\username -recurse | copy-item -destination c:\folder</code><br><br><br>This reads the information in with the previous command and copies those items to another folder. That's pretty useful!<br><br><br><em><strong><code>export-csv</code></strong></em><br><br><br>When you need reports of things, this is the command to use. It will take the output of another command and make a "csv" file of it. Let's try a few.<br><br><br><code>get-process | export-csv -path c:\export\process_report.csv</code><br><br><br>Put that in your shell and you will get a lot of information about the processes running on your system right now. It will be a file in the folder you just specified. We can make it look a little nicer so lets do that.<br><br><br><code>get-process | export-csv -notypeinformation -path c:\export\process_report.csv</code><br><br><br>That extra flag will hide some of the useless stuff that comes with the file. Now let's customize the information. We can use the "select-object" command to select the columns we want. Let's just see the handles processname.<br><br><br><code>get-process | select-object handles, processname |export-csv -path c:\export\process_report.csv</code><br><br><br>If we needed just those two columns for some reason, then we would have them. This is a useful command and I have also shown how to link different commands together.</p><h3 class="align-center"><br><br><strong>Conclusion</strong></h3><p><br><br>In this chapter we started with how to run a basic command. These commands were basic forms with no parameters added. We then took a look at aliases and how they can be useful. Afterwards, we even went over how to create your own alias.<br><br><br>Then I showed some of these basic commands in action. They are all nice to know and can be very helpful in the right situations. I gave examples and even showed how to create some files with your reporting.</p><aside><ul class="post-tag"><li><a href="https://aindien.com/amp/powershell/">Powershell</a></li></ul><div class="post-share"><amp-social-share type="system" width="40" height="40" data-param-text="Powershell Essentials"></amp-social-share><amp-social-share type="facebook" width="40" height="40" data-param-app_id="" data-param-text="Powershell Essentials" data-param-href="https://aindien.com/amp/powershell-essentials.html"></amp-social-share><amp-social-share type="twitter" width="40" height="40" data-param-text="Powershell Essentials" data-param-url="https://aindien.com/amp/powershell-essentials.html"></amp-social-share><amp-social-share type="pinterest" width="40" height="40" data-param-url="https://aindien.com/amp/powershell-essentials.html"></amp-social-share></div></aside></div></article><nav class="post-pagination wrap-inner"><div class="post-pagination-prev"><span>Previous</span> <a href="https://aindien.com/amp/how-to-run-powershell-commands.html">How To Run Powershell Commands</a></div></nav></main><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{
+                    "duration": "200ms",
+                    "fill": "both",
+                    "iterations": "1",
+                    "direction": "alternate",
+                    "animations": [{
+                        "selector": ".post-scroll",
+                        "keyframes": [{
+                            "opacity": "1",
+                            "visibility": "visible",
+                            "transform": "scale(1)"
+                        }]
+                    }]
+                }</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{
+                    "duration": "200ms",
+                    "fill": "both",
+                    "iterations": "1",
+                    "direction": "alternate",
+                    "animations": [{
+                        "selector": ".post-scroll",
+                        "keyframes": [{
+                            "opacity": "0",
+                            "visibility": "hidden",
+                            "transform": "scale(0.1)"
+                        }]
+                    }]
+                }</script></amp-animation><div class="post-scroll-marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><button class="post-scroll" on="tap:top.scrollTo(duration=200)">&#8593;</button><footer class="bottom">Powered by Publii</footer><amp-sidebar id="navbar-sidebar" layout="nodisplay"><ul></ul></amp-sidebar></body></html>
