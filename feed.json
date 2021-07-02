@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/learning-c-for-beginners.html",
+            "url": "https://aindien.com/learning-c-for-beginners.html",
+            "title": "Learning C++ For Beginners",
+            "summary": "<p data-pm-slice=\"0 0 []\">Learning C++ is a great way to improve your worth. In this article, I start with the basics and will show you how to get started.</p>\n",
+            "image": "https://aindien.com/media/posts/52/learning-c.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "C++"
+            ],
+            "date_published": "2021-07-01T22:27:45-05:00",
+            "date_modified": "2021-07-02T00:52:57-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-use-strings-in-c.html",
+            "url": "https://aindien.com/how-to-use-strings-in-c.html",
+            "title": "How To Use Strings In C++",
+            "summary": "<p data-pm-slice=\"0 0 []\">Using strings is a common occurrence in most programming languages. C++ is no exception. In this section I will go over the basic usage with some examples.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-23T22:42:55-05:00",
+            "date_modified": "2021-06-24T08:39:14-05:00"
+        },
+        {
             "id": "https://aindien.com/powershell-essentials.html",
             "url": "https://aindien.com/powershell-essentials.html",
             "title": "Powershell Essentials",
@@ -128,36 +156,6 @@
             ],
             "date_published": "2020-09-25T06:28:59-05:00",
             "date_modified": "2020-09-25T06:39:47-05:00"
-        },
-        {
-            "id": "https://aindien.com/history-and-usage-of-linux.html",
-            "url": "https://aindien.com/history-and-usage-of-linux.html",
-            "title": "History and Usage Of Linux",
-            "summary": "<p>This section will be about Linux and its beginnings. Since its inception, Linux has become prevalent and almost every computing sphere.</p>\n",
-            "image": "https://aindien.com/media/posts/41/History-and-Usage-of-Linux-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2020-09-20T10:57:08-05:00",
-            "date_modified": "2020-09-20T11:38:41-05:00"
-        },
-        {
-            "id": "https://aindien.com/linux-essentials.html",
-            "url": "https://aindien.com/linux-essentials.html",
-            "title": "Linux Essentials",
-            "summary": "<p>In this living document I will be talking about the Linux essentials that I think everyone will need to know if they use this wonderful software.</p>\n<p> </p>\n",
-            "image": "https://aindien.com/media/posts/40/Linux-Essentials-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2020-09-19T13:44:17-05:00",
-            "date_modified": "2020-09-20T11:36:46-05:00"
         }
     ]
 }
