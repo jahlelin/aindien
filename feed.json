@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/how-to-get-started-with-linux.html",
+            "url": "https://aindien.com/how-to-get-started-with-linux.html",
+            "title": "How To Get Started With Linux",
+            "summary": "<p>Linux is the alternative to Windows. While it is free and opensource, the main attraction to Linux is that it doesn't track you.</p>\n",
+            "image": "https://aindien.com/media/posts/53/linux-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2021-07-05T22:23:53-05:00",
+            "date_modified": "2021-07-06T20:37:42-05:00"
+        },
+        {
             "id": "https://aindien.com/learning-c-for-beginners.html",
             "url": "https://aindien.com/learning-c-for-beginners.html",
             "title": "Learning C++ For Beginners",
@@ -141,21 +156,6 @@
             ],
             "date_published": "2020-10-19T06:52:14-05:00",
             "date_modified": "2020-10-19T22:02:57-05:00"
-        },
-        {
-            "id": "https://aindien.com/disaster-recovery.html",
-            "url": "https://aindien.com/disaster-recovery.html",
-            "title": "Disaster Recovery",
-            "summary": "<p data-pm-slice=\"1 1 []\">Any network can fail. Even parts can fail that have grave consequences. When any of this happens, it is time to move on to the next step. You better have a plan for when it happens.</p>\n",
-            "image": "https://aindien.com/media/posts/43/Disaster-Recovery-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Networking"
-            ],
-            "date_published": "2020-09-25T06:28:59-05:00",
-            "date_modified": "2020-09-25T06:39:47-05:00"
         }
     ]
 }

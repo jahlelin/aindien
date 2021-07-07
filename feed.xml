@@ -3,12 +3,31 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2021-07-03T20:46:37-05:00</updated>
+    <updated>2021-07-06T20:37:42-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Get Started With Linux</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-get-started-with-linux.html"/>
+        <id>https://aindien.com/how-to-get-started-with-linux.html</id>
+            <category term="Linux"/>
+
+        <updated>2021-07-06T20:37:42-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/53/linux-0.jpg" alt="" />
+                    <p>Linux is the alternative to Windows. While it is free and opensource, the main attraction to Linux is that it doesn't track you.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Learning C++ For Beginners</title>
         <author>
@@ -175,25 +194,6 @@
                         <img src="https://aindien.com/media/posts/44/Linear-Search-0.png" alt="" />
                     <p>Programmers will often search data for specific items. The most basic way is to use a linear search. This algorithm will form the foundation of your searching.</p>
 <p> </p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Disaster Recovery</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/disaster-recovery.html"/>
-        <id>https://aindien.com/disaster-recovery.html</id>
-            <category term="Networking"/>
-
-        <updated>2020-09-25T06:39:47-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/43/Disaster-Recovery-0.png" alt="disaster recovery 0" />
-                    <p data-pm-slice="1 1 []">Any network can fail. Even parts can fail that have grave consequences. When any of this happens, it is time to move on to the next step. You better have a plan for when it happens.</p>
 
                 ]]>
             </summary>
