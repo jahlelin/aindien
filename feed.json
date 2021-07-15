@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/using-variables-in-c.html",
+            "url": "https://aindien.com/using-variables-in-c.html",
+            "title": "Using Variables in C++",
+            "summary": "<p data-pm-slice=\"0 0 []\">Variables are storage containers in your computer’s memory and they hold the information that you work with.</p>\n",
+            "image": "https://aindien.com/media/posts/54/variables-in-c-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "C++"
+            ],
+            "date_published": "2021-07-14T20:29:52-05:00",
+            "date_modified": "2021-07-14T23:11:38-05:00"
+        },
+        {
             "id": "https://aindien.com/how-to-get-started-with-linux.html",
             "url": "https://aindien.com/how-to-get-started-with-linux.html",
             "title": "How To Get Started With Linux",
@@ -141,21 +156,6 @@
             ],
             "date_published": "2020-11-24T06:56:26-06:00",
             "date_modified": "2020-11-24T07:03:30-06:00"
-        },
-        {
-            "id": "https://aindien.com/using-linear-search-in-c.html",
-            "url": "https://aindien.com/using-linear-search-in-c.html",
-            "title": "Using Linear Search In C++",
-            "summary": "<p>Programmers will often search data for specific items. The most basic way is to use a linear search. This algorithm will form the foundation of your searching.</p>\n<p> </p>\n",
-            "image": "https://aindien.com/media/posts/44/Linear-Search-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "C++"
-            ],
-            "date_published": "2020-10-19T06:52:14-05:00",
-            "date_modified": "2020-10-19T22:02:57-05:00"
         }
     ]
 }
