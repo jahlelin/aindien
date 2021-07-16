@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/managing-files-in-a-linux-environment.html",
+            "url": "https://aindien.com/managing-files-in-a-linux-environment.html",
+            "title": "Managing Files In A Linux Environment",
+            "summary": "<p data-pm-slice=\"0 0 []\">This article gives you a foundation for managing files in a Linux environment.</p>\n",
+            "image": "https://aindien.com/media/posts/55/managing-files-linux-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2021-07-15T23:08:56-05:00",
+            "date_modified": "2021-07-16T08:54:12-05:00"
+        },
+        {
             "id": "https://aindien.com/using-variables-in-c.html",
             "url": "https://aindien.com/using-variables-in-c.html",
             "title": "Using Variables in C++",
@@ -141,21 +156,6 @@
             ],
             "date_published": "2021-02-09T14:58:33-06:00",
             "date_modified": "2021-02-09T23:19:39-06:00"
-        },
-        {
-            "id": "https://aindien.com/things-to-know-before-you-install-linux.html",
-            "url": "https://aindien.com/things-to-know-before-you-install-linux.html",
-            "title": "Things To Know Before You Install Linux",
-            "summary": "<p data-pm-slice=\"0 0 []\">Installing Linux is pretty easy these days. Anyone can do it if they want to. However, there are a few options you should know about. </p>\n",
-            "image": "https://aindien.com/media/posts/45/Things-to-know-before-you-install-linux.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2020-11-24T06:56:26-06:00",
-            "date_modified": "2020-11-24T07:03:30-06:00"
         }
     ]
 }
