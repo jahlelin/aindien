@@ -3,12 +3,31 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2021-07-16T11:43:08-05:00</updated>
+    <updated>2021-08-04T22:53:36-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Making Decisions In C++</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/why-we-use-functions-in-c.html"/>
+        <id>https://aindien.com/why-we-use-functions-in-c.html</id>
+            <category term="C++"/>
+
+        <updated>2021-08-04T22:53:36-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/56/making-decisions-in-c-0.jpg" alt="" />
+                    <p>Making decisions in C++ require the developer to specify one or more conditions to be evaluated by the program. </p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Managing Files In A Linux Environment</title>
         <author>
@@ -173,26 +192,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/47/startup-photos.jpg" alt="how to use pointers in c++" />
                     <p>Pointers may not be the most intuitive of concepts. However, in C++, they can<br>still be useful in the right situation.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Troubleshooting A Computer Network</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/troubleshooting-a-computer-network.html"/>
-        <id>https://aindien.com/troubleshooting-a-computer-network.html</id>
-            <category term="Networking"/>
-
-        <updated>2021-02-09T23:19:39-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/46/Troubleshooting-A-Computer-Network.png" alt="Troubleshooting A Computer Network" />
-                    <p>Troubleshooting a network is not hard but requires a little bit of forethought. In this article I cover the most popular methods and scenarios to watch out for.</p>
-<p> </p>
 
                 ]]>
             </summary>
