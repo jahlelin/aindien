@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://aindien.com/why-we-use-functions-in-c.html",
-            "url": "https://aindien.com/why-we-use-functions-in-c.html",
+            "id": "https://aindien.com/making-decisions-in-c.html",
+            "url": "https://aindien.com/making-decisions-in-c.html",
             "title": "Making Decisions In C++",
             "summary": "<p>Making decisions in C++ require the developer to specify one or more conditions to be evaluated by the program. </p>\n",
             "image": "https://aindien.com/media/posts/56/making-decisions-in-c-0.jpg",
@@ -22,7 +22,7 @@
                    "C++"
             ],
             "date_published": "2021-08-02T16:12:28-05:00",
-            "date_modified": "2021-08-04T23:22:28-05:00"
+            "date_modified": "2021-08-04T23:29:24-05:00"
         },
         {
             "id": "https://aindien.com/managing-files-in-a-linux-environment.html",

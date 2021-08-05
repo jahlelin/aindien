@@ -3,7 +3,7 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2021-08-04T23:22:28-05:00</updated>
+    <updated>2021-08-04T23:29:24-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -14,11 +14,11 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/why-we-use-functions-in-c.html"/>
-        <id>https://aindien.com/why-we-use-functions-in-c.html</id>
+        <link href="https://aindien.com/making-decisions-in-c.html"/>
+        <id>https://aindien.com/making-decisions-in-c.html</id>
             <category term="C++"/>
 
-        <updated>2021-08-04T23:22:28-05:00</updated>
+        <updated>2021-08-04T23:29:24-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/56/making-decisions-in-c-0.jpg" alt="" />
