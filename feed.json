@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/managing-input-and-output-streams-in-the-linux-shell.html",
+            "url": "https://aindien.com/managing-input-and-output-streams-in-the-linux-shell.html",
+            "title": " Managing Input and Output Streams in the Linux Shell",
+            "summary": "<p data-pm-slice=\"0 0 []\">In this Linux tutorial, I teach how to manage input and output streams in the command line through the use of redirection and piping.</p>\n",
+            "image": "https://aindien.com/media/posts/57/RedirerectionLinuxShell-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2021-08-07T08:43:06-05:00",
+            "date_modified": "2021-08-07T08:55:25-05:00"
+        },
+        {
             "id": "https://aindien.com/making-decisions-in-c.html",
             "url": "https://aindien.com/making-decisions-in-c.html",
             "title": "Making Decisions In C++",
@@ -141,21 +156,6 @@
             ],
             "date_published": "2021-04-27T22:35:05-05:00",
             "date_modified": "2021-04-28T20:53:45-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-use-pointers-in-c.html",
-            "url": "https://aindien.com/how-to-use-pointers-in-c.html",
-            "title": "How To Use Pointers In C++",
-            "summary": "<p>Pointers may not be the most intuitive of concepts. However, in C++, they can<br>still be useful in the right situation.</p>\n",
-            "image": "https://aindien.com/media/posts/47/startup-photos.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "C++"
-            ],
-            "date_published": "2021-04-13T21:22:42-05:00",
-            "date_modified": "2021-04-13T21:45:27-05:00"
         }
     ]
 }
