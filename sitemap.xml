@@ -234,7 +234,7 @@
 </url>
 <url>
 <loc>https://aindien.com/c-essentials.html</loc>
-<lastmod>2021-08-03T19:49:22-05:00</lastmod>
+<lastmod>2021-09-27T17:54:00-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\33/c-essentials-0.png</image:loc>
 <image:title><![CDATA[c++ essentials 0]]></image:title>
@@ -709,6 +709,14 @@
 </image:image>
 </url>
 <url>
+<loc>https://aindien.com/making-loops-in-c.html</loc>
+<lastmod>2021-09-27T16:46:04-05:00</lastmod>
+<image:image>
+<image:loc>https://aindien.com/media\posts\58/making-loops-in-c-0.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://aindien.com/managing-files-in-a-linux-environment.html</loc>
 <lastmod>2021-07-16T11:43:08-05:00</lastmod>
 <image:image>
@@ -790,7 +798,7 @@
 </url>
 <url>
 <loc>https://aindien.com/networking-essentials.html</loc>
-<lastmod>2021-08-02T20:30:34-05:00</lastmod>
+<lastmod>2021-09-15T10:43:11-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\35/Networking-Essentials-0.png</image:loc>
 <image:title><![CDATA[Networking Essentials 0]]></image:title>

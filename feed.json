@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/making-loops-in-c.html",
+            "url": "https://aindien.com/making-loops-in-c.html",
+            "title": "Making Loops In C++",
+            "summary": "<p data-pm-slice=\"0 0 []\">Making loops in c++ is a fundamental skill just like it is in other languages. C++ has several options that I will go over.</p>\n<p data-pm-slice=\"0 0 []\"> </p>\n",
+            "image": "https://aindien.com/media/posts/58/making-loops-in-c-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "C++"
+            ],
+            "date_published": "2021-09-27T16:23:24-05:00",
+            "date_modified": "2021-09-27T16:46:04-05:00"
+        },
+        {
             "id": "https://aindien.com/managing-input-and-output-streams-in-the-linux-shell.html",
             "url": "https://aindien.com/managing-input-and-output-streams-in-the-linux-shell.html",
             "title": " Managing Input and Output Streams in the Linux Shell",
@@ -141,21 +156,6 @@
             ],
             "date_published": "2021-05-13T22:31:49-05:00",
             "date_modified": "2021-05-14T00:22:50-05:00"
-        },
-        {
-            "id": "https://aindien.com/the-linux-shell-for-beginners.html",
-            "url": "https://aindien.com/the-linux-shell-for-beginners.html",
-            "title": "The Linux Shell For Beginners",
-            "summary": "<p>The shell or command line interface has many great features and makes you into a better computer user. In this section I will go into details of how that happens.</p>\n",
-            "image": "https://aindien.com/media/posts/48/linux-shell-for-beginners-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2021-04-27T22:35:05-05:00",
-            "date_modified": "2021-04-28T20:53:45-05:00"
         }
     ]
 }

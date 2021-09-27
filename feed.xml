@@ -3,12 +3,32 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2021-08-07T09:26:13-05:00</updated>
+    <updated>2021-09-27T16:46:04-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Making Loops In C++</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/making-loops-in-c.html"/>
+        <id>https://aindien.com/making-loops-in-c.html</id>
+            <category term="C++"/>
+
+        <updated>2021-09-27T16:46:04-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/58/making-loops-in-c-0.png" alt="" />
+                    <p data-pm-slice="0 0 []">Making loops in c++ is a fundamental skill just like it is in other languages. C++ has several options that I will go over.</p>
+<p data-pm-slice="0 0 []"> </p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title> Managing Input and Output Streams in the Linux Shell</title>
         <author>
@@ -173,25 +193,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/49/patteern-05.jpg" alt="" />
                     <p>Powershell is a shell that allows you to run commands. In this chapter, I will show you how to make the most of this.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>The Linux Shell For Beginners</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/the-linux-shell-for-beginners.html"/>
-        <id>https://aindien.com/the-linux-shell-for-beginners.html</id>
-            <category term="Linux"/>
-
-        <updated>2021-04-28T20:53:45-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/48/linux-shell-for-beginners-0.png" alt="" />
-                    <p>The shell or command line interface has many great features and makes you into a better computer user. In this section I will go into details of how that happens.</p>
 
                 ]]>
             </summary>
