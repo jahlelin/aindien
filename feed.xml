@@ -3,12 +3,31 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2021-09-27T16:46:04-05:00</updated>
+    <updated>2021-11-13T13:37:01-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Process Management In Linux</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/process-management-in-linux.html"/>
+        <id>https://aindien.com/process-management-in-linux.html</id>
+            <category term="Linux"/>
+
+        <updated>2021-11-13T13:37:01-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/59/process-management-0.png" alt="" />
+                    <p data-pm-slice="0 0 []">In this section, I go over process management in a Linux system.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Making Loops In C++</title>
         <author>
@@ -174,25 +193,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/50/corona.jpg" alt="" />
                     <p>In this powershell essentials guide, I will go over most of the important topics in a business environment.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Run Powershell Commands</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-run-powershell-commands.html"/>
-        <id>https://aindien.com/how-to-run-powershell-commands.html</id>
-            <category term="Powershell"/>
-
-        <updated>2021-05-14T00:22:50-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/49/patteern-05.jpg" alt="" />
-                    <p>Powershell is a shell that allows you to run commands. In this chapter, I will show you how to make the most of this.</p>
 
                 ]]>
             </summary>
