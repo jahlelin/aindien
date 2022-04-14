@@ -138,9 +138,10 @@
                 "name": "Jason Moore"
             },
             "tags": [
+                   "C++"
             ],
             "date_published": "2021-06-23T22:42:55-05:00",
-            "date_modified": "2021-06-24T08:39:14-05:00"
+            "date_modified": "2022-01-13T11:37:35-06:00"
         },
         {
             "id": "https://aindien.com/powershell-essentials.html",
