@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/how-to-install-creative-cloud-from-mosyle.html",
+            "url": "https://aindien.com/how-to-install-creative-cloud-from-mosyle.html",
+            "title": "How to Install Creative Cloud From Mosyle",
+            "summary": "<p><a href=\"https://mybusiness.mosyle.com/\" target=\"_blank\" rel=\"noopener\">Mosyle</a> is an app center. It is used to install apps on a Mac. It is a short form for Mosyle Business Store. This software is designed for mobile device management. This means laptops, tablets, and even phones. We will use this software to install Creative Cloud on a user’s device.</p>\n<p> </p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-18T23:16:57-05:00",
+            "date_modified": "2022-04-18T23:16:57-05:00"
+        },
+        {
             "id": "https://aindien.com/process-management-in-linux.html",
             "url": "https://aindien.com/process-management-in-linux.html",
             "title": "Process Management In Linux",
@@ -142,21 +155,6 @@
             ],
             "date_published": "2021-06-23T22:42:55-05:00",
             "date_modified": "2022-01-13T11:37:35-06:00"
-        },
-        {
-            "id": "https://aindien.com/powershell-essentials.html",
-            "url": "https://aindien.com/powershell-essentials.html",
-            "title": "Powershell Essentials",
-            "summary": "<p>In this powershell essentials guide, I will go over most of the important topics in a business environment.</p>\n",
-            "image": "https://aindien.com/media/posts/50/corona.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Powershell"
-            ],
-            "date_published": "2021-05-13T22:48:32-05:00",
-            "date_modified": "2021-05-13T22:58:19-05:00"
         }
     ]
 }
