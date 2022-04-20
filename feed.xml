@@ -3,12 +3,29 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-04-18T23:16:57-05:00</updated>
+    <updated>2022-04-19T22:01:12-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Troubleshoot Printers</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-troubleshoot-printers.html"/>
+        <id>https://aindien.com/how-to-troubleshoot-printers.html</id>
+
+        <updated>2022-04-19T22:01:12-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">In this article, I am going to talk about troubleshooting printers. Most businesses use them and learning how to deal with their issues is a big bonus. I talk about how to test, diagnosing failed print jobs, and power issues.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How to Install Creative Cloud From Mosyle</title>
         <author>
@@ -175,24 +192,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/52/learning-c.jpg" alt="" />
                     <p data-pm-slice="0 0 []">Learning C++ is a great way to improve your worth. In this article, I start with the basics and will show you how to get started.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Use Strings In C++</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-use-strings-in-c.html"/>
-        <id>https://aindien.com/how-to-use-strings-in-c.html</id>
-            <category term="C++"/>
-
-        <updated>2022-01-13T11:37:35-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p data-pm-slice="0 0 []">Using strings is a common occurrence in most programming languages. C++ is no exception. In this section I will go over the basic usage with some examples.</p>
 
                 ]]>
             </summary>

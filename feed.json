@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/how-to-troubleshoot-printers.html",
+            "url": "https://aindien.com/how-to-troubleshoot-printers.html",
+            "title": "How To Troubleshoot Printers",
+            "summary": "<p data-pm-slice=\"0 0 []\">In this article, I am going to talk about troubleshooting printers. Most businesses use them and learning how to deal with their issues is a big bonus. I talk about how to test, diagnosing failed print jobs, and power issues.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-19T22:01:12-05:00",
+            "date_modified": "2022-04-19T22:01:12-05:00"
+        },
+        {
             "id": "https://aindien.com/how-to-install-creative-cloud-from-mosyle.html",
             "url": "https://aindien.com/how-to-install-creative-cloud-from-mosyle.html",
             "title": "How to Install Creative Cloud From Mosyle",
@@ -141,20 +154,6 @@
             ],
             "date_published": "2021-07-01T22:27:45-05:00",
             "date_modified": "2021-07-07T21:11:37-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-use-strings-in-c.html",
-            "url": "https://aindien.com/how-to-use-strings-in-c.html",
-            "title": "How To Use Strings In C++",
-            "summary": "<p data-pm-slice=\"0 0 []\">Using strings is a common occurrence in most programming languages. C++ is no exception. In this section I will go over the basic usage with some examples.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "C++"
-            ],
-            "date_published": "2021-06-23T22:42:55-05:00",
-            "date_modified": "2022-01-13T11:37:35-06:00"
         }
     ]
 }
