@@ -3,12 +3,30 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-04-19T22:01:12-05:00</updated>
+    <updated>2022-04-20T22:32:15-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Clear The Cache In Browsers</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-clear-the-cache-in-browsers.html"/>
+        <id>https://aindien.com/how-to-clear-the-cache-in-browsers.html</id>
+
+        <updated>2022-04-20T22:32:15-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []"> </p>
+<p>This page will be about clearing a browser’s cache. I will give instruction concerning Edge, Chrome, and Firefox.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Troubleshoot Printers</title>
         <author>
@@ -173,25 +191,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/53/linux-0.jpg" alt="" />
                     <p>Linux is the alternative to Windows. While it is free and opensource, the main attraction to Linux is that it doesn't track you.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Learning C++ For Beginners</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/learning-c-for-beginners.html"/>
-        <id>https://aindien.com/learning-c-for-beginners.html</id>
-            <category term="C++"/>
-
-        <updated>2021-07-07T21:11:37-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/52/learning-c.jpg" alt="" />
-                    <p data-pm-slice="0 0 []">Learning C++ is a great way to improve your worth. In this article, I start with the basics and will show you how to get started.</p>
 
                 ]]>
             </summary>
