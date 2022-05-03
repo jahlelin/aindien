@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/how-to-troubleshoot-axis-cameras.html",
+            "url": "https://aindien.com/how-to-troubleshoot-axis-cameras.html",
+            "title": "How To Troubleshoot Axis Cameras",
+            "summary": "<h3 data-pm-slice=\"0 0 []\"><strong>Introduction</strong></h3>\n<p>This article is on troubleshooting the various issues we might encounter when dealing with Axis cameras. It will grow and be updated as needed.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-02T21:39:41-05:00",
+            "date_modified": "2022-05-02T21:42:08-05:00"
+        },
+        {
             "id": "https://aindien.com/how-to-clear-the-cache-in-browsers.html",
             "url": "https://aindien.com/how-to-clear-the-cache-in-browsers.html",
             "title": "How To Clear The Cache In Browsers",
@@ -137,21 +150,6 @@
             ],
             "date_published": "2021-07-14T20:29:52-05:00",
             "date_modified": "2021-07-14T23:11:38-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-get-started-with-linux.html",
-            "url": "https://aindien.com/how-to-get-started-with-linux.html",
-            "title": "How To Get Started With Linux",
-            "summary": "<p>Linux is the alternative to Windows. While it is free and opensource, the main attraction to Linux is that it doesn't track you.</p>\n",
-            "image": "https://aindien.com/media/posts/53/linux-0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2021-07-05T22:23:53-05:00",
-            "date_modified": "2021-07-06T21:52:49-05:00"
         }
     ]
 }
