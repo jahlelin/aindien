@@ -3,12 +3,30 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-05-02T21:42:08-05:00</updated>
+    <updated>2022-05-10T22:59:00-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Reset A Password In Azure AD</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-reset-a-password-in-azure-ad.html"/>
+        <id>https://aindien.com/how-to-reset-a-password-in-azure-ad.html</id>
+
+        <updated>2022-05-10T22:59:00-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []"> </p>
+<p>Resetting a password is a frequent task in a Windows environment. For businesses that use Active Directory(AD), the password is reset in the system you used to manage it. That is the Azure AD portal for us at the present time of writing.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Troubleshoot Axis Cameras</title>
         <author>
@@ -171,25 +189,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/55/managing-files-linux-0.jpg" alt="" />
                     <p data-pm-slice="0 0 []">This article gives you a foundation for managing files in a Linux environment.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Using Variables in C++</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/using-variables-in-c.html"/>
-        <id>https://aindien.com/using-variables-in-c.html</id>
-            <category term="C++"/>
-
-        <updated>2021-07-14T23:11:38-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/54/variables-in-c-0.jpg" alt="" />
-                    <p data-pm-slice="0 0 []">Variables are storage containers in your computer’s memory and they hold the information that you work with.</p>
 
                 ]]>
             </summary>

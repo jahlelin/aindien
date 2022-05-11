@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/how-to-reset-a-password-in-azure-ad.html",
+            "url": "https://aindien.com/how-to-reset-a-password-in-azure-ad.html",
+            "title": "How To Reset A Password In Azure AD",
+            "summary": "<p data-pm-slice=\"0 0 []\"> </p>\n<p>Resetting a password is a frequent task in a Windows environment. For businesses that use Active Directory(AD), the password is reset in the system you used to manage it. That is the Azure AD portal for us at the present time of writing.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-10T22:59:00-05:00",
+            "date_modified": "2022-05-10T22:59:00-05:00"
+        },
+        {
             "id": "https://aindien.com/how-to-troubleshoot-axis-cameras.html",
             "url": "https://aindien.com/how-to-troubleshoot-axis-cameras.html",
             "title": "How To Troubleshoot Axis Cameras",
@@ -135,21 +148,6 @@
             ],
             "date_published": "2021-07-15T23:08:56-05:00",
             "date_modified": "2021-07-16T11:43:08-05:00"
-        },
-        {
-            "id": "https://aindien.com/using-variables-in-c.html",
-            "url": "https://aindien.com/using-variables-in-c.html",
-            "title": "Using Variables in C++",
-            "summary": "<p data-pm-slice=\"0 0 []\">Variables are storage containers in your computer’s memory and they hold the information that you work with.</p>\n",
-            "image": "https://aindien.com/media/posts/54/variables-in-c-0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "C++"
-            ],
-            "date_published": "2021-07-14T20:29:52-05:00",
-            "date_modified": "2021-07-14T23:11:38-05:00"
         }
     ]
 }
