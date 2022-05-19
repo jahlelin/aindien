@@ -3,12 +3,29 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-05-17T22:34:58-05:00</updated>
+    <updated>2022-05-18T22:45:51-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Run A Message Trace In Exchange</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-run-a-message-trace-in-exchange.html"/>
+        <id>https://aindien.com/how-to-run-a-message-trace-in-exchange.html</id>
+            <category term="Powershell"/>
+
+        <updated>2022-05-18T22:45:51-05:00</updated>
+            <summary>
+                <![CDATA[
+                    A message trace is a feature in the Exchange admin center and you can use it to find out what happened to an email. You will need a certain set of permissions in order to access and use the Exchange admin center. Your organization will&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Fix &quot;Windows Needs Your Current Credentials&quot;</title>
         <author>
@@ -167,25 +184,6 @@
                         <img src="https://aindien.com/media/posts/58/making-loops-in-c-0.png" alt="" />
                     <p data-pm-slice="0 0 []">Making loops in c++ is a fundamental skill just like it is in other languages. C++ has several options that I will go over.</p>
 <p data-pm-slice="0 0 []"> </p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title> Managing Input and Output Streams in the Linux Shell</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/managing-input-and-output-streams-in-the-linux-shell.html"/>
-        <id>https://aindien.com/managing-input-and-output-streams-in-the-linux-shell.html</id>
-            <category term="Linux"/>
-
-        <updated>2021-08-07T09:26:13-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/57/RedirerectionLinuxShell-0.jpg" alt="" />
-                    <p data-pm-slice="0 0 []">In this Linux tutorial, I teach how to manage input and output streams in the command line through the use of redirection and piping.</p>
 
                 ]]>
             </summary>
