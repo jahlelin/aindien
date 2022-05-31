@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/setting-up-mfa-for-a-new-user.html",
+            "url": "https://aindien.com/setting-up-mfa-for-a-new-user.html",
+            "title": "Setting Up MFA For A New User",
+            "summary": "<p data-pm-slice=\"0 0 []\">MFA is required in a lot of places. In this document, I will show you how to get started, how to reset your MFA, and some details about the most popular authenticators.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-31T18:03:50-05:00",
+            "date_modified": "2022-05-31T18:03:50-05:00"
+        },
+        {
             "id": "https://aindien.com/how-to-change-uac-behavior-in-windows.html",
             "url": "https://aindien.com/how-to-change-uac-behavior-in-windows.html",
             "title": "How To Change UAC Behavior In Windows",
@@ -127,21 +140,6 @@
             ],
             "date_published": "2022-04-18T23:16:57-05:00",
             "date_modified": "2022-04-18T23:16:57-05:00"
-        },
-        {
-            "id": "https://aindien.com/process-management-in-linux.html",
-            "url": "https://aindien.com/process-management-in-linux.html",
-            "title": "Process Management In Linux",
-            "summary": "<p data-pm-slice=\"0 0 []\">In this section, I go over process management in a Linux system.</p>\n",
-            "image": "https://aindien.com/media/posts/59/process-management-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2021-11-13T11:08:26-06:00",
-            "date_modified": "2021-11-13T13:37:01-06:00"
         }
     ]
 }
