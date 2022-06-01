@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/how-to-fix-papercut-printing-issues.html",
+            "url": "https://aindien.com/how-to-fix-papercut-printing-issues.html",
+            "title": "How To Fix PaperCut Printing Issues",
+            "summary": "<p data-pm-slice=\"0 0 []\">PaperCut is a print server and in this document, I will show how to fix the various errors we have seen in our environment.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-01T18:20:22-05:00",
+            "date_modified": "2022-06-01T18:20:41-05:00"
+        },
+        {
             "id": "https://aindien.com/setting-up-mfa-for-a-new-user.html",
             "url": "https://aindien.com/setting-up-mfa-for-a-new-user.html",
             "title": "Setting Up MFA For A New User",
@@ -127,19 +140,6 @@
             ],
             "date_published": "2022-04-19T22:01:12-05:00",
             "date_modified": "2022-04-19T22:01:12-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-install-creative-cloud-from-mosyle.html",
-            "url": "https://aindien.com/how-to-install-creative-cloud-from-mosyle.html",
-            "title": "How to Install Creative Cloud From Mosyle",
-            "summary": "<p><a href=\"https://mybusiness.mosyle.com/\" target=\"_blank\" rel=\"noopener\">Mosyle</a> is an app center. It is used to install apps on a Mac. It is a short form for Mosyle Business Store. This software is designed for mobile device management. This means laptops, tablets, and even phones. We will use this software to install Creative Cloud on a user’s device.</p>\n<p> </p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-04-18T23:16:57-05:00",
-            "date_modified": "2022-04-18T23:16:57-05:00"
         }
     ]
 }

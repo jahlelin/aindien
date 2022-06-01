@@ -3,12 +3,29 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-05-31T18:03:50-05:00</updated>
+    <updated>2022-06-01T18:20:41-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Fix PaperCut Printing Issues</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-fix-papercut-printing-issues.html"/>
+        <id>https://aindien.com/how-to-fix-papercut-printing-issues.html</id>
+
+        <updated>2022-06-01T18:20:41-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">PaperCut is a print server and in this document, I will show how to fix the various errors we have seen in our environment.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Setting Up MFA For A New User</title>
         <author>
@@ -161,24 +178,6 @@
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">In this article, I am going to talk about troubleshooting printers. Most businesses use them and learning how to deal with their issues is a big bonus. I talk about how to test, diagnosing failed print jobs, and power issues.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How to Install Creative Cloud From Mosyle</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-install-creative-cloud-from-mosyle.html"/>
-        <id>https://aindien.com/how-to-install-creative-cloud-from-mosyle.html</id>
-
-        <updated>2022-04-18T23:16:57-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><a href="https://mybusiness.mosyle.com/" target="_blank" rel="noopener">Mosyle</a> is an app center. It is used to install apps on a Mac. It is a short form for Mosyle Business Store. This software is designed for mobile device management. This means laptops, tablets, and even phones. We will use this software to install Creative Cloud on a user’s device.</p>
-<p> </p>
 
                 ]]>
             </summary>
