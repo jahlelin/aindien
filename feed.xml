@@ -3,12 +3,29 @@
     <title>Aindien&#x27;s Computer Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-06-01T18:20:41-05:00</updated>
+    <updated>2022-06-11T08:45:23-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Check Disk Space In Linux</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-check-disk-space-in-linux.html"/>
+        <id>https://aindien.com/how-to-check-disk-space-in-linux.html</id>
+
+        <updated>2022-06-11T08:45:23-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">See how to use the [df] command and its options to monitor your important file systems.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Fix PaperCut Printing Issues</title>
         <author>
@@ -161,23 +178,6 @@
                 <![CDATA[
                     <p data-pm-slice="0 0 []"> </p>
 <p>This page will be about clearing a browser’s cache. I will give instruction concerning Edge, Chrome, and Firefox.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Troubleshoot Printers</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-troubleshoot-printers.html"/>
-        <id>https://aindien.com/how-to-troubleshoot-printers.html</id>
-
-        <updated>2022-04-19T22:01:12-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p data-pm-slice="0 0 []">In this article, I am going to talk about troubleshooting printers. Most businesses use them and learning how to deal with their issues is a big bonus. I talk about how to test, diagnosing failed print jobs, and power issues.</p>
 
                 ]]>
             </summary>
