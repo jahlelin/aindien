@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/the-basics-of-cryptocurrency.html",
+            "url": "https://aindien.com/the-basics-of-cryptocurrency.html",
+            "title": "The Basics Of Cryptocurrency",
+            "summary": "<p data-pm-slice=\"0 0 []\">In this document, I talk about the basics of cryptocurrency and how it is changing how we spend money and invest.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Cryptocurrency"
+            ],
+            "date_published": "2022-06-15T16:18:53-05:00",
+            "date_modified": "2022-06-15T16:40:37-05:00"
+        },
+        {
             "id": "https://aindien.com/how-to-check-disk-space-in-linux.html",
             "url": "https://aindien.com/how-to-check-disk-space-in-linux.html",
             "title": "How To Check Disk Space In Linux",
@@ -127,19 +141,6 @@
             ],
             "date_published": "2022-05-02T21:39:41-05:00",
             "date_modified": "2022-05-02T21:42:08-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-clear-the-cache-in-browsers.html",
-            "url": "https://aindien.com/how-to-clear-the-cache-in-browsers.html",
-            "title": "How To Clear The Cache In Browsers",
-            "summary": "<p data-pm-slice=\"0 0 []\"> </p>\n<p>This page will be about clearing a browser’s cache. I will give instruction concerning Edge, Chrome, and Firefox.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-04-20T22:32:15-05:00",
-            "date_modified": "2022-04-20T22:32:15-05:00"
         }
     ]
 }
