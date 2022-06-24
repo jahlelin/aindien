@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-06-15T16:40:37-05:00</updated>
+    <updated>2022-06-24T00:00:17-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Getting Started With DNF Package Management</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/getting-started-with-dnf-package-management.html"/>
+        <id>https://aindien.com/getting-started-with-dnf-package-management.html</id>
+            <category term="Linux"/>
+
+        <updated>2022-06-24T00:00:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">Linux operating systems have a centralized way of searching, installing, updating, and deleting software. In this document, I want to talk about the DNF package management system.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>The Basics Of Cryptocurrency</title>
         <author>
@@ -18,7 +36,7 @@
         <id>https://aindien.com/the-basics-of-cryptocurrency.html</id>
             <category term="Cryptocurrency"/>
 
-        <updated>2022-06-15T16:40:37-05:00</updated>
+        <updated>2022-06-23T23:30:35-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">In this document, I talk about the basics of cryptocurrency and how it is changing how we spend money and invest.</p>
@@ -160,24 +178,6 @@
                 <![CDATA[
                     <p data-pm-slice="0 0 []"> </p>
 <p>Resetting a password is a frequent task in a Windows environment. For businesses that use Active Directory(AD), the password is reset in the system you used to manage it. That is the Azure AD portal for us at the present time of writing.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Troubleshoot Axis Cameras</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-troubleshoot-axis-cameras.html"/>
-        <id>https://aindien.com/how-to-troubleshoot-axis-cameras.html</id>
-
-        <updated>2022-05-02T21:42:08-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <h3 data-pm-slice="0 0 []"><strong>Introduction</strong></h3>
-<p>This article is on troubleshooting the various issues we might encounter when dealing with Axis cameras. It will grow and be updated as needed.</p>
 
                 ]]>
             </summary>

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/getting-started-with-dnf-package-management.html",
+            "url": "https://aindien.com/getting-started-with-dnf-package-management.html",
+            "title": "Getting Started With DNF Package Management",
+            "summary": "<p data-pm-slice=\"0 0 []\">Linux operating systems have a centralized way of searching, installing, updating, and deleting software. In this document, I want to talk about the DNF package management system.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2022-06-23T23:53:44-05:00",
+            "date_modified": "2022-06-24T00:00:17-05:00"
+        },
+        {
             "id": "https://aindien.com/the-basics-of-cryptocurrency.html",
             "url": "https://aindien.com/the-basics-of-cryptocurrency.html",
             "title": "The Basics Of Cryptocurrency",
@@ -21,7 +35,7 @@
                    "Cryptocurrency"
             ],
             "date_published": "2022-06-15T16:18:53-05:00",
-            "date_modified": "2022-06-15T16:40:37-05:00"
+            "date_modified": "2022-06-23T23:30:35-05:00"
         },
         {
             "id": "https://aindien.com/how-to-check-disk-space-in-linux.html",
@@ -128,19 +142,6 @@
             ],
             "date_published": "2022-05-10T22:59:00-05:00",
             "date_modified": "2022-05-10T22:59:00-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-troubleshoot-axis-cameras.html",
-            "url": "https://aindien.com/how-to-troubleshoot-axis-cameras.html",
-            "title": "How To Troubleshoot Axis Cameras",
-            "summary": "<h3 data-pm-slice=\"0 0 []\"><strong>Introduction</strong></h3>\n<p>This article is on troubleshooting the various issues we might encounter when dealing with Axis cameras. It will grow and be updated as needed.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-05-02T21:39:41-05:00",
-            "date_modified": "2022-05-02T21:42:08-05:00"
         }
     ]
 }
