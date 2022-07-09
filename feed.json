@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/getting-started-with-mariadb-on-fedora.html",
+            "url": "https://aindien.com/getting-started-with-mariadb-on-fedora.html",
+            "title": "Getting Started With MariaDB On Fedora",
+            "summary": "<p><span style=\"font-weight: 400;\">This document will show you how to install and get started with MariaDB on Fedora.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-08T23:00:45-05:00",
+            "date_modified": "2022-07-08T23:40:48-05:00"
+        },
+        {
             "id": "https://aindien.com/getting-started-with-dnf-package-management.html",
             "url": "https://aindien.com/getting-started-with-dnf-package-management.html",
             "title": "Getting Started With DNF Package Management",
@@ -129,19 +142,6 @@
             ],
             "date_published": "2022-05-16T22:02:02-05:00",
             "date_modified": "2022-05-16T22:02:34-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-reset-a-password-in-azure-ad.html",
-            "url": "https://aindien.com/how-to-reset-a-password-in-azure-ad.html",
-            "title": "How To Reset A Password In Azure AD",
-            "summary": "<p data-pm-slice=\"0 0 []\"> </p>\n<p>Resetting a password is a frequent task in a Windows environment. For businesses that use Active Directory(AD), the password is reset in the system you used to manage it. That is the Azure AD portal for us at the present time of writing.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-05-10T22:59:00-05:00",
-            "date_modified": "2022-05-10T22:59:00-05:00"
         }
     ]
 }

@@ -3,12 +3,29 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-07-06T22:36:09-05:00</updated>
+    <updated>2022-07-08T23:40:48-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Getting Started With MariaDB On Fedora</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/getting-started-with-mariadb-on-fedora.html"/>
+        <id>https://aindien.com/getting-started-with-mariadb-on-fedora.html</id>
+
+        <updated>2022-07-08T23:40:48-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">This document will show you how to install and get started with MariaDB on Fedora.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Getting Started With DNF Package Management</title>
         <author>
@@ -160,24 +177,6 @@
                 <![CDATA[
                     <p data-pm-slice="0 0 []"> </p>
 <p>In this article, I want to discuss why we might want to make a new outlook profile and how to do it. This will be for a Windows machine.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Reset A Password In Azure AD</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-reset-a-password-in-azure-ad.html"/>
-        <id>https://aindien.com/how-to-reset-a-password-in-azure-ad.html</id>
-
-        <updated>2022-05-10T22:59:00-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p data-pm-slice="0 0 []"> </p>
-<p>Resetting a password is a frequent task in a Windows environment. For businesses that use Active Directory(AD), the password is reset in the system you used to manage it. That is the Azure AD portal for us at the present time of writing.</p>
 
                 ]]>
             </summary>
