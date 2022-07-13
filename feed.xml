@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-07-08T23:40:48-05:00</updated>
+    <updated>2022-07-12T23:26:54-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Network Troubleshooting With Traceroute</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/network-troubleshooting-with-traceroute.html"/>
+        <id>https://aindien.com/network-troubleshooting-with-traceroute.html</id>
+            <category term="Linux"/>
+
+        <updated>2022-07-12T23:26:54-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">Network troubleshooting always begins with a few command line techniques. Traceroute is one of the basic utilities to learn. In this document, I will go over how to do this.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Getting Started With MariaDB On Fedora</title>
         <author>
@@ -159,24 +177,6 @@
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">When you get the message “Windows Needs Your Current Credentials”, it can be frustrating. Let me show you how to resolve this notification that Windows gives you.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Setup A New Outlook Profile</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-setup-a-new-outlook-profile.html"/>
-        <id>https://aindien.com/how-to-setup-a-new-outlook-profile.html</id>
-
-        <updated>2022-05-16T22:02:34-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p data-pm-slice="0 0 []"> </p>
-<p>In this article, I want to discuss why we might want to make a new outlook profile and how to do it. This will be for a Windows machine.</p>
 
                 ]]>
             </summary>
