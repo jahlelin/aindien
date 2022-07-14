@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/how-to-troubleshoot-dns-on-linux.html",
+            "url": "https://aindien.com/how-to-troubleshoot-dns-on-linux.html",
+            "title": "How to Troubleshoot DNS On Linux",
+            "summary": "<p><span style=\"font-weight: 400;\">I will show you how to troubleshoot DNS issues with Linux commands.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2022-07-13T23:31:22-05:00",
+            "date_modified": "2022-07-13T23:31:44-05:00"
+        },
+        {
             "id": "https://aindien.com/network-troubleshooting-with-traceroute.html",
             "url": "https://aindien.com/network-troubleshooting-with-traceroute.html",
             "title": "Network Troubleshooting With Traceroute",
@@ -62,7 +76,7 @@
                    "Cryptocurrency"
             ],
             "date_published": "2022-06-15T16:18:53-05:00",
-            "date_modified": "2022-07-06T22:36:09-05:00"
+            "date_modified": "2022-07-13T23:33:35-05:00"
         },
         {
             "id": "https://aindien.com/how-to-check-disk-space-in-linux.html",
@@ -130,19 +144,6 @@
             ],
             "date_published": "2022-05-18T22:45:14-05:00",
             "date_modified": "2022-05-18T22:45:51-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-fix-windows-needs-your-current-credentials.html",
-            "url": "https://aindien.com/how-to-fix-windows-needs-your-current-credentials.html",
-            "title": "How To Fix &quot;Windows Needs Your Current Credentials&quot;",
-            "summary": "<p data-pm-slice=\"0 0 []\">When you get the message “Windows Needs Your Current Credentials”, it can be frustrating. Let me show you how to resolve this notification that Windows gives you.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-05-17T22:34:32-05:00",
-            "date_modified": "2022-05-17T22:34:58-05:00"
         }
     ]
 }
