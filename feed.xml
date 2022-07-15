@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-07-13T23:33:35-05:00</updated>
+    <updated>2022-07-14T23:38:13-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Encrypt Email In Outlook</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-encrypt-email-in-outlook.html"/>
+        <id>https://aindien.com/how-to-encrypt-email-in-outlook.html</id>
+            <category term="Windows"/>
+
+        <updated>2022-07-14T23:38:13-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">Whether for work or personal business, knowing how to encrypt your email is an important skill. Today, I will show you how to do that.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How to Troubleshoot DNS On Linux</title>
         <author>
@@ -162,23 +180,6 @@
             <summary>
                 <![CDATA[
                     User account control is a part of Windows and prevents programs from changing your system. In this document, I will talk about why you would change its behavior and how to do it. Most people refer to this as UAC and I will do the&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Run A Message Trace In Exchange</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-run-a-message-trace-in-exchange.html"/>
-        <id>https://aindien.com/how-to-run-a-message-trace-in-exchange.html</id>
-            <category term="Powershell"/>
-
-        <updated>2022-05-18T22:45:51-05:00</updated>
-            <summary>
-                <![CDATA[
-                    A message trace is a feature in the Exchange admin center and you can use it to find out what happened to an email. You will need a certain set of permissions in order to access and use the Exchange admin center. Your organization will&hellip;
                 ]]>
             </summary>
         <content></content>
