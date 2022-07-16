@@ -3,12 +3,28 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-07-15T23:22:04-05:00</updated>
+    <updated>2022-07-16T08:58:38-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>My First Ebook</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/my-first-ebook.html"/>
+        <id>https://aindien.com/my-first-ebook.html</id>
+
+        <updated>2022-07-16T08:58:38-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Good morning everyone. This post today is going to be a little different. I just wanted to announce my first Ebook on Amazon. https://www.amazon.com/dp/B0B6D4X4BL It is about networking for the PC Technician. I have priced it aty $9.99 and Amazon reports it at 166 pages.
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Why Office365 Is Running Slow</title>
         <author>
@@ -163,23 +179,6 @@
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">PaperCut is a print server and in this document, I will show how to fix the various errors we have seen in our environment.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Setting Up MFA For A New User</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/setting-up-mfa-for-a-new-user.html"/>
-        <id>https://aindien.com/setting-up-mfa-for-a-new-user.html</id>
-
-        <updated>2022-05-31T18:03:50-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p data-pm-slice="0 0 []">MFA is required in a lot of places. In this document, I will show you how to get started, how to reset your MFA, and some details about the most popular authenticators.</p>
 
                 ]]>
             </summary>

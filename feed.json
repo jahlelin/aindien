@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/my-first-ebook.html",
+            "url": "https://aindien.com/my-first-ebook.html",
+            "title": "My First Ebook",
+            "summary": "Good morning everyone. This post today is going to be a little different. I just wanted to announce my first Ebook on Amazon. https://www.amazon.com/dp/B0B6D4X4BL It is about networking for the PC Technician. I have priced it aty $9.99 and Amazon reports it at 166 pages.",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-16T08:58:38-05:00",
+            "date_modified": "2022-07-16T08:58:38-05:00"
+        },
+        {
             "id": "https://aindien.com/why-office365-is-running-slow.html",
             "url": "https://aindien.com/why-office365-is-running-slow.html",
             "title": "Why Office365 Is Running Slow",
@@ -131,19 +144,6 @@
             ],
             "date_published": "2022-06-01T18:20:22-05:00",
             "date_modified": "2022-06-01T18:20:41-05:00"
-        },
-        {
-            "id": "https://aindien.com/setting-up-mfa-for-a-new-user.html",
-            "url": "https://aindien.com/setting-up-mfa-for-a-new-user.html",
-            "title": "Setting Up MFA For A New User",
-            "summary": "<p data-pm-slice=\"0 0 []\">MFA is required in a lot of places. In this document, I will show you how to get started, how to reset your MFA, and some details about the most popular authenticators.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-05-31T18:03:50-05:00",
-            "date_modified": "2022-05-31T18:03:50-05:00"
         }
     ]
 }
