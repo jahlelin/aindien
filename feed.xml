@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-07-14T23:38:13-05:00</updated>
+    <updated>2022-07-15T23:11:44-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Why Office365 Is Running Slow</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/why-office365-is-running-slow.html"/>
+        <id>https://aindien.com/why-office365-is-running-slow.html</id>
+            <category term="Windows"/>
+
+        <updated>2022-07-15T23:11:44-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">It is common for Office 365 to run slow and in this document I will talk about this and what to do about it.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Encrypt Email In Outlook</title>
         <author>
@@ -107,7 +125,7 @@
         <id>https://aindien.com/the-basics-of-cryptocurrency.html</id>
             <category term="Cryptocurrency"/>
 
-        <updated>2022-07-13T23:33:35-05:00</updated>
+        <updated>2022-07-15T23:07:50-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">In this document, I talk about the basics of cryptocurrency and how it is changing how we spend money and invest.</p>
@@ -163,23 +181,6 @@
                 <![CDATA[
                     <p data-pm-slice="0 0 []">MFA is required in a lot of places. In this document, I will show you how to get started, how to reset your MFA, and some details about the most popular authenticators.</p>
 
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Change UAC Behavior In Windows</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-change-uac-behavior-in-windows.html"/>
-        <id>https://aindien.com/how-to-change-uac-behavior-in-windows.html</id>
-            <category term="Powershell"/>
-
-        <updated>2022-05-19T22:22:13-05:00</updated>
-            <summary>
-                <![CDATA[
-                    User account control is a part of Windows and prevents programs from changing your system. In this document, I will talk about why you would change its behavior and how to do it. Most people refer to this as UAC and I will do the&hellip;
                 ]]>
             </summary>
         <content></content>
