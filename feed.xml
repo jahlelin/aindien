@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-07-25T23:22:47-05:00</updated>
+    <updated>2022-07-28T23:14:36-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Search Google Effectively</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-search-google-effectively.html"/>
+        <id>https://aindien.com/how-to-search-google-effectively.html</id>
+            <category term="Google Apps"/>
+
+        <updated>2022-07-28T23:14:36-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">With these tips, I want to show you how to search Google effectively.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>My First Ebook</title>
         <author>
@@ -162,23 +180,6 @@
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">See how to use the [df] command and its options to monitor your important file systems.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Fix PaperCut Printing Issues</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-fix-papercut-printing-issues.html"/>
-        <id>https://aindien.com/how-to-fix-papercut-printing-issues.html</id>
-
-        <updated>2022-06-01T18:20:41-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p data-pm-slice="0 0 []">PaperCut is a print server and in this document, I will show how to fix the various errors we have seen in our environment.</p>
 
                 ]]>
             </summary>
