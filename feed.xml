@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-07-28T23:14:36-05:00</updated>
+    <updated>2022-07-30T00:34:22-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Share Your Screen On Microsoft Teams</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-share-your-screen-on-microsoft-teams.html"/>
+        <id>https://aindien.com/how-to-share-your-screen-on-microsoft-teams.html</id>
+            <category term="Windows"/>
+
+        <updated>2022-07-30T00:34:22-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">Microsoft Teams is a very popular communications app. Businesses far and wide use it, so it is good to know how to work with it.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Search Google Effectively</title>
         <author>
@@ -163,23 +181,6 @@
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">In this document, I talk about the basics of cryptocurrency and how it is changing how we spend money and invest.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Check Disk Space In Linux</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-check-disk-space-in-linux.html"/>
-        <id>https://aindien.com/how-to-check-disk-space-in-linux.html</id>
-
-        <updated>2022-06-11T08:45:23-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p data-pm-slice="0 0 []">See how to use the [df] command and its options to monitor your important file systems.</p>
 
                 ]]>
             </summary>
