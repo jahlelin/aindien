@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/how-to-change-search-engines-in-chrome.html",
+            "url": "https://aindien.com/how-to-change-search-engines-in-chrome.html",
+            "title": "How To Change Search Engines In Chrome",
+            "summary": "<p><span style=\"font-weight: 400;\">Google search is the world standard. It was not always this way, so read on to change your search engine in the Chrome browser.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Google Apps"
+            ],
+            "date_published": "2022-08-07T23:15:27-05:00",
+            "date_modified": "2022-08-07T23:17:09-05:00"
+        },
+        {
             "id": "https://aindien.com/how-to-share-your-screen-on-microsoft-teams.html",
             "url": "https://aindien.com/how-to-share-your-screen-on-microsoft-teams.html",
             "title": "How To Share Your Screen On Microsoft Teams",
@@ -132,20 +146,6 @@
             ],
             "date_published": "2022-06-23T23:53:44-05:00",
             "date_modified": "2022-06-24T00:00:17-05:00"
-        },
-        {
-            "id": "https://aindien.com/the-basics-of-cryptocurrency.html",
-            "url": "https://aindien.com/the-basics-of-cryptocurrency.html",
-            "title": "The Basics Of Cryptocurrency",
-            "summary": "<p data-pm-slice=\"0 0 []\">In this document, I talk about the basics of cryptocurrency and how it is changing how we spend money and invest.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Cryptocurrency"
-            ],
-            "date_published": "2022-06-15T16:18:53-05:00",
-            "date_modified": "2022-07-25T23:22:47-05:00"
         }
     ]
 }

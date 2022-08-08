@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-07-30T00:34:22-05:00</updated>
+    <updated>2022-08-07T23:17:09-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Change Search Engines In Chrome</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-change-search-engines-in-chrome.html"/>
+        <id>https://aindien.com/how-to-change-search-engines-in-chrome.html</id>
+            <category term="Google Apps"/>
+
+        <updated>2022-08-07T23:17:09-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">Google search is the world standard. It was not always this way, so read on to change your search engine in the Chrome browser.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Share Your Screen On Microsoft Teams</title>
         <author>
@@ -163,24 +181,6 @@
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">Linux operating systems have a centralized way of searching, installing, updating, and deleting software. In this document, I want to talk about the DNF package management system.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>The Basics Of Cryptocurrency</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/the-basics-of-cryptocurrency.html"/>
-        <id>https://aindien.com/the-basics-of-cryptocurrency.html</id>
-            <category term="Cryptocurrency"/>
-
-        <updated>2022-07-25T23:22:47-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p data-pm-slice="0 0 []">In this document, I talk about the basics of cryptocurrency and how it is changing how we spend money and invest.</p>
 
                 ]]>
             </summary>
