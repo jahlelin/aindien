@@ -3,61 +3,25 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-08-07T23:17:09-05:00</updated>
+    <updated>2022-08-10T23:28:53-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
     <entry>
-        <title>How To Change Search Engines In Chrome</title>
+        <title>Getting Started With SSH</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/how-to-change-search-engines-in-chrome.html"/>
-        <id>https://aindien.com/how-to-change-search-engines-in-chrome.html</id>
-            <category term="Google Apps"/>
+        <link href="https://aindien.com/getting-started-with-ssh.html"/>
+        <id>https://aindien.com/getting-started-with-ssh.html</id>
+            <category term="Linux"/>
 
-        <updated>2022-08-07T23:17:09-05:00</updated>
+        <updated>2022-08-10T23:28:53-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">Google search is the world standard. It was not always this way, so read on to change your search engine in the Chrome browser.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Share Your Screen On Microsoft Teams</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-share-your-screen-on-microsoft-teams.html"/>
-        <id>https://aindien.com/how-to-share-your-screen-on-microsoft-teams.html</id>
-            <category term="Windows"/>
-
-        <updated>2022-07-30T00:34:22-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p data-pm-slice="0 0 []">Microsoft Teams is a very popular communications app. Businesses far and wide use it, so it is good to know how to work with it.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Search Google Effectively</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-search-google-effectively.html"/>
-        <id>https://aindien.com/how-to-search-google-effectively.html</id>
-            <category term="Google Apps"/>
-
-        <updated>2022-07-28T23:14:36-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p data-pm-slice="0 0 []">With these tips, I want to show you how to search Google effectively.</p>
+                    <p><span style="font-weight: 400;">In this guide, I will show you how to use SSH to access remote systems.</span></p>
 
                 ]]>
             </summary>
@@ -181,6 +145,41 @@
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">Linux operating systems have a centralized way of searching, installing, updating, and deleting software. In this document, I want to talk about the DNF package management system.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>The Basics Of Cryptocurrency</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/the-basics-of-cryptocurrency.html"/>
+        <id>https://aindien.com/the-basics-of-cryptocurrency.html</id>
+            <category term="Cryptocurrency"/>
+
+        <updated>2022-07-15T23:07:50-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">In this document, I talk about the basics of cryptocurrency and how it is changing how we spend money and invest.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How To Check Disk Space In Linux</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-check-disk-space-in-linux.html"/>
+        <id>https://aindien.com/how-to-check-disk-space-in-linux.html</id>
+
+        <updated>2022-06-11T08:45:23-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">See how to use the [df] command and its options to monitor your important file systems.</p>
 
                 ]]>
             </summary>
