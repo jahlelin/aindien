@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/intro-to-codeblocks-with-c.html",
+            "url": "https://aindien.com/intro-to-codeblocks-with-c.html",
+            "title": "Intro To Codeblocks With C++ ",
+            "summary": "<p><span style=\"font-weight: 400;\">Codeblocks is an IDE and in this section I want to show you how to get started using it with C++.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "C++"
+            ],
+            "date_published": "2022-08-17T23:00:07-05:00",
+            "date_modified": "2022-08-17T23:00:54-05:00"
+        },
+        {
             "id": "https://aindien.com/how-to-share-your-screen-on-teams.html",
             "url": "https://aindien.com/how-to-share-your-screen-on-teams.html",
             "title": "How To Share Your Screen On Teams",
@@ -132,20 +146,6 @@
             ],
             "date_published": "2022-07-08T23:00:45-05:00",
             "date_modified": "2022-07-08T23:40:48-05:00"
-        },
-        {
-            "id": "https://aindien.com/getting-started-with-dnf-package-management.html",
-            "url": "https://aindien.com/getting-started-with-dnf-package-management.html",
-            "title": "Getting Started With DNF Package Management",
-            "summary": "<p data-pm-slice=\"0 0 []\">Linux operating systems have a centralized way of searching, installing, updating, and deleting software. In this document, I want to talk about the DNF package management system.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2022-06-23T23:53:44-05:00",
-            "date_modified": "2022-06-24T00:00:17-05:00"
         }
     ]
 }
