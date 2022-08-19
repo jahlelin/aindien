@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-08-17T23:00:54-05:00</updated>
+    <updated>2022-08-18T22:14:06-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Update Windows</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-update-windows.html"/>
+        <id>https://aindien.com/how-to-update-windows.html</id>
+            <category term="Windows"/>
+
+        <updated>2022-08-18T22:14:06-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">Updating Windows protects you from malware and keeps your hardware running well. In this article, I will show you the best way to update everything.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Intro To Codeblocks With C++ </title>
         <author>
@@ -164,23 +182,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Network troubleshooting always begins with a few command line techniques. Traceroute is one of the basic utilities to learn. In this document, I will go over how to do this.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Getting Started With MariaDB On Fedora</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/getting-started-with-mariadb-on-fedora.html"/>
-        <id>https://aindien.com/getting-started-with-mariadb-on-fedora.html</id>
-
-        <updated>2022-07-08T23:40:48-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">This document will show you how to install and get started with MariaDB on Fedora.</span></p>
 
                 ]]>
             </summary>
