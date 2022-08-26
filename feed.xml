@@ -3,7 +3,7 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-08-25T21:47:37-05:00</updated>
+    <updated>2022-08-25T22:03:31-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://aindien.com/how-to-update-windows.html</id>
             <category term="Windows"/>
 
-        <updated>2022-08-25T21:47:37-05:00</updated>
+        <updated>2022-08-25T22:00:23-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Updating Windows protects you from malware and keeps your hardware running well. In this article, I will show you the best way to update everything.</span></p>
@@ -36,7 +36,7 @@
         <id>https://aindien.com/intro-to-codeblocks-with-c.html</id>
             <category term="C++"/>
 
-        <updated>2022-08-17T23:00:54-05:00</updated>
+        <updated>2022-08-25T22:01:31-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Codeblocks is an IDE and in this section I want to show you how to get started using it with C++.</span></p>
@@ -54,7 +54,7 @@
         <id>https://aindien.com/how-to-share-your-screen-on-teams.html</id>
             <category term="Windows"/>
 
-        <updated>2022-08-12T23:44:33-05:00</updated>
+        <updated>2022-08-25T22:01:48-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">Microsoft Teams is a very popular communications app. Businesses far and wide use it, so it is good to know how to work with it.</p>
@@ -72,7 +72,7 @@
         <id>https://aindien.com/how-to-search-google-effectively.html</id>
             <category term="Google Apps"/>
 
-        <updated>2022-08-12T23:25:50-05:00</updated>
+        <updated>2022-08-25T22:02:08-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">With these tips, I want to show you how to search Google effectively.</p>
@@ -90,7 +90,7 @@
         <id>https://aindien.com/getting-started-with-ssh.html</id>
             <category term="Linux"/>
 
-        <updated>2022-08-10T23:28:53-05:00</updated>
+        <updated>2022-08-25T22:02:24-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">In this guide, I will show you how to use SSH to access remote systems.</span></p>
@@ -124,7 +124,7 @@
         <id>https://aindien.com/why-office365-is-running-slow.html</id>
             <category term="Windows"/>
 
-        <updated>2022-07-15T23:22:04-05:00</updated>
+        <updated>2022-08-25T22:02:40-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">It is common for Office 365 to run slow and in this document I will talk about this and what to do about it.</span></p>
@@ -142,7 +142,7 @@
         <id>https://aindien.com/how-to-encrypt-email-in-outlook.html</id>
             <category term="Windows"/>
 
-        <updated>2022-07-14T23:38:13-05:00</updated>
+        <updated>2022-08-25T22:03:01-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Whether for work or personal business, knowing how to encrypt your email is an important skill. Today, I will show you how to do that.</span></p>
@@ -160,7 +160,7 @@
         <id>https://aindien.com/how-to-troubleshoot-dns-on-linux.html</id>
             <category term="Linux"/>
 
-        <updated>2022-07-13T23:31:44-05:00</updated>
+        <updated>2022-08-25T22:03:16-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">I will show you how to troubleshoot DNS issues with Linux commands.</span></p>
@@ -178,7 +178,7 @@
         <id>https://aindien.com/network-troubleshooting-with-traceroute.html</id>
             <category term="Linux"/>
 
-        <updated>2022-07-12T23:26:54-05:00</updated>
+        <updated>2022-08-25T22:03:31-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Network troubleshooting always begins with a few command line techniques. Traceroute is one of the basic utilities to learn. In this document, I will go over how to do this.</span></p>
