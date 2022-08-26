@@ -3,7 +3,7 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-08-26T13:13:49-05:00</updated>
+    <updated>2022-08-26T13:40:20-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -18,11 +18,10 @@
         <id>https://aindien.com/how-to-update-windows.html</id>
             <category term="Windows"/>
 
-        <updated>2022-08-26T13:04:23-05:00</updated>
+        <updated>2022-08-26T13:40:20-05:00</updated>
             <summary>
                 <![CDATA[
-                    <div class="post__iframe"><iframe loading="lazy" width="720" height="300" style="border: none;" src="//rcm-na.amazon-adsystem.com/e/cm?o=1&amp;p=50&amp;l=ur1&amp;category=grocery&amp;banner=06G5XQ8VKMF8KR9MCYR2&amp;f=ifr&amp;linkID=bc18e51f5bf3afba50372a040e016178&amp;t=aindien-20&amp;tracking_id=aindien-20" scrolling="no" border="0" marginwidth="0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"></iframe></div>
-<p><span style="font-weight: 400;">Updating Windows protects you from malware and keeps your hardware running well. In this article, I will show you the best way to update everything.</span></p>
+                    <p><span style="font-weight: 400;">Updating Windows protects you from malware and keeps your hardware running well. In this article, I will show you the best way to update everything.</span></p>
 
                 ]]>
             </summary>
