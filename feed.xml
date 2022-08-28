@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-08-27T17:40:49-05:00</updated>
+    <updated>2022-08-28T17:00:02-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Backup Windows 10 With System Image</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-backup-windows-10-with-system-image.html"/>
+        <id>https://aindien.com/how-to-backup-windows-10-with-system-image.html</id>
+            <category term="Windows"/>
+
+        <updated>2022-08-28T17:00:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">There are many things that can go wrong with a computer. When it has all your kids pictures or videos on them, that is a big problem. Let me show you how to backup Windows to prevent these problems.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Boot Windows 10 To Safe Mode</title>
         <author>
@@ -164,24 +182,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Whether for work or personal business, knowing how to encrypt your email is an important skill. Today, I will show you how to do that.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How to Troubleshoot DNS On Linux</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-troubleshoot-dns-on-linux.html"/>
-        <id>https://aindien.com/how-to-troubleshoot-dns-on-linux.html</id>
-            <category term="Linux"/>
-
-        <updated>2022-08-26T13:50:00-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">I will show you how to troubleshoot DNS issues with Linux commands.</span></p>
 
                 ]]>
             </summary>
