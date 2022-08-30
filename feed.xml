@@ -3,12 +3,29 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-08-28T18:01:15-05:00</updated>
+    <updated>2022-08-29T23:41:14-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>R Statistical Analysis for Beginners</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/r-statistical-analysis-for-beginners.html"/>
+        <id>https://aindien.com/r-statistical-analysis-for-beginners.html</id>
+
+        <updated>2022-08-29T23:41:14-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">In this guide, I will help you learn R, the statistical programming language.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Backup Windows 10 With System Image</title>
         <author>
@@ -164,24 +181,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">It is common for Office 365 to run slow and in this document I will talk about this and what to do about it.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Encrypt Email In Outlook</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-encrypt-email-in-outlook.html"/>
-        <id>https://aindien.com/how-to-encrypt-email-in-outlook.html</id>
-            <category term="Windows"/>
-
-        <updated>2022-08-26T13:49:26-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">Whether for work or personal business, knowing how to encrypt your email is an important skill. Today, I will show you how to do that.</span></p>
 
                 ]]>
             </summary>

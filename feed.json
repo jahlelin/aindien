@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/r-statistical-analysis-for-beginners.html",
+            "url": "https://aindien.com/r-statistical-analysis-for-beginners.html",
+            "title": "R Statistical Analysis for Beginners",
+            "summary": "<p><span style=\"font-weight: 400;\">In this guide, I will help you learn R, the statistical programming language.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-29T23:40:36-05:00",
+            "date_modified": "2022-08-29T23:41:14-05:00"
+        },
+        {
             "id": "https://aindien.com/how-to-backup-windows-10-with-system-image.html",
             "url": "https://aindien.com/how-to-backup-windows-10-with-system-image.html",
             "title": "How To Backup Windows 10 With System Image",
@@ -133,20 +146,6 @@
             ],
             "date_published": "2022-07-15T23:11:05-05:00",
             "date_modified": "2022-08-26T13:48:47-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-encrypt-email-in-outlook.html",
-            "url": "https://aindien.com/how-to-encrypt-email-in-outlook.html",
-            "title": "How To Encrypt Email In Outlook",
-            "summary": "<p><span style=\"font-weight: 400;\">Whether for work or personal business, knowing how to encrypt your email is an important skill. Today, I will show you how to do that.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Windows"
-            ],
-            "date_published": "2022-07-14T23:35:56-05:00",
-            "date_modified": "2022-08-26T13:49:26-05:00"
         }
     ]
 }
