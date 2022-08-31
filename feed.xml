@@ -3,12 +3,29 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-08-29T23:45:18-05:00</updated>
+    <updated>2022-08-30T22:17:00-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Add Google Calendar To Outlook</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-add-google-calendar-to-outlook.html"/>
+        <id>https://aindien.com/how-to-add-google-calendar-to-outlook.html</id>
+
+        <updated>2022-08-30T22:17:00-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">Most of us use both of these calendars. It is handy to have one place to view both. Let me show you how to sync both together.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>R Statistical Analysis for Beginners</title>
         <author>
@@ -33,7 +50,6 @@
         </author>
         <link href="https://aindien.com/how-to-backup-windows-10-with-system-image.html"/>
         <id>https://aindien.com/how-to-backup-windows-10-with-system-image.html</id>
-            <category term="Windows"/>
 
         <updated>2022-08-28T18:01:15-05:00</updated>
             <summary>
@@ -51,7 +67,6 @@
         </author>
         <link href="https://aindien.com/how-to-boot-windows-10-to-safe-mode.html"/>
         <id>https://aindien.com/how-to-boot-windows-10-to-safe-mode.html</id>
-            <category term="Windows"/>
 
         <updated>2022-08-27T17:40:49-05:00</updated>
             <summary>
@@ -69,7 +84,6 @@
         </author>
         <link href="https://aindien.com/how-to-update-windows.html"/>
         <id>https://aindien.com/how-to-update-windows.html</id>
-            <category term="Windows"/>
 
         <updated>2022-08-26T13:40:20-05:00</updated>
             <summary>
@@ -87,7 +101,7 @@
         </author>
         <link href="https://aindien.com/intro-to-codeblocks-with-c.html"/>
         <id>https://aindien.com/intro-to-codeblocks-with-c.html</id>
-            <category term="C++"/>
+            <category term="C++ Guide"/>
 
         <updated>2022-08-26T14:14:28-05:00</updated>
             <summary>
@@ -105,7 +119,6 @@
         </author>
         <link href="https://aindien.com/how-to-share-your-screen-on-teams.html"/>
         <id>https://aindien.com/how-to-share-your-screen-on-teams.html</id>
-            <category term="Windows"/>
 
         <updated>2022-08-26T13:44:42-05:00</updated>
             <summary>
@@ -123,7 +136,6 @@
         </author>
         <link href="https://aindien.com/how-to-search-google-effectively.html"/>
         <id>https://aindien.com/how-to-search-google-effectively.html</id>
-            <category term="Google Apps"/>
 
         <updated>2022-08-26T13:45:34-05:00</updated>
             <summary>
@@ -141,7 +153,7 @@
         </author>
         <link href="https://aindien.com/getting-started-with-ssh.html"/>
         <id>https://aindien.com/getting-started-with-ssh.html</id>
-            <category term="Linux"/>
+            <category term="Linux Guide"/>
 
         <updated>2022-08-26T13:46:59-05:00</updated>
             <summary>
@@ -164,24 +176,6 @@
             <summary>
                 <![CDATA[
                     Good morning everyone. This post today is going to be a little different. I just wanted to announce my first Ebook on Amazon. https://www.amazon.com/dp/B0B6D4X4BL It is about networking for the PC Technician. I have priced it aty $9.99 and Amazon reports it at 166 pages.
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Why Office365 Is Running Slow</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/why-office365-is-running-slow.html"/>
-        <id>https://aindien.com/why-office365-is-running-slow.html</id>
-            <category term="Windows"/>
-
-        <updated>2022-08-26T13:48:47-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">It is common for Office 365 to run slow and in this document I will talk about this and what to do about it.</span></p>
-
                 ]]>
             </summary>
         <content></content>

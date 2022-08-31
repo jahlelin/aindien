@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/how-to-add-google-calendar-to-outlook.html",
+            "url": "https://aindien.com/how-to-add-google-calendar-to-outlook.html",
+            "title": "How To Add Google Calendar To Outlook",
+            "summary": "<p><span style=\"font-weight: 400;\">Most of us use both of these calendars. It is handy to have one place to view both. Let me show you how to sync both together.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-30T22:11:15-05:00",
+            "date_modified": "2022-08-30T22:17:00-05:00"
+        },
+        {
             "id": "https://aindien.com/r-statistical-analysis-for-beginners.html",
             "url": "https://aindien.com/r-statistical-analysis-for-beginners.html",
             "title": "R Statistical Analysis for Beginners",
@@ -31,7 +44,6 @@
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Windows"
             ],
             "date_published": "2022-08-28T16:51:04-05:00",
             "date_modified": "2022-08-28T18:01:15-05:00"
@@ -45,7 +57,6 @@
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Windows"
             ],
             "date_published": "2022-08-27T17:39:57-05:00",
             "date_modified": "2022-08-27T17:40:49-05:00"
@@ -59,7 +70,6 @@
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Windows"
             ],
             "date_published": "2022-08-18T22:13:04-05:00",
             "date_modified": "2022-08-26T13:40:20-05:00"
@@ -73,7 +83,7 @@
                 "name": "Jason Moore"
             },
             "tags": [
-                   "C++"
+                   "C++ Guide"
             ],
             "date_published": "2022-08-17T23:00:07-05:00",
             "date_modified": "2022-08-26T14:14:28-05:00"
@@ -87,7 +97,6 @@
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Windows"
             ],
             "date_published": "2022-08-12T23:44:14-05:00",
             "date_modified": "2022-08-26T13:44:42-05:00"
@@ -101,7 +110,6 @@
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Google Apps"
             ],
             "date_published": "2022-08-12T23:25:33-05:00",
             "date_modified": "2022-08-26T13:45:34-05:00"
@@ -115,7 +123,7 @@
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Linux"
+                   "Linux Guide"
             ],
             "date_published": "2022-08-10T23:28:09-05:00",
             "date_modified": "2022-08-26T13:46:59-05:00"
@@ -132,20 +140,6 @@
             ],
             "date_published": "2022-07-16T08:58:38-05:00",
             "date_modified": "2022-07-16T08:58:38-05:00"
-        },
-        {
-            "id": "https://aindien.com/why-office365-is-running-slow.html",
-            "url": "https://aindien.com/why-office365-is-running-slow.html",
-            "title": "Why Office365 Is Running Slow",
-            "summary": "<p><span style=\"font-weight: 400;\">It is common for Office 365 to run slow and in this document I will talk about this and what to do about it.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Windows"
-            ],
-            "date_published": "2022-07-15T23:11:05-05:00",
-            "date_modified": "2022-08-26T13:48:47-05:00"
         }
     ]
 }
