@@ -3,12 +3,29 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-08-30T22:17:00-05:00</updated>
+    <updated>2022-09-02T08:05:36-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Using Spell Check In Chrome</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/using-spell-check-in-chrome.html"/>
+        <id>https://aindien.com/using-spell-check-in-chrome.html</id>
+
+        <updated>2022-09-02T08:05:36-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">If you write things regularly, you need to use a spell checker. The most popular browser, Chrome, has one that works well. Let me show you how to use it. </span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Add Google Calendar To Outlook</title>
         <author>
@@ -160,22 +177,6 @@
                 <![CDATA[
                     <p><span style="font-weight: 400;">In this guide, I will show you how to use SSH to access remote systems.</span></p>
 
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>My First Ebook</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/my-first-ebook.html"/>
-        <id>https://aindien.com/my-first-ebook.html</id>
-
-        <updated>2022-07-16T08:58:38-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Good morning everyone. This post today is going to be a little different. I just wanted to announce my first Ebook on Amazon. https://www.amazon.com/dp/B0B6D4X4BL It is about networking for the PC Technician. I have priced it aty $9.99 and Amazon reports it at 166 pages.
                 ]]>
             </summary>
         <content></content>
