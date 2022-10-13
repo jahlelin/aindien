@@ -238,7 +238,7 @@
 </url>
 <url>
 <loc>https://aindien.com/c-essentials.html</loc>
-<lastmod>2022-10-05T19:26:45-05:00</lastmod>
+<lastmod>2022-10-12T23:23:23-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\33/c-essentials-0.png</image:loc>
 <image:title><![CDATA[c++ essentials 0]]></image:title>
@@ -781,14 +781,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://aindien.com/linux-essentials.html</loc>
-<lastmod>2022-10-05T19:25:08-05:00</lastmod>
-<image:image>
-<image:loc>https://aindien.com/media\posts\40/Linux-Essentials-0.png</image:loc>
-<image:title><![CDATA[Linux Essentials]]></image:title>
-</image:image>
-</url>
-<url>
 <loc>https://aindien.com/making-decisions-in-c.html</loc>
 <lastmod>2022-08-26T14:07:17-05:00</lastmod>
 <image:image>
@@ -909,98 +901,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://aindien.com/powershell-for-beginners.html</loc>
-<lastmod>2022-08-26T16:37:34-05:00</lastmod>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-0.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/powershell-for-beginners-1.png</image:loc>
-<image:title><![CDATA[powershell for beginners 1]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-for-Beginners-2.png</image:loc>
-<image:title><![CDATA[Powershell for Beginners 2]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-3.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 3]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-4.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 4]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-5-1024x527.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 5]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-6.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 6]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-7.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 7]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-8.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 8]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-9.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 9]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-10.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 10]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-12.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 12]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-11-1.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 11]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-13.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 13]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-14.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 14]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-15.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 15]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-16.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 16]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-17.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 17]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-18.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 18]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-19.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 19]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-20.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 20]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://aindien.com/media\posts\27/Powershell-For-Beginners-21.png</image:loc>
-<image:title><![CDATA[Powershell For Beginners 21]]></image:title>
-</image:image>
-</url>
-<url>
 <loc>https://aindien.com/process-management-in-linux.html</loc>
 <lastmod>2022-08-26T14:04:05-05:00</lastmod>
 <image:image>
@@ -1078,7 +978,7 @@
 </url>
 <url>
 <loc>https://aindien.com/the-basics-of-cryptocurrency.html</loc>
-<lastmod>2022-10-06T09:27:10-05:00</lastmod>
+<lastmod>2022-10-11T20:13:25-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/the-linux-shell-for-beginners.html</loc>
