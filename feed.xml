@@ -3,12 +3,29 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-10-21T18:22:52-05:00</updated>
+    <updated>2022-10-24T11:00:15-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Pictures Not Showing In Chrome</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/pictures-not-showing-in-chrome.html"/>
+        <id>https://aindien.com/pictures-not-showing-in-chrome.html</id>
+
+        <updated>2022-10-24T11:00:15-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">If your pictures are not showing in Google Chrome, there are a few things to check. In this article, I will go over those for you.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Basics of Economics</title>
         <author>
@@ -159,23 +176,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Codeblocks is an IDE and in this section I want to show you how to get started using it with C++.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Share Your Screen On Teams</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-share-your-screen-on-teams.html"/>
-        <id>https://aindien.com/how-to-share-your-screen-on-teams.html</id>
-
-        <updated>2022-08-26T13:44:42-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p data-pm-slice="0 0 []">Microsoft Teams is a very popular communications app. Businesses far and wide use it, so it is good to know how to work with it.</p>
 
                 ]]>
             </summary>
