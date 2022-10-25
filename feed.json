@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/how-to-clear-the-cache-in-teams.html",
+            "url": "https://aindien.com/how-to-clear-the-cache-in-teams.html",
+            "title": "How To Clear The Cache In Teams",
+            "summary": "<p><span style=\"font-weight: 400;\">If you are having regular issues with Microsoft Teams, clearing the cache is a good step to take. I will show you how to do that in this article.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-25T11:17:42-05:00",
+            "date_modified": "2022-10-25T11:18:14-05:00"
+        },
+        {
             "id": "https://aindien.com/pictures-not-showing-in-chrome.html",
             "url": "https://aindien.com/pictures-not-showing-in-chrome.html",
             "title": "Pictures Not Showing In Chrome",
@@ -126,20 +139,6 @@
             ],
             "date_published": "2022-08-18T22:13:04-05:00",
             "date_modified": "2022-08-26T13:40:20-05:00"
-        },
-        {
-            "id": "https://aindien.com/intro-to-codeblocks-with-c.html",
-            "url": "https://aindien.com/intro-to-codeblocks-with-c.html",
-            "title": "Intro To Codeblocks With C++ ",
-            "summary": "<p><span style=\"font-weight: 400;\">Codeblocks is an IDE and in this section I want to show you how to get started using it with C++.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "C++ Guide"
-            ],
-            "date_published": "2022-08-17T23:00:07-05:00",
-            "date_modified": "2022-08-26T14:14:28-05:00"
         }
     ]
 }

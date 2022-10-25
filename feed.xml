@@ -3,12 +3,29 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-10-24T11:25:17-05:00</updated>
+    <updated>2022-10-25T11:18:14-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Clear The Cache In Teams</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-clear-the-cache-in-teams.html"/>
+        <id>https://aindien.com/how-to-clear-the-cache-in-teams.html</id>
+
+        <updated>2022-10-25T11:18:14-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">If you are having regular issues with Microsoft Teams, clearing the cache is a good step to take. I will show you how to do that in this article.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Pictures Not Showing In Chrome</title>
         <author>
@@ -158,24 +175,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Updating Windows protects you from malware and keeps your hardware running well. In this article, I will show you the best way to update everything.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Intro To Codeblocks With C++ </title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/intro-to-codeblocks-with-c.html"/>
-        <id>https://aindien.com/intro-to-codeblocks-with-c.html</id>
-            <category term="C++ Guide"/>
-
-        <updated>2022-08-26T14:14:28-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">Codeblocks is an IDE and in this section I want to show you how to get started using it with C++.</span></p>
 
                 ]]>
             </summary>
