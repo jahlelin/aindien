@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/how-office-365-works.html",
+            "url": "https://aindien.com/how-office-365-works.html",
+            "title": "How Office 365 Works",
+            "summary": "<p>Office 365 is used by almost every business in the world. It is important to know how to use it well. Here are my tips to help you do that.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Office 365"
+            ],
+            "date_published": "2022-10-26T08:56:26-05:00",
+            "date_modified": "2022-10-26T09:30:08-05:00"
+        },
+        {
             "id": "https://aindien.com/how-to-clear-the-cache-in-teams.html",
             "url": "https://aindien.com/how-to-clear-the-cache-in-teams.html",
             "title": "How To Clear The Cache In Teams",
@@ -57,7 +71,7 @@
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Cryptocurrency Guide"
+                   "Cryptocurrency"
             ],
             "date_published": "2022-10-06T09:15:38-05:00",
             "date_modified": "2022-10-06T09:31:10-05:00"
@@ -126,19 +140,6 @@
             ],
             "date_published": "2022-08-27T17:39:57-05:00",
             "date_modified": "2022-08-27T17:40:49-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-update-windows.html",
-            "url": "https://aindien.com/how-to-update-windows.html",
-            "title": "How To Update Windows",
-            "summary": "<p><span style=\"font-weight: 400;\">Updating Windows protects you from malware and keeps your hardware running well. In this article, I will show you the best way to update everything.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-08-18T22:13:04-05:00",
-            "date_modified": "2022-08-26T13:40:20-05:00"
         }
     ]
 }

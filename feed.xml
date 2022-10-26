@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-10-25T11:46:22-05:00</updated>
+    <updated>2022-10-26T09:30:08-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How Office 365 Works</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-office-365-works.html"/>
+        <id>https://aindien.com/how-office-365-works.html</id>
+            <category term="Office 365"/>
+
+        <updated>2022-10-26T09:30:08-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Office 365 is used by almost every business in the world. It is important to know how to use it well. Here are my tips to help you do that.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Clear The Cache In Teams</title>
         <author>
@@ -67,7 +85,7 @@
         </author>
         <link href="https://aindien.com/basics-of-the-cardano-coin.html"/>
         <id>https://aindien.com/basics-of-the-cardano-coin.html</id>
-            <category term="Cryptocurrency Guide"/>
+            <category term="Cryptocurrency"/>
 
         <updated>2022-10-06T09:31:10-05:00</updated>
             <summary>
@@ -158,23 +176,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Windows operating systems are popular for the masses. However, sometimes things go wrong. I will show you how to get into safe mode so Windows can be worked on.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Update Windows</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-update-windows.html"/>
-        <id>https://aindien.com/how-to-update-windows.html</id>
-
-        <updated>2022-08-26T13:40:20-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">Updating Windows protects you from malware and keeps your hardware running well. In this article, I will show you the best way to update everything.</span></p>
 
                 ]]>
             </summary>
