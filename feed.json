@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/your-guide-to-google-workspace.html",
+            "url": "https://aindien.com/your-guide-to-google-workspace.html",
+            "title": "Your Guide To Google Workspace",
+            "summary": "<p>Google Workspace has a lot of great software. This makes it very popular. In this guide, I will give numerous tips to using it.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Google Workspace"
+            ],
+            "date_published": "2022-10-27T08:59:37-05:00",
+            "date_modified": "2022-10-27T09:25:31-05:00"
+        },
+        {
             "id": "https://aindien.com/how-office-365-works.html",
             "url": "https://aindien.com/how-office-365-works.html",
             "title": "How Office 365 Works",
@@ -21,7 +35,7 @@
                    "Office 365"
             ],
             "date_published": "2022-10-26T08:56:26-05:00",
-            "date_modified": "2022-10-26T09:30:08-05:00"
+            "date_modified": "2022-10-27T09:26:35-05:00"
         },
         {
             "id": "https://aindien.com/how-to-clear-the-cache-in-teams.html",
@@ -127,19 +141,6 @@
             ],
             "date_published": "2022-08-28T16:51:04-05:00",
             "date_modified": "2022-10-05T19:22:50-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-boot-windows-10-to-safe-mode.html",
-            "url": "https://aindien.com/how-to-boot-windows-10-to-safe-mode.html",
-            "title": "How To Boot Windows 10 To Safe Mode",
-            "summary": "<p><span style=\"font-weight: 400;\">Windows operating systems are popular for the masses. However, sometimes things go wrong. I will show you how to get into safe mode so Windows can be worked on.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-08-27T17:39:57-05:00",
-            "date_modified": "2022-08-27T17:40:49-05:00"
         }
     ]
 }
