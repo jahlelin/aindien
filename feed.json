@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/using-functions-in-r-programming.html",
+            "url": "https://aindien.com/using-functions-in-r-programming.html",
+            "title": "Using Functions in R Programming",
+            "summary": "<p><span style=\"font-weight: 400;\">In this guide today, I want to talk about some of the basics of R programming and keeping your code organized.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "R"
+            ],
+            "date_published": "2022-10-28T11:26:44-05:00",
+            "date_modified": "2022-10-28T11:27:41-05:00"
+        },
+        {
             "id": "https://aindien.com/your-guide-to-google-workspace.html",
             "url": "https://aindien.com/your-guide-to-google-workspace.html",
             "title": "Your Guide To Google Workspace",
@@ -127,20 +141,7 @@
             "tags": [
             ],
             "date_published": "2022-08-29T23:40:36-05:00",
-            "date_modified": "2022-10-05T19:22:22-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-backup-windows-10-with-system-image.html",
-            "url": "https://aindien.com/how-to-backup-windows-10-with-system-image.html",
-            "title": "How To Backup Windows 10 With System Image",
-            "summary": "<p><span style=\"font-weight: 400;\">There are many things that can go wrong with a computer. When it has all your kids pictures or videos on them, that is a big problem. Let me show you how to backup Windows to prevent these problems.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-08-28T16:51:04-05:00",
-            "date_modified": "2022-10-05T19:22:50-05:00"
+            "date_modified": "2022-10-28T11:29:18-05:00"
         }
     ]
 }

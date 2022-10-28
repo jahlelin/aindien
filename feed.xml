@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-10-27T10:15:26-05:00</updated>
+    <updated>2022-10-28T11:29:18-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Using Functions in R Programming</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/using-functions-in-r-programming.html"/>
+        <id>https://aindien.com/using-functions-in-r-programming.html</id>
+            <category term="R"/>
+
+        <updated>2022-10-28T11:27:41-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">In this guide today, I want to talk about some of the basics of R programming and keeping your code organized.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Your Guide To Google Workspace</title>
         <author>
@@ -156,27 +174,10 @@
         <link href="https://aindien.com/r-statistical-analysis-for-beginners.html"/>
         <id>https://aindien.com/r-statistical-analysis-for-beginners.html</id>
 
-        <updated>2022-10-05T19:22:22-05:00</updated>
+        <updated>2022-10-28T11:29:18-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">In this guide, I will help you learn R, the statistical programming language.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Backup Windows 10 With System Image</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-backup-windows-10-with-system-image.html"/>
-        <id>https://aindien.com/how-to-backup-windows-10-with-system-image.html</id>
-
-        <updated>2022-10-05T19:22:50-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">There are many things that can go wrong with a computer. When it has all your kids pictures or videos on them, that is a big problem. Let me show you how to backup Windows to prevent these problems.</span></p>
 
                 ]]>
             </summary>
