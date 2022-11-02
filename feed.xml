@@ -3,7 +3,7 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-11-02T12:02:18-05:00</updated>
+    <updated>2022-11-02T13:43:44-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://aindien.com/how-to-write-a-document-in-word.html</id>
             <category term="Office 365"/>
 
-        <updated>2022-11-02T11:56:23-05:00</updated>
+        <updated>2022-11-02T13:42:54-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Creating a document is easy enough, but creating a good document takes a little more effort. Read on to find out a few tricks to jumpstart your writing.</span></p>
@@ -36,7 +36,7 @@
         <id>https://aindien.com/office365-outlook-archiving.html</id>
             <category term="Office 365"/>
 
-        <updated>2022-10-31T22:24:10-05:00</updated>
+        <updated>2022-11-02T13:43:06-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">When your Outlook mailbox gets full, it is a problem. I will show you how to fix this issue in this guide. </span></p>
@@ -54,7 +54,7 @@
         <id>https://aindien.com/using-functions-in-r-programming.html</id>
             <category term="R"/>
 
-        <updated>2022-10-28T11:27:41-05:00</updated>
+        <updated>2022-11-02T13:43:20-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">In this guide today, I want to talk about some of the basics of R programming and keeping your code organized.</span></p>
@@ -72,7 +72,7 @@
         <id>https://aindien.com/your-guide-to-google-workspace.html</id>
             <category term="Google Workspace"/>
 
-        <updated>2022-10-27T09:25:31-05:00</updated>
+        <updated>2022-11-02T13:43:32-05:00</updated>
             <summary>
                 <![CDATA[
                     <p>Google Workspace has a lot of great software. This makes it very popular. In this guide, I will give numerous tips to using it.</p>
@@ -90,7 +90,7 @@
         <id>https://aindien.com/how-office-365-works.html</id>
             <category term="Office 365"/>
 
-        <updated>2022-11-02T12:02:18-05:00</updated>
+        <updated>2022-11-02T13:43:44-05:00</updated>
             <summary>
                 <![CDATA[
                     <p>Office 365 is used by almost every business in the world. It is important to know how to use it well. Here are my tips to help you do that.</p>
@@ -141,7 +141,7 @@
         <link href="https://aindien.com/basics-of-economics.html"/>
         <id>https://aindien.com/basics-of-economics.html</id>
 
-        <updated>2022-10-28T12:38:54-05:00</updated>
+        <updated>2022-11-02T13:42:02-05:00</updated>
             <summary>
                 <![CDATA[
                     <p>Economics and the choices we make in regards to money. These are my notes from books I have read on the subject.</p>
