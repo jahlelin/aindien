@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-10-31T22:25:55-05:00</updated>
+    <updated>2022-11-02T12:02:18-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Write A Document In Word</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-write-a-document-in-word.html"/>
+        <id>https://aindien.com/how-to-write-a-document-in-word.html</id>
+            <category term="Office 365"/>
+
+        <updated>2022-11-02T11:56:23-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">Creating a document is easy enough, but creating a good document takes a little more effort. Read on to find out a few tricks to jumpstart your writing.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Office365 Outlook Archiving</title>
         <author>
@@ -72,7 +90,7 @@
         <id>https://aindien.com/how-office-365-works.html</id>
             <category term="Office 365"/>
 
-        <updated>2022-10-31T22:25:55-05:00</updated>
+        <updated>2022-11-02T12:02:18-05:00</updated>
             <summary>
                 <![CDATA[
                     <p>Office 365 is used by almost every business in the world. It is important to know how to use it well. Here are my tips to help you do that.</p>
@@ -162,23 +180,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">If you write things regularly, you need to use a spell checker. The most popular browser, Chrome, has one that works well. Let me show you how to use it. </span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Add Google Calendar To Outlook</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-add-google-calendar-to-outlook.html"/>
-        <id>https://aindien.com/how-to-add-google-calendar-to-outlook.html</id>
-
-        <updated>2022-10-05T19:21:39-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">Most of us use both of these calendars. It is handy to have one place to view both. Let me show you how to sync both together.</span></p>
 
                 ]]>
             </summary>
