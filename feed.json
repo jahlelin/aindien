@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/local-scope-in-c.html",
+            "url": "https://aindien.com/local-scope-in-c.html",
+            "title": "Local Scope In C++",
+            "summary": "<p><span style=\"font-weight: 400;\">Understanding the scope of your variables is key to avoiding undefined behavior. In this article, I will explain what it means to be in or out of scope.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-04T13:54:19-05:00",
+            "date_modified": "2022-11-04T13:57:12-05:00"
+        },
+        {
             "id": "https://aindien.com/how-to-write-a-document-in-word.html",
             "url": "https://aindien.com/how-to-write-a-document-in-word.html",
             "title": "How To Write A Document In Word",
@@ -54,7 +67,7 @@
         {
             "id": "https://aindien.com/your-guide-to-google-workspace.html",
             "url": "https://aindien.com/your-guide-to-google-workspace.html",
-            "title": "Your Guide To Google Workspace",
+            "title": "Google Workspace Essentials For Beginners",
             "summary": "<p>Google Workspace has a lot of great software. This makes it very popular. In this guide, I will give numerous tips to using it.</p>\n",
             "author": {
                 "name": "Jason Moore"
@@ -63,12 +76,12 @@
                    "Google Workspace"
             ],
             "date_published": "2022-10-27T08:59:37-05:00",
-            "date_modified": "2022-11-02T13:43:32-05:00"
+            "date_modified": "2022-11-04T14:04:23-05:00"
         },
         {
             "id": "https://aindien.com/how-office-365-works.html",
             "url": "https://aindien.com/how-office-365-works.html",
-            "title": "How Office 365 Works",
+            "title": "Office365 Essentials For Beginners",
             "summary": "<p>Office 365 is used by almost every business in the world. It is important to know how to use it well. Here are my tips to help you do that.</p>\n",
             "author": {
                 "name": "Jason Moore"
@@ -77,7 +90,7 @@
                    "Office 365"
             ],
             "date_published": "2022-10-26T08:56:26-05:00",
-            "date_modified": "2022-11-02T13:43:44-05:00"
+            "date_modified": "2022-11-04T14:04:04-05:00"
         },
         {
             "id": "https://aindien.com/how-to-clear-the-cache-in-teams.html",
@@ -108,7 +121,7 @@
         {
             "id": "https://aindien.com/basics-of-economics.html",
             "url": "https://aindien.com/basics-of-economics.html",
-            "title": "Basics of Economics",
+            "title": "Economics Essentials For Beginners",
             "summary": "<p>Economics and the choices we make in regards to money. These are my notes from books I have read on the subject.</p>\n",
             "author": {
                 "name": "Jason Moore"
@@ -116,7 +129,7 @@
             "tags": [
             ],
             "date_published": "2022-10-13T17:44:33-05:00",
-            "date_modified": "2022-11-04T13:24:11-05:00"
+            "date_modified": "2022-11-04T14:03:36-05:00"
         },
         {
             "id": "https://aindien.com/basics-of-the-cardano-coin.html",
@@ -131,19 +144,6 @@
             ],
             "date_published": "2022-10-06T09:15:38-05:00",
             "date_modified": "2022-10-06T09:31:10-05:00"
-        },
-        {
-            "id": "https://aindien.com/using-spell-check-in-chrome.html",
-            "url": "https://aindien.com/using-spell-check-in-chrome.html",
-            "title": "Using Spell Check In Chrome",
-            "summary": "<p><span style=\"font-weight: 400;\">If you write things regularly, you need to use a spell checker. The most popular browser, Chrome, has one that works well. Let me show you how to use it. </span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-09-02T07:58:48-05:00",
-            "date_modified": "2022-10-05T19:20:58-05:00"
         }
     ]
 }

@@ -134,7 +134,7 @@
 </url>
 <url>
 <loc>https://aindien.com/basics-of-economics.html</loc>
-<lastmod>2022-11-04T13:24:11-05:00</lastmod>
+<lastmod>2022-11-04T14:03:36-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/basics-of-the-cardano-coin.html</loc>
@@ -242,7 +242,7 @@
 </url>
 <url>
 <loc>https://aindien.com/c-essentials.html</loc>
-<lastmod>2022-11-03T22:15:17-05:00</lastmod>
+<lastmod>2022-11-04T14:00:42-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\33/c-essentials-0.png</image:loc>
 <image:title><![CDATA[c++ essentials 0]]></image:title>
@@ -382,7 +382,7 @@
 </url>
 <url>
 <loc>https://aindien.com/how-office-365-works.html</loc>
-<lastmod>2022-11-02T13:43:44-05:00</lastmod>
+<lastmod>2022-11-04T14:04:04-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/how-the-osi-model-works.html</loc>
@@ -466,7 +466,7 @@
 </url>
 <url>
 <loc>https://aindien.com/how-to-get-started-with-linux.html</loc>
-<lastmod>2022-08-26T14:10:08-05:00</lastmod>
+<lastmod>2022-11-04T14:01:57-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\53/linux-0.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -797,6 +797,10 @@
 </image:image>
 </url>
 <url>
+<loc>https://aindien.com/local-scope-in-c.html</loc>
+<lastmod>2022-11-04T13:57:12-05:00</lastmod>
+</url>
+<url>
 <loc>https://aindien.com/making-decisions-in-c.html</loc>
 <lastmod>2022-08-26T14:07:17-05:00</lastmod>
 <image:image>
@@ -902,7 +906,7 @@
 </url>
 <url>
 <loc>https://aindien.com/networking-essentials.html</loc>
-<lastmod>2022-08-26T16:32:09-05:00</lastmod>
+<lastmod>2022-11-04T14:01:16-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\35/Networking-Essentials-0.png</image:loc>
 <image:title><![CDATA[Networking Essentials 0]]></image:title>
@@ -918,7 +922,7 @@
 </url>
 <url>
 <loc>https://aindien.com/powershell-essentials.html</loc>
-<lastmod>2022-08-26T16:19:37-05:00</lastmod>
+<lastmod>2022-11-04T14:01:34-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\50/corona.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -1002,7 +1006,7 @@
 </url>
 <url>
 <loc>https://aindien.com/the-basics-of-cryptocurrency.html</loc>
-<lastmod>2022-10-11T20:13:25-05:00</lastmod>
+<lastmod>2022-11-04T14:02:24-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/the-linux-shell-for-beginners.html</loc>
@@ -1094,6 +1098,6 @@
 </url>
 <url>
 <loc>https://aindien.com/your-guide-to-google-workspace.html</loc>
-<lastmod>2022-11-02T13:43:32-05:00</lastmod>
+<lastmod>2022-11-04T14:04:23-05:00</lastmod>
 </url>
 </urlset>
