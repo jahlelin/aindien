@@ -3,7 +3,7 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-11-12T20:08:39-06:00</updated>
+    <updated>2022-11-12T21:19:10-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://aindien.com/local-scope-in-c.html"/>
         <id>https://aindien.com/local-scope-in-c.html</id>
+            <category term="C++"/>
 
-        <updated>2022-11-12T20:02:49-06:00</updated>
+        <updated>2022-11-12T21:17:46-06:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Understanding the scope of your variables is key to avoiding undefined behavior. In this article, I will explain what it means to be in or out of scope.</span></p>
@@ -123,8 +124,9 @@
         </author>
         <link href="https://aindien.com/how-to-clear-the-cache-in-teams.html"/>
         <id>https://aindien.com/how-to-clear-the-cache-in-teams.html</id>
+            <category term="Office 365"/>
 
-        <updated>2022-11-12T20:07:46-06:00</updated>
+        <updated>2022-11-12T21:18:58-06:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">If you are having regular issues with Microsoft Teams, clearing the cache is a good step to take. I will show you how to do that in this article.</span></p>
@@ -140,8 +142,9 @@
         </author>
         <link href="https://aindien.com/pictures-not-showing-in-chrome.html"/>
         <id>https://aindien.com/pictures-not-showing-in-chrome.html</id>
+            <category term="Google Workspace"/>
 
-        <updated>2022-11-12T20:08:18-06:00</updated>
+        <updated>2022-11-12T21:19:10-06:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">If your pictures are not showing in Google Chrome, there are a few things to check. In this article, I will go over those for you.</span></p>
