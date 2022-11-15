@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-11-12T21:19:10-06:00</updated>
+    <updated>2022-11-14T22:47:23-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Working With Excel Sheets</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/working-with-excel-sheets.html"/>
+        <id>https://aindien.com/working-with-excel-sheets.html</id>
+            <category term="Office 365"/>
+
+        <updated>2022-11-14T22:46:11-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">Working with sheets in an Excel document is a fundamental skill. In this guide, I will show you how to work with them.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Local Scope In C++</title>
         <author>
@@ -108,7 +126,7 @@
         <id>https://aindien.com/how-office-365-works.html</id>
             <category term="Office 365"/>
 
-        <updated>2022-11-12T19:46:24-06:00</updated>
+        <updated>2022-11-14T22:47:23-06:00</updated>
             <summary>
                 <![CDATA[
                     <p>Office 365 is used by almost every business in the world. It is important to know how to use it well. Here are my tips to help you do that.</p>
@@ -165,24 +183,6 @@
             <summary>
                 <![CDATA[
                     <p>Economics and the choices we make in regards to money. These are my notes from books I have read on the subject.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Basics of the Cardano Coin</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/basics-of-the-cardano-coin.html"/>
-        <id>https://aindien.com/basics-of-the-cardano-coin.html</id>
-            <category term="Cryptocurrency"/>
-
-        <updated>2022-11-12T20:08:39-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">Cardano is one of the largest digital currencies by market cap. In this article, we will talk about the basics and what you need to know about it.</span></p>
 
                 ]]>
             </summary>

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/working-with-excel-sheets.html",
+            "url": "https://aindien.com/working-with-excel-sheets.html",
+            "title": "Working With Excel Sheets",
+            "summary": "<p><span style=\"font-weight: 400;\">Working with sheets in an Excel document is a fundamental skill. In this guide, I will show you how to work with them.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Office 365"
+            ],
+            "date_published": "2022-11-14T22:45:40-06:00",
+            "date_modified": "2022-11-14T22:46:11-06:00"
+        },
+        {
             "id": "https://aindien.com/local-scope-in-c.html",
             "url": "https://aindien.com/local-scope-in-c.html",
             "title": "Local Scope In C++",
@@ -91,7 +105,7 @@
                    "Office 365"
             ],
             "date_published": "2022-10-26T08:56:26-05:00",
-            "date_modified": "2022-11-12T19:46:24-06:00"
+            "date_modified": "2022-11-14T22:47:23-06:00"
         },
         {
             "id": "https://aindien.com/how-to-clear-the-cache-in-teams.html",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2022-10-13T17:44:33-05:00",
             "date_modified": "2022-11-12T19:46:42-06:00"
-        },
-        {
-            "id": "https://aindien.com/basics-of-the-cardano-coin.html",
-            "url": "https://aindien.com/basics-of-the-cardano-coin.html",
-            "title": "Basics of the Cardano Coin",
-            "summary": "<p><span style=\"font-weight: 400;\">Cardano is one of the largest digital currencies by market cap. In this article, we will talk about the basics and what you need to know about it.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Cryptocurrency"
-            ],
-            "date_published": "2022-10-06T09:15:38-05:00",
-            "date_modified": "2022-11-12T20:08:39-06:00"
         }
     ]
 }
