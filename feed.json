@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/using-formulas-in-excel.html",
+            "url": "https://aindien.com/using-formulas-in-excel.html",
+            "title": "Using Formulas In Excel",
+            "summary": "<p><span style=\"font-weight: 400;\">If you are rusty with Excel, I will go over basic formula and function usage in this guide.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Office 365"
+            ],
+            "date_published": "2022-11-17T20:45:05-06:00",
+            "date_modified": "2022-11-17T20:48:11-06:00"
+        },
+        {
             "id": "https://aindien.com/working-with-excel-sheets.html",
             "url": "https://aindien.com/working-with-excel-sheets.html",
             "title": "Working With Excel Sheets",
@@ -105,7 +119,7 @@
                    "Office 365"
             ],
             "date_published": "2022-10-26T08:56:26-05:00",
-            "date_modified": "2022-11-14T22:47:23-06:00"
+            "date_modified": "2022-11-17T20:47:15-06:00"
         },
         {
             "id": "https://aindien.com/how-to-clear-the-cache-in-teams.html",
@@ -134,19 +148,6 @@
             ],
             "date_published": "2022-10-24T11:00:15-05:00",
             "date_modified": "2022-11-12T21:19:10-06:00"
-        },
-        {
-            "id": "https://aindien.com/basics-of-economics.html",
-            "url": "https://aindien.com/basics-of-economics.html",
-            "title": "Economics Essentials For Beginners",
-            "summary": "<p>Economics and the choices we make in regards to money. These are my notes from books I have read on the subject.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-10-13T17:44:33-05:00",
-            "date_modified": "2022-11-16T17:16:52-06:00"
         }
     ]
 }

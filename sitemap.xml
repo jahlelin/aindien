@@ -242,7 +242,7 @@
 </url>
 <url>
 <loc>https://aindien.com/c-essentials.html</loc>
-<lastmod>2022-11-12T19:49:08-06:00</lastmod>
+<lastmod>2022-11-17T08:45:19-06:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\33/c-essentials-0.png</image:loc>
 <image:title><![CDATA[c++ essentials 0]]></image:title>
@@ -382,7 +382,7 @@
 </url>
 <url>
 <loc>https://aindien.com/how-office-365-works.html</loc>
-<lastmod>2022-11-14T22:47:23-06:00</lastmod>
+<lastmod>2022-11-17T20:47:15-06:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/how-the-osi-model-works.html</loc>
@@ -1031,6 +1031,10 @@
 <image:loc>https://aindien.com/media\posts\46/Troubleshooting-A-Computer-Network.png</image:loc>
 <image:title><![CDATA[Troubleshooting A Computer Network]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://aindien.com/using-formulas-in-excel.html</loc>
+<lastmod>2022-11-17T20:48:11-06:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/using-functions-in-c.html</loc>
