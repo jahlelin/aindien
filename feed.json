@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/resume.html",
+            "url": "https://aindien.com/resume.html",
+            "title": "Resume",
+            "summary": "Jason Moore sarcogin@gmail.com 254-426-5715 10213 Mickler Ln. Waco, TX 76708 I am a technologist with 16 years combined experience in system maintenance, customer support, and audio/video. I am a problem solver and like to help others. I support both Office365, Google Workspace, and Microsoft Windows.",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-09T09:37:09-06:00",
+            "date_modified": "2023-02-09T09:39:57-06:00"
+        },
+        {
             "id": "https://aindien.com/using-formulas-in-excel.html",
             "url": "https://aindien.com/using-formulas-in-excel.html",
             "title": "Using Formulas In Excel",
@@ -134,20 +147,6 @@
             ],
             "date_published": "2022-10-25T11:17:42-05:00",
             "date_modified": "2022-11-12T21:18:58-06:00"
-        },
-        {
-            "id": "https://aindien.com/pictures-not-showing-in-chrome.html",
-            "url": "https://aindien.com/pictures-not-showing-in-chrome.html",
-            "title": "Pictures Not Showing In Chrome",
-            "summary": "<p><span style=\"font-weight: 400;\">If your pictures are not showing in Google Chrome, there are a few things to check. In this article, I will go over those for you.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Google Workspace"
-            ],
-            "date_published": "2022-10-24T11:00:15-05:00",
-            "date_modified": "2022-11-12T21:19:10-06:00"
         }
     ]
 }

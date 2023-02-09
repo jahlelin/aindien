@@ -3,12 +3,28 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2022-11-17T20:48:11-06:00</updated>
+    <updated>2023-02-09T09:39:57-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Resume</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/resume.html"/>
+        <id>https://aindien.com/resume.html</id>
+
+        <updated>2023-02-09T09:39:57-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Jason Moore sarcogin@gmail.com 254-426-5715 10213 Mickler Ln. Waco, TX 76708 I am a technologist with 16 years combined experience in system maintenance, customer support, and audio/video. I am a problem solver and like to help others. I support both Office365, Google Workspace, and Microsoft Windows.
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Using Formulas In Excel</title>
         <author>
@@ -166,24 +182,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">If you are having regular issues with Microsoft Teams, clearing the cache is a good step to take. I will show you how to do that in this article.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Pictures Not Showing In Chrome</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/pictures-not-showing-in-chrome.html"/>
-        <id>https://aindien.com/pictures-not-showing-in-chrome.html</id>
-            <category term="Google Workspace"/>
-
-        <updated>2022-11-12T21:19:10-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">If your pictures are not showing in Google Chrome, there are a few things to check. In this article, I will go over those for you.</span></p>
 
                 ]]>
             </summary>
