@@ -3,7 +3,7 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-02-09T18:49:00-06:00</updated>
+    <updated>2023-02-23T11:27:50-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -134,7 +134,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Google Workspace Essentials For Beginners</title>
+        <title>Getting Started With Google Workspace</title>
         <author>
             <name>Jason Moore</name>
         </author>
@@ -142,7 +142,7 @@
         <id>https://aindien.com/your-guide-to-google-workspace.html</id>
             <category term="Google Workspace"/>
 
-        <updated>2022-11-12T19:45:55-06:00</updated>
+        <updated>2023-02-23T11:27:50-06:00</updated>
             <summary>
                 <![CDATA[
                     <p>Google Workspace has a lot of great software. This makes it very popular. In this guide, I will give numerous tips to using it.</p>
@@ -152,7 +152,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Office365 Essentials For Beginners</title>
+        <title>Getting Started With Office365</title>
         <author>
             <name>Jason Moore</name>
         </author>
@@ -160,7 +160,7 @@
         <id>https://aindien.com/how-office-365-works.html</id>
             <category term="Office 365"/>
 
-        <updated>2022-11-17T20:47:15-06:00</updated>
+        <updated>2023-02-23T11:27:26-06:00</updated>
             <summary>
                 <![CDATA[
                     <p>Office 365 is used by almost every business in the world. It is important to know how to use it well. Here are my tips to help you do that.</p>
