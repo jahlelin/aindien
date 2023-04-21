@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/principles-of-economics.html",
+            "url": "https://aindien.com/principles-of-economics.html",
+            "title": "Principles of Economics",
+            "summary": "<p data-pm-slice=\"0 0 []\">This article is about the main principles of economics and the choices we make.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-21T11:32:15-05:00",
+            "date_modified": "2023-04-21T11:32:15-05:00"
+        },
+        {
             "id": "https://aindien.com/resume.html",
             "url": "https://aindien.com/resume.html",
             "title": "Resume",
@@ -134,20 +147,6 @@
             ],
             "date_published": "2022-10-26T08:56:26-05:00",
             "date_modified": "2023-04-19T14:16:17-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-clear-the-cache-in-teams.html",
-            "url": "https://aindien.com/how-to-clear-the-cache-in-teams.html",
-            "title": "How To Clear The Cache In Teams",
-            "summary": "<p><span style=\"font-weight: 400;\">If you are having regular issues with Microsoft Teams, clearing the cache is a good step to take. I will show you how to do that in this article.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Office 365"
-            ],
-            "date_published": "2022-10-25T11:17:42-05:00",
-            "date_modified": "2022-11-12T21:18:58-06:00"
         }
     ]
 }

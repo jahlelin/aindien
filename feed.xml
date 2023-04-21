@@ -3,12 +3,29 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-04-19T14:16:17-05:00</updated>
+    <updated>2023-04-21T11:32:15-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Principles of Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/principles-of-economics.html"/>
+        <id>https://aindien.com/principles-of-economics.html</id>
+
+        <updated>2023-04-21T11:32:15-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">This article is about the main principles of economics and the choices we make.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Resume</title>
         <author>
@@ -165,24 +182,6 @@
             <summary>
                 <![CDATA[
                     <p>Office 365 is used by almost every business in the world. It is important to know how to use it well. Here are my tips to help you do that.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Clear The Cache In Teams</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-clear-the-cache-in-teams.html"/>
-        <id>https://aindien.com/how-to-clear-the-cache-in-teams.html</id>
-            <category term="Office 365"/>
-
-        <updated>2022-11-12T21:18:58-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">If you are having regular issues with Microsoft Teams, clearing the cache is a good step to take. I will show you how to do that in this article.</span></p>
 
                 ]]>
             </summary>
