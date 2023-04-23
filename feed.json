@@ -10,6 +10,32 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/demand-and-supply-in-economics.html",
+            "url": "https://aindien.com/demand-and-supply-in-economics.html",
+            "title": "Demand and Supply in Economics",
+            "summary": "<p data-pm-slice=\"0 0 []\">Demand and Supply are important concepts in Economics. In this section, we look at some of their main points.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-23T18:50:50-05:00",
+            "date_modified": "2023-04-23T18:50:50-05:00"
+        },
+        {
+            "id": "https://aindien.com/optimization-in-economics.html",
+            "url": "https://aindien.com/optimization-in-economics.html",
+            "title": "Optimization in Economics",
+            "summary": "<p data-pm-slice=\"1 1 []\">Optimization in Economics is about making the best possible choice. In this article, the way this is done is demonstrated with scenarios and data.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-22T23:57:13-05:00",
+            "date_modified": "2023-04-22T23:57:13-05:00"
+        },
+        {
             "id": "https://aindien.com/using-data-and-models-in-economics.html",
             "url": "https://aindien.com/using-data-and-models-in-economics.html",
             "title": "Using Data and Models in Economics",
@@ -118,34 +144,6 @@
             ],
             "date_published": "2022-10-31T22:23:48-05:00",
             "date_modified": "2022-11-12T20:04:20-06:00"
-        },
-        {
-            "id": "https://aindien.com/using-functions-in-r-programming.html",
-            "url": "https://aindien.com/using-functions-in-r-programming.html",
-            "title": "Using Functions in R Programming",
-            "summary": "<p><span style=\"font-weight: 400;\">In this guide today, I want to talk about some of the basics of R programming and keeping your code organized.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "R"
-            ],
-            "date_published": "2022-10-28T11:26:44-05:00",
-            "date_modified": "2022-11-12T20:07:25-06:00"
-        },
-        {
-            "id": "https://aindien.com/your-guide-to-google-workspace.html",
-            "url": "https://aindien.com/your-guide-to-google-workspace.html",
-            "title": "Getting Started With Google Workspace",
-            "summary": "<p>Google Workspace has a lot of great software. This makes it very popular. In this guide, I will give numerous tips to using it.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Google Workspace"
-            ],
-            "date_published": "2022-10-27T08:59:37-05:00",
-            "date_modified": "2023-04-19T14:08:16-05:00"
         }
     ]
 }

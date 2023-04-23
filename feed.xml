@@ -3,12 +3,46 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-04-22T23:23:42-05:00</updated>
+    <updated>2023-04-23T18:50:50-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Demand and Supply in Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/demand-and-supply-in-economics.html"/>
+        <id>https://aindien.com/demand-and-supply-in-economics.html</id>
+
+        <updated>2023-04-23T18:50:50-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">Demand and Supply are important concepts in Economics. In this section, we look at some of their main points.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Optimization in Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/optimization-in-economics.html"/>
+        <id>https://aindien.com/optimization-in-economics.html</id>
+
+        <updated>2023-04-22T23:57:13-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="1 1 []">Optimization in Economics is about making the best possible choice. In this article, the way this is done is demonstrated with scenarios and data.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Using Data and Models in Economics</title>
         <author>
@@ -145,42 +179,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">When your Outlook mailbox gets full, it is a problem. I will show you how to fix this issue in this guide. </span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Using Functions in R Programming</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/using-functions-in-r-programming.html"/>
-        <id>https://aindien.com/using-functions-in-r-programming.html</id>
-            <category term="R"/>
-
-        <updated>2022-11-12T20:07:25-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">In this guide today, I want to talk about some of the basics of R programming and keeping your code organized.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Getting Started With Google Workspace</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/your-guide-to-google-workspace.html"/>
-        <id>https://aindien.com/your-guide-to-google-workspace.html</id>
-            <category term="Google Workspace"/>
-
-        <updated>2023-04-19T14:08:16-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Google Workspace has a lot of great software. This makes it very popular. In this guide, I will give numerous tips to using it.</p>
 
                 ]]>
             </summary>
