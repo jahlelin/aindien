@@ -3,12 +3,29 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-04-21T11:32:15-05:00</updated>
+    <updated>2023-04-22T23:23:42-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Using Data and Models in Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/using-data-and-models-in-economics.html"/>
+        <id>https://aindien.com/using-data-and-models-in-economics.html</id>
+
+        <updated>2023-04-22T23:23:16-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="1 1 []">Economists use data to create models of the world. Through these objects, they try to understand the choices people make regarding money.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Principles of Economics</title>
         <author>
@@ -17,7 +34,7 @@
         <link href="https://aindien.com/principles-of-economics.html"/>
         <id>https://aindien.com/principles-of-economics.html</id>
 
-        <updated>2023-04-21T11:32:15-05:00</updated>
+        <updated>2023-04-22T23:23:42-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">This article is about the main principles of economics and the choices we make.</p>
@@ -164,24 +181,6 @@
             <summary>
                 <![CDATA[
                     <p>Google Workspace has a lot of great software. This makes it very popular. In this guide, I will give numerous tips to using it.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Getting Started With Office365</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-office-365-works.html"/>
-        <id>https://aindien.com/how-office-365-works.html</id>
-            <category term="Office 365"/>
-
-        <updated>2023-04-19T14:16:17-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Office 365 is used by almost every business in the world. It is important to know how to use it well. Here are my tips to help you do that.</p>
 
                 ]]>
             </summary>
