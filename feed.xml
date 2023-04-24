@@ -3,7 +3,7 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-04-23T18:50:50-05:00</updated>
+    <updated>2023-04-23T22:22:04-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://aindien.com/demand-and-supply-in-economics.html"/>
         <id>https://aindien.com/demand-and-supply-in-economics.html</id>
+            <category term="Economics"/>
 
-        <updated>2023-04-23T18:50:50-05:00</updated>
+        <updated>2023-04-23T22:22:04-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">Demand and Supply are important concepts in Economics. In this section, we look at some of their main points.</p>
@@ -33,8 +34,9 @@
         </author>
         <link href="https://aindien.com/optimization-in-economics.html"/>
         <id>https://aindien.com/optimization-in-economics.html</id>
+            <category term="Economics"/>
 
-        <updated>2023-04-22T23:57:13-05:00</updated>
+        <updated>2023-04-23T22:21:55-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="1 1 []">Optimization in Economics is about making the best possible choice. In this article, the way this is done is demonstrated with scenarios and data.</p>
@@ -50,8 +52,9 @@
         </author>
         <link href="https://aindien.com/using-data-and-models-in-economics.html"/>
         <id>https://aindien.com/using-data-and-models-in-economics.html</id>
+            <category term="Economics"/>
 
-        <updated>2023-04-22T23:23:16-05:00</updated>
+        <updated>2023-04-23T22:21:47-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="1 1 []">Economists use data to create models of the world. Through these objects, they try to understand the choices people make regarding money.</p>
@@ -67,8 +70,9 @@
         </author>
         <link href="https://aindien.com/principles-of-economics.html"/>
         <id>https://aindien.com/principles-of-economics.html</id>
+            <category term="Economics"/>
 
-        <updated>2023-04-22T23:23:42-05:00</updated>
+        <updated>2023-04-23T22:21:39-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">This article is about the main principles of economics and the choices we make.</p>
