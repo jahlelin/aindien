@@ -3,12 +3,29 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-04-23T22:40:41-05:00</updated>
+    <updated>2023-04-24T11:27:13-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Defining Macroeconomic Aggregates In Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/defining-macroeconomic-aggregates-in-economics.html"/>
+        <id>https://aindien.com/defining-macroeconomic-aggregates-in-economics.html</id>
+
+        <updated>2023-04-24T11:27:13-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="1 1 []">An aggregate is the totals of particular economic attributes and in this section we look at some of those.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Demand and Supply in Economics</title>
         <author>
@@ -165,24 +182,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Creating a document is easy enough, but creating a good document takes a little more effort. Read on to find out a few tricks to jumpstart your writing.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Office365 Outlook Archiving</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/office365-outlook-archiving.html"/>
-        <id>https://aindien.com/office365-outlook-archiving.html</id>
-            <category term="Office 365"/>
-
-        <updated>2023-04-23T22:40:41-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">When your Outlook mailbox gets full, it is a problem. I will show you how to fix this issue in this guide. </span></p>
 
                 ]]>
             </summary>
