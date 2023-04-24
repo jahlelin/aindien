@@ -3,7 +3,7 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-04-23T22:22:04-05:00</updated>
+    <updated>2023-04-23T22:40:41-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://aindien.com/demand-and-supply-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-04-23T22:22:04-05:00</updated>
+        <updated>2023-04-23T22:38:26-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">Demand and Supply are important concepts in Economics. In this section, we look at some of their main points.</p>
@@ -36,7 +36,7 @@
         <id>https://aindien.com/optimization-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-04-23T22:21:55-05:00</updated>
+        <updated>2023-04-23T22:38:40-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="1 1 []">Optimization in Economics is about making the best possible choice. In this article, the way this is done is demonstrated with scenarios and data.</p>
@@ -54,7 +54,7 @@
         <id>https://aindien.com/using-data-and-models-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-04-23T22:21:47-05:00</updated>
+        <updated>2023-04-23T22:38:53-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="1 1 []">Economists use data to create models of the world. Through these objects, they try to understand the choices people make regarding money.</p>
@@ -72,7 +72,7 @@
         <id>https://aindien.com/principles-of-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-04-23T22:21:39-05:00</updated>
+        <updated>2023-04-23T22:39:06-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">This article is about the main principles of economics and the choices we make.</p>
@@ -107,7 +107,7 @@
         <id>https://aindien.com/using-formulas-in-excel.html</id>
             <category term="Office 365"/>
 
-        <updated>2022-11-17T20:48:11-06:00</updated>
+        <updated>2023-04-23T22:39:25-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">If you are rusty with Excel, I will go over basic formula and function usage in this guide.</span></p>
@@ -125,7 +125,7 @@
         <id>https://aindien.com/working-with-excel-sheets.html</id>
             <category term="Office 365"/>
 
-        <updated>2022-11-14T22:46:11-06:00</updated>
+        <updated>2023-04-23T22:39:44-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Working with sheets in an Excel document is a fundamental skill. In this guide, I will show you how to work with them.</span></p>
@@ -143,7 +143,7 @@
         <id>https://aindien.com/local-scope-in-c.html</id>
             <category term="C++"/>
 
-        <updated>2022-11-12T21:17:46-06:00</updated>
+        <updated>2023-04-23T22:40:03-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Understanding the scope of your variables is key to avoiding undefined behavior. In this article, I will explain what it means to be in or out of scope.</span></p>
@@ -161,7 +161,7 @@
         <id>https://aindien.com/how-to-write-a-document-in-word.html</id>
             <category term="Office 365"/>
 
-        <updated>2022-11-12T20:03:40-06:00</updated>
+        <updated>2023-04-23T22:40:22-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Creating a document is easy enough, but creating a good document takes a little more effort. Read on to find out a few tricks to jumpstart your writing.</span></p>
@@ -179,7 +179,7 @@
         <id>https://aindien.com/office365-outlook-archiving.html</id>
             <category term="Office 365"/>
 
-        <updated>2022-11-12T20:04:20-06:00</updated>
+        <updated>2023-04-23T22:40:41-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">When your Outlook mailbox gets full, it is a problem. I will show you how to fix this issue in this guide. </span></p>
