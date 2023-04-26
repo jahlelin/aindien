@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-04-24T11:27:13-05:00</updated>
+    <updated>2023-04-26T13:52:11-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Aggregate Incomes</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/aggregate-incomes.html"/>
+        <id>https://aindien.com/aggregate-incomes.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-04-26T13:52:11-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="1 1 []">These are my notes on aggregate incomes. Hope they are helpful.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Defining Macroeconomic Aggregates In Economics</title>
         <author>
@@ -164,24 +182,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Understanding the scope of your variables is key to avoiding undefined behavior. In this article, I will explain what it means to be in or out of scope.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Write A Document In Word</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-write-a-document-in-word.html"/>
-        <id>https://aindien.com/how-to-write-a-document-in-word.html</id>
-            <category term="Office 365"/>
-
-        <updated>2023-04-23T22:40:22-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">Creating a document is easy enough, but creating a good document takes a little more effort. Read on to find out a few tricks to jumpstart your writing.</span></p>
 
                 ]]>
             </summary>
