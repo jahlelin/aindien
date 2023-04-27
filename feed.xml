@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-04-26T13:52:11-05:00</updated>
+    <updated>2023-04-27T18:36:17-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Economic Growth</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/economic-growth.html"/>
+        <id>https://aindien.com/economic-growth.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-04-27T18:35:53-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes on the economic growth section in Economics.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Aggregate Incomes</title>
         <author>
@@ -18,7 +36,7 @@
         <id>https://aindien.com/aggregate-incomes.html</id>
             <category term="Economics"/>
 
-        <updated>2023-04-26T13:52:11-05:00</updated>
+        <updated>2023-04-27T18:36:05-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="1 1 []">These are my notes on aggregate incomes. Hope they are helpful.</p>
@@ -35,7 +53,7 @@
         <link href="https://aindien.com/defining-macroeconomic-aggregates-in-economics.html"/>
         <id>https://aindien.com/defining-macroeconomic-aggregates-in-economics.html</id>
 
-        <updated>2023-04-24T11:27:13-05:00</updated>
+        <updated>2023-04-27T18:36:17-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="1 1 []">An aggregate is the totals of particular economic attributes and in this section we look at some of those.</p>
@@ -164,24 +182,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Working with sheets in an Excel document is a fundamental skill. In this guide, I will show you how to work with them.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Local Scope In C++</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/local-scope-in-c.html"/>
-        <id>https://aindien.com/local-scope-in-c.html</id>
-            <category term="C++"/>
-
-        <updated>2023-04-23T22:40:03-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">Understanding the scope of your variables is key to avoiding undefined behavior. In this article, I will explain what it means to be in or out of scope.</span></p>
 
                 ]]>
             </summary>

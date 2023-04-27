@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/economic-growth.html",
+            "url": "https://aindien.com/economic-growth.html",
+            "title": "Economic Growth",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on the economic growth section in Economics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-04-27T18:33:34-05:00",
+            "date_modified": "2023-04-27T18:35:53-05:00"
+        },
+        {
             "id": "https://aindien.com/aggregate-incomes.html",
             "url": "https://aindien.com/aggregate-incomes.html",
             "title": "Aggregate Incomes",
@@ -21,7 +35,7 @@
                    "Economics"
             ],
             "date_published": "2023-04-26T13:51:57-05:00",
-            "date_modified": "2023-04-26T13:52:11-05:00"
+            "date_modified": "2023-04-27T18:36:05-05:00"
         },
         {
             "id": "https://aindien.com/defining-macroeconomic-aggregates-in-economics.html",
@@ -34,7 +48,7 @@
             "tags": [
             ],
             "date_published": "2023-04-24T11:27:13-05:00",
-            "date_modified": "2023-04-24T11:27:13-05:00"
+            "date_modified": "2023-04-27T18:36:17-05:00"
         },
         {
             "id": "https://aindien.com/demand-and-supply-in-economics.html",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2022-11-14T22:45:40-06:00",
             "date_modified": "2023-04-23T22:39:44-05:00"
-        },
-        {
-            "id": "https://aindien.com/local-scope-in-c.html",
-            "url": "https://aindien.com/local-scope-in-c.html",
-            "title": "Local Scope In C++",
-            "summary": "<p><span style=\"font-weight: 400;\">Understanding the scope of your variables is key to avoiding undefined behavior. In this article, I will explain what it means to be in or out of scope.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "C++"
-            ],
-            "date_published": "2022-11-04T13:54:19-05:00",
-            "date_modified": "2023-04-23T22:40:03-05:00"
         }
     ]
 }
