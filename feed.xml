@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-04-27T18:36:17-05:00</updated>
+    <updated>2023-04-29T12:41:18-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Why Some Countries Are Poorer Than Others</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/why-some-countries-are-poorer-than-others.html"/>
+        <id>https://aindien.com/why-some-countries-are-poorer-than-others.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-04-29T12:41:18-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes on why some countries are poorer than others.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Economic Growth</title>
         <author>
@@ -164,24 +182,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">If you are rusty with Excel, I will go over basic formula and function usage in this guide.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Working With Excel Sheets</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/working-with-excel-sheets.html"/>
-        <id>https://aindien.com/working-with-excel-sheets.html</id>
-            <category term="Office 365"/>
-
-        <updated>2023-04-23T22:39:44-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">Working with sheets in an Excel document is a fundamental skill. In this guide, I will show you how to work with them.</span></p>
 
                 ]]>
             </summary>
