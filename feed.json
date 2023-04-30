@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/employment-and-unemployment.html",
+            "url": "https://aindien.com/employment-and-unemployment.html",
+            "title": "Employment and Unemployment",
+            "summary": "<p>These are my notes on employment factors in economics.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-04-30T16:37:27-05:00",
+            "date_modified": "2023-04-30T16:37:27-05:00"
+        },
+        {
             "id": "https://aindien.com/why-some-countries-are-poorer-than-others.html",
             "url": "https://aindien.com/why-some-countries-are-poorer-than-others.html",
             "title": "Why Some Countries Are Poorer Than Others",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2023-02-09T09:37:09-06:00",
             "date_modified": "2023-04-12T11:51:58-05:00"
-        },
-        {
-            "id": "https://aindien.com/using-formulas-in-excel.html",
-            "url": "https://aindien.com/using-formulas-in-excel.html",
-            "title": "Using Formulas In Excel",
-            "summary": "<p><span style=\"font-weight: 400;\">If you are rusty with Excel, I will go over basic formula and function usage in this guide.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Office 365"
-            ],
-            "date_published": "2022-11-17T20:45:05-06:00",
-            "date_modified": "2023-04-23T22:39:25-05:00"
         }
     ]
 }

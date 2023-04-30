@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-04-29T12:41:18-05:00</updated>
+    <updated>2023-04-30T16:37:27-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Employment and Unemployment</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/employment-and-unemployment.html"/>
+        <id>https://aindien.com/employment-and-unemployment.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-04-30T16:37:27-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>These are my notes on employment factors in economics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Why Some Countries Are Poorer Than Others</title>
         <author>
@@ -165,24 +183,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/102/computing-logo.jpg" alt="" />
                     Jason Moore sarcogin@gmail.com I am a technologist with 16 years experience in technology including system maintenance, customer support, and audio/video support. I am a problem solver and like to help and train others. I specialize in both Microsoft Windows and Office365. However, I am very&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Using Formulas In Excel</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/using-formulas-in-excel.html"/>
-        <id>https://aindien.com/using-formulas-in-excel.html</id>
-            <category term="Office 365"/>
-
-        <updated>2023-04-23T22:39:25-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">If you are rusty with Excel, I will go over basic formula and function usage in this guide.</span></p>
-
                 ]]>
             </summary>
         <content></content>
