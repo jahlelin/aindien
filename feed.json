@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/credit-markets-in-economics.html",
+            "url": "https://aindien.com/credit-markets-in-economics.html",
+            "title": "Credit Markets In Economics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on credit markets in Economics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-05-06T15:20:48-05:00",
+            "date_modified": "2023-05-06T15:21:23-05:00"
+        },
+        {
             "id": "https://aindien.com/employment-and-unemployment.html",
             "url": "https://aindien.com/employment-and-unemployment.html",
             "title": "Employment and Unemployment",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2023-04-21T11:32:15-05:00",
             "date_modified": "2023-04-23T22:39:06-05:00"
-        },
-        {
-            "id": "https://aindien.com/resume.html",
-            "url": "https://aindien.com/resume.html",
-            "title": "Resume",
-            "summary": "Jason Moore sarcogin@gmail.com I am a technologist with 16 years experience in technology including system maintenance, customer support, and audio/video support. I am a problem solver and like to help and train others. I specialize in both Microsoft Windows and Office365. However, I am very&hellip;",
-            "image": "https://aindien.com/media/posts/102/computing-logo.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-02-09T09:37:09-06:00",
-            "date_modified": "2023-04-12T11:51:58-05:00"
         }
     ]
 }
