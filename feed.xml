@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-05-06T15:21:23-05:00</updated>
+    <updated>2023-05-07T22:41:38-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Monetary System in Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/monetary-system-in-economics.html"/>
+        <id>https://aindien.com/monetary-system-in-economics.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-05-07T22:41:08-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes on the monetary system in economics.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Credit Markets In Economics</title>
         <author>
@@ -18,7 +36,7 @@
         <id>https://aindien.com/credit-markets-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-05-06T15:21:23-05:00</updated>
+        <updated>2023-05-07T22:41:20-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on credit markets in Economics.</span></p>
@@ -36,7 +54,7 @@
         <id>https://aindien.com/employment-and-unemployment.html</id>
             <category term="Economics"/>
 
-        <updated>2023-04-30T16:37:27-05:00</updated>
+        <updated>2023-05-07T22:40:55-05:00</updated>
             <summary>
                 <![CDATA[
                     <p>These are my notes on employment factors in economics.</p>
@@ -54,7 +72,7 @@
         <id>https://aindien.com/why-some-countries-are-poorer-than-others.html</id>
             <category term="Economics"/>
 
-        <updated>2023-04-29T12:41:18-05:00</updated>
+        <updated>2023-05-07T22:41:38-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on why some countries are poorer than others.</span></p>
@@ -165,24 +183,6 @@
             <summary>
                 <![CDATA[
                     <p data-pm-slice="1 1 []">Economists use data to create models of the world. Through these objects, they try to understand the choices people make regarding money.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Principles of Economics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/principles-of-economics.html"/>
-        <id>https://aindien.com/principles-of-economics.html</id>
-            <category term="Economics"/>
-
-        <updated>2023-04-23T22:39:06-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p data-pm-slice="0 0 []">This article is about the main principles of economics and the choices we make.</p>
 
                 ]]>
             </summary>

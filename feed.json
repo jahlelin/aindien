@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/monetary-system-in-economics.html",
+            "url": "https://aindien.com/monetary-system-in-economics.html",
+            "title": "Monetary System in Economics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on the monetary system in economics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-05-07T22:37:49-05:00",
+            "date_modified": "2023-05-07T22:41:08-05:00"
+        },
+        {
             "id": "https://aindien.com/credit-markets-in-economics.html",
             "url": "https://aindien.com/credit-markets-in-economics.html",
             "title": "Credit Markets In Economics",
@@ -21,7 +35,7 @@
                    "Economics"
             ],
             "date_published": "2023-05-06T15:20:48-05:00",
-            "date_modified": "2023-05-06T15:21:23-05:00"
+            "date_modified": "2023-05-07T22:41:20-05:00"
         },
         {
             "id": "https://aindien.com/employment-and-unemployment.html",
@@ -35,7 +49,7 @@
                    "Economics"
             ],
             "date_published": "2023-04-30T16:37:27-05:00",
-            "date_modified": "2023-04-30T16:37:27-05:00"
+            "date_modified": "2023-05-07T22:40:55-05:00"
         },
         {
             "id": "https://aindien.com/why-some-countries-are-poorer-than-others.html",
@@ -49,7 +63,7 @@
                    "Economics"
             ],
             "date_published": "2023-04-29T12:40:57-05:00",
-            "date_modified": "2023-04-29T12:41:18-05:00"
+            "date_modified": "2023-05-07T22:41:38-05:00"
         },
         {
             "id": "https://aindien.com/economic-growth.html",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2023-04-22T23:22:43-05:00",
             "date_modified": "2023-04-23T22:38:53-05:00"
-        },
-        {
-            "id": "https://aindien.com/principles-of-economics.html",
-            "url": "https://aindien.com/principles-of-economics.html",
-            "title": "Principles of Economics",
-            "summary": "<p data-pm-slice=\"0 0 []\">This article is about the main principles of economics and the choices we make.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-04-21T11:32:15-05:00",
-            "date_modified": "2023-04-23T22:39:06-05:00"
         }
     ]
 }
