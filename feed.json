@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/countercyclical-macroeconomic-policy.html",
+            "url": "https://aindien.com/countercyclical-macroeconomic-policy.html",
+            "title": "Countercyclical Macroeconomic Policies In Economics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on Countercyclical Macroeconomic Policies in Economics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-05-09T16:28:34-05:00",
+            "date_modified": "2023-05-09T16:32:18-05:00"
+        },
+        {
             "id": "https://aindien.com/short-run-fluctuations-in-economics.html",
             "url": "https://aindien.com/short-run-fluctuations-in-economics.html",
             "title": "Short-Run Fluctuations in Economics",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2023-04-23T18:50:50-05:00",
             "date_modified": "2023-04-23T22:38:26-05:00"
-        },
-        {
-            "id": "https://aindien.com/optimization-in-economics.html",
-            "url": "https://aindien.com/optimization-in-economics.html",
-            "title": "Optimization in Economics",
-            "summary": "<p data-pm-slice=\"1 1 []\">Optimization in Economics is about making the best possible choice. In this article, the way this is done is demonstrated with scenarios and data.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-04-22T23:57:13-05:00",
-            "date_modified": "2023-04-23T22:38:40-05:00"
         }
     ]
 }
