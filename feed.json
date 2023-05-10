@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/macroeconomics-and-international-trade.html",
+            "url": "https://aindien.com/macroeconomics-and-international-trade.html",
+            "title": "Macroeconomics and International Trade",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on Macroeconomics and International Trade.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-05-10T13:59:15-05:00",
+            "date_modified": "2023-05-10T13:59:52-05:00"
+        },
+        {
             "id": "https://aindien.com/countercyclical-macroeconomic-policy.html",
             "url": "https://aindien.com/countercyclical-macroeconomic-policy.html",
             "title": "Countercyclical Macroeconomic Policies In Economics",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2023-04-24T11:27:13-05:00",
             "date_modified": "2023-04-27T18:36:17-05:00"
-        },
-        {
-            "id": "https://aindien.com/demand-and-supply-in-economics.html",
-            "url": "https://aindien.com/demand-and-supply-in-economics.html",
-            "title": "Demand and Supply in Economics",
-            "summary": "<p data-pm-slice=\"0 0 []\">Demand and Supply are important concepts in Economics. In this section, we look at some of their main points.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-04-23T18:50:50-05:00",
-            "date_modified": "2023-04-23T22:38:26-05:00"
         }
     ]
 }
