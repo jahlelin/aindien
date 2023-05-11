@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/open-economy-macroeconomics.html",
+            "url": "https://aindien.com/open-economy-macroeconomics.html",
+            "title": "Open Economy Macroeconomics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on open economy macroeconomics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-05-11T11:34:24-05:00",
+            "date_modified": "2023-05-11T11:36:28-05:00"
+        },
+        {
             "id": "https://aindien.com/macroeconomics-and-international-trade.html",
             "url": "https://aindien.com/macroeconomics-and-international-trade.html",
             "title": "Macroeconomics and International Trade",
@@ -134,19 +148,6 @@
             ],
             "date_published": "2023-04-26T13:51:57-05:00",
             "date_modified": "2023-04-27T18:36:05-05:00"
-        },
-        {
-            "id": "https://aindien.com/defining-macroeconomic-aggregates-in-economics.html",
-            "url": "https://aindien.com/defining-macroeconomic-aggregates-in-economics.html",
-            "title": "Defining Macroeconomic Aggregates In Economics",
-            "summary": "<p data-pm-slice=\"1 1 []\">An aggregate is the totals of particular economic attributes and in this section we look at some of those.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-04-24T11:27:13-05:00",
-            "date_modified": "2023-04-27T18:36:17-05:00"
         }
     ]
 }
