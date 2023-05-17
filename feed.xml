@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-05-11T11:36:28-05:00</updated>
+    <updated>2023-05-16T21:51:57-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Naming Collisions in C++</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/naming-collisions-in-c.html"/>
+        <id>https://aindien.com/naming-collisions-in-c.html</id>
+            <category term="C++"/>
+
+        <updated>2023-05-16T21:51:57-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes and thoughts about naming collisions in C++.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Open Economy Macroeconomics</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on the economic growth section in Economics.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Aggregate Incomes</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/aggregate-incomes.html"/>
-        <id>https://aindien.com/aggregate-incomes.html</id>
-            <category term="Economics"/>
-
-        <updated>2023-04-27T18:36:05-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p data-pm-slice="1 1 []">These are my notes on aggregate incomes. Hope they are helpful.</p>
 
                 ]]>
             </summary>

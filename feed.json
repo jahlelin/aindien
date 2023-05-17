@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/naming-collisions-in-c.html",
+            "url": "https://aindien.com/naming-collisions-in-c.html",
+            "title": "Naming Collisions in C++",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts about naming collisions in C++.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "C++"
+            ],
+            "date_published": "2023-05-16T21:48:08-05:00",
+            "date_modified": "2023-05-16T21:51:57-05:00"
+        },
+        {
             "id": "https://aindien.com/open-economy-macroeconomics.html",
             "url": "https://aindien.com/open-economy-macroeconomics.html",
             "title": "Open Economy Macroeconomics",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-04-27T18:33:34-05:00",
             "date_modified": "2023-04-27T18:35:53-05:00"
-        },
-        {
-            "id": "https://aindien.com/aggregate-incomes.html",
-            "url": "https://aindien.com/aggregate-incomes.html",
-            "title": "Aggregate Incomes",
-            "summary": "<p data-pm-slice=\"1 1 []\">These are my notes on aggregate incomes. Hope they are helpful.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-04-26T13:51:57-05:00",
-            "date_modified": "2023-04-27T18:36:05-05:00"
         }
     ]
 }
