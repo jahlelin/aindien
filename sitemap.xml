@@ -242,7 +242,7 @@
 </url>
 <url>
 <loc>https://aindien.com/c-essentials.html</loc>
-<lastmod>2023-05-16T21:57:25-05:00</lastmod>
+<lastmod>2023-05-27T15:24:15-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\33/c-essentials-0.png</image:loc>
 <image:title><![CDATA[c++ essentials 0]]></image:title>
@@ -277,6 +277,10 @@
 <lastmod>2023-05-07T22:41:20-05:00</lastmod>
 </url>
 <url>
+<loc>https://aindien.com/cryptocurrency-essentials.html</loc>
+<lastmod>2023-05-27T15:26:44-05:00</lastmod>
+</url>
+<url>
 <loc>https://aindien.com/defining-macroeconomic-aggregates-in-economics.html</loc>
 <lastmod>2023-04-27T18:36:17-05:00</lastmod>
 </url>
@@ -295,6 +299,10 @@
 <url>
 <loc>https://aindien.com/economic-growth.html</loc>
 <lastmod>2023-04-27T18:35:53-05:00</lastmod>
+</url>
+<url>
+<loc>https://aindien.com/economics-essentials.html</loc>
+<lastmod>2023-05-27T15:29:00-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/elements-of-unified-communications.html</loc>
@@ -319,10 +327,6 @@
 <url>
 <loc>https://aindien.com/getting-started-with-dnf-package-management.html</loc>
 <lastmod>2022-08-26T13:51:56-05:00</lastmod>
-</url>
-<url>
-<loc>https://aindien.com/getting-started-with-economics.html</loc>
-<lastmod>2023-05-11T11:35:53-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/getting-started-with-mariadb-on-fedora.html</loc>
@@ -401,16 +405,16 @@
 </image:image>
 </url>
 <url>
+<loc>https://aindien.com/google-workspace-tips-and-fixes.html</loc>
+<lastmod>2023-05-27T15:30:55-05:00</lastmod>
+</url>
+<url>
 <loc>https://aindien.com/history-and-usage-of-linux.html</loc>
 <lastmod>2022-08-26T16:27:59-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\41/History-and-Usage-of-Linux-0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://aindien.com/how-office-365-works.html</loc>
-<lastmod>2023-04-23T22:41:47-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/how-the-osi-model-works.html</loc>
@@ -491,14 +495,6 @@
 <url>
 <loc>https://aindien.com/how-to-fix-windows-needs-your-current-credentials.html</loc>
 <lastmod>2022-11-12T21:24:09-06:00</lastmod>
-</url>
-<url>
-<loc>https://aindien.com/how-to-get-started-with-linux.html</loc>
-<lastmod>2023-04-23T22:44:05-05:00</lastmod>
-<image:image>
-<image:loc>https://aindien.com/media\posts\53/linux-0.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
 </url>
 <url>
 <loc>https://aindien.com/how-to-install-creative-cloud-from-mosyle.html</loc>
@@ -825,6 +821,14 @@
 </image:image>
 </url>
 <url>
+<loc>https://aindien.com/linux-essentials-2.html</loc>
+<lastmod>2023-05-27T15:26:12-05:00</lastmod>
+<image:image>
+<image:loc>https://aindien.com/media\posts\53/linux-0.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://aindien.com/local-scope-in-c.html</loc>
 <lastmod>2023-04-23T22:40:03-05:00</lastmod>
 </url>
@@ -946,7 +950,7 @@
 </url>
 <url>
 <loc>https://aindien.com/networking-essentials.html</loc>
-<lastmod>2023-04-23T22:44:42-05:00</lastmod>
+<lastmod>2023-05-27T15:24:44-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\35/Networking-Essentials-0.png</image:loc>
 <image:title><![CDATA[Networking Essentials 0]]></image:title>
@@ -955,6 +959,10 @@
 <url>
 <loc>https://aindien.com/office365-outlook-archiving.html</loc>
 <lastmod>2023-04-23T22:40:41-05:00</lastmod>
+</url>
+<url>
+<loc>https://aindien.com/office365-tips-and-fixes.html</loc>
+<lastmod>2023-05-27T15:30:16-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/open-economy-macroeconomics.html</loc>
@@ -969,8 +977,8 @@
 <lastmod>2023-04-23T22:42:21-05:00</lastmod>
 </url>
 <url>
-<loc>https://aindien.com/powershell-essentials.html</loc>
-<lastmod>2023-04-23T22:44:24-05:00</lastmod>
+<loc>https://aindien.com/powershell-scripting-essentials.html</loc>
+<lastmod>2023-05-27T15:25:22-05:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\50/corona.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -989,8 +997,8 @@
 </image:image>
 </url>
 <url>
-<loc>https://aindien.com/r-statistical-analysis-for-beginners.html</loc>
-<lastmod>2023-04-23T22:43:27-05:00</lastmod>
+<loc>https://aindien.com/r-programming-essentials.html</loc>
+<lastmod>2023-05-27T15:28:26-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/resume.html</loc>
@@ -1067,10 +1075,6 @@
 <image:loc>https://aindien.com/media\posts\20/excel13.png</image:loc>
 <image:title><![CDATA[step by step excel 2016 tutorial]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://aindien.com/the-basics-of-cryptocurrency.html</loc>
-<lastmod>2023-04-23T22:43:47-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/the-linux-shell-for-beginners.html</loc>
@@ -1175,9 +1179,5 @@
 <url>
 <loc>https://aindien.com/working-with-excel-sheets.html</loc>
 <lastmod>2023-04-23T22:39:44-05:00</lastmod>
-</url>
-<url>
-<loc>https://aindien.com/your-guide-to-google-workspace.html</loc>
-<lastmod>2023-04-23T22:41:25-05:00</lastmod>
 </url>
 </urlset>
