@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/getting-started-with-microsoft-teams.html",
+            "url": "https://aindien.com/getting-started-with-microsoft-teams.html",
+            "title": "Getting Started With Microsoft Teams",
+            "summary": "<p><span style=\"font-weight: 400;\">Here are my notes and thoughts on getting started with Microsoft Teams.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Office 365"
+            ],
+            "date_published": "2023-06-16T21:49:33-05:00",
+            "date_modified": "2023-06-16T21:49:59-05:00"
+        },
+        {
             "id": "https://aindien.com/naming-collisions-in-c.html",
             "url": "https://aindien.com/naming-collisions-in-c.html",
             "title": "Naming Collisions in C++",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-04-29T12:40:57-05:00",
             "date_modified": "2023-05-07T22:41:38-05:00"
-        },
-        {
-            "id": "https://aindien.com/economic-growth.html",
-            "url": "https://aindien.com/economic-growth.html",
-            "title": "Economic Growth",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on the economic growth section in Economics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-04-27T18:33:34-05:00",
-            "date_modified": "2023-04-27T18:35:53-05:00"
         }
     ]
 }
