@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/economic-methods.html",
+            "url": "https://aindien.com/economic-methods.html",
+            "title": "Economic Methods",
+            "summary": "<p>Here are my notes and thoughts on economic methods.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-07-14T23:52:00-05:00",
+            "date_modified": "2023-07-14T23:52:25-05:00"
+        },
+        {
             "id": "https://aindien.com/principles-of-economics-2.html",
             "url": "https://aindien.com/principles-of-economics-2.html",
             "title": "Principles of Economics",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-05-07T22:37:49-05:00",
             "date_modified": "2023-05-07T22:41:08-05:00"
-        },
-        {
-            "id": "https://aindien.com/credit-markets-in-economics.html",
-            "url": "https://aindien.com/credit-markets-in-economics.html",
-            "title": "Credit Markets In Economics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on credit markets in Economics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-05-06T15:20:48-05:00",
-            "date_modified": "2023-05-07T22:41:20-05:00"
         }
     ]
 }
