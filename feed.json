@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/demand-supply-and-equilibrium-in-economic.html",
+            "url": "https://aindien.com/demand-supply-and-equilibrium-in-economic.html",
+            "title": "Demand, Supply, and Equilibrium in Economic",
+            "summary": "<p>These are my notes and thoughts on demand, supply, and equilibrium in economics.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-07-16T01:08:22-05:00",
+            "date_modified": "2023-07-16T01:08:51-05:00"
+        },
+        {
+            "id": "https://aindien.com/optimizing-your-decisions-in-economics.html",
+            "url": "https://aindien.com/optimizing-your-decisions-in-economics.html",
+            "title": "Optimizing Your Decisions in Economics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on optimizing your decisions in economics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-07-15T16:18:37-05:00",
+            "date_modified": "2023-07-15T16:19:18-05:00"
+        },
+        {
             "id": "https://aindien.com/economic-methods.html",
             "url": "https://aindien.com/economic-methods.html",
             "title": "Economic Methods",
@@ -120,34 +148,6 @@
             ],
             "date_published": "2023-05-09T16:28:34-05:00",
             "date_modified": "2023-05-09T16:32:18-05:00"
-        },
-        {
-            "id": "https://aindien.com/short-run-fluctuations-in-economics.html",
-            "url": "https://aindien.com/short-run-fluctuations-in-economics.html",
-            "title": "Short-Run Fluctuations in Economics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on short-run fluctuations in economics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-05-08T22:40:17-05:00",
-            "date_modified": "2023-05-08T22:41:01-05:00"
-        },
-        {
-            "id": "https://aindien.com/monetary-system-in-economics.html",
-            "url": "https://aindien.com/monetary-system-in-economics.html",
-            "title": "Monetary System in Economics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on the monetary system in economics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-05-07T22:37:49-05:00",
-            "date_modified": "2023-05-07T22:41:08-05:00"
         }
     ]
 }
