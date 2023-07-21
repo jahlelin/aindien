@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-07-16T01:08:51-05:00</updated>
+    <updated>2023-07-21T17:45:52-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Consumers and Incentives in Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/consumers-and-incentives-in-economics.html"/>
+        <id>https://aindien.com/consumers-and-incentives-in-economics.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-07-21T17:45:52-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Here are my notes and thoughts on consumers and incentives in economics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Demand, Supply, and Equilibrium in Economic</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on Macroeconomics and International Trade.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Countercyclical Macroeconomic Policies In Economics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/countercyclical-macroeconomic-policy.html"/>
-        <id>https://aindien.com/countercyclical-macroeconomic-policy.html</id>
-            <category term="Economics"/>
-
-        <updated>2023-05-09T16:32:18-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on Countercyclical Macroeconomic Policies in Economics.</span></p>
 
                 ]]>
             </summary>

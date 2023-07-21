@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/consumers-and-incentives-in-economics.html",
+            "url": "https://aindien.com/consumers-and-incentives-in-economics.html",
+            "title": "Consumers and Incentives in Economics",
+            "summary": "<p>Here are my notes and thoughts on consumers and incentives in economics.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-07-21T17:45:24-05:00",
+            "date_modified": "2023-07-21T17:45:52-05:00"
+        },
+        {
             "id": "https://aindien.com/demand-supply-and-equilibrium-in-economic.html",
             "url": "https://aindien.com/demand-supply-and-equilibrium-in-economic.html",
             "title": "Demand, Supply, and Equilibrium in Economic",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-05-10T13:59:15-05:00",
             "date_modified": "2023-05-10T13:59:52-05:00"
-        },
-        {
-            "id": "https://aindien.com/countercyclical-macroeconomic-policy.html",
-            "url": "https://aindien.com/countercyclical-macroeconomic-policy.html",
-            "title": "Countercyclical Macroeconomic Policies In Economics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on Countercyclical Macroeconomic Policies in Economics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-05-09T16:28:34-05:00",
-            "date_modified": "2023-05-09T16:32:18-05:00"
         }
     ]
 }
