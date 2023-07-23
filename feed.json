@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/sellers-and-incentives-in-economics.html",
+            "url": "https://aindien.com/sellers-and-incentives-in-economics.html",
+            "title": "Sellers and Incentives in Economics",
+            "summary": "<p><span style=\"font-weight: 400;\">Here are my notes and thoughts on sellers and incentives in economics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-07-23T12:55:45-05:00",
+            "date_modified": "2023-07-23T12:56:18-05:00"
+        },
+        {
             "id": "https://aindien.com/consumers-and-incentives-in-economics.html",
             "url": "https://aindien.com/consumers-and-incentives-in-economics.html",
             "title": "Consumers and Incentives in Economics",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-05-11T11:34:24-05:00",
             "date_modified": "2023-05-11T11:36:28-05:00"
-        },
-        {
-            "id": "https://aindien.com/macroeconomics-and-international-trade.html",
-            "url": "https://aindien.com/macroeconomics-and-international-trade.html",
-            "title": "Macroeconomics and International Trade",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on Macroeconomics and International Trade.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-05-10T13:59:15-05:00",
-            "date_modified": "2023-05-10T13:59:52-05:00"
         }
     ]
 }
