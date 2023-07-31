@@ -10,6 +10,48 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/externalities-and-public-goods-in-economics.html",
+            "url": "https://aindien.com/externalities-and-public-goods-in-economics.html",
+            "title": "Externalities and Public Goods in Economics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on externalities and public goods in economics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-07-30T16:40:34-05:00",
+            "date_modified": "2023-07-30T16:41:44-05:00"
+        },
+        {
+            "id": "https://aindien.com/trade-in-economics.html",
+            "url": "https://aindien.com/trade-in-economics.html",
+            "title": "Trade in Economics",
+            "summary": "<p>These are my notes and thoughts on trade in economics.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-07-30T16:38:43-05:00",
+            "date_modified": "2023-07-30T16:38:56-05:00"
+        },
+        {
+            "id": "https://aindien.com/perfect-competition-in-economics.html",
+            "url": "https://aindien.com/perfect-competition-in-economics.html",
+            "title": "Perfect Competition in Economics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on perfect competition in Economics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-07-30T16:31:01-05:00",
+            "date_modified": "2023-07-30T16:31:40-05:00"
+        },
+        {
             "id": "https://aindien.com/sellers-and-incentives-in-economics.html",
             "url": "https://aindien.com/sellers-and-incentives-in-economics.html",
             "title": "Sellers and Incentives in Economics",
@@ -106,48 +148,6 @@
             ],
             "date_published": "2023-07-05T23:02:48-05:00",
             "date_modified": "2023-07-05T23:03:26-05:00"
-        },
-        {
-            "id": "https://aindien.com/getting-started-with-microsoft-teams.html",
-            "url": "https://aindien.com/getting-started-with-microsoft-teams.html",
-            "title": "Getting Started With Microsoft Teams",
-            "summary": "<p><span style=\"font-weight: 400;\">Here are my notes and thoughts on getting started with Microsoft Teams.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Office 365"
-            ],
-            "date_published": "2023-06-16T21:49:33-05:00",
-            "date_modified": "2023-06-16T21:49:59-05:00"
-        },
-        {
-            "id": "https://aindien.com/naming-collisions-in-c.html",
-            "url": "https://aindien.com/naming-collisions-in-c.html",
-            "title": "Naming Collisions in C++",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts about naming collisions in C++.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "C++"
-            ],
-            "date_published": "2023-05-16T21:48:08-05:00",
-            "date_modified": "2023-05-16T21:51:57-05:00"
-        },
-        {
-            "id": "https://aindien.com/open-economy-macroeconomics.html",
-            "url": "https://aindien.com/open-economy-macroeconomics.html",
-            "title": "Open Economy Macroeconomics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on open economy macroeconomics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-05-11T11:34:24-05:00",
-            "date_modified": "2023-05-11T11:36:28-05:00"
         }
     ]
 }
