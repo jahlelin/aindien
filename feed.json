@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/taxes-and-regulation-in-economics.html",
+            "url": "https://aindien.com/taxes-and-regulation-in-economics.html",
+            "title": "Taxes and Regulation in Economics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on taxes and regulation in Economics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-07-31T19:06:34-05:00",
+            "date_modified": "2023-07-31T19:06:57-05:00"
+        },
+        {
             "id": "https://aindien.com/externalities-and-public-goods-in-economics.html",
             "url": "https://aindien.com/externalities-and-public-goods-in-economics.html",
             "title": "Externalities and Public Goods in Economics",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-07-12T22:56:01-05:00",
             "date_modified": "2023-07-12T22:59:38-05:00"
-        },
-        {
-            "id": "https://aindien.com/rsync-introduction.html",
-            "url": "https://aindien.com/rsync-introduction.html",
-            "title": "Rsync Introduction",
-            "summary": "<p>Here is how to use Rsync with examples.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2023-07-05T23:02:48-05:00",
-            "date_modified": "2023-07-05T23:03:26-05:00"
         }
     ]
 }

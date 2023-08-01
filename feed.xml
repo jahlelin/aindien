@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-07-30T16:41:44-05:00</updated>
+    <updated>2023-07-31T19:06:57-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Taxes and Regulation in Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/taxes-and-regulation-in-economics.html"/>
+        <id>https://aindien.com/taxes-and-regulation-in-economics.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-07-31T19:06:57-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on taxes and regulation in Economics.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Externalities and Public Goods in Economics</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p>These are my notes on principles of economics.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Rsync Introduction</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/rsync-introduction.html"/>
-        <id>https://aindien.com/rsync-introduction.html</id>
-            <category term="Linux"/>
-
-        <updated>2023-07-05T23:03:26-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Here is how to use Rsync with examples.</p>
 
                 ]]>
             </summary>
