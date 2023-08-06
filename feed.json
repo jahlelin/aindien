@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/markets-for-factors-of-production-in-economics.html",
+            "url": "https://aindien.com/markets-for-factors-of-production-in-economics.html",
+            "title": "Markets for Factors of Production in Economics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on markets for factors of production.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-08-05T20:48:43-05:00",
+            "date_modified": "2023-08-05T20:49:56-05:00"
+        },
+        {
             "id": "https://aindien.com/taxes-and-regulation-in-economics.html",
             "url": "https://aindien.com/taxes-and-regulation-in-economics.html",
             "title": "Taxes and Regulation in Economics",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-07-14T23:52:00-05:00",
             "date_modified": "2023-07-14T23:52:25-05:00"
-        },
-        {
-            "id": "https://aindien.com/principles-of-economics-2.html",
-            "url": "https://aindien.com/principles-of-economics-2.html",
-            "title": "Principles of Economics",
-            "summary": "<p>These are my notes on principles of economics.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-07-12T22:56:01-05:00",
-            "date_modified": "2023-07-12T22:59:38-05:00"
         }
     ]
 }
