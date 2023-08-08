@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-08-05T20:49:56-05:00</updated>
+    <updated>2023-08-07T23:48:44-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Monopoly Market Structures in Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/monopoly-market-structures-in-economics.html"/>
+        <id>https://aindien.com/monopoly-market-structures-in-economics.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-08-07T23:48:44-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>These are my notes and thoughts on monopoly market structures in Economics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Markets for Factors of Production in Economics</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes and thoughts on optimizing your decisions in economics.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Economic Methods</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/economic-methods.html"/>
-        <id>https://aindien.com/economic-methods.html</id>
-            <category term="Economics"/>
-
-        <updated>2023-07-14T23:52:25-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Here are my notes and thoughts on economic methods.</p>
 
                 ]]>
             </summary>

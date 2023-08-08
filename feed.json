@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/monopoly-market-structures-in-economics.html",
+            "url": "https://aindien.com/monopoly-market-structures-in-economics.html",
+            "title": "Monopoly Market Structures in Economics",
+            "summary": "<p>These are my notes and thoughts on monopoly market structures in Economics.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-08-07T23:48:17-05:00",
+            "date_modified": "2023-08-07T23:48:44-05:00"
+        },
+        {
             "id": "https://aindien.com/markets-for-factors-of-production-in-economics.html",
             "url": "https://aindien.com/markets-for-factors-of-production-in-economics.html",
             "title": "Markets for Factors of Production in Economics",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-07-15T16:18:37-05:00",
             "date_modified": "2023-07-15T16:19:18-05:00"
-        },
-        {
-            "id": "https://aindien.com/economic-methods.html",
-            "url": "https://aindien.com/economic-methods.html",
-            "title": "Economic Methods",
-            "summary": "<p>Here are my notes and thoughts on economic methods.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-07-14T23:52:00-05:00",
-            "date_modified": "2023-07-14T23:52:25-05:00"
         }
     ]
 }
