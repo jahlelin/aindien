@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-08-07T23:48:44-05:00</updated>
+    <updated>2023-08-08T23:35:16-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Game Theory and Strategic Play in Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/game-theory-and-strategic-play-in-economics.html"/>
+        <id>https://aindien.com/game-theory-and-strategic-play-in-economics.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-08-08T23:35:16-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on game theory and strategic play in economics.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Monopoly Market Structures in Economics</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p>These are my notes and thoughts on demand, supply, and equilibrium in economics.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Optimizing Your Decisions in Economics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/optimizing-your-decisions-in-economics.html"/>
-        <id>https://aindien.com/optimizing-your-decisions-in-economics.html</id>
-            <category term="Economics"/>
-
-        <updated>2023-07-15T16:19:18-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes and thoughts on optimizing your decisions in economics.</span></p>
 
                 ]]>
             </summary>
