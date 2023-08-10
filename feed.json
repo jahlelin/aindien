@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/oligopoly-and-monopolistic-competition-in-economics.html",
+            "url": "https://aindien.com/oligopoly-and-monopolistic-competition-in-economics.html",
+            "title": "Oligopoly and Monopolistic Competition in Economics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on oligopoly and monopolistic competition in economics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-08-09T20:29:46-05:00",
+            "date_modified": "2023-08-09T20:30:12-05:00"
+        },
+        {
             "id": "https://aindien.com/game-theory-and-strategic-play-in-economics.html",
             "url": "https://aindien.com/game-theory-and-strategic-play-in-economics.html",
             "title": "Game Theory and Strategic Play in Economics",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-07-21T17:45:24-05:00",
             "date_modified": "2023-07-21T17:45:52-05:00"
-        },
-        {
-            "id": "https://aindien.com/demand-supply-and-equilibrium-in-economic.html",
-            "url": "https://aindien.com/demand-supply-and-equilibrium-in-economic.html",
-            "title": "Demand, Supply, and Equilibrium in Economic",
-            "summary": "<p>These are my notes and thoughts on demand, supply, and equilibrium in economics.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-07-16T01:08:22-05:00",
-            "date_modified": "2023-07-16T01:08:51-05:00"
         }
     ]
 }
