@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/trade-offs-involving-time-and-risk-in-economics.html",
+            "url": "https://aindien.com/trade-offs-involving-time-and-risk-in-economics.html",
+            "title": "Trade-Offs Involving Time and Risk in Economics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on trade-offs involving time and risk in economics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-08-11T09:11:00-05:00",
+            "date_modified": "2023-08-11T09:11:57-05:00"
+        },
+        {
             "id": "https://aindien.com/oligopoly-and-monopolistic-competition-in-economics.html",
             "url": "https://aindien.com/oligopoly-and-monopolistic-competition-in-economics.html",
             "title": "Oligopoly and Monopolistic Competition in Economics",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-07-23T12:55:45-05:00",
             "date_modified": "2023-07-23T12:56:18-05:00"
-        },
-        {
-            "id": "https://aindien.com/consumers-and-incentives-in-economics.html",
-            "url": "https://aindien.com/consumers-and-incentives-in-economics.html",
-            "title": "Consumers and Incentives in Economics",
-            "summary": "<p>Here are my notes and thoughts on consumers and incentives in economics.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-07-21T17:45:24-05:00",
-            "date_modified": "2023-07-21T17:45:52-05:00"
         }
     ]
 }
