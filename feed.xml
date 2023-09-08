@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-09-07T19:26:01-05:00</updated>
+    <updated>2023-09-08T13:55:47-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Getting Started With Web Development</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/getting-started-with-web-development.html"/>
+        <id>https://aindien.com/getting-started-with-web-development.html</id>
+            <category term="Web Development"/>
+
+        <updated>2023-09-08T13:55:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">Almost everyone uses the internet. We use it for fun, to do work, and so on. In order for us to do all of these things, we rely on web pages. There are many things that work together to show us a web page. </span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Vectorizing Your Functions In R</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes and thoughts on taxes and regulation in Economics.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Externalities and Public Goods in Economics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/externalities-and-public-goods-in-economics.html"/>
-        <id>https://aindien.com/externalities-and-public-goods-in-economics.html</id>
-            <category term="Economics"/>
-
-        <updated>2023-07-30T16:41:44-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes and thoughts on externalities and public goods in economics.</span></p>
 
                 ]]>
             </summary>

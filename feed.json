@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/getting-started-with-web-development.html",
+            "url": "https://aindien.com/getting-started-with-web-development.html",
+            "title": "Getting Started With Web Development",
+            "summary": "<p><span style=\"font-weight: 400;\">Almost everyone uses the internet. We use it for fun, to do work, and so on. In order for us to do all of these things, we rely on web pages. There are many things that work together to show us a web page. </span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Web Development"
+            ],
+            "date_published": "2023-09-08T13:51:11-05:00",
+            "date_modified": "2023-09-08T13:55:47-05:00"
+        },
+        {
             "id": "https://aindien.com/vectorizing-your-functions-in-r.html",
             "url": "https://aindien.com/vectorizing-your-functions-in-r.html",
             "title": "Vectorizing Your Functions In R",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-07-31T19:06:34-05:00",
             "date_modified": "2023-07-31T19:06:57-05:00"
-        },
-        {
-            "id": "https://aindien.com/externalities-and-public-goods-in-economics.html",
-            "url": "https://aindien.com/externalities-and-public-goods-in-economics.html",
-            "title": "Externalities and Public Goods in Economics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on externalities and public goods in economics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-07-30T16:40:34-05:00",
-            "date_modified": "2023-07-30T16:41:44-05:00"
         }
     ]
 }
