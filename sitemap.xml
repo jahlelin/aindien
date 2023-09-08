@@ -845,6 +845,10 @@
 </image:image>
 </url>
 <url>
+<loc>https://aindien.com/introduction-to-r-programming.html</loc>
+<lastmod>2023-09-07T19:16:03-05:00</lastmod>
+</url>
+<url>
 <loc>https://aindien.com/linux-essentials-2.html</loc>
 <lastmod>2023-08-24T23:23:27-05:00</lastmod>
 <image:image>
@@ -1041,10 +1045,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://aindien.com/r-programming-essentials.html</loc>
-<lastmod>2023-08-24T23:22:48-05:00</lastmod>
-</url>
-<url>
 <loc>https://aindien.com/resume.html</loc>
 <lastmod>2023-04-12T11:51:58-05:00</lastmod>
 <image:image>
@@ -1227,6 +1227,10 @@
 <image:loc>https://aindien.com/media\posts\38/using-vectors-in-c-0.png</image:loc>
 <image:title><![CDATA[using vectors in c++]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://aindien.com/vectorizing-your-functions-in-r.html</loc>
+<lastmod>2023-09-07T19:07:26-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/what-cloud-computing-really-means.html</loc>

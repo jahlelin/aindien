@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-08-24T23:25:42-05:00</updated>
+    <updated>2023-09-07T19:07:26-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Vectorizing Your Functions In R</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/vectorizing-your-functions-in-r.html"/>
+        <id>https://aindien.com/vectorizing-your-functions-in-r.html</id>
+            <category term="R"/>
+
+        <updated>2023-09-07T19:07:26-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on vectorizing your functions in R.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Auctions and Bargaining in Economics</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes and thoughts on externalities and public goods in economics.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Trade in Economics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/trade-in-economics.html"/>
-        <id>https://aindien.com/trade-in-economics.html</id>
-            <category term="Economics"/>
-
-        <updated>2023-07-30T16:38:56-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>These are my notes and thoughts on trade in economics.</p>
 
                 ]]>
             </summary>
