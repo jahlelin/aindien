@@ -3,7 +3,7 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-11-05T21:38:36-06:00</updated>
+    <updated>2023-11-05T22:03:34-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://aindien.com/some-useful-first-functions-in-r.html</id>
             <category term="R"/>
 
-        <updated>2023-11-05T21:36:44-06:00</updated>
+        <updated>2023-11-05T22:03:34-06:00</updated>
             <summary>
                 <![CDATA[
                     <p>These are some useful first functions in R programming.</p>
