@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/some-useful-first-functions-in-r.html",
+            "url": "https://aindien.com/some-useful-first-functions-in-r.html",
+            "title": "Some Useful First Functions in R",
+            "summary": "<p>These are some useful first functions in R programming.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "R"
+            ],
+            "date_published": "2023-11-05T21:28:59-06:00",
+            "date_modified": "2023-11-05T21:36:44-06:00"
+        },
+        {
             "id": "https://aindien.com/getting-started-with-web-development.html",
             "url": "https://aindien.com/getting-started-with-web-development.html",
             "title": "Getting Started With Web Development",
@@ -35,7 +49,7 @@
                    "R"
             ],
             "date_published": "2023-09-07T19:06:56-05:00",
-            "date_modified": "2023-09-07T19:26:01-05:00"
+            "date_modified": "2023-11-05T21:38:36-06:00"
         },
         {
             "id": "https://aindien.com/auctions-and-bargaining-in-economics.html",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-08-05T20:48:43-05:00",
             "date_modified": "2023-08-05T20:49:56-05:00"
-        },
-        {
-            "id": "https://aindien.com/taxes-and-regulation-in-economics.html",
-            "url": "https://aindien.com/taxes-and-regulation-in-economics.html",
-            "title": "Taxes and Regulation in Economics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on taxes and regulation in Economics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-07-31T19:06:34-05:00",
-            "date_modified": "2023-07-31T19:06:57-05:00"
         }
     ]
 }

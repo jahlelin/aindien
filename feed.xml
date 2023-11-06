@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-09-08T13:55:47-05:00</updated>
+    <updated>2023-11-05T21:38:36-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Some Useful First Functions in R</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/some-useful-first-functions-in-r.html"/>
+        <id>https://aindien.com/some-useful-first-functions-in-r.html</id>
+            <category term="R"/>
+
+        <updated>2023-11-05T21:36:44-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>These are some useful first functions in R programming.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Getting Started With Web Development</title>
         <author>
@@ -36,7 +54,7 @@
         <id>https://aindien.com/vectorizing-your-functions-in-r.html</id>
             <category term="R"/>
 
-        <updated>2023-09-07T19:26:01-05:00</updated>
+        <updated>2023-11-05T21:38:36-06:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes and thoughts on vectorizing your functions in R.</span></p>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on markets for factors of production.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Taxes and Regulation in Economics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/taxes-and-regulation-in-economics.html"/>
-        <id>https://aindien.com/taxes-and-regulation-in-economics.html</id>
-            <category term="Economics"/>
-
-        <updated>2023-07-31T19:06:57-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes and thoughts on taxes and regulation in Economics.</span></p>
 
                 ]]>
             </summary>
