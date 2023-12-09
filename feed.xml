@@ -3,25 +3,25 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-11-05T22:03:34-06:00</updated>
+    <updated>2023-12-08T20:08:10-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
     <entry>
-        <title>Some Useful First Functions in R</title>
+        <title>R Functions For Statistics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/some-useful-first-functions-in-r.html"/>
-        <id>https://aindien.com/some-useful-first-functions-in-r.html</id>
+        <link href="https://aindien.com/r-functions-for-statistics.html"/>
+        <id>https://aindien.com/r-functions-for-statistics.html</id>
             <category term="R"/>
 
-        <updated>2023-11-05T22:03:34-06:00</updated>
+        <updated>2023-12-08T20:08:10-06:00</updated>
             <summary>
                 <![CDATA[
-                    <p>These are some useful first functions in R programming.</p>
+                    <p>These are some useful R functions for statistics.</p>
 
                 ]]>
             </summary>

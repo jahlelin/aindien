@@ -10,10 +10,10 @@
     },
     "items": [
         {
-            "id": "https://aindien.com/some-useful-first-functions-in-r.html",
-            "url": "https://aindien.com/some-useful-first-functions-in-r.html",
-            "title": "Some Useful First Functions in R",
-            "summary": "<p>These are some useful first functions in R programming.</p>\n",
+            "id": "https://aindien.com/r-functions-for-statistics.html",
+            "url": "https://aindien.com/r-functions-for-statistics.html",
+            "title": "R Functions For Statistics",
+            "summary": "<p>These are some useful R functions for statistics.</p>\n",
             "author": {
                 "name": "Jason Moore"
             },
@@ -21,7 +21,7 @@
                    "R"
             ],
             "date_published": "2023-11-05T21:28:59-06:00",
-            "date_modified": "2023-11-05T22:03:34-06:00"
+            "date_modified": "2023-12-08T20:08:10-06:00"
         },
         {
             "id": "https://aindien.com/getting-started-with-web-development.html",
