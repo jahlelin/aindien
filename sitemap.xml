@@ -246,7 +246,7 @@
 </url>
 <url>
 <loc>https://aindien.com/c-essentials.html</loc>
-<lastmod>2023-08-24T23:24:36-05:00</lastmod>
+<lastmod>2023-12-23T17:07:11-06:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/computer-networking-devices.html</loc>
@@ -314,7 +314,7 @@
 </url>
 <url>
 <loc>https://aindien.com/economics-essentials.html</loc>
-<lastmod>2023-12-10T00:58:56-06:00</lastmod>
+<lastmod>2023-12-23T17:00:06-06:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/elements-of-unified-communications.html</loc>
@@ -355,6 +355,10 @@
 <url>
 <loc>https://aindien.com/getting-started-with-microsoft-teams.html</loc>
 <lastmod>2023-06-16T21:49:59-05:00</lastmod>
+</url>
+<url>
+<loc>https://aindien.com/getting-started-with-python.html</loc>
+<lastmod>2023-12-23T16:42:47-06:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/getting-started-with-ssh.html</loc>
@@ -434,7 +438,7 @@
 </url>
 <url>
 <loc>https://aindien.com/google-workspace-tips-and-fixes.html</loc>
-<lastmod>2023-08-24T23:21:19-05:00</lastmod>
+<lastmod>2023-12-23T17:04:28-06:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/history-and-usage-of-linux.html</loc>
@@ -850,11 +854,11 @@
 </url>
 <url>
 <loc>https://aindien.com/introduction-to-r-programming.html</loc>
-<lastmod>2023-11-12T14:39:30-06:00</lastmod>
+<lastmod>2023-12-23T17:05:10-06:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/linux-essentials-2.html</loc>
-<lastmod>2023-08-24T23:23:27-05:00</lastmod>
+<lastmod>2023-12-23T17:03:57-06:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\53/linux-0.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -990,7 +994,7 @@
 </url>
 <url>
 <loc>https://aindien.com/networking-essentials.html</loc>
-<lastmod>2023-08-24T23:24:08-05:00</lastmod>
+<lastmod>2023-12-23T17:06:40-06:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/office365-outlook-archiving.html</loc>
@@ -998,7 +1002,7 @@
 </url>
 <url>
 <loc>https://aindien.com/office365-tips-and-fixes.html</loc>
-<lastmod>2023-08-24T23:21:50-05:00</lastmod>
+<lastmod>2023-12-23T17:04:42-06:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/oligopoly-and-monopolistic-competition-in-economics.html</loc>
@@ -1026,7 +1030,7 @@
 </url>
 <url>
 <loc>https://aindien.com/powershell-scripting-essentials.html</loc>
-<lastmod>2023-08-24T23:23:46-05:00</lastmod>
+<lastmod>2023-12-23T17:06:10-06:00</lastmod>
 <image:image>
 <image:loc>https://aindien.com/media\posts\50/corona.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -1047,6 +1051,10 @@
 <image:loc>https://aindien.com/media\posts\59/process-management-0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://aindien.com/python-essentials.html</loc>
+<lastmod>2023-12-23T16:42:32-06:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/r-functions-for-statistics.html</loc>
