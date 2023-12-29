@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/using-the-shell-in-linux.html",
+            "url": "https://aindien.com/using-the-shell-in-linux.html",
+            "title": "Using The Shell In Linux",
+            "summary": "<p><span style=\"font-weight: 400;\">In this article, I will explain how to get started using the shell in Linux.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2023-12-28T19:27:53-06:00",
+            "date_modified": "2023-12-28T19:29:04-06:00"
+        },
+        {
+            "id": "https://aindien.com/getting-started-with-networking.html",
+            "url": "https://aindien.com/getting-started-with-networking.html",
+            "title": "Getting Started With Networking",
+            "summary": "<p><span style=\"font-weight: 400;\">This is my study guide on getting started with networking.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Networking"
+            ],
+            "date_published": "2023-12-28T19:20:13-06:00",
+            "date_modified": "2023-12-28T19:21:13-06:00"
+        },
+        {
             "id": "https://aindien.com/how-to-use-the-task-scheduler-in-windows.html",
             "url": "https://aindien.com/how-to-use-the-task-scheduler-in-windows.html",
             "title": "How To Use The Task Scheduler In Windows",
@@ -120,34 +148,6 @@
             ],
             "date_published": "2023-12-23T16:27:31-06:00",
             "date_modified": "2023-12-23T16:42:32-06:00"
-        },
-        {
-            "id": "https://aindien.com/social-economics.html",
-            "url": "https://aindien.com/social-economics.html",
-            "title": "Social Economics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on social economics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-12-09T22:33:35-06:00",
-            "date_modified": "2023-12-09T22:34:03-06:00"
-        },
-        {
-            "id": "https://aindien.com/r-functions-for-statistics.html",
-            "url": "https://aindien.com/r-functions-for-statistics.html",
-            "title": "R Functions For Statistics",
-            "summary": "<p>These are some useful R functions for statistics.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "R"
-            ],
-            "date_published": "2023-11-05T21:28:59-06:00",
-            "date_modified": "2023-12-08T20:08:10-06:00"
         }
     ]
 }

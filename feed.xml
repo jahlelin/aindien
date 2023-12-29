@@ -3,12 +3,48 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-12-27T14:17:24-06:00</updated>
+    <updated>2023-12-28T19:29:04-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Using The Shell In Linux</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/using-the-shell-in-linux.html"/>
+        <id>https://aindien.com/using-the-shell-in-linux.html</id>
+            <category term="Linux"/>
+
+        <updated>2023-12-28T19:29:04-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">In this article, I will explain how to get started using the shell in Linux.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Getting Started With Networking</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/getting-started-with-networking.html"/>
+        <id>https://aindien.com/getting-started-with-networking.html</id>
+            <category term="Networking"/>
+
+        <updated>2023-12-28T19:21:13-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">This is my study guide on getting started with networking.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Use The Task Scheduler In Windows</title>
         <author>
@@ -148,42 +184,6 @@
             <summary>
                 <![CDATA[
                     <p>Here are my Python essentials for anyone wanting to learn this programming language. This post will be continually updated.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Social Economics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/social-economics.html"/>
-        <id>https://aindien.com/social-economics.html</id>
-            <category term="Economics"/>
-
-        <updated>2023-12-09T22:34:03-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on social economics.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>R Functions For Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/r-functions-for-statistics.html"/>
-        <id>https://aindien.com/r-functions-for-statistics.html</id>
-            <category term="R"/>
-
-        <updated>2023-12-08T20:08:10-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>These are some useful R functions for statistics.</p>
 
                 ]]>
             </summary>
