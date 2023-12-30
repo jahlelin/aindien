@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/doing-math-in-r.html",
+            "url": "https://aindien.com/doing-math-in-r.html",
+            "title": "Doing Math in R",
+            "summary": "<p><span style=\"font-weight: 400;\">This is my guide on doing math in R. </span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "R"
+            ],
+            "date_published": "2023-12-29T18:04:55-06:00",
+            "date_modified": "2023-12-29T18:06:03-06:00"
+        },
+        {
             "id": "https://aindien.com/using-the-shell-in-linux.html",
             "url": "https://aindien.com/using-the-shell-in-linux.html",
             "title": "Using The Shell In Linux",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-12-23T16:31:05-06:00",
             "date_modified": "2023-12-23T16:42:47-06:00"
-        },
-        {
-            "id": "https://aindien.com/python-essentials.html",
-            "url": "https://aindien.com/python-essentials.html",
-            "title": "Python Essentials",
-            "summary": "<p>Here are my Python essentials for anyone wanting to learn this programming language. This post will be continually updated.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Python"
-            ],
-            "date_published": "2023-12-23T16:27:31-06:00",
-            "date_modified": "2023-12-23T16:42:32-06:00"
         }
     ]
 }
