@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2023-12-29T18:06:03-06:00</updated>
+    <updated>2023-12-31T01:22:01-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Getting Started With Git</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/getting-started-with-git.html"/>
+        <id>https://aindien.com/getting-started-with-git.html</id>
+            <category term="Git"/>
+
+        <updated>2023-12-31T01:22:01-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is my guide on getting started with Git.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Doing Math in R</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">In this article, I will show you how to use the Net command in Windows.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Getting Started With Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/getting-started-with-python.html"/>
-        <id>https://aindien.com/getting-started-with-python.html</id>
-            <category term="Python"/>
-
-        <updated>2023-12-23T16:42:47-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>These are my notes on getting started with Python.</p>
 
                 ]]>
             </summary>
