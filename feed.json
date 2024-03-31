@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/statements-in-python.html",
+            "url": "https://aindien.com/statements-in-python.html",
+            "title": "Statements in Python",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and worked examples on statements in python.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Python"
+            ],
+            "date_published": "2024-03-31T12:10:15-05:00",
+            "date_modified": "2024-03-31T12:10:43-05:00"
+        },
+        {
             "id": "https://aindien.com/python-operations.html",
             "url": "https://aindien.com/python-operations.html",
             "title": "Python Operations",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-12-26T23:12:33-06:00",
             "date_modified": "2023-12-27T13:03:52-06:00"
-        },
-        {
-            "id": "https://aindien.com/cloud-computing-study-guide.html",
-            "url": "https://aindien.com/cloud-computing-study-guide.html",
-            "title": "Cloud Computing Study Guide",
-            "summary": "<p>This is my cloud computing study guide.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Cloud Computing"
-            ],
-            "date_published": "2023-12-26T23:06:39-06:00",
-            "date_modified": "2023-12-27T13:04:25-06:00"
         }
     ]
 }

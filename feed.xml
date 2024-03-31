@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-03-09T19:33:37-06:00</updated>
+    <updated>2024-03-31T12:10:43-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Statements in Python</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/statements-in-python.html"/>
+        <id>https://aindien.com/statements-in-python.html</id>
+            <category term="Python"/>
+
+        <updated>2024-03-31T12:10:43-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes and worked examples on statements in python.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Python Operations</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">This is my cloud fundamentals study guide.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Cloud Computing Study Guide</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/cloud-computing-study-guide.html"/>
-        <id>https://aindien.com/cloud-computing-study-guide.html</id>
-            <category term="Cloud Computing"/>
-
-        <updated>2023-12-27T13:04:25-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is my cloud computing study guide.</p>
 
                 ]]>
             </summary>
