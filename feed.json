@@ -49,7 +49,7 @@
                    "Git"
             ],
             "date_published": "2023-12-31T01:18:48-06:00",
-            "date_modified": "2023-12-31T01:22:01-06:00"
+            "date_modified": "2024-04-12T22:40:22-05:00"
         },
         {
             "id": "https://aindien.com/doing-math-in-r.html",
@@ -110,7 +110,7 @@
         {
             "id": "https://aindien.com/windows-essentials.html",
             "url": "https://aindien.com/windows-essentials.html",
-            "title": "Windows Essentials",
+            "title": "Basics of Windows Administration",
             "summary": "<p>This is my study guide for Windows Essentials. hope it helps.</p>\n",
             "author": {
                 "name": "Jason Moore"
@@ -119,7 +119,7 @@
                    "Windows"
             ],
             "date_published": "2023-12-27T13:09:51-06:00",
-            "date_modified": "2023-12-27T14:17:24-06:00"
+            "date_modified": "2024-04-13T11:41:46-05:00"
         },
         {
             "id": "https://aindien.com/how-to-find-your-mac-address-in-windows.html",
@@ -138,8 +138,8 @@
         {
             "id": "https://aindien.com/cloud-fundamentals.html",
             "url": "https://aindien.com/cloud-fundamentals.html",
-            "title": "Cloud Fundamentals",
-            "summary": "<p><span style=\"font-weight: 400;\">This is my cloud fundamentals study guide.</span></p>\n",
+            "title": "Basics of Amazon Web Services",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on Amazon Web Services.</span></p>\n",
             "author": {
                 "name": "Jason Moore"
             },
@@ -147,7 +147,7 @@
                    "Cloud Computing"
             ],
             "date_published": "2023-12-26T23:12:33-06:00",
-            "date_modified": "2023-12-27T13:03:52-06:00"
+            "date_modified": "2024-04-13T11:48:42-05:00"
         }
     ]
 }
