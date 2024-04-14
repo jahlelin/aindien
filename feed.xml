@@ -3,7 +3,7 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-04-13T11:48:42-05:00</updated>
+    <updated>2024-04-13T18:07:15-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -180,7 +180,7 @@
         <id>https://aindien.com/cloud-fundamentals.html</id>
             <category term="Cloud Computing"/>
 
-        <updated>2024-04-13T11:48:42-05:00</updated>
+        <updated>2024-04-13T18:07:15-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on Amazon Web Services.</span></p>
