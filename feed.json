@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/security-and-compliance-in-aws.html",
+            "url": "https://aindien.com/security-and-compliance-in-aws.html",
+            "title": "Security and Compliance in AWS",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on security and compliance on AWS.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Cloud Computing"
+            ],
+            "date_published": "2024-04-29T11:15:15-05:00",
+            "date_modified": "2024-04-29T11:16:22-05:00"
+        },
+        {
             "id": "https://aindien.com/statements-in-python.html",
             "url": "https://aindien.com/statements-in-python.html",
             "title": "Statements in Python",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-12-27T13:06:02-06:00",
             "date_modified": "2023-12-27T13:45:40-06:00"
-        },
-        {
-            "id": "https://aindien.com/cloud-fundamentals.html",
-            "url": "https://aindien.com/cloud-fundamentals.html",
-            "title": "Basics of Amazon Web Services",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on Amazon Web Services.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Cloud Computing"
-            ],
-            "date_published": "2023-12-26T23:12:33-06:00",
-            "date_modified": "2024-04-13T18:07:15-05:00"
         }
     ]
 }
