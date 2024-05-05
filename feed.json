@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/branching-in-python.html",
+            "url": "https://aindien.com/branching-in-python.html",
+            "title": "Branching in Python",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on branching in Python.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Python"
+            ],
+            "date_published": "2024-05-04T18:57:34-05:00",
+            "date_modified": "2024-05-04T19:07:28-05:00"
+        },
+        {
             "id": "https://aindien.com/security-and-compliance-in-aws.html",
             "url": "https://aindien.com/security-and-compliance-in-aws.html",
             "title": "Security and Compliance in AWS",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-12-27T13:09:51-06:00",
             "date_modified": "2024-04-13T11:41:46-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-find-your-mac-address-in-windows.html",
-            "url": "https://aindien.com/how-to-find-your-mac-address-in-windows.html",
-            "title": "How To Find Your MAC Address In Windows",
-            "summary": "<p><span style=\"font-weight: 400;\">In this article, I will show you how to find your MAC address in Windows.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Windows"
-            ],
-            "date_published": "2023-12-27T13:06:02-06:00",
-            "date_modified": "2023-12-27T13:45:40-06:00"
         }
     ]
 }
