@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-05-04T19:07:28-05:00</updated>
+    <updated>2024-05-08T21:20:17-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Working With Git Remotes</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/working-with-git-remotes.html"/>
+        <id>https://aindien.com/working-with-git-remotes.html</id>
+            <category term="Git"/>
+
+        <updated>2024-05-08T21:15:39-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes on Git remotes.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Branching in Python</title>
         <author>
@@ -90,7 +108,7 @@
         <id>https://aindien.com/getting-started-with-git.html</id>
             <category term="Git"/>
 
-        <updated>2024-04-12T22:40:22-05:00</updated>
+        <updated>2024-05-08T21:20:17-05:00</updated>
             <summary>
                 <![CDATA[
                     <p>This is my guide on getting started with Git.</p>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">In this article, I will show you how to use the task scheduler in Windows.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Basics of Windows Administration</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/windows-essentials.html"/>
-        <id>https://aindien.com/windows-essentials.html</id>
-            <category term="Windows"/>
-
-        <updated>2024-04-13T11:41:46-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is my study guide for Windows Essentials. hope it helps.</p>
 
                 ]]>
             </summary>

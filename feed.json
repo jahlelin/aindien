@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/working-with-git-remotes.html",
+            "url": "https://aindien.com/working-with-git-remotes.html",
+            "title": "Working With Git Remotes",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on Git remotes.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Git"
+            ],
+            "date_published": "2024-05-08T21:14:18-05:00",
+            "date_modified": "2024-05-08T21:15:39-05:00"
+        },
+        {
             "id": "https://aindien.com/branching-in-python.html",
             "url": "https://aindien.com/branching-in-python.html",
             "title": "Branching in Python",
@@ -77,7 +91,7 @@
                    "Git"
             ],
             "date_published": "2023-12-31T01:18:48-06:00",
-            "date_modified": "2024-04-12T22:40:22-05:00"
+            "date_modified": "2024-05-08T21:20:17-05:00"
         },
         {
             "id": "https://aindien.com/doing-math-in-r.html",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-12-27T14:15:14-06:00",
             "date_modified": "2023-12-27T14:16:59-06:00"
-        },
-        {
-            "id": "https://aindien.com/windows-essentials.html",
-            "url": "https://aindien.com/windows-essentials.html",
-            "title": "Basics of Windows Administration",
-            "summary": "<p>This is my study guide for Windows Essentials. hope it helps.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Windows"
-            ],
-            "date_published": "2023-12-27T13:09:51-06:00",
-            "date_modified": "2024-04-13T11:41:46-05:00"
         }
     ]
 }
