@@ -3,7 +3,7 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-05-08T21:20:17-05:00</updated>
+    <updated>2024-05-14T13:24:27-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -100,7 +100,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Getting Started With Git</title>
+        <title>Git Basics</title>
         <author>
             <name>Jason Moore</name>
         </author>
@@ -108,7 +108,7 @@
         <id>https://aindien.com/getting-started-with-git.html</id>
             <category term="Git"/>
 
-        <updated>2024-05-08T21:20:17-05:00</updated>
+        <updated>2024-05-14T13:24:27-05:00</updated>
             <summary>
                 <![CDATA[
                     <p>This is my guide on getting started with Git.</p>

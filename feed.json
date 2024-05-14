@@ -82,7 +82,7 @@
         {
             "id": "https://aindien.com/getting-started-with-git.html",
             "url": "https://aindien.com/getting-started-with-git.html",
-            "title": "Getting Started With Git",
+            "title": "Git Basics",
             "summary": "<p>This is my guide on getting started with Git.</p>\n",
             "author": {
                 "name": "Jason Moore"
@@ -91,7 +91,7 @@
                    "Git"
             ],
             "date_published": "2023-12-31T01:18:48-06:00",
-            "date_modified": "2024-05-08T21:20:17-05:00"
+            "date_modified": "2024-05-14T13:24:27-05:00"
         },
         {
             "id": "https://aindien.com/doing-math-in-r.html",
