@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-05-14T13:24:27-05:00</updated>
+    <updated>2024-05-14T19:00:20-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Management Tools for AWS</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/management-tools-for-aws.html"/>
+        <id>https://aindien.com/management-tools-for-aws.html</id>
+            <category term="Cloud Computing"/>
+
+        <updated>2024-05-14T19:00:20-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>These are my notes and thoughts on management tools for AWS.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Working With Git Remotes</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">This is my study guide on getting started with networking.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Use The Task Scheduler In Windows</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-use-the-task-scheduler-in-windows.html"/>
-        <id>https://aindien.com/how-to-use-the-task-scheduler-in-windows.html</id>
-            <category term="Windows"/>
-
-        <updated>2023-12-27T14:16:59-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">In this article, I will show you how to use the task scheduler in Windows.</span></p>
 
                 ]]>
             </summary>

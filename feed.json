@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/management-tools-for-aws.html",
+            "url": "https://aindien.com/management-tools-for-aws.html",
+            "title": "Management Tools for AWS",
+            "summary": "<p>These are my notes and thoughts on management tools for AWS.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Cloud Computing"
+            ],
+            "date_published": "2024-05-14T18:52:06-05:00",
+            "date_modified": "2024-05-14T19:00:20-05:00"
+        },
+        {
             "id": "https://aindien.com/working-with-git-remotes.html",
             "url": "https://aindien.com/working-with-git-remotes.html",
             "title": "Working With Git Remotes",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-12-28T19:20:13-06:00",
             "date_modified": "2023-12-28T19:21:13-06:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-use-the-task-scheduler-in-windows.html",
-            "url": "https://aindien.com/how-to-use-the-task-scheduler-in-windows.html",
-            "title": "How To Use The Task Scheduler In Windows",
-            "summary": "<p><span style=\"font-weight: 400;\">In this article, I will show you how to use the task scheduler in Windows.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Windows"
-            ],
-            "date_published": "2023-12-27T14:15:14-06:00",
-            "date_modified": "2023-12-27T14:16:59-06:00"
         }
     ]
 }
