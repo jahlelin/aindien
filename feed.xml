@@ -3,12 +3,30 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-05-17T13:51:29-05:00</updated>
+    <updated>2024-05-17T17:58:54-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Exploring Your Linux System</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/exploring-your-linux-system.html"/>
+        <id>https://aindien.com/exploring-your-linux-system.html</id>
+            <category term="Linux"/>
+
+        <updated>2024-05-17T17:58:54-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on finding your way around your Linux system.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Management Tools for AWS</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">In this article, I will explain how to get started using the shell in Linux.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Getting Started With Networking</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/getting-started-with-networking.html"/>
-        <id>https://aindien.com/getting-started-with-networking.html</id>
-            <category term="Networking"/>
-
-        <updated>2023-12-28T19:21:13-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">This is my study guide on getting started with networking.</span></p>
 
                 ]]>
             </summary>

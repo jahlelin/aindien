@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/exploring-your-linux-system.html",
+            "url": "https://aindien.com/exploring-your-linux-system.html",
+            "title": "Exploring Your Linux System",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on finding your way around your Linux system.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2024-05-17T17:52:42-05:00",
+            "date_modified": "2024-05-17T17:58:54-05:00"
+        },
+        {
             "id": "https://aindien.com/management-tools-for-aws.html",
             "url": "https://aindien.com/management-tools-for-aws.html",
             "title": "Management Tools for AWS",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-12-28T19:27:53-06:00",
             "date_modified": "2023-12-28T19:29:04-06:00"
-        },
-        {
-            "id": "https://aindien.com/getting-started-with-networking.html",
-            "url": "https://aindien.com/getting-started-with-networking.html",
-            "title": "Getting Started With Networking",
-            "summary": "<p><span style=\"font-weight: 400;\">This is my study guide on getting started with networking.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Networking"
-            ],
-            "date_published": "2023-12-28T19:20:13-06:00",
-            "date_modified": "2023-12-28T19:21:13-06:00"
         }
     ]
 }
