@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/rstudio-tutorial.html",
+            "url": "https://aindien.com/rstudio-tutorial.html",
+            "title": "Rstudio Tutorial",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on Rstudio tutorial.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "R"
+            ],
+            "date_published": "2024-06-20T22:49:12-05:00",
+            "date_modified": "2024-06-20T22:50:07-05:00"
+        },
+        {
             "id": "https://aindien.com/exploring-your-linux-system.html",
             "url": "https://aindien.com/exploring-your-linux-system.html",
             "title": "Exploring Your Linux System",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-12-29T18:04:55-06:00",
             "date_modified": "2023-12-29T18:06:03-06:00"
-        },
-        {
-            "id": "https://aindien.com/using-the-shell-in-linux.html",
-            "url": "https://aindien.com/using-the-shell-in-linux.html",
-            "title": "Using The Shell In Linux",
-            "summary": "<p><span style=\"font-weight: 400;\">In this article, I will explain how to get started using the shell in Linux.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2023-12-28T19:27:53-06:00",
-            "date_modified": "2023-12-28T19:29:04-06:00"
         }
     ]
 }

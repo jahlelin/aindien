@@ -1102,7 +1102,7 @@
 </url>
 <url>
 <loc>https://aindien.com/r-essentials.html</loc>
-<lastmod>2024-06-12T14:16:45-05:00</lastmod>
+<lastmod>2024-06-20T23:06:10-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/r-functions-for-statistics.html</loc>
@@ -1115,6 +1115,10 @@
 <image:loc>https://aindien.com/media\posts\102/computing-logo.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://aindien.com/rstudio-tutorial.html</loc>
+<lastmod>2024-06-20T22:50:07-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/rsync-introduction.html</loc>
