@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/scope-of-functions-in-python.html",
+            "url": "https://aindien.com/scope-of-functions-in-python.html",
+            "title": "Scope of Functions in Python",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on the scope of functions in Python.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Python"
+            ],
+            "date_published": "2024-06-22T18:17:23-05:00",
+            "date_modified": "2024-06-22T18:19:59-05:00"
+        },
+        {
             "id": "https://aindien.com/rstudio-tutorial.html",
             "url": "https://aindien.com/rstudio-tutorial.html",
             "title": "Rstudio Tutorial",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-12-31T01:18:48-06:00",
             "date_modified": "2024-05-17T13:51:29-05:00"
-        },
-        {
-            "id": "https://aindien.com/doing-math-in-r.html",
-            "url": "https://aindien.com/doing-math-in-r.html",
-            "title": "Doing Math in R",
-            "summary": "<p><span style=\"font-weight: 400;\">This is my guide on doing math in R. </span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "R"
-            ],
-            "date_published": "2023-12-29T18:04:55-06:00",
-            "date_modified": "2023-12-29T18:06:03-06:00"
         }
     ]
 }
