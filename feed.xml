@@ -3,7 +3,7 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-06-22T18:19:59-05:00</updated>
+    <updated>2024-07-05T00:50:46-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -18,9 +18,10 @@
         <id>https://aindien.com/scope-of-functions-in-python.html</id>
             <category term="Python"/>
 
-        <updated>2024-06-22T18:19:59-05:00</updated>
+        <updated>2024-07-05T00:48:30-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://aindien.com/media/posts/162/trianglify-lowres.png" alt="" />
                     <p><span style="font-weight: 400;">These are my notes on the scope of functions in Python.</span></p>
 
                 ]]>
@@ -36,9 +37,10 @@
         <id>https://aindien.com/rstudio-tutorial.html</id>
             <category term="R"/>
 
-        <updated>2024-06-21T18:42:01-05:00</updated>
+        <updated>2024-07-05T00:48:50-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://aindien.com/media/posts/161/trianglify-lowres1.png" alt="" />
                     <p><span style="font-weight: 400;">These are my notes on Rstudio tutorial.</span></p>
 
                 ]]>
@@ -54,9 +56,10 @@
         <id>https://aindien.com/exploring-your-linux-system.html</id>
             <category term="Linux"/>
 
-        <updated>2024-05-17T18:33:41-05:00</updated>
+        <updated>2024-07-05T00:49:02-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://aindien.com/media/posts/160/trianglify-lowres2.png" alt="" />
                     <p><span style="font-weight: 400;">These are my notes and thoughts on finding your way around your Linux system.</span></p>
 
                 ]]>
@@ -72,9 +75,10 @@
         <id>https://aindien.com/management-tools-for-aws.html</id>
             <category term="Cloud Computing"/>
 
-        <updated>2024-05-14T19:00:20-05:00</updated>
+        <updated>2024-07-05T00:49:15-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://aindien.com/media/posts/159/trianglify-lowres3.png" alt="" />
                     <p>These are my notes and thoughts on management tools for AWS.</p>
 
                 ]]>
@@ -90,9 +94,10 @@
         <id>https://aindien.com/working-with-git-remotes.html</id>
             <category term="Git"/>
 
-        <updated>2024-05-08T21:15:39-05:00</updated>
+        <updated>2024-07-05T00:49:27-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://aindien.com/media/posts/158/trianglify-lowres4.png" alt="" />
                     <p><span style="font-weight: 400;">These are my notes on Git remotes.</span></p>
 
                 ]]>
@@ -108,9 +113,10 @@
         <id>https://aindien.com/branching-in-python.html</id>
             <category term="Python"/>
 
-        <updated>2024-05-04T19:07:28-05:00</updated>
+        <updated>2024-07-05T00:49:38-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://aindien.com/media/posts/157/trianglify-lowres5.png" alt="" />
                     <p><span style="font-weight: 400;">These are my notes on branching in Python.</span></p>
 
                 ]]>
@@ -126,9 +132,10 @@
         <id>https://aindien.com/security-and-compliance-in-aws.html</id>
             <category term="Cloud Computing"/>
 
-        <updated>2024-04-29T11:16:22-05:00</updated>
+        <updated>2024-07-05T00:49:50-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://aindien.com/media/posts/156/trianglify-lowres6.png" alt="" />
                     <p><span style="font-weight: 400;">These are my notes and thoughts on security and compliance on AWS.</span></p>
 
                 ]]>
@@ -144,9 +151,10 @@
         <id>https://aindien.com/statements-in-python.html</id>
             <category term="Python"/>
 
-        <updated>2024-03-31T12:10:43-05:00</updated>
+        <updated>2024-07-05T00:50:02-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://aindien.com/media/posts/155/trianglify-lowres7.png" alt="" />
                     <p><span style="font-weight: 400;">These are my notes and worked examples on statements in python.</span></p>
 
                 ]]>
@@ -162,9 +170,10 @@
         <id>https://aindien.com/python-operations.html</id>
             <category term="Python"/>
 
-        <updated>2024-03-09T19:33:37-06:00</updated>
+        <updated>2024-07-05T00:50:35-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://aindien.com/media/posts/154/trianglify-lowres9.png" alt="" />
                     <p><span style="font-weight: 400;">This article is about doing Python operations.</span></p>
 
                 ]]>
@@ -180,9 +189,10 @@
         <id>https://aindien.com/getting-started-with-git.html</id>
             <category term="Git"/>
 
-        <updated>2024-05-17T13:51:29-05:00</updated>
+        <updated>2024-07-05T00:50:46-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://aindien.com/media/posts/153/trianglify-lowres10.png" alt="" />
                     <p>This is my guide on getting started with Git.</p>
 
                 ]]>
