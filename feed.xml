@@ -3,12 +3,31 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-07-05T00:50:46-05:00</updated>
+    <updated>2024-07-08T02:44:20-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Vim Basics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/vim-basics.html"/>
+        <id>https://aindien.com/vim-basics.html</id>
+            <category term="Linux"/>
+
+        <updated>2024-07-08T02:44:20-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/163/trianglify-lowres11.png" alt="" />
+                    <p class="code highlight" lang="plaintext"><span class="">These are my notes on Vim Basics.<br><br></span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Scope of Functions in Python</title>
         <author>
@@ -175,25 +194,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/154/trianglify-lowres9.png" alt="" />
                     <p><span style="font-weight: 400;">This article is about doing Python operations.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Git Basics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/getting-started-with-git.html"/>
-        <id>https://aindien.com/getting-started-with-git.html</id>
-            <category term="Git"/>
-
-        <updated>2024-07-05T00:50:46-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/153/trianglify-lowres10.png" alt="" />
-                    <p>This is my guide on getting started with Git.</p>
 
                 ]]>
             </summary>

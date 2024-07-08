@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/vim-basics.html",
+            "url": "https://aindien.com/vim-basics.html",
+            "title": "Vim Basics",
+            "summary": "<p class=\"code highlight\" lang=\"plaintext\"><span class=\"\">These are my notes on Vim Basics.<br><br></span></p>\n",
+            "image": "https://aindien.com/media/posts/163/trianglify-lowres11.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2024-07-08T02:26:16-05:00",
+            "date_modified": "2024-07-08T02:44:20-05:00"
+        },
+        {
             "id": "https://aindien.com/scope-of-functions-in-python.html",
             "url": "https://aindien.com/scope-of-functions-in-python.html",
             "title": "Scope of Functions in Python",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-03-09T19:26:02-06:00",
             "date_modified": "2024-07-05T00:50:35-05:00"
-        },
-        {
-            "id": "https://aindien.com/getting-started-with-git.html",
-            "url": "https://aindien.com/getting-started-with-git.html",
-            "title": "Git Basics",
-            "summary": "<p>This is my guide on getting started with Git.</p>\n",
-            "image": "https://aindien.com/media/posts/153/trianglify-lowres10.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Git"
-            ],
-            "date_published": "2023-12-31T01:18:48-06:00",
-            "date_modified": "2024-07-05T00:50:46-05:00"
         }
     ]
 }
