@@ -3,12 +3,31 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-07-08T02:44:20-05:00</updated>
+    <updated>2024-07-08T22:46:15-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Callbacks In Python</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/callbacks-in-python.html"/>
+        <id>https://aindien.com/callbacks-in-python.html</id>
+            <category term="Python"/>
+
+        <updated>2024-07-08T22:46:15-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/164/trianglify-lowres9.png" alt="" />
+                    <p>These are my notes on callbacks in Python.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Vim Basics</title>
         <author>
@@ -175,25 +194,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/155/trianglify-lowres7.png" alt="" />
                     <p><span style="font-weight: 400;">These are my notes and worked examples on statements in python.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Python Operations</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/python-operations.html"/>
-        <id>https://aindien.com/python-operations.html</id>
-            <category term="Python"/>
-
-        <updated>2024-07-05T00:50:35-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/154/trianglify-lowres9.png" alt="" />
-                    <p><span style="font-weight: 400;">This article is about doing Python operations.</span></p>
 
                 ]]>
             </summary>

@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/callbacks-in-python.html",
+            "url": "https://aindien.com/callbacks-in-python.html",
+            "title": "Callbacks In Python",
+            "summary": "<p>These are my notes on callbacks in Python.</p>\n",
+            "image": "https://aindien.com/media/posts/164/trianglify-lowres9.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Python"
+            ],
+            "date_published": "2024-07-08T21:32:19-05:00",
+            "date_modified": "2024-07-08T22:46:15-05:00"
+        },
+        {
             "id": "https://aindien.com/vim-basics.html",
             "url": "https://aindien.com/vim-basics.html",
             "title": "Vim Basics",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-03-31T12:10:15-05:00",
             "date_modified": "2024-07-05T00:50:02-05:00"
-        },
-        {
-            "id": "https://aindien.com/python-operations.html",
-            "url": "https://aindien.com/python-operations.html",
-            "title": "Python Operations",
-            "summary": "<p><span style=\"font-weight: 400;\">This article is about doing Python operations.</span></p>\n",
-            "image": "https://aindien.com/media/posts/154/trianglify-lowres9.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Python"
-            ],
-            "date_published": "2024-03-09T19:26:02-06:00",
-            "date_modified": "2024-07-05T00:50:35-05:00"
         }
     ]
 }
