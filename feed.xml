@@ -3,12 +3,31 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-07-15T17:06:04-05:00</updated>
+    <updated>2024-07-17T16:06:29-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Services For Cloud Computing</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/services-for-cloud-computing.html"/>
+        <id>https://aindien.com/services-for-cloud-computing.html</id>
+            <category term="Cloud Computing"/>
+
+        <updated>2024-07-17T16:06:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/167/trianglify-lowres2.png" alt="" />
+                    <p class="align-left">These are my notes on AWS services for cloud computing.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Working With Files In Linux</title>
         <author>
@@ -174,25 +193,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/158/trianglify-lowres4.png" alt="" />
                     <p><span style="font-weight: 400;">These are my notes on Git remotes.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Branching in Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/branching-in-python.html"/>
-        <id>https://aindien.com/branching-in-python.html</id>
-            <category term="Python"/>
-
-        <updated>2024-07-05T00:49:38-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/157/trianglify-lowres5.png" alt="" />
-                    <p><span style="font-weight: 400;">These are my notes on branching in Python.</span></p>
 
                 ]]>
             </summary>

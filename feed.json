@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/services-for-cloud-computing.html",
+            "url": "https://aindien.com/services-for-cloud-computing.html",
+            "title": "Services For Cloud Computing",
+            "summary": "<p class=\"align-left\">These are my notes on AWS services for cloud computing.</p>\n",
+            "image": "https://aindien.com/media/posts/167/trianglify-lowres2.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Cloud Computing"
+            ],
+            "date_published": "2024-07-17T14:00:46-05:00",
+            "date_modified": "2024-07-17T16:06:29-05:00"
+        },
+        {
             "id": "https://aindien.com/working-with-files-in-linux.html",
             "url": "https://aindien.com/working-with-files-in-linux.html",
             "title": "Working With Files In Linux",
@@ -142,21 +157,6 @@
             ],
             "date_published": "2024-05-08T21:14:18-05:00",
             "date_modified": "2024-07-05T00:49:27-05:00"
-        },
-        {
-            "id": "https://aindien.com/branching-in-python.html",
-            "url": "https://aindien.com/branching-in-python.html",
-            "title": "Branching in Python",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on branching in Python.</span></p>\n",
-            "image": "https://aindien.com/media/posts/157/trianglify-lowres5.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Python"
-            ],
-            "date_published": "2024-05-04T18:57:34-05:00",
-            "date_modified": "2024-07-05T00:49:38-05:00"
         }
     ]
 }
