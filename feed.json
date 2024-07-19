@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/intro-to-sql.html",
+            "url": "https://aindien.com/intro-to-sql.html",
+            "title": "Intro To SQL",
+            "summary": "<p>These are my notes on an Intro To SQL.</p>\n",
+            "image": "https://aindien.com/media/posts/169/trianglify-lowres7.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "SQL"
+            ],
+            "date_published": "2024-07-19T17:33:59-05:00",
+            "date_modified": "2024-07-19T17:35:20-05:00"
+        },
+        {
             "id": "https://aindien.com/intro-to-excel.html",
             "url": "https://aindien.com/intro-to-excel.html",
             "title": "Intro To Excel",
@@ -142,21 +157,6 @@
             ],
             "date_published": "2024-05-17T17:52:42-05:00",
             "date_modified": "2024-07-05T00:49:02-05:00"
-        },
-        {
-            "id": "https://aindien.com/management-tools-for-aws.html",
-            "url": "https://aindien.com/management-tools-for-aws.html",
-            "title": "Management Tools for AWS",
-            "summary": "<p>These are my notes and thoughts on management tools for AWS.</p>\n",
-            "image": "https://aindien.com/media/posts/159/trianglify-lowres3.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Cloud Computing"
-            ],
-            "date_published": "2024-05-14T18:52:06-05:00",
-            "date_modified": "2024-07-05T00:49:15-05:00"
         }
     ]
 }

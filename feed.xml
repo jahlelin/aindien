@@ -3,12 +3,31 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-07-19T00:24:58-05:00</updated>
+    <updated>2024-07-19T17:35:20-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Intro To SQL</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/intro-to-sql.html"/>
+        <id>https://aindien.com/intro-to-sql.html</id>
+            <category term="SQL"/>
+
+        <updated>2024-07-19T17:35:20-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/169/trianglify-lowres7.png" alt="" />
+                    <p>These are my notes on an Intro To SQL.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Intro To Excel</title>
         <author>
@@ -174,25 +193,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/160/trianglify-lowres2.png" alt="" />
                     <p><span style="font-weight: 400;">These are my notes and thoughts on finding your way around your Linux system.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Management Tools for AWS</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/management-tools-for-aws.html"/>
-        <id>https://aindien.com/management-tools-for-aws.html</id>
-            <category term="Cloud Computing"/>
-
-        <updated>2024-07-05T00:49:15-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/159/trianglify-lowres3.png" alt="" />
-                    <p>These are my notes and thoughts on management tools for AWS.</p>
 
                 ]]>
             </summary>
