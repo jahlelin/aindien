@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/intro-to-networking.html",
+            "url": "https://aindien.com/intro-to-networking.html",
+            "title": "Intro To Networking",
+            "summary": "<p>These are my notes on Intro To Networking.</p>\n",
+            "image": "https://aindien.com/media/posts/170/trianglify-lowres7.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Networking"
+            ],
+            "date_published": "2024-07-21T20:11:08-05:00",
+            "date_modified": "2024-07-21T20:28:07-05:00"
+        },
+        {
             "id": "https://aindien.com/intro-to-sql.html",
             "url": "https://aindien.com/intro-to-sql.html",
             "title": "Intro To SQL",
@@ -142,21 +157,6 @@
             ],
             "date_published": "2024-06-20T22:49:12-05:00",
             "date_modified": "2024-07-05T00:48:50-05:00"
-        },
-        {
-            "id": "https://aindien.com/exploring-your-linux-system.html",
-            "url": "https://aindien.com/exploring-your-linux-system.html",
-            "title": "Exploring Your Linux System",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on finding your way around your Linux system.</span></p>\n",
-            "image": "https://aindien.com/media/posts/160/trianglify-lowres2.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2024-05-17T17:52:42-05:00",
-            "date_modified": "2024-07-05T00:49:02-05:00"
         }
     ]
 }
