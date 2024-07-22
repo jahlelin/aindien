@@ -3,12 +3,29 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-07-21T20:28:07-05:00</updated>
+    <updated>2024-07-22T13:30:59-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Tagging With Git</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/tagging-with-git.html"/>
+        <id>https://aindien.com/tagging-with-git.html</id>
+
+        <updated>2024-07-22T13:30:59-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>These are my notes on Tagging With Git.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Intro To Networking</title>
         <author>
@@ -174,25 +191,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/162/trianglify-lowres.png" alt="" />
                     <p><span style="font-weight: 400;">These are my notes on the scope of functions in Python.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Rstudio Tutorial</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/rstudio-tutorial.html"/>
-        <id>https://aindien.com/rstudio-tutorial.html</id>
-            <category term="R"/>
-
-        <updated>2024-07-05T00:48:50-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/161/trianglify-lowres1.png" alt="" />
-                    <p><span style="font-weight: 400;">These are my notes on Rstudio tutorial.</span></p>
 
                 ]]>
             </summary>
