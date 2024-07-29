@@ -3,7 +3,7 @@
     <title>Jason Moore&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-07-22T13:42:41-05:00</updated>
+    <updated>2024-07-29T13:57:33-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://aindien.com/tagging-with-git.html</id>
             <category term="Git"/>
 
-        <updated>2024-07-22T13:42:41-05:00</updated>
+        <updated>2024-07-29T13:55:09-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/171/trianglify-lowres7.png" alt="" />
@@ -37,7 +37,7 @@
         <id>https://aindien.com/intro-to-networking.html</id>
             <category term="Networking"/>
 
-        <updated>2024-07-21T20:28:07-05:00</updated>
+        <updated>2024-07-29T13:55:26-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/170/trianglify-lowres7.png" alt="" />
@@ -56,7 +56,7 @@
         <id>https://aindien.com/intro-to-sql.html</id>
             <category term="SQL"/>
 
-        <updated>2024-07-19T17:35:20-05:00</updated>
+        <updated>2024-07-29T13:55:38-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/169/trianglify-lowres7.png" alt="" />
@@ -75,7 +75,7 @@
         <id>https://aindien.com/intro-to-excel.html</id>
             <category term="Excel"/>
 
-        <updated>2024-07-19T00:24:58-05:00</updated>
+        <updated>2024-07-29T13:55:49-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/168/trianglify-lowres5.png" alt="" />
@@ -94,7 +94,7 @@
         <id>https://aindien.com/services-for-cloud-computing.html</id>
             <category term="Cloud Computing"/>
 
-        <updated>2024-07-17T16:06:29-05:00</updated>
+        <updated>2024-07-29T13:56:12-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/167/trianglify-lowres2.png" alt="" />
@@ -113,7 +113,7 @@
         <id>https://aindien.com/working-with-files-in-linux.html</id>
             <category term="Linux"/>
 
-        <updated>2024-07-15T17:06:04-05:00</updated>
+        <updated>2024-07-29T13:56:32-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/166/trianglify-lowres1.png" alt="" />
@@ -131,7 +131,7 @@
         <link href="https://aindien.com/markdown-introduction.html"/>
         <id>https://aindien.com/markdown-introduction.html</id>
 
-        <updated>2024-07-15T17:01:27-05:00</updated>
+        <updated>2024-07-29T13:56:46-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/165/trianglify-lowres2.png" alt="" />
@@ -150,7 +150,7 @@
         <id>https://aindien.com/callbacks-in-python.html</id>
             <category term="Python"/>
 
-        <updated>2024-07-08T22:46:15-05:00</updated>
+        <updated>2024-07-29T13:57:01-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/164/trianglify-lowres9.png" alt="" />
@@ -169,7 +169,7 @@
         <id>https://aindien.com/vim-basics.html</id>
             <category term="Linux"/>
 
-        <updated>2024-07-08T02:44:20-05:00</updated>
+        <updated>2024-07-29T13:57:15-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/163/trianglify-lowres11.png" alt="" />
@@ -188,7 +188,7 @@
         <id>https://aindien.com/scope-of-functions-in-python.html</id>
             <category term="Python"/>
 
-        <updated>2024-07-05T00:48:30-05:00</updated>
+        <updated>2024-07-29T13:57:33-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/162/trianglify-lowres.png" alt="" />
