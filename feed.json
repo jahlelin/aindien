@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Jason Moore&#x27;s Computing Guides",
+    "title": "Jason&#x27;s Computing Guides",
     "description": "",
     "home_page_url": "https://aindien.com",
     "feed_url": "https://aindien.com/feed.json",
@@ -22,7 +22,7 @@
                    "Git"
             ],
             "date_published": "2024-07-22T13:28:26-05:00",
-            "date_modified": "2024-07-29T14:12:05-05:00"
+            "date_modified": "2024-07-29T18:36:04-05:00"
         },
         {
             "id": "https://aindien.com/intro-to-networking.html",
@@ -37,7 +37,7 @@
                    "Networking"
             ],
             "date_published": "2024-07-21T20:11:08-05:00",
-            "date_modified": "2024-07-29T14:00:58-05:00"
+            "date_modified": "2024-07-29T18:36:13-05:00"
         },
         {
             "id": "https://aindien.com/intro-to-sql.html",
@@ -52,7 +52,7 @@
                    "SQL"
             ],
             "date_published": "2024-07-19T17:33:59-05:00",
-            "date_modified": "2024-07-29T14:01:12-05:00"
+            "date_modified": "2024-07-29T18:36:22-05:00"
         },
         {
             "id": "https://aindien.com/intro-to-excel.html",
@@ -67,7 +67,7 @@
                    "Excel"
             ],
             "date_published": "2024-07-19T00:22:30-05:00",
-            "date_modified": "2024-07-29T14:01:27-05:00"
+            "date_modified": "2024-07-29T18:36:31-05:00"
         },
         {
             "id": "https://aindien.com/services-for-cloud-computing.html",
@@ -82,7 +82,7 @@
                    "Cloud Computing"
             ],
             "date_published": "2024-07-17T14:00:46-05:00",
-            "date_modified": "2024-07-29T14:01:48-05:00"
+            "date_modified": "2024-07-29T18:36:40-05:00"
         },
         {
             "id": "https://aindien.com/working-with-files-in-linux.html",
@@ -97,7 +97,7 @@
                    "Linux"
             ],
             "date_published": "2024-07-15T17:03:04-05:00",
-            "date_modified": "2024-07-29T14:02:00-05:00"
+            "date_modified": "2024-07-29T18:36:48-05:00"
         },
         {
             "id": "https://aindien.com/markdown-introduction.html",
@@ -111,7 +111,7 @@
             "tags": [
             ],
             "date_published": "2024-07-15T17:00:39-05:00",
-            "date_modified": "2024-07-29T14:02:12-05:00"
+            "date_modified": "2024-07-29T18:36:58-05:00"
         },
         {
             "id": "https://aindien.com/callbacks-in-python.html",
@@ -126,7 +126,7 @@
                    "Python"
             ],
             "date_published": "2024-07-08T21:32:19-05:00",
-            "date_modified": "2024-07-29T14:02:24-05:00"
+            "date_modified": "2024-07-29T18:37:06-05:00"
         },
         {
             "id": "https://aindien.com/vim-basics.html",
@@ -141,7 +141,7 @@
                    "Linux"
             ],
             "date_published": "2024-07-08T02:26:16-05:00",
-            "date_modified": "2024-07-29T14:02:36-05:00"
+            "date_modified": "2024-07-29T18:37:14-05:00"
         },
         {
             "id": "https://aindien.com/scope-of-functions-in-python.html",
@@ -156,7 +156,7 @@
                    "Python"
             ],
             "date_published": "2024-06-22T18:17:23-05:00",
-            "date_modified": "2024-07-29T14:02:49-05:00"
+            "date_modified": "2024-07-29T18:37:23-05:00"
         }
     ]
 }
