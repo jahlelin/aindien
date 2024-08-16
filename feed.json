@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/commands-in-linux.html",
+            "url": "https://aindien.com/commands-in-linux.html",
+            "title": "Commands in Linux",
+            "summary": "<p>These are my notes on commands in linux.</p>\n",
+            "image": "https://aindien.com/media/posts/173/trianglify-lowres6.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2024-08-15T20:02:08-05:00",
+            "date_modified": "2024-08-15T20:02:53-05:00"
+        },
+        {
             "id": "https://aindien.com/exception-in-python.html",
             "url": "https://aindien.com/exception-in-python.html",
             "title": "Exceptions in Python",
@@ -142,21 +157,6 @@
             ],
             "date_published": "2024-07-08T21:32:19-05:00",
             "date_modified": "2024-07-29T18:37:06-05:00"
-        },
-        {
-            "id": "https://aindien.com/vim-basics.html",
-            "url": "https://aindien.com/vim-basics.html",
-            "title": "Vim Basics",
-            "summary": "<p class=\"code highlight\" lang=\"plaintext\"><span class=\"\">These are my notes on Vim Basics.<br><br></span></p>\n",
-            "image": "https://aindien.com/media/posts/163/trianglify-lowres11.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2024-07-08T02:26:16-05:00",
-            "date_modified": "2024-07-29T18:37:14-05:00"
         }
     ]
 }
