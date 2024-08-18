@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/worksheet-data-in-excel.html",
+            "url": "https://aindien.com/worksheet-data-in-excel.html",
+            "title": "Worksheet Data in Excel",
+            "summary": "<p>These are my notes on worksheet data in excel.</p>\n",
+            "image": "https://aindien.com/media/posts/174/trianglify-lowres6.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Excel"
+            ],
+            "date_published": "2024-08-18T16:19:39-05:00",
+            "date_modified": "2024-08-18T16:20:49-05:00"
+        },
+        {
             "id": "https://aindien.com/commands-in-linux.html",
             "url": "https://aindien.com/commands-in-linux.html",
             "title": "Commands in Linux",
@@ -82,12 +97,12 @@
                    "SQL"
             ],
             "date_published": "2024-07-19T17:33:59-05:00",
-            "date_modified": "2024-07-29T18:36:22-05:00"
+            "date_modified": "2024-08-18T16:28:59-05:00"
         },
         {
             "id": "https://aindien.com/intro-to-excel.html",
             "url": "https://aindien.com/intro-to-excel.html",
-            "title": "Intro To Excel",
+            "title": "Introduction To Excel",
             "summary": "<p>These are my notes on an Intro To Excel.</p>\n",
             "image": "https://aindien.com/media/posts/168/trianglify-lowres5.png",
             "author": {
@@ -97,7 +112,7 @@
                    "Excel"
             ],
             "date_published": "2024-07-19T00:22:30-05:00",
-            "date_modified": "2024-07-29T18:36:31-05:00"
+            "date_modified": "2024-08-18T16:26:22-05:00"
         },
         {
             "id": "https://aindien.com/services-for-cloud-computing.html",
@@ -142,21 +157,6 @@
             ],
             "date_published": "2024-07-15T17:00:39-05:00",
             "date_modified": "2024-07-29T18:36:58-05:00"
-        },
-        {
-            "id": "https://aindien.com/callbacks-in-python.html",
-            "url": "https://aindien.com/callbacks-in-python.html",
-            "title": "Callbacks In Python",
-            "summary": "<p>These are my notes on callbacks in Python.</p>\n",
-            "image": "https://aindien.com/media/posts/164/trianglify-lowres9.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Python"
-            ],
-            "date_published": "2024-07-08T21:32:19-05:00",
-            "date_modified": "2024-07-29T18:37:06-05:00"
         }
     ]
 }

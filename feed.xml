@@ -3,12 +3,31 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-08-15T20:02:53-05:00</updated>
+    <updated>2024-08-18T16:28:59-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Worksheet Data in Excel</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/worksheet-data-in-excel.html"/>
+        <id>https://aindien.com/worksheet-data-in-excel.html</id>
+            <category term="Excel"/>
+
+        <updated>2024-08-18T16:20:49-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/174/trianglify-lowres6.png" alt="" />
+                    <p>These are my notes on worksheet data in excel.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Commands in Linux</title>
         <author>
@@ -94,7 +113,7 @@
         <id>https://aindien.com/intro-to-sql.html</id>
             <category term="SQL"/>
 
-        <updated>2024-07-29T18:36:22-05:00</updated>
+        <updated>2024-08-18T16:28:59-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/169/trianglify-lowres7.png" alt="" />
@@ -105,7 +124,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Intro To Excel</title>
+        <title>Introduction To Excel</title>
         <author>
             <name>Jason Moore</name>
         </author>
@@ -113,7 +132,7 @@
         <id>https://aindien.com/intro-to-excel.html</id>
             <category term="Excel"/>
 
-        <updated>2024-07-29T18:36:31-05:00</updated>
+        <updated>2024-08-18T16:26:22-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/168/trianglify-lowres5.png" alt="" />
@@ -174,25 +193,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/165/trianglify-lowres2.png" alt="" />
                     <p>These are my notes on markdown intro.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Callbacks In Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/callbacks-in-python.html"/>
-        <id>https://aindien.com/callbacks-in-python.html</id>
-            <category term="Python"/>
-
-        <updated>2024-07-29T18:37:06-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/164/trianglify-lowres9.png" alt="" />
-                    <p>These are my notes on callbacks in Python.</p>
 
                 ]]>
             </summary>
