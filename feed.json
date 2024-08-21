@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/modeling-data-in-sql.html",
+            "url": "https://aindien.com/modeling-data-in-sql.html",
+            "title": "Modeling Data in SQL",
+            "summary": "<p>There are my notes on modeling data in sql.</p>\n",
+            "image": "https://aindien.com/media/posts/175/trianglify-lowres6.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "SQL"
+            ],
+            "date_published": "2024-08-21T14:16:12-05:00",
+            "date_modified": "2024-08-21T14:17:24-05:00"
+        },
+        {
             "id": "https://aindien.com/worksheet-data-in-excel.html",
             "url": "https://aindien.com/worksheet-data-in-excel.html",
             "title": "Worksheet Data in Excel",
@@ -97,7 +112,7 @@
                    "SQL"
             ],
             "date_published": "2024-07-19T17:33:59-05:00",
-            "date_modified": "2024-08-18T16:28:59-05:00"
+            "date_modified": "2024-08-21T14:18:19-05:00"
         },
         {
             "id": "https://aindien.com/intro-to-excel.html",
@@ -143,20 +158,6 @@
             ],
             "date_published": "2024-07-15T17:03:04-05:00",
             "date_modified": "2024-07-29T18:36:48-05:00"
-        },
-        {
-            "id": "https://aindien.com/markdown-introduction.html",
-            "url": "https://aindien.com/markdown-introduction.html",
-            "title": "Markdown Introduction",
-            "summary": "<p>These are my notes on markdown intro.</p>\n",
-            "image": "https://aindien.com/media/posts/165/trianglify-lowres2.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-07-15T17:00:39-05:00",
-            "date_modified": "2024-07-29T18:36:58-05:00"
         }
     ]
 }

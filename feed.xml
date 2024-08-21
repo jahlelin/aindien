@@ -3,12 +3,31 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-08-18T16:28:59-05:00</updated>
+    <updated>2024-08-21T14:18:19-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Modeling Data in SQL</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/modeling-data-in-sql.html"/>
+        <id>https://aindien.com/modeling-data-in-sql.html</id>
+            <category term="SQL"/>
+
+        <updated>2024-08-21T14:17:24-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/175/trianglify-lowres6.png" alt="" />
+                    <p>There are my notes on modeling data in sql.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Worksheet Data in Excel</title>
         <author>
@@ -113,7 +132,7 @@
         <id>https://aindien.com/intro-to-sql.html</id>
             <category term="SQL"/>
 
-        <updated>2024-08-18T16:28:59-05:00</updated>
+        <updated>2024-08-21T14:18:19-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/169/trianglify-lowres7.png" alt="" />
@@ -175,24 +194,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/166/trianglify-lowres1.png" alt="" />
                     <p>These are my notes on working with files in linux.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Markdown Introduction</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/markdown-introduction.html"/>
-        <id>https://aindien.com/markdown-introduction.html</id>
-
-        <updated>2024-07-29T18:36:58-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/165/trianglify-lowres2.png" alt="" />
-                    <p>These are my notes on markdown intro.</p>
 
                 ]]>
             </summary>
