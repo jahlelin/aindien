@@ -3,7 +3,7 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-08-21T14:18:19-05:00</updated>
+    <updated>2024-08-21T19:57:29-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -124,7 +124,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Intro To SQL</title>
+        <title>SQL Explained</title>
         <author>
             <name>Jason Moore</name>
         </author>
@@ -132,7 +132,7 @@
         <id>https://aindien.com/intro-to-sql.html</id>
             <category term="SQL"/>
 
-        <updated>2024-08-21T14:18:19-05:00</updated>
+        <updated>2024-08-21T19:57:29-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/169/trianglify-lowres7.png" alt="" />
@@ -143,7 +143,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Introduction To Excel</title>
+        <title>Excel Explained</title>
         <author>
             <name>Jason Moore</name>
         </author>
@@ -151,7 +151,7 @@
         <id>https://aindien.com/intro-to-excel.html</id>
             <category term="Excel"/>
 
-        <updated>2024-08-18T16:26:22-05:00</updated>
+        <updated>2024-08-21T19:57:12-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/168/trianglify-lowres5.png" alt="" />

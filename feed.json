@@ -102,7 +102,7 @@
         {
             "id": "https://aindien.com/intro-to-sql.html",
             "url": "https://aindien.com/intro-to-sql.html",
-            "title": "Intro To SQL",
+            "title": "SQL Explained",
             "summary": "<p>These are my notes on an Intro To SQL.</p>\n",
             "image": "https://aindien.com/media/posts/169/trianglify-lowres7.png",
             "author": {
@@ -112,12 +112,12 @@
                    "SQL"
             ],
             "date_published": "2024-07-19T17:33:59-05:00",
-            "date_modified": "2024-08-21T14:18:19-05:00"
+            "date_modified": "2024-08-21T19:57:29-05:00"
         },
         {
             "id": "https://aindien.com/intro-to-excel.html",
             "url": "https://aindien.com/intro-to-excel.html",
-            "title": "Introduction To Excel",
+            "title": "Excel Explained",
             "summary": "<p>These are my notes on an Intro To Excel.</p>\n",
             "image": "https://aindien.com/media/posts/168/trianglify-lowres5.png",
             "author": {
@@ -127,7 +127,7 @@
                    "Excel"
             ],
             "date_published": "2024-07-19T00:22:30-05:00",
-            "date_modified": "2024-08-18T16:26:22-05:00"
+            "date_modified": "2024-08-21T19:57:12-05:00"
         },
         {
             "id": "https://aindien.com/services-for-cloud-computing.html",
