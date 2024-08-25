@@ -3,12 +3,31 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-08-23T17:52:31-05:00</updated>
+    <updated>2024-08-25T13:35:21-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Aliases in Git</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/aliases-in-git.html"/>
+        <id>https://aindien.com/aliases-in-git.html</id>
+            <category term="Git"/>
+
+        <updated>2024-08-25T13:35:21-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/177/trianglify-lowres6.png" alt="" />
+                    <p>These are my notes on aliases in git.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Sharing Your Home Network</title>
         <author>
@@ -175,25 +194,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/168/trianglify-lowres5.png" alt="" />
                     <p>These are my notes on an Excel explained.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Services For Cloud Computing</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/services-for-cloud-computing.html"/>
-        <id>https://aindien.com/services-for-cloud-computing.html</id>
-            <category term="Cloud Computing"/>
-
-        <updated>2024-07-29T18:36:40-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/167/trianglify-lowres2.png" alt="" />
-                    <p class="align-left">These are my notes on AWS services for cloud computing.</p>
 
                 ]]>
             </summary>

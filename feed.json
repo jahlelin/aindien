@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/aliases-in-git.html",
+            "url": "https://aindien.com/aliases-in-git.html",
+            "title": "Aliases in Git",
+            "summary": "<p>These are my notes on aliases in git.</p>\n",
+            "image": "https://aindien.com/media/posts/177/trianglify-lowres6.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Git"
+            ],
+            "date_published": "2024-08-25T13:34:03-05:00",
+            "date_modified": "2024-08-25T13:35:21-05:00"
+        },
+        {
             "id": "https://aindien.com/sharing-your-home-network.html",
             "url": "https://aindien.com/sharing-your-home-network.html",
             "title": "Sharing Your Home Network",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-07-19T00:22:30-05:00",
             "date_modified": "2024-08-23T17:52:31-05:00"
-        },
-        {
-            "id": "https://aindien.com/services-for-cloud-computing.html",
-            "url": "https://aindien.com/services-for-cloud-computing.html",
-            "title": "Services For Cloud Computing",
-            "summary": "<p class=\"align-left\">These are my notes on AWS services for cloud computing.</p>\n",
-            "image": "https://aindien.com/media/posts/167/trianglify-lowres2.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Cloud Computing"
-            ],
-            "date_published": "2024-07-17T14:00:46-05:00",
-            "date_modified": "2024-07-29T18:36:40-05:00"
         }
     ]
 }
