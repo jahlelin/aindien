@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
@@ -16,9 +16,10 @@
         </author>
         <link href="https://aindien.com/aliases-in-git.html"/>
         <id>https://aindien.com/aliases-in-git.html</id>
+        <media:content url="https://aindien.com/media/posts/177/trianglify-lowres6.png" medium="image" />
             <category term="Git"/>
 
-        <updated>2024-08-25T13:35:21-05:00</updated>
+        <updated>2024-08-25T13:34:03-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/177/trianglify-lowres6.png" alt="" />
@@ -35,9 +36,10 @@
         </author>
         <link href="https://aindien.com/sharing-your-home-network.html"/>
         <id>https://aindien.com/sharing-your-home-network.html</id>
+        <media:content url="https://aindien.com/media/posts/176/trianglify-lowres6.png" medium="image" />
             <category term="Networking"/>
 
-        <updated>2024-08-22T20:17:38-05:00</updated>
+        <updated>2024-08-22T20:16:29-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/176/trianglify-lowres6.png" alt="" />
@@ -54,9 +56,10 @@
         </author>
         <link href="https://aindien.com/modeling-data-in-sql.html"/>
         <id>https://aindien.com/modeling-data-in-sql.html</id>
+        <media:content url="https://aindien.com/media/posts/175/trianglify-lowres6.png" medium="image" />
             <category term="SQL"/>
 
-        <updated>2024-08-21T14:17:24-05:00</updated>
+        <updated>2024-08-21T14:16:12-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/175/trianglify-lowres6.png" alt="" />
@@ -73,9 +76,10 @@
         </author>
         <link href="https://aindien.com/worksheet-data-in-excel.html"/>
         <id>https://aindien.com/worksheet-data-in-excel.html</id>
+        <media:content url="https://aindien.com/media/posts/174/trianglify-lowres6.png" medium="image" />
             <category term="Excel"/>
 
-        <updated>2024-08-18T16:20:49-05:00</updated>
+        <updated>2024-08-18T16:19:39-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/174/trianglify-lowres6.png" alt="" />
@@ -92,9 +96,10 @@
         </author>
         <link href="https://aindien.com/commands-in-linux.html"/>
         <id>https://aindien.com/commands-in-linux.html</id>
+        <media:content url="https://aindien.com/media/posts/173/trianglify-lowres6.png" medium="image" />
             <category term="Linux"/>
 
-        <updated>2024-08-15T20:02:53-05:00</updated>
+        <updated>2024-08-15T20:02:08-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/173/trianglify-lowres6.png" alt="" />
@@ -111,9 +116,10 @@
         </author>
         <link href="https://aindien.com/exception-in-python.html"/>
         <id>https://aindien.com/exception-in-python.html</id>
+        <media:content url="https://aindien.com/media/posts/172/trianglify-lowres3.png" medium="image" />
             <category term="Python"/>
 
-        <updated>2024-08-12T21:47:52-05:00</updated>
+        <updated>2024-08-12T21:43:51-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/172/trianglify-lowres3.png" alt="" />
@@ -130,9 +136,10 @@
         </author>
         <link href="https://aindien.com/tagging-with-git.html"/>
         <id>https://aindien.com/tagging-with-git.html</id>
+        <media:content url="https://aindien.com/media/posts/171/trianglify-lowres7.png" medium="image" />
             <category term="Git"/>
 
-        <updated>2024-07-30T15:25:45-05:00</updated>
+        <updated>2024-07-22T13:28:26-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/171/trianglify-lowres7.png" alt="" />
@@ -149,9 +156,10 @@
         </author>
         <link href="https://aindien.com/intro-to-networking.html"/>
         <id>https://aindien.com/intro-to-networking.html</id>
+        <media:content url="https://aindien.com/media/posts/170/trianglify-lowres7.png" medium="image" />
             <category term="Networking"/>
 
-        <updated>2024-07-29T18:36:13-05:00</updated>
+        <updated>2024-07-21T20:11:08-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/170/trianglify-lowres7.png" alt="" />
@@ -168,9 +176,10 @@
         </author>
         <link href="https://aindien.com/intro-to-sql.html"/>
         <id>https://aindien.com/intro-to-sql.html</id>
+        <media:content url="https://aindien.com/media/posts/169/trianglify-lowres7.png" medium="image" />
             <category term="SQL"/>
 
-        <updated>2024-08-21T23:33:14-05:00</updated>
+        <updated>2024-07-19T17:33:59-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/169/trianglify-lowres7.png" alt="" />
@@ -187,9 +196,10 @@
         </author>
         <link href="https://aindien.com/intro-to-excel.html"/>
         <id>https://aindien.com/intro-to-excel.html</id>
+        <media:content url="https://aindien.com/media/posts/168/trianglify-lowres5.png" medium="image" />
             <category term="Excel"/>
 
-        <updated>2024-08-23T17:52:31-05:00</updated>
+        <updated>2024-07-19T00:22:30-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/168/trianglify-lowres5.png" alt="" />
