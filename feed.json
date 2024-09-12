@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/using-modules-in-python.html",
+            "url": "https://aindien.com/using-modules-in-python.html",
+            "title": "Using Modules in Python",
+            "summary": "<p>This is my guide on using modules in python.</p>\n",
+            "image": "https://aindien.com/media/posts/178/trianglify-lowres8.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Python"
+            ],
+            "date_published": "2024-09-12T16:40:30-05:00",
+            "date_modified": "2024-09-12T16:41:14-05:00"
+        },
+        {
             "id": "https://aindien.com/aliases-in-git.html",
             "url": "https://aindien.com/aliases-in-git.html",
             "title": "Aliases in Git",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-07-19T17:33:59-05:00",
             "date_modified": "2024-09-11T18:12:52-05:00"
-        },
-        {
-            "id": "https://aindien.com/intro-to-excel.html",
-            "url": "https://aindien.com/intro-to-excel.html",
-            "title": "Excel Explained",
-            "summary": "<p>These are my notes on an Excel explained.</p>\n",
-            "image": "https://aindien.com/media/posts/168/trianglify-lowres5.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Excel"
-            ],
-            "date_published": "2024-07-19T00:22:30-05:00",
-            "date_modified": "2024-08-23T17:52:31-05:00"
         }
     ]
 }

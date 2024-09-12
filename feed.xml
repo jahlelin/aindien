@@ -3,12 +3,32 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-11T18:12:52-05:00</updated>
+    <updated>2024-09-12T16:41:14-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Using Modules in Python</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/using-modules-in-python.html"/>
+        <id>https://aindien.com/using-modules-in-python.html</id>
+        <media:content url="https://aindien.com/media/posts/178/trianglify-lowres8.png" medium="image" />
+            <category term="Python"/>
+
+        <updated>2024-09-12T16:40:30-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/178/trianglify-lowres8.png" alt="" />
+                    <p>This is my guide on using modules in python.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Aliases in Git</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/169/trianglify-lowres7.png" alt="" />
                     <p>These are my notes on SQL explained.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Excel Explained</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/intro-to-excel.html"/>
-        <id>https://aindien.com/intro-to-excel.html</id>
-        <media:content url="https://aindien.com/media/posts/168/trianglify-lowres5.png" medium="image" />
-            <category term="Excel"/>
-
-        <updated>2024-07-19T00:22:30-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/168/trianglify-lowres5.png" alt="" />
-                    <p>These are my notes on an Excel explained.</p>
 
                 ]]>
             </summary>
