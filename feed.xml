@@ -3,12 +3,32 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-13T16:52:18-05:00</updated>
+    <updated>2024-09-15T15:19:36-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Using Strings in Python</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/using-strings-in-python.html"/>
+        <id>https://aindien.com/using-strings-in-python.html</id>
+        <media:content url="https://aindien.com/media/posts/179/trianglify-lowres8.png" medium="image" />
+            <category term="Python"/>
+
+        <updated>2024-09-15T15:18:35-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/179/trianglify-lowres8.png" alt="" />
+                    <p>These are my notes on using strings in python. </p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Using Modules in Python</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/170/trianglify-lowres7.png" alt="" />
                     <p>These are my notes on Intro To Networking.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>SQL Explained</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/intro-to-sql.html"/>
-        <id>https://aindien.com/intro-to-sql.html</id>
-        <media:content url="https://aindien.com/media/posts/169/trianglify-lowres7.png" medium="image" />
-            <category term="SQL"/>
-
-        <updated>2024-07-19T17:33:59-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/169/trianglify-lowres7.png" alt="" />
-                    <p>These are my notes on SQL explained.</p>
 
                 ]]>
             </summary>

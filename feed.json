@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/using-strings-in-python.html",
+            "url": "https://aindien.com/using-strings-in-python.html",
+            "title": "Using Strings in Python",
+            "summary": "<p>These are my notes on using strings in python. </p>\n",
+            "image": "https://aindien.com/media/posts/179/trianglify-lowres8.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Python"
+            ],
+            "date_published": "2024-09-15T15:18:35-05:00",
+            "date_modified": "2024-09-15T15:19:36-05:00"
+        },
+        {
             "id": "https://aindien.com/using-modules-in-python.html",
             "url": "https://aindien.com/using-modules-in-python.html",
             "title": "Using Modules in Python",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-07-21T20:11:08-05:00",
             "date_modified": "2024-07-29T18:36:13-05:00"
-        },
-        {
-            "id": "https://aindien.com/intro-to-sql.html",
-            "url": "https://aindien.com/intro-to-sql.html",
-            "title": "SQL Explained",
-            "summary": "<p>These are my notes on SQL explained.</p>\n",
-            "image": "https://aindien.com/media/posts/169/trianglify-lowres7.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "SQL"
-            ],
-            "date_published": "2024-07-19T17:33:59-05:00",
-            "date_modified": "2024-09-13T16:52:18-05:00"
         }
     ]
 }
