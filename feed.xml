@@ -3,12 +3,32 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-15T15:36:17-05:00</updated>
+    <updated>2024-09-17T14:29:29-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Input and Output Redirection in Linux</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/input-and-output-redirection-in-linux.html"/>
+        <id>https://aindien.com/input-and-output-redirection-in-linux.html</id>
+        <media:content url="https://aindien.com/media/posts/180/trianglify-lowres8.png" medium="image" />
+            <category term="Linux"/>
+
+        <updated>2024-09-17T14:27:57-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/180/trianglify-lowres8.png" alt="" />
+                    <p>These are my notes on input and output redirection in Linux.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Using Strings in Python</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/171/trianglify-lowres7.png" alt="" />
                     <p>These are my notes on Tagging With Git.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Intro To Networking</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/intro-to-networking.html"/>
-        <id>https://aindien.com/intro-to-networking.html</id>
-        <media:content url="https://aindien.com/media/posts/170/trianglify-lowres7.png" medium="image" />
-            <category term="Networking"/>
-
-        <updated>2024-07-21T20:11:08-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/170/trianglify-lowres7.png" alt="" />
-                    <p>These are my notes on Intro To Networking.</p>
 
                 ]]>
             </summary>

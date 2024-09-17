@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/input-and-output-redirection-in-linux.html",
+            "url": "https://aindien.com/input-and-output-redirection-in-linux.html",
+            "title": "Input and Output Redirection in Linux",
+            "summary": "<p>These are my notes on input and output redirection in Linux.</p>\n",
+            "image": "https://aindien.com/media/posts/180/trianglify-lowres8.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2024-09-17T14:27:57-05:00",
+            "date_modified": "2024-09-17T14:29:29-05:00"
+        },
+        {
             "id": "https://aindien.com/using-strings-in-python.html",
             "url": "https://aindien.com/using-strings-in-python.html",
             "title": "Using Strings in Python",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-07-22T13:28:26-05:00",
             "date_modified": "2024-07-30T15:25:45-05:00"
-        },
-        {
-            "id": "https://aindien.com/intro-to-networking.html",
-            "url": "https://aindien.com/intro-to-networking.html",
-            "title": "Intro To Networking",
-            "summary": "<p>These are my notes on Intro To Networking.</p>\n",
-            "image": "https://aindien.com/media/posts/170/trianglify-lowres7.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Networking"
-            ],
-            "date_published": "2024-07-21T20:11:08-05:00",
-            "date_modified": "2024-07-29T18:36:13-05:00"
         }
     ]
 }
