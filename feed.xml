@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-24T00:03:40-05:00</updated>
+    <updated>2024-09-27T17:34:47-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Modifying Strings in Python</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/modifying-strings-in-python.html"/>
+        <id>https://aindien.com/modifying-strings-in-python.html</id>
+
+        <updated>2024-09-27T17:34:31-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>These are my notes on modifying strings in python.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Input and Output Redirection in Linux</title>
         <author>
@@ -184,26 +201,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/172/trianglify-lowres3.png" alt="" />
                     <p>These are my notes on exceptions in python.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Tagging With Git</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/tagging-with-git.html"/>
-        <id>https://aindien.com/tagging-with-git.html</id>
-        <media:content url="https://aindien.com/media/posts/171/trianglify-lowres7.png" medium="image" />
-            <category term="Git"/>
-
-        <updated>2024-07-22T13:28:26-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/171/trianglify-lowres7.png" alt="" />
-                    <p>These are my notes on Tagging With Git.</p>
 
                 ]]>
             </summary>
