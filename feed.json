@@ -14,13 +14,15 @@
             "url": "https://aindien.com/modifying-strings-in-python.html",
             "title": "Modifying Strings in Python",
             "summary": "<p>These are my notes on modifying strings in python.</p>\n",
+            "image": "https://aindien.com/media/posts/181/trianglify-lowres9.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
+                   "Python"
             ],
             "date_published": "2024-09-27T17:34:31-05:00",
-            "date_modified": "2024-09-27T17:34:47-05:00"
+            "date_modified": "2024-09-27T20:55:04-05:00"
         },
         {
             "id": "https://aindien.com/input-and-output-redirection-in-linux.html",
