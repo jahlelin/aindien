@@ -3,12 +3,32 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-27T20:55:04-05:00</updated>
+    <updated>2024-09-28T20:55:01-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Permissions in Linux</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/permissions-in-linux.html"/>
+        <id>https://aindien.com/permissions-in-linux.html</id>
+        <media:content url="https://aindien.com/media/posts/182/trianglify-lowres9.png" medium="image" />
+            <category term="Linux"/>
+
+        <updated>2024-09-28T20:53:31-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/182/trianglify-lowres9.png" alt="" />
+                    <div>These are my notes and thoughts on permissions in linux.</div>
+<div>
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Modifying Strings in Python</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/173/trianglify-lowres6.png" alt="" />
                     <p>These are my notes on commands in linux.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Exceptions in Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/exception-in-python.html"/>
-        <id>https://aindien.com/exception-in-python.html</id>
-        <media:content url="https://aindien.com/media/posts/172/trianglify-lowres3.png" medium="image" />
-            <category term="Python"/>
-
-        <updated>2024-08-12T21:43:51-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/172/trianglify-lowres3.png" alt="" />
-                    <p>These are my notes on exceptions in python.</p>
 
                 ]]>
             </summary>
