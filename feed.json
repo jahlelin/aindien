@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/accessing-files-in-python.html",
+            "url": "https://aindien.com/accessing-files-in-python.html",
+            "title": "Accessing Files in Python",
+            "summary": "<p>These are my notes on accessing files in python.</p>\n",
+            "image": "https://aindien.com/media/posts/183/trianglify-lowres9.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Python"
+            ],
+            "date_published": "2024-09-30T23:27:44-05:00",
+            "date_modified": "2024-09-30T23:28:25-05:00"
+        },
+        {
             "id": "https://aindien.com/permissions-in-linux.html",
             "url": "https://aindien.com/permissions-in-linux.html",
             "title": "Permissions in Linux",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-08-18T16:19:39-05:00",
             "date_modified": "2024-09-24T00:03:11-05:00"
-        },
-        {
-            "id": "https://aindien.com/commands-in-linux.html",
-            "url": "https://aindien.com/commands-in-linux.html",
-            "title": "Commands in Linux",
-            "summary": "<p>These are my notes on commands in linux.</p>\n",
-            "image": "https://aindien.com/media/posts/173/trianglify-lowres6.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2024-08-15T20:02:08-05:00",
-            "date_modified": "2024-09-24T00:03:22-05:00"
         }
     ]
 }

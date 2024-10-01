@@ -3,12 +3,32 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-28T20:55:01-05:00</updated>
+    <updated>2024-09-30T23:28:25-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Accessing Files in Python</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/accessing-files-in-python.html"/>
+        <id>https://aindien.com/accessing-files-in-python.html</id>
+        <media:content url="https://aindien.com/media/posts/183/trianglify-lowres9.png" medium="image" />
+            <category term="Python"/>
+
+        <updated>2024-09-30T23:27:44-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/183/trianglify-lowres9.png" alt="" />
+                    <p>These are my notes on accessing files in python.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Permissions in Linux</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/174/trianglify-lowres6.png" alt="" />
                     <p>These are my notes on worksheet data in excel.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Commands in Linux</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/commands-in-linux.html"/>
-        <id>https://aindien.com/commands-in-linux.html</id>
-        <media:content url="https://aindien.com/media/posts/173/trianglify-lowres6.png" medium="image" />
-            <category term="Linux"/>
-
-        <updated>2024-08-15T20:02:08-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/173/trianglify-lowres6.png" alt="" />
-                    <p>These are my notes on commands in linux.</p>
 
                 ]]>
             </summary>
