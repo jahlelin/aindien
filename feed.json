@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/processes-in-linux.html",
+            "url": "https://aindien.com/processes-in-linux.html",
+            "title": "Processes in Linux",
+            "summary": "<p>These are my notes on processes in linux.</p>\n",
+            "image": "https://aindien.com/media/posts/184/trianglify-lowres9.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2024-10-03T19:22:51-05:00",
+            "date_modified": "2024-10-03T19:24:04-05:00"
+        },
+        {
             "id": "https://aindien.com/accessing-files-in-python.html",
             "url": "https://aindien.com/accessing-files-in-python.html",
             "title": "Accessing Files in Python",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-08-21T14:16:12-05:00",
             "date_modified": "2024-09-24T00:03:02-05:00"
-        },
-        {
-            "id": "https://aindien.com/worksheet-data-in-excel.html",
-            "url": "https://aindien.com/worksheet-data-in-excel.html",
-            "title": "Worksheet Data in Excel",
-            "summary": "<p>These are my notes on worksheet data in excel.</p>\n",
-            "image": "https://aindien.com/media/posts/174/trianglify-lowres6.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Excel"
-            ],
-            "date_published": "2024-08-18T16:19:39-05:00",
-            "date_modified": "2024-09-24T00:03:11-05:00"
         }
     ]
 }

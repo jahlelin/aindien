@@ -3,12 +3,32 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-30T23:28:25-05:00</updated>
+    <updated>2024-10-03T19:24:04-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Processes in Linux</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/processes-in-linux.html"/>
+        <id>https://aindien.com/processes-in-linux.html</id>
+        <media:content url="https://aindien.com/media/posts/184/trianglify-lowres9.png" medium="image" />
+            <category term="Linux"/>
+
+        <updated>2024-10-03T19:22:51-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/184/trianglify-lowres9.png" alt="" />
+                    <p>These are my notes on processes in linux.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Accessing Files in Python</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/175/trianglify-lowres6.png" alt="" />
                     <p>There are my notes on modeling data in sql.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Worksheet Data in Excel</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/worksheet-data-in-excel.html"/>
-        <id>https://aindien.com/worksheet-data-in-excel.html</id>
-        <media:content url="https://aindien.com/media/posts/174/trianglify-lowres6.png" medium="image" />
-            <category term="Excel"/>
-
-        <updated>2024-08-18T16:19:39-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/174/trianglify-lowres6.png" alt="" />
-                    <p>These are my notes on worksheet data in excel.</p>
 
                 ]]>
             </summary>
