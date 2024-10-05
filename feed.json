@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/encapsulating-data-in-python.html",
+            "url": "https://aindien.com/encapsulating-data-in-python.html",
+            "title": "Encapsulating Data in Python",
+            "summary": "<div>These are my notes on encapsulating data in python.</div>\n<div>",
+            "image": "https://aindien.com/media/posts/185/trianglify-lowres9.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Python"
+            ],
+            "date_published": "2024-10-05T17:41:30-05:00",
+            "date_modified": "2024-10-05T17:42:44-05:00"
+        },
+        {
             "id": "https://aindien.com/processes-in-linux.html",
             "url": "https://aindien.com/processes-in-linux.html",
             "title": "Processes in Linux",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-08-22T20:16:29-05:00",
             "date_modified": "2024-09-24T00:02:52-05:00"
-        },
-        {
-            "id": "https://aindien.com/modeling-data-in-sql.html",
-            "url": "https://aindien.com/modeling-data-in-sql.html",
-            "title": "Modeling Data in SQL",
-            "summary": "<p>There are my notes on modeling data in sql.</p>\n",
-            "image": "https://aindien.com/media/posts/175/trianglify-lowres6.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "SQL"
-            ],
-            "date_published": "2024-08-21T14:16:12-05:00",
-            "date_modified": "2024-09-24T00:03:02-05:00"
         }
     ]
 }
