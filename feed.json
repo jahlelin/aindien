@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/the-linux-environment.html",
+            "url": "https://aindien.com/the-linux-environment.html",
+            "title": "The Linux Environment",
+            "summary": "<p><br>These are my notes on the environment in linux.</p>\n",
+            "image": "https://aindien.com/media/posts/186/trianglify-lowres10.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2024-10-07T13:02:13-05:00",
+            "date_modified": "2024-10-07T13:05:58-05:00"
+        },
+        {
             "id": "https://aindien.com/encapsulating-data-in-python.html",
             "url": "https://aindien.com/encapsulating-data-in-python.html",
             "title": "Encapsulating Data in Python",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-08-25T13:34:03-05:00",
             "date_modified": "2024-09-24T00:02:41-05:00"
-        },
-        {
-            "id": "https://aindien.com/sharing-your-home-network.html",
-            "url": "https://aindien.com/sharing-your-home-network.html",
-            "title": "Sharing Your Home Network",
-            "summary": "<p>These are my notes and worked examples on sharing your home network.</p>\n",
-            "image": "https://aindien.com/media/posts/176/trianglify-lowres6.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Networking"
-            ],
-            "date_published": "2024-08-22T20:16:29-05:00",
-            "date_modified": "2024-09-24T00:02:52-05:00"
         }
     ]
 }
