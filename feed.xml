@@ -3,12 +3,32 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-10-07T13:05:58-05:00</updated>
+    <updated>2024-10-11T15:39:11-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Inheritance in Python</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/inheritance-in-python.html"/>
+        <id>https://aindien.com/inheritance-in-python.html</id>
+        <media:content url="https://aindien.com/media/posts/187/trianglify-lowres10.png" medium="image" />
+            <category term="Python"/>
+
+        <updated>2024-10-11T15:34:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/187/trianglify-lowres10.png" alt="" />
+                    <p>These are my notes on inheritance in python.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>The Linux Environment</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/178/trianglify-lowres8.png" alt="" />
                     <p>This is my guide on using modules in python.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Aliases in Git</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/aliases-in-git.html"/>
-        <id>https://aindien.com/aliases-in-git.html</id>
-        <media:content url="https://aindien.com/media/posts/177/trianglify-lowres6.png" medium="image" />
-            <category term="Git"/>
-
-        <updated>2024-08-25T13:34:03-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/177/trianglify-lowres6.png" alt="" />
-                    <p>These are my notes on aliases in git.</p>
 
                 ]]>
             </summary>

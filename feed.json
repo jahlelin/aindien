@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/inheritance-in-python.html",
+            "url": "https://aindien.com/inheritance-in-python.html",
+            "title": "Inheritance in Python",
+            "summary": "<p>These are my notes on inheritance in python.</p>\n",
+            "image": "https://aindien.com/media/posts/187/trianglify-lowres10.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Python"
+            ],
+            "date_published": "2024-10-11T15:34:02-05:00",
+            "date_modified": "2024-10-11T15:39:11-05:00"
+        },
+        {
             "id": "https://aindien.com/the-linux-environment.html",
             "url": "https://aindien.com/the-linux-environment.html",
             "title": "The Linux Environment",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-09-12T16:40:30-05:00",
             "date_modified": "2024-09-24T00:02:31-05:00"
-        },
-        {
-            "id": "https://aindien.com/aliases-in-git.html",
-            "url": "https://aindien.com/aliases-in-git.html",
-            "title": "Aliases in Git",
-            "summary": "<p>These are my notes on aliases in git.</p>\n",
-            "image": "https://aindien.com/media/posts/177/trianglify-lowres6.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Git"
-            ],
-            "date_published": "2024-08-25T13:34:03-05:00",
-            "date_modified": "2024-09-24T00:02:41-05:00"
         }
     ]
 }
