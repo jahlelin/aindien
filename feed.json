@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/sending-web-responses-in-python.html",
+            "url": "https://aindien.com/sending-web-responses-in-python.html",
+            "title": "Sending Web Responses in Python",
+            "summary": "<p>These are my notes on sending web responses in python.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Python"
+            ],
+            "date_published": "2024-10-25T12:15:18-05:00",
+            "date_modified": "2024-10-25T12:19:33-05:00"
+        },
+        {
             "id": "https://aindien.com/intro-to-the-vim-text-editor.html",
             "url": "https://aindien.com/intro-to-the-vim-text-editor.html",
             "title": "Intro To The Vim Text Editor",
@@ -141,21 +155,6 @@
             ],
             "date_published": "2024-09-17T14:27:57-05:00",
             "date_modified": "2024-09-24T00:02:13-05:00"
-        },
-        {
-            "id": "https://aindien.com/using-strings-in-python.html",
-            "url": "https://aindien.com/using-strings-in-python.html",
-            "title": "Using Strings in Python",
-            "summary": "<p>These are my notes on using strings in python. </p>\n",
-            "image": "https://aindien.com/media/posts/179/trianglify-lowres8.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Python"
-            ],
-            "date_published": "2024-09-15T15:18:35-05:00",
-            "date_modified": "2024-09-24T00:02:22-05:00"
         }
     ]
 }
