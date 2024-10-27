@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/customizing-the-prompt-in-linux.html",
+            "url": "https://aindien.com/customizing-the-prompt-in-linux.html",
+            "title": "Customizing the Prompt in Linux",
+            "summary": "<p>These are my notes on customizing the prompt in linux.</p>\n",
+            "image": "https://aindien.com/media/posts/190/trianglify-lowres11.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2024-10-27T15:30:38-05:00",
+            "date_modified": "2024-10-27T16:47:36-05:00"
+        },
+        {
             "id": "https://aindien.com/sending-web-responses-in-python.html",
             "url": "https://aindien.com/sending-web-responses-in-python.html",
             "title": "Sending Web Responses in Python",
@@ -140,21 +155,6 @@
             ],
             "date_published": "2024-09-27T17:34:31-05:00",
             "date_modified": "2024-09-27T20:55:04-05:00"
-        },
-        {
-            "id": "https://aindien.com/input-and-output-redirection-in-linux.html",
-            "url": "https://aindien.com/input-and-output-redirection-in-linux.html",
-            "title": "Input and Output Redirection in Linux",
-            "summary": "<p>These are my notes on input and output redirection in Linux.</p>\n",
-            "image": "https://aindien.com/media/posts/180/trianglify-lowres8.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2024-09-17T14:27:57-05:00",
-            "date_modified": "2024-09-24T00:02:13-05:00"
         }
     ]
 }

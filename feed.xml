@@ -3,12 +3,32 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-10-25T12:19:33-05:00</updated>
+    <updated>2024-10-27T16:47:36-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Customizing the Prompt in Linux</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/customizing-the-prompt-in-linux.html"/>
+        <id>https://aindien.com/customizing-the-prompt-in-linux.html</id>
+        <media:content url="https://aindien.com/media/posts/190/trianglify-lowres11.png" medium="image" />
+            <category term="Linux"/>
+
+        <updated>2024-10-27T15:30:38-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/190/trianglify-lowres11.png" alt="" />
+                    <p>These are my notes on customizing the prompt in linux.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Sending Web Responses in Python</title>
         <author>
@@ -179,26 +199,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/181/trianglify-lowres9.png" alt="" />
                     <p>These are my notes on modifying strings in python.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Input and Output Redirection in Linux</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/input-and-output-redirection-in-linux.html"/>
-        <id>https://aindien.com/input-and-output-redirection-in-linux.html</id>
-        <media:content url="https://aindien.com/media/posts/180/trianglify-lowres8.png" medium="image" />
-            <category term="Linux"/>
-
-        <updated>2024-09-17T14:27:57-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/180/trianglify-lowres8.png" alt="" />
-                    <p>These are my notes on input and output redirection in Linux.</p>
 
                 ]]>
             </summary>
