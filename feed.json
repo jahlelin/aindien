@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/launching-a-window-in-python.html",
+            "url": "https://aindien.com/launching-a-window-in-python.html",
+            "title": "Launching a Window in Python",
+            "summary": "<p>These are my notes on launching a window in python.</p>\n",
+            "image": "https://aindien.com/media/posts/191/trianglify-lowres11.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Python"
+            ],
+            "date_published": "2024-10-30T07:29:00-05:00",
+            "date_modified": "2024-10-30T07:30:24-05:00"
+        },
+        {
             "id": "https://aindien.com/customizing-the-prompt-in-linux.html",
             "url": "https://aindien.com/customizing-the-prompt-in-linux.html",
             "title": "Customizing the Prompt in Linux",
@@ -140,21 +155,6 @@
             ],
             "date_published": "2024-09-28T20:53:31-05:00",
             "date_modified": "2024-09-28T20:55:01-05:00"
-        },
-        {
-            "id": "https://aindien.com/modifying-strings-in-python.html",
-            "url": "https://aindien.com/modifying-strings-in-python.html",
-            "title": "Modifying Strings in Python",
-            "summary": "<p>These are my notes on modifying strings in python.</p>\n",
-            "image": "https://aindien.com/media/posts/181/trianglify-lowres9.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Python"
-            ],
-            "date_published": "2024-09-27T17:34:31-05:00",
-            "date_modified": "2024-09-27T20:55:04-05:00"
         }
     ]
 }

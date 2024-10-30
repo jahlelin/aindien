@@ -3,12 +3,32 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-10-27T16:47:36-05:00</updated>
+    <updated>2024-10-30T07:30:24-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Launching a Window in Python</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/launching-a-window-in-python.html"/>
+        <id>https://aindien.com/launching-a-window-in-python.html</id>
+        <media:content url="https://aindien.com/media/posts/191/trianglify-lowres11.png" medium="image" />
+            <category term="Python"/>
+
+        <updated>2024-10-30T07:29:00-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/191/trianglify-lowres11.png" alt="" />
+                    <p>These are my notes on launching a window in python.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Customizing the Prompt in Linux</title>
         <author>
@@ -180,26 +200,6 @@
                         <img src="https://aindien.com/media/posts/182/trianglify-lowres9.png" alt="" />
                     <div>These are my notes and thoughts on permissions in linux.</div>
 <div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Modifying Strings in Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/modifying-strings-in-python.html"/>
-        <id>https://aindien.com/modifying-strings-in-python.html</id>
-        <media:content url="https://aindien.com/media/posts/181/trianglify-lowres9.png" medium="image" />
-            <category term="Python"/>
-
-        <updated>2024-09-27T17:34:31-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/181/trianglify-lowres9.png" alt="" />
-                    <p>These are my notes on modifying strings in python.</p>
-
                 ]]>
             </summary>
         <content></content>
