@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/designing-your-network.html",
+            "url": "https://aindien.com/designing-your-network.html",
+            "title": "Designing Your Network",
+            "summary": "<p>This post is about designing your network.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Networking"
+            ],
+            "date_published": "2025-03-06T20:18:26-06:00",
+            "date_modified": "2025-03-06T21:10:38-06:00"
+        },
+        {
             "id": "https://aindien.com/launching-a-window-in-python.html",
             "url": "https://aindien.com/launching-a-window-in-python.html",
             "title": "Launching a Window in Python",
@@ -140,21 +154,6 @@
             ],
             "date_published": "2024-09-30T23:27:44-05:00",
             "date_modified": "2024-09-30T23:28:25-05:00"
-        },
-        {
-            "id": "https://aindien.com/permissions-in-linux.html",
-            "url": "https://aindien.com/permissions-in-linux.html",
-            "title": "Permissions in Linux",
-            "summary": "<div>These are my notes and thoughts on permissions in linux.</div>\n<div>",
-            "image": "https://aindien.com/media/posts/182/trianglify-lowres9.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2024-09-28T20:53:31-05:00",
-            "date_modified": "2024-09-28T20:55:01-05:00"
         }
     ]
 }
