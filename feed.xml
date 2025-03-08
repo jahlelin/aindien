@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-03-06T21:10:38-06:00</updated>
+    <updated>2025-03-08T15:59:43-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Managing Software In Linux</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/managing-software-in-linux.html"/>
+        <id>https://aindien.com/managing-software-in-linux.html</id>
+            <category term="Linux"/>
+
+        <updated>2025-03-08T15:48:49-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This article is about managing software in Linux.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Designing Your Network</title>
         <author>
@@ -177,26 +195,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/184/trianglify-lowres9.png" alt="" />
                     <p>These are my notes on processes in linux.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Accessing Files in Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/accessing-files-in-python.html"/>
-        <id>https://aindien.com/accessing-files-in-python.html</id>
-        <media:content url="https://aindien.com/media/posts/183/trianglify-lowres9.png" medium="image" />
-            <category term="Python"/>
-
-        <updated>2024-09-30T23:27:44-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/183/trianglify-lowres9.png" alt="" />
-                    <p>These are my notes on accessing files in python.</p>
 
                 ]]>
             </summary>
