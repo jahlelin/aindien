@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-03-09T15:56:10-05:00</updated>
+    <updated>2025-03-12T08:59:24-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Creating Random Numbers in Python</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/creating-random-numbers-in-python.html"/>
+        <id>https://aindien.com/creating-random-numbers-in-python.html</id>
+            <category term="Python"/>
+
+        <updated>2025-03-12T08:57:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This article is about creating random numbers in python.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Creating PowerPoints in Office365</title>
         <author>
@@ -174,26 +192,6 @@
                         <img src="https://aindien.com/media/posts/186/trianglify-lowres10.png" alt="" />
                     <p><br>These are my notes on the environment in linux.</p>
 
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Encapsulating Data in Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/encapsulating-data-in-python.html"/>
-        <id>https://aindien.com/encapsulating-data-in-python.html</id>
-        <media:content url="https://aindien.com/media/posts/185/trianglify-lowres9.png" medium="image" />
-            <category term="Python"/>
-
-        <updated>2024-10-05T17:41:30-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/185/trianglify-lowres9.png" alt="" />
-                    <div>These are my notes on encapsulating data in python.</div>
-<div>
                 ]]>
             </summary>
         <content></content>
