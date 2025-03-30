@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-03-12T08:59:24-05:00</updated>
+    <updated>2025-03-30T17:03:01-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Basics of TCP/IP Networking</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/basics-of-tcpip.html"/>
+        <id>https://aindien.com/basics-of-tcpip.html</id>
+            <category term="Networking"/>
+
+        <updated>2025-03-30T17:01:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This article is about the basics of TCP/IP networking.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Creating Random Numbers in Python</title>
         <author>
@@ -171,26 +189,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/187/trianglify-lowres10.png" alt="" />
                     <p>These are my notes on inheritance in python.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>The Linux Environment</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/the-linux-environment.html"/>
-        <id>https://aindien.com/the-linux-environment.html</id>
-        <media:content url="https://aindien.com/media/posts/186/trianglify-lowres10.png" medium="image" />
-            <category term="Linux"/>
-
-        <updated>2024-10-07T13:02:13-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/186/trianglify-lowres10.png" alt="" />
-                    <p><br>These are my notes on the environment in linux.</p>
 
                 ]]>
             </summary>
