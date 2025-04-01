@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-03-30T17:03:01-05:00</updated>
+    <updated>2025-04-01T15:51:18-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Data Structures in Python</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/data-structures-in-python.html"/>
+        <id>https://aindien.com/data-structures-in-python.html</id>
+            <category term="Python"/>
+
+        <updated>2025-04-01T15:50:42-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This article is about data structures in python.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Basics of TCP/IP Networking</title>
         <author>
@@ -170,26 +188,6 @@
                 <![CDATA[
                     <div>These are my notes on an introduction to Vim.</div>
 <div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Inheritance in Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/inheritance-in-python.html"/>
-        <id>https://aindien.com/inheritance-in-python.html</id>
-        <media:content url="https://aindien.com/media/posts/187/trianglify-lowres10.png" medium="image" />
-            <category term="Python"/>
-
-        <updated>2024-10-11T15:34:02-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/187/trianglify-lowres10.png" alt="" />
-                    <p>These are my notes on inheritance in python.</p>
-
                 ]]>
             </summary>
         <content></content>
