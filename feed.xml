@@ -3,191 +3,201 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-04-01T15:51:18-05:00</updated>
+    <updated>2025-04-01T15:52:08-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
     <entry>
-        <title>Data Structures in Python</title>
+        <title>SQL Explained</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/data-structures-in-python.html"/>
-        <id>https://aindien.com/data-structures-in-python.html</id>
+        <link href="https://aindien.com/intro-to-sql.html"/>
+        <id>https://aindien.com/intro-to-sql.html</id>
+        <media:content url="https://aindien.com/media/posts/169/trianglify-lowres7.png" medium="image" />
+            <category term="SQL"/>
+
+        <updated>2024-07-19T17:33:59-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/169/trianglify-lowres7.png" alt="" />
+                    <p>These are my notes on SQL explained.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Excel Explained</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/intro-to-excel.html"/>
+        <id>https://aindien.com/intro-to-excel.html</id>
+        <media:content url="https://aindien.com/media/posts/168/trianglify-lowres5.png" medium="image" />
+            <category term="Excel"/>
+
+        <updated>2024-07-19T00:22:30-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/168/trianglify-lowres5.png" alt="" />
+                    <p>These are my notes on an Excel explained.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Git Explained</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/getting-started-with-git.html"/>
+        <id>https://aindien.com/getting-started-with-git.html</id>
+        <media:content url="https://aindien.com/media/posts/153/trianglify-lowres10.png" medium="image" />
+            <category term="Git"/>
+
+        <updated>2023-12-31T01:18:48-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/153/trianglify-lowres10.png" alt="" />
+                    <p>This is my guide on getting started with Git.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Windows Explained</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/windows-essentials.html"/>
+        <id>https://aindien.com/windows-essentials.html</id>
+        <media:content url="https://aindien.com/media/posts/148/trianglify-lowres15.png" medium="image" />
+            <category term="Windows"/>
+
+        <updated>2023-12-27T13:09:51-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/148/trianglify-lowres15.png" alt="" />
+                    <p>This is my study guide for Microsoft Windows Basics. hope it helps.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Cloud Computing Explained</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/cloud-fundamentals.html"/>
+        <id>https://aindien.com/cloud-fundamentals.html</id>
+        <media:content url="https://aindien.com/media/posts/146/bg7.png" medium="image" />
+            <category term="Cloud Computing"/>
+
+        <updated>2023-12-26T23:12:33-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/146/bg7.png" alt="" />
+                    <p><span style="font-weight: 400;">These are my notes on cloud computing explained.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Python Explained</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/python-basics.html"/>
+        <id>https://aindien.com/python-basics.html</id>
+        <media:content url="https://aindien.com/media/posts/142/bg3.png" medium="image" />
             <category term="Python"/>
 
-        <updated>2025-04-01T15:50:42-05:00</updated>
+        <updated>2023-12-23T16:27:31-06:00</updated>
             <summary>
                 <![CDATA[
-                    <p>This article is about data structures in python.</p>
+                        <img src="https://aindien.com/media/posts/142/bg3.png" alt="" />
+                    <p>Here are my Python essentials for anyone wanting to learn this programming language. This post will be continually updated.</p>
+<p> </p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Basics of TCP/IP Networking</title>
+        <title>Web Development Explained</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/basics-of-tcpip.html"/>
-        <id>https://aindien.com/basics-of-tcpip.html</id>
-            <category term="Networking"/>
+        <link href="https://aindien.com/getting-started-with-web-development.html"/>
+        <id>https://aindien.com/getting-started-with-web-development.html</id>
+            <category term="Web Development"/>
 
-        <updated>2025-03-30T17:01:17-05:00</updated>
+        <updated>2023-09-08T13:51:11-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>This article is about the basics of TCP/IP networking.</p>
+                    <p><span style="font-weight: 400;">Almost everyone uses the internet. We use it for fun, to do work, and so on. In order for us to do all of these things, we rely on web pages. There are many things that work together to show us a web page. </span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Creating Random Numbers in Python</title>
+        <title>Google Workspace Explained</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/creating-random-numbers-in-python.html"/>
-        <id>https://aindien.com/creating-random-numbers-in-python.html</id>
-            <category term="Python"/>
+        <link href="https://aindien.com/google-workspace-essentials.html"/>
+        <id>https://aindien.com/google-workspace-essentials.html</id>
+            <category term="Google Workspace"/>
 
-        <updated>2025-03-12T08:57:29-05:00</updated>
+        <updated>2022-10-27T08:59:37-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>This article is about creating random numbers in python.</p>
+                    <p>Google Workspace has a lot of great software. This makes it very popular. In this guide, I will give numerous tips to using it.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Creating PowerPoints in Office365</title>
+        <title>Economics Explained</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/creating-powerpoints-in-office365.html"/>
-        <id>https://aindien.com/creating-powerpoints-in-office365.html</id>
-            <category term="Office 365"/>
+        <link href="https://aindien.com/economics-essentials.html"/>
+        <id>https://aindien.com/economics-essentials.html</id>
+            <category term="Economics"/>
 
-        <updated>2025-03-09T15:54:24-05:00</updated>
+        <updated>2022-10-13T17:44:33-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>This article is about creating PowerPoints in Office365.</p>
+                    <p>Economics and the choices we make in regards to money. These are my notes from books I have read on the subject.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Managing Software In Linux</title>
+        <title>R Programming Explained</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/managing-software-in-linux.html"/>
-        <id>https://aindien.com/managing-software-in-linux.html</id>
-            <category term="Linux"/>
+        <link href="https://aindien.com/r-essentials.html"/>
+        <id>https://aindien.com/r-essentials.html</id>
+            <category term="R"/>
 
-        <updated>2025-03-08T15:48:49-06:00</updated>
+        <updated>2022-08-29T23:40:36-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>This article is about managing software in Linux.</p>
+                    <p><span style="font-weight: 400;">In this guide, I will help you learn R, the statistical programming language.</span></p>
 
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Designing Your Network</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/designing-your-network.html"/>
-        <id>https://aindien.com/designing-your-network.html</id>
-            <category term="Networking"/>
-
-        <updated>2025-03-06T20:18:26-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This post is about designing your network.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Launching a Window in Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/launching-a-window-in-python.html"/>
-        <id>https://aindien.com/launching-a-window-in-python.html</id>
-        <media:content url="https://aindien.com/media/posts/191/trianglify-lowres11.png" medium="image" />
-            <category term="Python"/>
-
-        <updated>2024-10-30T07:29:00-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/191/trianglify-lowres11.png" alt="" />
-                    <p>These are my notes on launching a window in python.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Customizing the Prompt in Linux</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/customizing-the-prompt-in-linux.html"/>
-        <id>https://aindien.com/customizing-the-prompt-in-linux.html</id>
-        <media:content url="https://aindien.com/media/posts/190/trianglify-lowres11.png" medium="image" />
-            <category term="Linux"/>
-
-        <updated>2024-10-27T15:30:38-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/190/trianglify-lowres11.png" alt="" />
-                    <p>These are my notes on customizing the prompt in linux.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Sending Web Responses in Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/sending-web-responses-in-python.html"/>
-        <id>https://aindien.com/sending-web-responses-in-python.html</id>
-            <category term="Python"/>
-
-        <updated>2024-10-25T12:15:18-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>These are my notes on sending web responses in python.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Intro To The Vim Text Editor</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/intro-to-the-vim-text-editor.html"/>
-        <id>https://aindien.com/intro-to-the-vim-text-editor.html</id>
-
-        <updated>2024-10-20T19:03:20-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <div>These are my notes on an introduction to Vim.</div>
-<div>
                 ]]>
             </summary>
         <content></content>

@@ -10,145 +10,150 @@
     },
     "items": [
         {
-            "id": "https://aindien.com/data-structures-in-python.html",
-            "url": "https://aindien.com/data-structures-in-python.html",
-            "title": "Data Structures in Python",
-            "summary": "<p>This article is about data structures in python.</p>\n",
+            "id": "https://aindien.com/intro-to-sql.html",
+            "url": "https://aindien.com/intro-to-sql.html",
+            "title": "SQL Explained",
+            "summary": "<p>These are my notes on SQL explained.</p>\n",
+            "image": "https://aindien.com/media/posts/169/trianglify-lowres7.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "SQL"
+            ],
+            "date_published": "2024-07-19T17:33:59-05:00",
+            "date_modified": "2025-03-09T15:58:29-05:00"
+        },
+        {
+            "id": "https://aindien.com/intro-to-excel.html",
+            "url": "https://aindien.com/intro-to-excel.html",
+            "title": "Excel Explained",
+            "summary": "<p>These are my notes on an Excel explained.</p>\n",
+            "image": "https://aindien.com/media/posts/168/trianglify-lowres5.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Excel"
+            ],
+            "date_published": "2024-07-19T00:22:30-05:00",
+            "date_modified": "2025-03-09T15:58:44-05:00"
+        },
+        {
+            "id": "https://aindien.com/getting-started-with-git.html",
+            "url": "https://aindien.com/getting-started-with-git.html",
+            "title": "Git Explained",
+            "summary": "<p>This is my guide on getting started with Git.</p>\n",
+            "image": "https://aindien.com/media/posts/153/trianglify-lowres10.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Git"
+            ],
+            "date_published": "2023-12-31T01:18:48-06:00",
+            "date_modified": "2025-03-09T15:59:15-05:00"
+        },
+        {
+            "id": "https://aindien.com/windows-essentials.html",
+            "url": "https://aindien.com/windows-essentials.html",
+            "title": "Windows Explained",
+            "summary": "<p>This is my study guide for Microsoft Windows Basics. hope it helps.</p>\n",
+            "image": "https://aindien.com/media/posts/148/trianglify-lowres15.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Windows"
+            ],
+            "date_published": "2023-12-27T13:09:51-06:00",
+            "date_modified": "2025-03-09T15:59:50-05:00"
+        },
+        {
+            "id": "https://aindien.com/cloud-fundamentals.html",
+            "url": "https://aindien.com/cloud-fundamentals.html",
+            "title": "Cloud Computing Explained",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on cloud computing explained.</span></p>\n",
+            "image": "https://aindien.com/media/posts/146/bg7.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Cloud Computing"
+            ],
+            "date_published": "2023-12-26T23:12:33-06:00",
+            "date_modified": "2025-03-09T16:00:12-05:00"
+        },
+        {
+            "id": "https://aindien.com/python-basics.html",
+            "url": "https://aindien.com/python-basics.html",
+            "title": "Python Explained",
+            "summary": "<p>Here are my Python essentials for anyone wanting to learn this programming language. This post will be continually updated.</p>\n<p> </p>\n",
+            "image": "https://aindien.com/media/posts/142/bg3.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Python"
             ],
-            "date_published": "2025-04-01T15:50:42-05:00",
-            "date_modified": "2025-04-01T15:51:18-05:00"
+            "date_published": "2023-12-23T16:27:31-06:00",
+            "date_modified": "2025-04-01T15:52:08-05:00"
         },
         {
-            "id": "https://aindien.com/basics-of-tcpip.html",
-            "url": "https://aindien.com/basics-of-tcpip.html",
-            "title": "Basics of TCP/IP Networking",
-            "summary": "<p>This article is about the basics of TCP/IP networking.</p>\n",
+            "id": "https://aindien.com/getting-started-with-web-development.html",
+            "url": "https://aindien.com/getting-started-with-web-development.html",
+            "title": "Web Development Explained",
+            "summary": "<p><span style=\"font-weight: 400;\">Almost everyone uses the internet. We use it for fun, to do work, and so on. In order for us to do all of these things, we rely on web pages. There are many things that work together to show us a web page. </span></p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Networking"
+                   "Web Development"
             ],
-            "date_published": "2025-03-30T17:01:17-05:00",
-            "date_modified": "2025-03-30T17:03:01-05:00"
+            "date_published": "2023-09-08T13:51:11-05:00",
+            "date_modified": "2025-03-09T16:00:42-05:00"
         },
         {
-            "id": "https://aindien.com/creating-random-numbers-in-python.html",
-            "url": "https://aindien.com/creating-random-numbers-in-python.html",
-            "title": "Creating Random Numbers in Python",
-            "summary": "<p>This article is about creating random numbers in python.</p>\n",
+            "id": "https://aindien.com/google-workspace-essentials.html",
+            "url": "https://aindien.com/google-workspace-essentials.html",
+            "title": "Google Workspace Explained",
+            "summary": "<p>Google Workspace has a lot of great software. This makes it very popular. In this guide, I will give numerous tips to using it.</p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Python"
+                   "Google Workspace"
             ],
-            "date_published": "2025-03-12T08:57:29-05:00",
-            "date_modified": "2025-03-12T08:59:24-05:00"
+            "date_published": "2022-10-27T08:59:37-05:00",
+            "date_modified": "2025-03-09T16:00:58-05:00"
         },
         {
-            "id": "https://aindien.com/creating-powerpoints-in-office365.html",
-            "url": "https://aindien.com/creating-powerpoints-in-office365.html",
-            "title": "Creating PowerPoints in Office365",
-            "summary": "<p>This article is about creating PowerPoints in Office365.</p>\n",
+            "id": "https://aindien.com/economics-essentials.html",
+            "url": "https://aindien.com/economics-essentials.html",
+            "title": "Economics Explained",
+            "summary": "<p>Economics and the choices we make in regards to money. These are my notes from books I have read on the subject.</p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Office 365"
+                   "Economics"
             ],
-            "date_published": "2025-03-09T15:54:24-05:00",
-            "date_modified": "2025-03-09T15:56:10-05:00"
+            "date_published": "2022-10-13T17:44:33-05:00",
+            "date_modified": "2024-10-03T19:26:23-05:00"
         },
         {
-            "id": "https://aindien.com/managing-software-in-linux.html",
-            "url": "https://aindien.com/managing-software-in-linux.html",
-            "title": "Managing Software In Linux",
-            "summary": "<p>This article is about managing software in Linux.</p>\n",
+            "id": "https://aindien.com/r-essentials.html",
+            "url": "https://aindien.com/r-essentials.html",
+            "title": "R Programming Explained",
+            "summary": "<p><span style=\"font-weight: 400;\">In this guide, I will help you learn R, the statistical programming language.</span></p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Linux"
+                   "R"
             ],
-            "date_published": "2025-03-08T15:48:49-06:00",
-            "date_modified": "2025-03-08T15:59:43-06:00"
-        },
-        {
-            "id": "https://aindien.com/designing-your-network.html",
-            "url": "https://aindien.com/designing-your-network.html",
-            "title": "Designing Your Network",
-            "summary": "<p>This post is about designing your network.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Networking"
-            ],
-            "date_published": "2025-03-06T20:18:26-06:00",
-            "date_modified": "2025-03-06T21:10:38-06:00"
-        },
-        {
-            "id": "https://aindien.com/launching-a-window-in-python.html",
-            "url": "https://aindien.com/launching-a-window-in-python.html",
-            "title": "Launching a Window in Python",
-            "summary": "<p>These are my notes on launching a window in python.</p>\n",
-            "image": "https://aindien.com/media/posts/191/trianglify-lowres11.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Python"
-            ],
-            "date_published": "2024-10-30T07:29:00-05:00",
-            "date_modified": "2024-10-30T14:35:22-05:00"
-        },
-        {
-            "id": "https://aindien.com/customizing-the-prompt-in-linux.html",
-            "url": "https://aindien.com/customizing-the-prompt-in-linux.html",
-            "title": "Customizing the Prompt in Linux",
-            "summary": "<p>These are my notes on customizing the prompt in linux.</p>\n",
-            "image": "https://aindien.com/media/posts/190/trianglify-lowres11.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2024-10-27T15:30:38-05:00",
-            "date_modified": "2024-10-27T16:47:36-05:00"
-        },
-        {
-            "id": "https://aindien.com/sending-web-responses-in-python.html",
-            "url": "https://aindien.com/sending-web-responses-in-python.html",
-            "title": "Sending Web Responses in Python",
-            "summary": "<p>These are my notes on sending web responses in python.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Python"
-            ],
-            "date_published": "2024-10-25T12:15:18-05:00",
-            "date_modified": "2024-10-25T12:19:33-05:00"
-        },
-        {
-            "id": "https://aindien.com/intro-to-the-vim-text-editor.html",
-            "url": "https://aindien.com/intro-to-the-vim-text-editor.html",
-            "title": "Intro To The Vim Text Editor",
-            "summary": "<div>These are my notes on an introduction to Vim.</div>\n<div>",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-10-20T19:03:20-05:00",
-            "date_modified": "2024-10-20T19:04:13-05:00"
+            "date_published": "2022-08-29T23:40:36-05:00",
+            "date_modified": "2025-03-09T16:01:34-05:00"
         }
     ]
 }
