@@ -22,7 +22,7 @@
                    "SQL"
             ],
             "date_published": "2024-07-19T17:33:59-05:00",
-            "date_modified": "2025-03-09T15:58:29-05:00"
+            "date_modified": "2025-04-03T22:12:59-05:00"
         },
         {
             "id": "https://aindien.com/intro-to-excel.html",
@@ -37,7 +37,7 @@
                    "Excel"
             ],
             "date_published": "2024-07-19T00:22:30-05:00",
-            "date_modified": "2025-03-09T15:58:44-05:00"
+            "date_modified": "2025-04-03T22:13:13-05:00"
         },
         {
             "id": "https://aindien.com/getting-started-with-git.html",
@@ -52,7 +52,7 @@
                    "Git"
             ],
             "date_published": "2023-12-31T01:18:48-06:00",
-            "date_modified": "2025-03-09T15:59:15-05:00"
+            "date_modified": "2025-04-03T22:13:29-05:00"
         },
         {
             "id": "https://aindien.com/windows-essentials.html",
@@ -67,7 +67,7 @@
                    "Windows"
             ],
             "date_published": "2023-12-27T13:09:51-06:00",
-            "date_modified": "2025-03-09T15:59:50-05:00"
+            "date_modified": "2025-04-03T22:13:43-05:00"
         },
         {
             "id": "https://aindien.com/cloud-fundamentals.html",
@@ -82,7 +82,7 @@
                    "Cloud Computing"
             ],
             "date_published": "2023-12-26T23:12:33-06:00",
-            "date_modified": "2025-03-09T16:00:12-05:00"
+            "date_modified": "2025-04-03T22:14:02-05:00"
         },
         {
             "id": "https://aindien.com/python-basics.html",
@@ -97,7 +97,7 @@
                    "Python"
             ],
             "date_published": "2023-12-23T16:27:31-06:00",
-            "date_modified": "2025-04-01T15:52:08-05:00"
+            "date_modified": "2025-04-03T22:14:22-05:00"
         },
         {
             "id": "https://aindien.com/getting-started-with-web-development.html",
@@ -111,7 +111,7 @@
                    "Web Development"
             ],
             "date_published": "2023-09-08T13:51:11-05:00",
-            "date_modified": "2025-03-09T16:00:42-05:00"
+            "date_modified": "2025-04-03T22:14:39-05:00"
         },
         {
             "id": "https://aindien.com/google-workspace-essentials.html",
@@ -125,7 +125,7 @@
                    "Google Workspace"
             ],
             "date_published": "2022-10-27T08:59:37-05:00",
-            "date_modified": "2025-03-09T16:00:58-05:00"
+            "date_modified": "2025-04-03T22:15:08-05:00"
         },
         {
             "id": "https://aindien.com/economics-essentials.html",
@@ -139,7 +139,7 @@
                    "Economics"
             ],
             "date_published": "2022-10-13T17:44:33-05:00",
-            "date_modified": "2024-10-03T19:26:23-05:00"
+            "date_modified": "2025-04-03T22:15:27-05:00"
         },
         {
             "id": "https://aindien.com/r-essentials.html",
@@ -153,7 +153,7 @@
                    "R"
             ],
             "date_published": "2022-08-29T23:40:36-05:00",
-            "date_modified": "2025-03-09T16:01:34-05:00"
+            "date_modified": "2025-04-03T22:15:47-05:00"
         }
     ]
 }
