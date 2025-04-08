@@ -3,7 +3,7 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-04-03T22:15:47-05:00</updated>
+    <updated>2025-04-08T15:39:09-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -167,6 +167,24 @@
         <content></content>
     </entry>
     <entry>
+        <title>Office365 Explained</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/office365-essentials.html"/>
+        <id>https://aindien.com/office365-essentials.html</id>
+            <category term="Office 365"/>
+
+        <updated>2022-10-26T08:56:26-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Office 365 is used by almost every business in the world. It is important to know how to use it well. Here are my tips to help you do that.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
         <title>Economics Explained</title>
         <author>
             <name>Jason Moore</name>
@@ -179,24 +197,6 @@
             <summary>
                 <![CDATA[
                     <p>Economics and the choices we make in regards to money. These are my notes from books I have read on the subject.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>R Programming Explained</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/r-essentials.html"/>
-        <id>https://aindien.com/r-essentials.html</id>
-            <category term="R"/>
-
-        <updated>2022-08-29T23:40:36-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">In this guide, I will help you learn R, the statistical programming language.</span></p>
 
                 ]]>
             </summary>

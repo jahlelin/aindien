@@ -128,6 +128,20 @@
             "date_modified": "2025-04-03T22:15:08-05:00"
         },
         {
+            "id": "https://aindien.com/office365-essentials.html",
+            "url": "https://aindien.com/office365-essentials.html",
+            "title": "Office365 Explained",
+            "summary": "<p>Office 365 is used by almost every business in the world. It is important to know how to use it well. Here are my tips to help you do that.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Office 365"
+            ],
+            "date_published": "2022-10-26T08:56:26-05:00",
+            "date_modified": "2025-04-08T15:39:09-05:00"
+        },
+        {
             "id": "https://aindien.com/economics-essentials.html",
             "url": "https://aindien.com/economics-essentials.html",
             "title": "Economics Explained",
@@ -140,20 +154,6 @@
             ],
             "date_published": "2022-10-13T17:44:33-05:00",
             "date_modified": "2025-04-03T22:15:27-05:00"
-        },
-        {
-            "id": "https://aindien.com/r-essentials.html",
-            "url": "https://aindien.com/r-essentials.html",
-            "title": "R Programming Explained",
-            "summary": "<p><span style=\"font-weight: 400;\">In this guide, I will help you learn R, the statistical programming language.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "R"
-            ],
-            "date_published": "2022-08-29T23:40:36-05:00",
-            "date_modified": "2025-04-03T22:15:47-05:00"
         }
     ]
 }
