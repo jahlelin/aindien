@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-04-11T13:20:06-05:00</updated>
+    <updated>2025-04-11T22:15:14-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Using Active Directory From Scratch</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/using-active-directory-from-scratch.html"/>
+        <id>https://aindien.com/using-active-directory-from-scratch.html</id>
+            <category term="active directory"/>
+
+        <updated>2025-04-11T22:11:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Active directory makes managing a lot of users and machines a doable task. It<br>organizes all of your resources and users. </p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>SQL Explained</title>
         <author>
@@ -179,24 +197,6 @@
             <summary>
                 <![CDATA[
                     <p>Office 365 is used by almost every business in the world. It is important to know how to use it well. Here are my tips to help you do that.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Economics Explained</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/economics-essentials.html"/>
-        <id>https://aindien.com/economics-essentials.html</id>
-            <category term="Economics"/>
-
-        <updated>2022-10-13T17:44:33-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Economics and the choices we make in regards to money. These are my notes from books I have read on the subject.</p>
 
                 ]]>
             </summary>
