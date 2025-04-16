@@ -12,7 +12,7 @@
         {
             "id": "https://aindien.com/using-active-directory-from-scratch.html",
             "url": "https://aindien.com/using-active-directory-from-scratch.html",
-            "title": "Using Active Directory From Scratch",
+            "title": "Learning Active Directory From Scratch",
             "summary": "<p>Active directory makes managing a lot of users and machines a doable task. It<br>organizes all of your resources and users. </p>\n",
             "author": {
                 "name": "Jason Moore"
@@ -21,7 +21,7 @@
                    "active directory"
             ],
             "date_published": "2025-04-11T22:11:29-05:00",
-            "date_modified": "2025-04-15T18:57:33-05:00"
+            "date_modified": "2025-04-16T09:50:11-05:00"
         },
         {
             "id": "https://aindien.com/intro-to-sql.html",
