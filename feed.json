@@ -28,7 +28,6 @@
             "url": "https://aindien.com/intro-to-sql.html",
             "title": "SQL Explained",
             "summary": "<p>These are my notes on SQL explained.</p>\n",
-            "image": "https://aindien.com/media/posts/169/trianglify-lowres7.png",
             "author": {
                 "name": "Jason Moore"
             },
@@ -36,14 +35,13 @@
                    "SQL"
             ],
             "date_published": "2024-07-19T17:33:59-05:00",
-            "date_modified": "2025-04-08T17:35:07-05:00"
+            "date_modified": "2025-04-16T08:42:16-05:00"
         },
         {
             "id": "https://aindien.com/intro-to-excel.html",
             "url": "https://aindien.com/intro-to-excel.html",
             "title": "Excel Explained",
             "summary": "<p>These are my notes on an Excel explained.</p>\n",
-            "image": "https://aindien.com/media/posts/168/trianglify-lowres5.png",
             "author": {
                 "name": "Jason Moore"
             },
@@ -51,14 +49,13 @@
                    "Excel"
             ],
             "date_published": "2024-07-19T00:22:30-05:00",
-            "date_modified": "2025-04-08T17:35:21-05:00"
+            "date_modified": "2025-04-16T08:42:24-05:00"
         },
         {
             "id": "https://aindien.com/getting-started-with-git.html",
             "url": "https://aindien.com/getting-started-with-git.html",
             "title": "Git Explained",
             "summary": "<p>This is my guide on getting started with Git.</p>\n",
-            "image": "https://aindien.com/media/posts/153/trianglify-lowres10.png",
             "author": {
                 "name": "Jason Moore"
             },
@@ -66,14 +63,13 @@
                    "Git"
             ],
             "date_published": "2023-12-31T01:18:48-06:00",
-            "date_modified": "2025-04-08T17:35:37-05:00"
+            "date_modified": "2025-04-16T08:42:35-05:00"
         },
         {
             "id": "https://aindien.com/windows-essentials.html",
             "url": "https://aindien.com/windows-essentials.html",
             "title": "Windows Explained",
             "summary": "<p>This is my study guide for Microsoft Windows Basics. hope it helps.</p>\n",
-            "image": "https://aindien.com/media/posts/148/trianglify-lowres15.png",
             "author": {
                 "name": "Jason Moore"
             },
@@ -81,14 +77,13 @@
                    "Windows"
             ],
             "date_published": "2023-12-27T13:09:51-06:00",
-            "date_modified": "2025-04-08T17:36:30-05:00"
+            "date_modified": "2025-04-16T08:42:43-05:00"
         },
         {
             "id": "https://aindien.com/cloud-fundamentals.html",
             "url": "https://aindien.com/cloud-fundamentals.html",
             "title": "Cloud Computing Explained",
             "summary": "<p><span style=\"font-weight: 400;\">These are my notes on cloud computing explained.</span></p>\n",
-            "image": "https://aindien.com/media/posts/146/bg7.png",
             "author": {
                 "name": "Jason Moore"
             },
@@ -96,14 +91,13 @@
                    "Cloud Computing"
             ],
             "date_published": "2023-12-26T23:12:33-06:00",
-            "date_modified": "2025-04-08T17:36:47-05:00"
+            "date_modified": "2025-04-16T08:42:51-05:00"
         },
         {
             "id": "https://aindien.com/python-basics.html",
             "url": "https://aindien.com/python-basics.html",
             "title": "Python Explained",
             "summary": "<p>Here are my Python essentials for anyone wanting to learn this programming language. This post will be continually updated.</p>\n<p> </p>\n",
-            "image": "https://aindien.com/media/posts/142/bg3.png",
             "author": {
                 "name": "Jason Moore"
             },
@@ -111,7 +105,7 @@
                    "Python"
             ],
             "date_published": "2023-12-23T16:27:31-06:00",
-            "date_modified": "2025-04-11T13:20:06-05:00"
+            "date_modified": "2025-04-16T08:43:00-05:00"
         },
         {
             "id": "https://aindien.com/getting-started-with-web-development.html",
