@@ -10,151 +10,145 @@
     },
     "items": [
         {
-            "id": "https://aindien.com/sending-web-responses-in-python.html",
-            "url": "https://aindien.com/sending-web-responses-in-python.html",
-            "title": "Sending Web Responses in Python",
-            "summary": "<p>These are my notes on sending web responses in python.</p>\n",
+            "id": "https://aindien.com/improving-your-technical-writing-skills.html",
+            "url": "https://aindien.com/improving-your-technical-writing-skills.html",
+            "title": "Improving Your Technical Writing Skills",
+            "summary": "<p>Improving Your Technical Writing Skills</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-19T22:29:18-05:00",
+            "date_modified": "2025-06-19T22:29:18-05:00"
+        },
+        {
+            "id": "https://aindien.com/using-active-directory-from-scratch.html",
+            "url": "https://aindien.com/using-active-directory-from-scratch.html",
+            "title": "Learning Active Directory From Scratch",
+            "summary": "<p>Active directory makes managing a lot of users and machines a doable task. It<br>organizes all of your resources and users. </p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "active directory"
+            ],
+            "date_published": "2025-04-11T22:11:29-05:00",
+            "date_modified": "2025-04-29T16:44:59-05:00"
+        },
+        {
+            "id": "https://aindien.com/data-structures-in-python.html",
+            "url": "https://aindien.com/data-structures-in-python.html",
+            "title": "Data Structures in Python",
+            "summary": "<p>This article is about data structures in python.</p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Python"
             ],
-            "date_published": "2024-10-25T12:15:18-05:00",
-            "date_modified": "2024-10-25T12:19:33-05:00"
+            "date_published": "2025-04-01T15:50:42-05:00",
+            "date_modified": "2025-04-01T15:51:18-05:00"
         },
         {
-            "id": "https://aindien.com/intro-to-the-vim-text-editor.html",
-            "url": "https://aindien.com/intro-to-the-vim-text-editor.html",
-            "title": "Intro To The Vim Text Editor",
-            "summary": "<div>These are my notes on an introduction to Vim.</div>\n<div>",
+            "id": "https://aindien.com/basics-of-tcpip.html",
+            "url": "https://aindien.com/basics-of-tcpip.html",
+            "title": "Basics of TCP/IP Networking",
+            "summary": "<p>This article is about the basics of TCP/IP networking.</p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
+                   "Networking"
             ],
-            "date_published": "2024-10-20T19:03:20-05:00",
-            "date_modified": "2024-10-20T19:04:13-05:00"
+            "date_published": "2025-03-30T17:01:17-05:00",
+            "date_modified": "2025-03-30T17:03:01-05:00"
         },
         {
-            "id": "https://aindien.com/inheritance-in-python.html",
-            "url": "https://aindien.com/inheritance-in-python.html",
-            "title": "Inheritance in Python",
-            "summary": "<p>These are my notes on inheritance in python.</p>\n",
-            "image": "https://aindien.com/media/posts/187/trianglify-lowres10.png",
+            "id": "https://aindien.com/creating-random-numbers-in-python.html",
+            "url": "https://aindien.com/creating-random-numbers-in-python.html",
+            "title": "Creating Random Numbers in Python",
+            "summary": "<p>This article is about creating random numbers in python.</p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Python"
             ],
-            "date_published": "2024-10-11T15:34:02-05:00",
-            "date_modified": "2024-10-11T15:39:11-05:00"
+            "date_published": "2025-03-12T08:57:29-05:00",
+            "date_modified": "2025-03-12T08:59:24-05:00"
         },
         {
-            "id": "https://aindien.com/the-linux-environment.html",
-            "url": "https://aindien.com/the-linux-environment.html",
-            "title": "The Linux Environment",
-            "summary": "<p><br>These are my notes on the environment in linux.</p>\n",
-            "image": "https://aindien.com/media/posts/186/trianglify-lowres10.png",
+            "id": "https://aindien.com/creating-powerpoints-in-office365.html",
+            "url": "https://aindien.com/creating-powerpoints-in-office365.html",
+            "title": "Creating PowerPoints in Office365",
+            "summary": "<p>This article is about creating PowerPoints in Office365.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Office 365"
+            ],
+            "date_published": "2025-03-09T15:54:24-05:00",
+            "date_modified": "2025-03-09T15:56:10-05:00"
+        },
+        {
+            "id": "https://aindien.com/managing-software-in-linux.html",
+            "url": "https://aindien.com/managing-software-in-linux.html",
+            "title": "Managing Software In Linux",
+            "summary": "<p>This article is about managing software in Linux.</p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Linux"
             ],
-            "date_published": "2024-10-07T13:02:13-05:00",
-            "date_modified": "2024-10-07T13:05:58-05:00"
+            "date_published": "2025-03-08T15:48:49-06:00",
+            "date_modified": "2025-03-08T15:59:43-06:00"
         },
         {
-            "id": "https://aindien.com/encapsulating-data-in-python.html",
-            "url": "https://aindien.com/encapsulating-data-in-python.html",
-            "title": "Encapsulating Data in Python",
-            "summary": "<div>These are my notes on encapsulating data in python.</div>\n<div>",
-            "image": "https://aindien.com/media/posts/185/trianglify-lowres9.png",
+            "id": "https://aindien.com/designing-your-network.html",
+            "url": "https://aindien.com/designing-your-network.html",
+            "title": "Designing Your Network",
+            "summary": "<p>This post is about designing your network.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Networking"
+            ],
+            "date_published": "2025-03-06T20:18:26-06:00",
+            "date_modified": "2025-03-06T21:10:38-06:00"
+        },
+        {
+            "id": "https://aindien.com/launching-a-window-in-python.html",
+            "url": "https://aindien.com/launching-a-window-in-python.html",
+            "title": "Launching a Window in Python",
+            "summary": "<p>These are my notes on launching a window in python.</p>\n",
+            "image": "https://aindien.com/media/posts/191/trianglify-lowres11.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Python"
             ],
-            "date_published": "2024-10-05T17:41:30-05:00",
-            "date_modified": "2024-10-05T17:42:44-05:00"
+            "date_published": "2024-10-30T07:29:00-05:00",
+            "date_modified": "2024-10-30T14:35:22-05:00"
         },
         {
-            "id": "https://aindien.com/processes-in-linux.html",
-            "url": "https://aindien.com/processes-in-linux.html",
-            "title": "Processes in Linux",
-            "summary": "<p>These are my notes on processes in linux.</p>\n",
-            "image": "https://aindien.com/media/posts/184/trianglify-lowres9.png",
+            "id": "https://aindien.com/customizing-the-prompt-in-linux.html",
+            "url": "https://aindien.com/customizing-the-prompt-in-linux.html",
+            "title": "Customizing the Prompt in Linux",
+            "summary": "<p>These are my notes on customizing the prompt in linux.</p>\n",
+            "image": "https://aindien.com/media/posts/190/trianglify-lowres11.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Linux"
             ],
-            "date_published": "2024-10-03T19:22:51-05:00",
-            "date_modified": "2024-10-03T19:24:04-05:00"
-        },
-        {
-            "id": "https://aindien.com/accessing-files-in-python.html",
-            "url": "https://aindien.com/accessing-files-in-python.html",
-            "title": "Accessing Files in Python",
-            "summary": "<p>These are my notes on accessing files in python.</p>\n",
-            "image": "https://aindien.com/media/posts/183/trianglify-lowres9.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Python"
-            ],
-            "date_published": "2024-09-30T23:27:44-05:00",
-            "date_modified": "2024-09-30T23:28:25-05:00"
-        },
-        {
-            "id": "https://aindien.com/permissions-in-linux.html",
-            "url": "https://aindien.com/permissions-in-linux.html",
-            "title": "Permissions in Linux",
-            "summary": "<div>These are my notes and thoughts on permissions in linux.</div>\n<div>",
-            "image": "https://aindien.com/media/posts/182/trianglify-lowres9.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2024-09-28T20:53:31-05:00",
-            "date_modified": "2024-09-28T20:55:01-05:00"
-        },
-        {
-            "id": "https://aindien.com/modifying-strings-in-python.html",
-            "url": "https://aindien.com/modifying-strings-in-python.html",
-            "title": "Modifying Strings in Python",
-            "summary": "<p>These are my notes on modifying strings in python.</p>\n",
-            "image": "https://aindien.com/media/posts/181/trianglify-lowres9.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Python"
-            ],
-            "date_published": "2024-09-27T17:34:31-05:00",
-            "date_modified": "2024-09-27T20:55:04-05:00"
-        },
-        {
-            "id": "https://aindien.com/input-and-output-redirection-in-linux.html",
-            "url": "https://aindien.com/input-and-output-redirection-in-linux.html",
-            "title": "Input and Output Redirection in Linux",
-            "summary": "<p>These are my notes on input and output redirection in Linux.</p>\n",
-            "image": "https://aindien.com/media/posts/180/trianglify-lowres8.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2024-09-17T14:27:57-05:00",
-            "date_modified": "2024-09-24T00:02:13-05:00"
+            "date_published": "2024-10-27T15:30:38-05:00",
+            "date_modified": "2024-10-27T16:47:36-05:00"
         }
     ]
 }

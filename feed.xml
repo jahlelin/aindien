@@ -3,202 +3,190 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-10-25T12:19:33-05:00</updated>
+    <updated>2025-06-19T22:29:18-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
     <entry>
-        <title>Sending Web Responses in Python</title>
+        <title>Improving Your Technical Writing Skills</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/sending-web-responses-in-python.html"/>
-        <id>https://aindien.com/sending-web-responses-in-python.html</id>
+        <link href="https://aindien.com/improving-your-technical-writing-skills.html"/>
+        <id>https://aindien.com/improving-your-technical-writing-skills.html</id>
+
+        <updated>2025-06-19T22:29:18-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Improving Your Technical Writing Skills</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Learning Active Directory From Scratch</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/using-active-directory-from-scratch.html"/>
+        <id>https://aindien.com/using-active-directory-from-scratch.html</id>
+            <category term="active directory"/>
+
+        <updated>2025-04-11T22:11:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Active directory makes managing a lot of users and machines a doable task. It<br>organizes all of your resources and users. </p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Data Structures in Python</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/data-structures-in-python.html"/>
+        <id>https://aindien.com/data-structures-in-python.html</id>
             <category term="Python"/>
 
-        <updated>2024-10-25T12:15:18-05:00</updated>
+        <updated>2025-04-01T15:50:42-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>These are my notes on sending web responses in python.</p>
+                    <p>This article is about data structures in python.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Intro To The Vim Text Editor</title>
+        <title>Basics of TCP/IP Networking</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/intro-to-the-vim-text-editor.html"/>
-        <id>https://aindien.com/intro-to-the-vim-text-editor.html</id>
+        <link href="https://aindien.com/basics-of-tcpip.html"/>
+        <id>https://aindien.com/basics-of-tcpip.html</id>
+            <category term="Networking"/>
 
-        <updated>2024-10-20T19:03:20-05:00</updated>
+        <updated>2025-03-30T17:01:17-05:00</updated>
             <summary>
                 <![CDATA[
-                    <div>These are my notes on an introduction to Vim.</div>
-<div>
+                    <p>This article is about the basics of TCP/IP networking.</p>
+
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Inheritance in Python</title>
+        <title>Creating Random Numbers in Python</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/inheritance-in-python.html"/>
-        <id>https://aindien.com/inheritance-in-python.html</id>
-        <media:content url="https://aindien.com/media/posts/187/trianglify-lowres10.png" medium="image" />
+        <link href="https://aindien.com/creating-random-numbers-in-python.html"/>
+        <id>https://aindien.com/creating-random-numbers-in-python.html</id>
             <category term="Python"/>
 
-        <updated>2024-10-11T15:34:02-05:00</updated>
+        <updated>2025-03-12T08:57:29-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/187/trianglify-lowres10.png" alt="" />
-                    <p>These are my notes on inheritance in python.</p>
+                    <p>This article is about creating random numbers in python.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>The Linux Environment</title>
+        <title>Creating PowerPoints in Office365</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/the-linux-environment.html"/>
-        <id>https://aindien.com/the-linux-environment.html</id>
-        <media:content url="https://aindien.com/media/posts/186/trianglify-lowres10.png" medium="image" />
+        <link href="https://aindien.com/creating-powerpoints-in-office365.html"/>
+        <id>https://aindien.com/creating-powerpoints-in-office365.html</id>
+            <category term="Office 365"/>
+
+        <updated>2025-03-09T15:54:24-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This article is about creating PowerPoints in Office365.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Managing Software In Linux</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/managing-software-in-linux.html"/>
+        <id>https://aindien.com/managing-software-in-linux.html</id>
             <category term="Linux"/>
 
-        <updated>2024-10-07T13:02:13-05:00</updated>
+        <updated>2025-03-08T15:48:49-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/186/trianglify-lowres10.png" alt="" />
-                    <p><br>These are my notes on the environment in linux.</p>
+                    <p>This article is about managing software in Linux.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Encapsulating Data in Python</title>
+        <title>Designing Your Network</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/encapsulating-data-in-python.html"/>
-        <id>https://aindien.com/encapsulating-data-in-python.html</id>
-        <media:content url="https://aindien.com/media/posts/185/trianglify-lowres9.png" medium="image" />
+        <link href="https://aindien.com/designing-your-network.html"/>
+        <id>https://aindien.com/designing-your-network.html</id>
+            <category term="Networking"/>
+
+        <updated>2025-03-06T20:18:26-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This post is about designing your network.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Launching a Window in Python</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/launching-a-window-in-python.html"/>
+        <id>https://aindien.com/launching-a-window-in-python.html</id>
+        <media:content url="https://aindien.com/media/posts/191/trianglify-lowres11.png" medium="image" />
             <category term="Python"/>
 
-        <updated>2024-10-05T17:41:30-05:00</updated>
+        <updated>2024-10-30T07:29:00-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/185/trianglify-lowres9.png" alt="" />
-                    <div>These are my notes on encapsulating data in python.</div>
-<div>
+                        <img src="https://aindien.com/media/posts/191/trianglify-lowres11.png" alt="" />
+                    <p>These are my notes on launching a window in python.</p>
+
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Processes in Linux</title>
+        <title>Customizing the Prompt in Linux</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/processes-in-linux.html"/>
-        <id>https://aindien.com/processes-in-linux.html</id>
-        <media:content url="https://aindien.com/media/posts/184/trianglify-lowres9.png" medium="image" />
+        <link href="https://aindien.com/customizing-the-prompt-in-linux.html"/>
+        <id>https://aindien.com/customizing-the-prompt-in-linux.html</id>
+        <media:content url="https://aindien.com/media/posts/190/trianglify-lowres11.png" medium="image" />
             <category term="Linux"/>
 
-        <updated>2024-10-03T19:22:51-05:00</updated>
+        <updated>2024-10-27T15:30:38-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/184/trianglify-lowres9.png" alt="" />
-                    <p>These are my notes on processes in linux.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Accessing Files in Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/accessing-files-in-python.html"/>
-        <id>https://aindien.com/accessing-files-in-python.html</id>
-        <media:content url="https://aindien.com/media/posts/183/trianglify-lowres9.png" medium="image" />
-            <category term="Python"/>
-
-        <updated>2024-09-30T23:27:44-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/183/trianglify-lowres9.png" alt="" />
-                    <p>These are my notes on accessing files in python.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Permissions in Linux</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/permissions-in-linux.html"/>
-        <id>https://aindien.com/permissions-in-linux.html</id>
-        <media:content url="https://aindien.com/media/posts/182/trianglify-lowres9.png" medium="image" />
-            <category term="Linux"/>
-
-        <updated>2024-09-28T20:53:31-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/182/trianglify-lowres9.png" alt="" />
-                    <div>These are my notes and thoughts on permissions in linux.</div>
-<div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Modifying Strings in Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/modifying-strings-in-python.html"/>
-        <id>https://aindien.com/modifying-strings-in-python.html</id>
-        <media:content url="https://aindien.com/media/posts/181/trianglify-lowres9.png" medium="image" />
-            <category term="Python"/>
-
-        <updated>2024-09-27T17:34:31-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/181/trianglify-lowres9.png" alt="" />
-                    <p>These are my notes on modifying strings in python.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Input and Output Redirection in Linux</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/input-and-output-redirection-in-linux.html"/>
-        <id>https://aindien.com/input-and-output-redirection-in-linux.html</id>
-        <media:content url="https://aindien.com/media/posts/180/trianglify-lowres8.png" medium="image" />
-            <category term="Linux"/>
-
-        <updated>2024-09-17T14:27:57-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/180/trianglify-lowres8.png" alt="" />
-                    <p>These are my notes on input and output redirection in Linux.</p>
+                        <img src="https://aindien.com/media/posts/190/trianglify-lowres11.png" alt="" />
+                    <p>These are my notes on customizing the prompt in linux.</p>
 
                 ]]>
             </summary>
