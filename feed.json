@@ -10,144 +10,108 @@
     },
     "items": [
         {
-            "id": "https://aindien.com/using-active-directory-from-scratch.html",
-            "url": "https://aindien.com/using-active-directory-from-scratch.html",
-            "title": "Learning Active Directory From Scratch",
-            "summary": "<p>Active directory makes managing a lot of users and machines a doable task. It<br>organizes all of your resources and users. </p>\n",
+            "id": "https://aindien.com/computer-networking-networking-hardware.html",
+            "url": "https://aindien.com/computer-networking-networking-hardware.html",
+            "title": "Computer Networking: Networking Hardware",
+            "summary": "<p>These are my notes on networking hardware.</p>\n",
+            "image": "https://aindien.com/media/posts/8/nh0-1.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "active directory"
+                   "Networking"
             ],
-            "date_published": "2025-04-11T22:11:29-05:00",
-            "date_modified": "2025-04-29T16:44:59-05:00"
+            "date_published": "2016-12-03T11:37:30-06:00",
+            "date_modified": "2024-09-24T13:42:24-05:00"
         },
         {
-            "id": "https://aindien.com/intro-to-sql.html",
-            "url": "https://aindien.com/intro-to-sql.html",
-            "title": "SQL Explained",
-            "summary": "<p>These are my notes on SQL explained.</p>\n",
+            "id": "https://aindien.com/networking-basics-physical-topologies.html",
+            "url": "https://aindien.com/networking-basics-physical-topologies.html",
+            "title": "Networking Basics: Physical Topologies",
+            "summary": "<p>These are my notes on physical topologies in Networking.</p>\n",
+            "image": "https://aindien.com/media/posts/7/nt0-3.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "SQL"
+                   "Networking"
             ],
-            "date_published": "2024-07-19T17:33:59-05:00",
-            "date_modified": "2025-04-16T08:42:16-05:00"
+            "date_published": "2016-11-03T22:56:49-05:00",
+            "date_modified": "2024-09-24T13:41:30-05:00"
         },
         {
-            "id": "https://aindien.com/intro-to-excel.html",
-            "url": "https://aindien.com/intro-to-excel.html",
-            "title": "Excel Explained",
-            "summary": "<p>These are my notes on an Excel explained.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Excel"
-            ],
-            "date_published": "2024-07-19T00:22:30-05:00",
-            "date_modified": "2025-04-16T08:42:24-05:00"
-        },
-        {
-            "id": "https://aindien.com/getting-started-with-git.html",
-            "url": "https://aindien.com/getting-started-with-git.html",
-            "title": "Git Explained",
-            "summary": "<p>This is my guide on getting started with Git.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Git"
-            ],
-            "date_published": "2023-12-31T01:18:48-06:00",
-            "date_modified": "2025-04-16T08:42:35-05:00"
-        },
-        {
-            "id": "https://aindien.com/windows-essentials.html",
-            "url": "https://aindien.com/windows-essentials.html",
-            "title": "Windows Explained",
-            "summary": "<p>This is my study guide for Microsoft Windows Basics. hope it helps.</p>\n",
+            "id": "https://aindien.com/how-to-make-the-jump-to-system-administrator.html",
+            "url": "https://aindien.com/how-to-make-the-jump-to-system-administrator.html",
+            "title": "How To Make The Jump To System Administrator",
+            "summary": "<p style=\"text-align: left;\">Making the jump to system administrator in the Windows world can eventually be one of the highest paying jobs in the IT industry. It is quite worthwhile to be working on this. It is a different skill set than fixing computers like the help desk people. There are many who have trouble making the jump though. Here are the things you need to work on for this job title!</p>\n",
+            "image": "https://aindien.com/media/posts/5/sysadmin0-2.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Windows"
             ],
-            "date_published": "2023-12-27T13:09:51-06:00",
-            "date_modified": "2025-04-16T08:42:43-05:00"
+            "date_published": "2016-10-28T23:52:00-05:00",
+            "date_modified": "2024-07-29T20:03:33-05:00"
         },
         {
-            "id": "https://aindien.com/cloud-fundamentals.html",
-            "url": "https://aindien.com/cloud-fundamentals.html",
-            "title": "Cloud Computing Explained",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on cloud computing explained.</span></p>\n",
+            "id": "https://aindien.com/beginning-c-making-decisions.html",
+            "url": "https://aindien.com/beginning-c-making-decisions.html",
+            "title": "Beginning C++: Making Decisions",
+            "summary": "<p>Making decisions is one of the fundamental activities in any program. Data has to be compared and conditions will have to be evaluated. This is usually the second stage in learning how to program. C++ is just our tool. Regardless, this is one of those concepts that you need to know really well. It will be applied everywhere.</p>\n",
+            "image": "https://aindien.com/media/posts/6/decision1.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Cloud Computing"
+                   "C++"
             ],
-            "date_published": "2023-12-26T23:12:33-06:00",
-            "date_modified": "2025-04-18T16:34:02-05:00"
+            "date_published": "2016-10-23T23:27:48-05:00",
+            "date_modified": "2024-09-24T13:40:19-05:00"
         },
         {
-            "id": "https://aindien.com/python-basics.html",
-            "url": "https://aindien.com/python-basics.html",
-            "title": "Python Explained",
-            "summary": "<p>Here are my Python essentials for anyone wanting to learn this programming language. This post will be continually updated.</p>\n<p> </p>\n",
+            "id": "https://aindien.com/beginning-c-input-and-output-basics.html",
+            "url": "https://aindien.com/beginning-c-input-and-output-basics.html",
+            "title": "Beginning C++ : Input and Output Basics",
+            "summary": "<p>This is my guide for students just starting with beginning C++. Programming in general is not the easiest thing to do. With just a little effort it can be easy to pick up. I cover the essential basics here with lots of examples.</p>\n",
+            "image": "https://aindien.com/media/posts/4/Banner-2.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Python"
+                   "C++"
             ],
-            "date_published": "2023-12-23T16:27:31-06:00",
-            "date_modified": "2025-04-16T08:43:00-05:00"
+            "date_published": "2016-10-09T13:16:23-05:00",
+            "date_modified": "2024-09-24T13:40:09-05:00"
         },
         {
-            "id": "https://aindien.com/getting-started-with-web-development.html",
-            "url": "https://aindien.com/getting-started-with-web-development.html",
-            "title": "Web Development Explained",
-            "summary": "<p><span style=\"font-weight: 400;\">Almost everyone uses the internet. We use it for fun, to do work, and so on. In order for us to do all of these things, we rely on web pages. There are many things that work together to show us a web page. </span></p>\n",
+            "id": "https://aindien.com/about-me.html",
+            "url": "https://aindien.com/about-me.html",
+            "title": "Andromeda",
+            "summary": "<p>This is a guide for Andromeda. Follow the bullet points.</p>\n",
+            "image": "https://aindien.com/media/posts/3/trianglify-lowres6.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Web Development"
             ],
-            "date_published": "2023-09-08T13:51:11-05:00",
-            "date_modified": "2025-04-08T17:37:16-05:00"
+            "date_published": "2016-09-26T21:56:27-05:00",
+            "date_modified": "2025-04-16T08:44:23-05:00"
         },
         {
-            "id": "https://aindien.com/google-workspace-essentials.html",
-            "url": "https://aindien.com/google-workspace-essentials.html",
-            "title": "Google Workspace Explained",
-            "summary": "<p>Google Workspace has a lot of great software. This makes it very popular. In this guide, I will give numerous tips to using it.</p>\n",
+            "id": "https://aindien.com/essential-linux-commands-to-get-you-started.html",
+            "url": "https://aindien.com/essential-linux-commands-to-get-you-started.html",
+            "title": "Essential Linux Commands To Get You Started",
+            "summary": "<p>These essential Linux commands form the basis of your everyday work. It just makes sense to leverage these utilities as much as possible.</p>\n<p> </p>\n",
+            "image": "https://aindien.com/media/posts/2/Linux_feature.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Google Workspace"
+                   "Linux"
             ],
-            "date_published": "2022-10-27T08:59:37-05:00",
-            "date_modified": "2025-04-08T17:37:33-05:00"
-        },
-        {
-            "id": "https://aindien.com/office365-essentials.html",
-            "url": "https://aindien.com/office365-essentials.html",
-            "title": "Office365 Explained",
-            "summary": "<p>Office 365 is used by almost every business in the world. It is important to know how to use it well. Here are my tips to help you do that.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Office 365"
-            ],
-            "date_published": "2022-10-26T08:56:26-05:00",
-            "date_modified": "2025-05-02T12:07:00-05:00"
+            "date_published": "2016-09-08T02:13:04-05:00",
+            "date_modified": "2024-09-24T13:39:50-05:00"
         }
     ]
 }
