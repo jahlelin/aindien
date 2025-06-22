@@ -3,125 +3,99 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-24T13:56:10-05:00</updated>
+    <updated>2024-09-24T13:59:00-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
     <entry>
-        <title>Using Variables in C++</title>
+        <title>How To Reset A Password In Azure AD</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/using-variables-in-c.html"/>
-        <id>https://aindien.com/using-variables-in-c.html</id>
-        <media:content url="https://aindien.com/media/posts/54/variables-in-c-0.jpg" medium="image" />
-            <category term="C++"/>
+        <link href="https://aindien.com/how-to-reset-a-password-in-azure-ad.html"/>
+        <id>https://aindien.com/how-to-reset-a-password-in-azure-ad.html</id>
+            <category term="Windows"/>
 
-        <updated>2021-07-14T20:29:52-05:00</updated>
+        <updated>2022-05-10T22:59:00-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/54/variables-in-c-0.jpg" alt="" />
-                    <p data-pm-slice="0 0 []">Variables are storage containers in your computer’s memory and they hold the information that you work with.</p>
+                    <p data-pm-slice="0 0 []"> </p>
+<p>Resetting a password is a frequent task in a Windows environment. For businesses that use Active Directory(AD), the password is reset in the system you used to manage it. That is the Azure AD portal for us at the present time of writing.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>How To Use Strings In C++</title>
+        <title>How To Troubleshoot Axis Cameras</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/how-to-use-strings-in-c.html"/>
-        <id>https://aindien.com/how-to-use-strings-in-c.html</id>
-            <category term="C++"/>
+        <link href="https://aindien.com/how-to-troubleshoot-axis-cameras.html"/>
+        <id>https://aindien.com/how-to-troubleshoot-axis-cameras.html</id>
+            <category term="Windows"/>
 
-        <updated>2021-06-23T22:42:55-05:00</updated>
+        <updated>2022-05-02T21:39:41-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p data-pm-slice="0 0 []">Using strings is a common occurrence in most programming languages. C++ is no exception. In this section I will go over the basic usage with some examples.</p>
+                    <h3 data-pm-slice="0 0 []"><strong>Introduction</strong></h3>
+<p>This article is on troubleshooting the various issues we might encounter when dealing with Axis cameras. It will grow and be updated as needed.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>How To Run Powershell Commands</title>
+        <title>How To Clear The Cache In Browsers</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/how-to-run-powershell-commands.html"/>
-        <id>https://aindien.com/how-to-run-powershell-commands.html</id>
-        <media:content url="https://aindien.com/media/posts/49/patteern-05.jpg" medium="image" />
-            <category term="Powershell"/>
+        <link href="https://aindien.com/how-to-clear-the-cache-in-browsers.html"/>
+        <id>https://aindien.com/how-to-clear-the-cache-in-browsers.html</id>
+            <category term="Windows"/>
 
-        <updated>2021-05-13T22:31:49-05:00</updated>
+        <updated>2022-04-20T22:32:15-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/49/patteern-05.jpg" alt="" />
-                    <p>Powershell is a shell that allows you to run commands. In this chapter, I will show you how to make the most of this.</p>
+                    <p data-pm-slice="0 0 []"> </p>
+<p>This page will be about clearing a browser’s cache. I will give instruction concerning Edge, Chrome, and Firefox.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>The Linux Shell For Beginners</title>
+        <title>How To Troubleshoot Printers</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/the-linux-shell-for-beginners.html"/>
-        <id>https://aindien.com/the-linux-shell-for-beginners.html</id>
-        <media:content url="https://aindien.com/media/posts/48/linux-shell-for-beginners-0.png" medium="image" />
-            <category term="Linux"/>
+        <link href="https://aindien.com/how-to-troubleshoot-printers.html"/>
+        <id>https://aindien.com/how-to-troubleshoot-printers.html</id>
+            <category term="Windows"/>
 
-        <updated>2021-04-27T22:35:05-05:00</updated>
+        <updated>2022-04-19T22:01:12-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/48/linux-shell-for-beginners-0.png" alt="" />
-                    <p>The shell or command line interface has many great features and makes you into a better computer user. In this section I will go into details of how that happens.</p>
+                    <p data-pm-slice="0 0 []">In this article, I am going to talk about troubleshooting printers. Most businesses use them and learning how to deal with their issues is a big bonus. I talk about how to test, diagnosing failed print jobs, and power issues.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>How To Use Pointers In C++</title>
+        <title>How to Install Creative Cloud From Mosyle</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/how-to-use-pointers-in-c.html"/>
-        <id>https://aindien.com/how-to-use-pointers-in-c.html</id>
-        <media:content url="https://aindien.com/media/posts/47/startup-photos.jpg" medium="image" />
-            <category term="C++"/>
+        <link href="https://aindien.com/how-to-install-creative-cloud-from-mosyle.html"/>
+        <id>https://aindien.com/how-to-install-creative-cloud-from-mosyle.html</id>
 
-        <updated>2021-04-13T21:22:42-05:00</updated>
+        <updated>2022-04-18T23:16:57-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/47/startup-photos.jpg" alt="how to use pointers in c++" />
-                    <p>Pointers may not be the most intuitive of concepts. However, in C++, they can<br>still be useful in the right situation.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Troubleshooting A Computer Network</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/troubleshooting-a-computer-network.html"/>
-        <id>https://aindien.com/troubleshooting-a-computer-network.html</id>
-        <media:content url="https://aindien.com/media/posts/46/Troubleshooting-A-Computer-Network.png" medium="image" />
-            <category term="Networking"/>
-
-        <updated>2021-02-09T14:58:33-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/46/Troubleshooting-A-Computer-Network.png" alt="Troubleshooting A Computer Network" />
-                    <p>Troubleshooting a network is not hard but requires a little bit of forethought. In this article I cover the most popular methods and scenarios to watch out for.</p>
+                    <p><a href="https://mybusiness.mosyle.com/" target="_blank" rel="noopener">Mosyle</a> is an app center. It is used to install apps on a Mac. It is a short form for Mosyle Business Store. This software is designed for mobile device management. This means laptops, tablets, and even phones. We will use this software to install Creative Cloud on a user’s device.</p>
 <p> </p>
 
                 ]]>
@@ -129,81 +103,101 @@
         <content></content>
     </entry>
     <entry>
-        <title>Things To Know Before You Install Linux</title>
+        <title>Process Management In Linux</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/things-to-know-before-you-install-linux.html"/>
-        <id>https://aindien.com/things-to-know-before-you-install-linux.html</id>
-        <media:content url="https://aindien.com/media/posts/45/Things-to-know-before-you-install-linux.png" medium="image" />
+        <link href="https://aindien.com/process-management-in-linux.html"/>
+        <id>https://aindien.com/process-management-in-linux.html</id>
+        <media:content url="https://aindien.com/media/posts/59/process-management-0.png" medium="image" />
             <category term="Linux"/>
 
-        <updated>2020-11-24T06:56:26-06:00</updated>
+        <updated>2021-11-13T11:08:26-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/45/Things-to-know-before-you-install-linux.png" alt="" />
-                    <p data-pm-slice="0 0 []">Installing Linux is pretty easy these days. Anyone can do it if they want to. However, there are a few options you should know about. </p>
+                        <img src="https://aindien.com/media/posts/59/process-management-0.png" alt="" />
+                    <p data-pm-slice="0 0 []">In this section, I go over process management in a Linux system.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Using Linear Search In C++</title>
+        <title>Making Loops In C++</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/using-linear-search-in-c.html"/>
-        <id>https://aindien.com/using-linear-search-in-c.html</id>
-        <media:content url="https://aindien.com/media/posts/44/Linear-Search-0.png" medium="image" />
+        <link href="https://aindien.com/making-loops-in-c.html"/>
+        <id>https://aindien.com/making-loops-in-c.html</id>
+        <media:content url="https://aindien.com/media/posts/58/making-loops-in-c-0.png" medium="image" />
             <category term="C++"/>
 
-        <updated>2020-10-19T06:52:14-05:00</updated>
+        <updated>2021-09-27T16:23:24-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/44/Linear-Search-0.png" alt="" />
-                    <p>Programmers will often search data for specific items. The most basic way is to use a linear search. This algorithm will form the foundation of your searching.</p>
-<p> </p>
+                        <img src="https://aindien.com/media/posts/58/making-loops-in-c-0.png" alt="" />
+                    <p data-pm-slice="0 0 []">Making loops in c++ is a fundamental skill just like it is in other languages. C++ has several options that I will go over.</p>
+<p data-pm-slice="0 0 []"> </p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Disaster Recovery</title>
+        <title> Managing Input and Output Streams in the Linux Shell</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/disaster-recovery.html"/>
-        <id>https://aindien.com/disaster-recovery.html</id>
-        <media:content url="https://aindien.com/media/posts/43/Disaster-Recovery-0.png" medium="image" />
-            <category term="Networking"/>
-
-        <updated>2020-09-25T06:28:59-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/43/Disaster-Recovery-0.png" alt="disaster recovery 0" />
-                    <p data-pm-slice="1 1 []">Any network can fail. Even parts can fail that have grave consequences. When any of this happens, it is time to move on to the next step. You better have a plan for when it happens.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>History and Usage Of Linux</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/history-and-usage-of-linux.html"/>
-        <id>https://aindien.com/history-and-usage-of-linux.html</id>
-        <media:content url="https://aindien.com/media/posts/41/History-and-Usage-of-Linux-0.png" medium="image" />
+        <link href="https://aindien.com/managing-input-and-output-streams-in-the-linux-shell.html"/>
+        <id>https://aindien.com/managing-input-and-output-streams-in-the-linux-shell.html</id>
+        <media:content url="https://aindien.com/media/posts/57/RedirerectionLinuxShell-0.jpg" medium="image" />
             <category term="Linux"/>
 
-        <updated>2020-09-20T10:57:08-05:00</updated>
+        <updated>2021-08-07T08:43:06-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/41/History-and-Usage-of-Linux-0.png" alt="" />
-                    <p>This section will be about Linux and its beginnings. Since its inception, Linux has become prevalent and almost every computing sphere.</p>
+                        <img src="https://aindien.com/media/posts/57/RedirerectionLinuxShell-0.jpg" alt="" />
+                    <p data-pm-slice="0 0 []">In this Linux tutorial, I teach how to manage input and output streams in the command line through the use of redirection and piping.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Making Decisions In C++</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/making-decisions-in-c.html"/>
+        <id>https://aindien.com/making-decisions-in-c.html</id>
+        <media:content url="https://aindien.com/media/posts/56/making-decisions-in-c-0.jpg" medium="image" />
+            <category term="C++"/>
+
+        <updated>2021-08-02T16:12:28-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/56/making-decisions-in-c-0.jpg" alt="" />
+                    <p>Making decisions in C++ require the developer to specify one or more conditions to be evaluated by the program. </p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Managing Files In A Linux Environment</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/managing-files-in-a-linux-environment.html"/>
+        <id>https://aindien.com/managing-files-in-a-linux-environment.html</id>
+        <media:content url="https://aindien.com/media/posts/55/managing-files-linux-0.jpg" medium="image" />
+            <category term="Linux"/>
+
+        <updated>2021-07-15T23:08:56-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/55/managing-files-linux-0.jpg" alt="" />
+                    <p data-pm-slice="0 0 []">This article gives you a foundation for managing files in a Linux environment.</p>
 
                 ]]>
             </summary>
