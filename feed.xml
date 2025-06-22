@@ -3,12 +3,112 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-24T13:44:24-05:00</updated>
+    <updated>2024-09-24T13:47:58-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Step by Step Excel 2016 Tutorial</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/step-by-step-excel-2016-tutorial.html"/>
+        <id>https://aindien.com/step-by-step-excel-2016-tutorial.html</id>
+        <media:content url="https://aindien.com/media/posts/20/excel0.png" medium="image" />
+            <category term="Office 365"/>
+
+        <updated>2017-08-26T14:53:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/20/excel0.png" alt="" />
+                    <p>These are my notes on a step by step Excel 20126 tutorial.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Network Basics: Easy Addressing and Routing</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/network-basics-easy-addressing-and-routing.html"/>
+        <id>https://aindien.com/network-basics-easy-addressing-and-routing.html</id>
+        <media:content url="https://aindien.com/media/posts/19/addressing0.png" medium="image" />
+            <category term="Networking"/>
+
+        <updated>2017-08-20T21:34:18-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/19/addressing0.png" alt="" />
+                    <p>These are my notes on addressing and routing in networking.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Google Docs Tutorial For Beginners</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/google-docs-tutorial-for-beginners.html"/>
+        <id>https://aindien.com/google-docs-tutorial-for-beginners.html</id>
+        <media:content url="https://aindien.com/media/posts/18/docs0-1.png" medium="image" />
+            <category term="Google Workspace"/>
+
+        <updated>2017-07-29T22:33:24-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/18/docs0-1.png" alt="" />
+                    <p>These are my notes on Google Docs for Beginners.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How The OSI Model Works</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-the-osi-model-works.html"/>
+        <id>https://aindien.com/how-the-osi-model-works.html</id>
+        <media:content url="https://aindien.com/media/posts/16/OsiModel0.png" medium="image" />
+            <category term="Networking"/>
+
+        <updated>2017-07-12T17:49:16-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/16/OsiModel0.png" alt="" />
+                    <p>The OSI model is a theoretical framework on how networking works. It tries to tie together all of the different protocols that we depend on today to use the internet. In this guide I explain what it is in as much detail as I can and how it is used because knowing how the OSI model works can be very useful.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How To Use The Computer Management Tools In Windows 10</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-use-the-computer-management-tools-in-windows-10.html"/>
+        <id>https://aindien.com/how-to-use-the-computer-management-tools-in-windows-10.html</id>
+        <media:content url="https://aindien.com/media/posts/15/AdminTools0.png" medium="image" />
+            <category term="Networking"/>
+
+        <updated>2017-07-03T17:14:16-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/15/AdminTools0.png" alt="" />
+                    <p>In this article I am going to show you how to use the Computer Management Tools in Windows 10.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Read Data From A File With C++</title>
         <author>
@@ -104,106 +204,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/10/outlook0.png" alt="" />
                     <p>The Microsoft Office suite of products has always been one of the most popular. Its email program, Outlook, is well loved by many. Almost every<a href="http://aindien.com/get-staff-submit-work-tickets.html"> IT department </a>uses this and supports it for their users. In this article I talk about a lot of the cool things that help your productivity and save you time. These are my 15 tips for Outlook 2016.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Computer Networking: Networking Hardware</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/computer-networking-networking-hardware.html"/>
-        <id>https://aindien.com/computer-networking-networking-hardware.html</id>
-        <media:content url="https://aindien.com/media/posts/8/nh0-1.png" medium="image" />
-            <category term="Networking"/>
-
-        <updated>2016-12-03T11:37:30-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/8/nh0-1.png" alt="" />
-                    <p>These are my notes on networking hardware.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Networking Basics: Physical Topologies</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/networking-basics-physical-topologies.html"/>
-        <id>https://aindien.com/networking-basics-physical-topologies.html</id>
-        <media:content url="https://aindien.com/media/posts/7/nt0-3.png" medium="image" />
-            <category term="Networking"/>
-
-        <updated>2016-11-03T22:56:49-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/7/nt0-3.png" alt="" />
-                    <p>These are my notes on physical topologies in Networking.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Make The Jump To System Administrator</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-make-the-jump-to-system-administrator.html"/>
-        <id>https://aindien.com/how-to-make-the-jump-to-system-administrator.html</id>
-        <media:content url="https://aindien.com/media/posts/5/sysadmin0-2.png" medium="image" />
-            <category term="Windows"/>
-
-        <updated>2016-10-28T23:52:00-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/5/sysadmin0-2.png" alt="" />
-                    <p style="text-align: left;">Making the jump to system administrator in the Windows world can eventually be one of the highest paying jobs in the IT industry. It is quite worthwhile to be working on this. It is a different skill set than fixing computers like the help desk people. There are many who have trouble making the jump though. Here are the things you need to work on for this job title!</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Beginning C++: Making Decisions</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/beginning-c-making-decisions.html"/>
-        <id>https://aindien.com/beginning-c-making-decisions.html</id>
-        <media:content url="https://aindien.com/media/posts/6/decision1.png" medium="image" />
-            <category term="C++"/>
-
-        <updated>2016-10-23T23:27:48-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/6/decision1.png" alt="" />
-                    <p>Making decisions is one of the fundamental activities in any program. Data has to be compared and conditions will have to be evaluated. This is usually the second stage in learning how to program. C++ is just our tool. Regardless, this is one of those concepts that you need to know really well. It will be applied everywhere.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Beginning C++ : Input and Output Basics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/beginning-c-input-and-output-basics.html"/>
-        <id>https://aindien.com/beginning-c-input-and-output-basics.html</id>
-        <media:content url="https://aindien.com/media/posts/4/Banner-2.png" medium="image" />
-            <category term="C++"/>
-
-        <updated>2016-10-09T13:16:23-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/4/Banner-2.png" alt="" />
-                    <p>This is my guide for students just starting with beginning C++. Programming in general is not the easiest thing to do. With just a little effort it can be easy to pick up. I cover the essential basics here with lots of examples.</p>
 
                 ]]>
             </summary>
