@@ -3,187 +3,187 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-24T13:28:53-05:00</updated>
+    <updated>2024-09-24T13:25:26-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
     <entry>
-        <title>Principles of Economics</title>
+        <title>Markets for Factors of Production in Economics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/principles-of-economics-2.html"/>
-        <id>https://aindien.com/principles-of-economics-2.html</id>
+        <link href="https://aindien.com/markets-for-factors-of-production-in-economics.html"/>
+        <id>https://aindien.com/markets-for-factors-of-production-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-07-12T22:56:01-05:00</updated>
+        <updated>2023-08-05T20:48:43-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>These are my notes on principles of economics.</p>
+                    <p><span style="font-weight: 400;">These are my notes on markets for factors of production.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Rsync Introduction</title>
+        <title>Taxes and Regulation in Economics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/rsync-introduction.html"/>
-        <id>https://aindien.com/rsync-introduction.html</id>
-            <category term="Linux"/>
-
-        <updated>2023-07-05T23:02:48-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Here is how to use Rsync with examples.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Getting Started With Microsoft Teams</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/getting-started-with-microsoft-teams.html"/>
-        <id>https://aindien.com/getting-started-with-microsoft-teams.html</id>
-            <category term="Office 365"/>
-
-        <updated>2023-06-16T21:49:33-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">Here are my notes and thoughts on getting started with Microsoft Teams.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Naming Collisions in C++</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/naming-collisions-in-c.html"/>
-        <id>https://aindien.com/naming-collisions-in-c.html</id>
-            <category term="C++"/>
-
-        <updated>2023-05-16T21:48:08-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes and thoughts about naming collisions in C++.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Open Economy Macroeconomics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/open-economy-macroeconomics.html"/>
-        <id>https://aindien.com/open-economy-macroeconomics.html</id>
+        <link href="https://aindien.com/taxes-and-regulation-in-economics.html"/>
+        <id>https://aindien.com/taxes-and-regulation-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-05-11T11:34:24-05:00</updated>
+        <updated>2023-07-31T19:06:34-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on open economy macroeconomics.</span></p>
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on taxes and regulation in Economics.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Macroeconomics and International Trade</title>
+        <title>Externalities and Public Goods in Economics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/macroeconomics-and-international-trade.html"/>
-        <id>https://aindien.com/macroeconomics-and-international-trade.html</id>
+        <link href="https://aindien.com/externalities-and-public-goods-in-economics.html"/>
+        <id>https://aindien.com/externalities-and-public-goods-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-05-10T13:59:15-05:00</updated>
+        <updated>2023-07-30T16:40:34-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on Macroeconomics and International Trade.</span></p>
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on externalities and public goods in economics.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Countercyclical Macroeconomic Policies In Economics</title>
+        <title>Trade in Economics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/countercyclical-macroeconomic-policy.html"/>
-        <id>https://aindien.com/countercyclical-macroeconomic-policy.html</id>
+        <link href="https://aindien.com/trade-in-economics.html"/>
+        <id>https://aindien.com/trade-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-05-09T16:28:34-05:00</updated>
+        <updated>2023-07-30T16:38:43-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on Countercyclical Macroeconomic Policies in Economics.</span></p>
+                    <p>These are my notes and thoughts on trade in economics.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Short-Run Fluctuations in Economics</title>
+        <title>Perfect Competition in Economics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/short-run-fluctuations-in-economics.html"/>
-        <id>https://aindien.com/short-run-fluctuations-in-economics.html</id>
+        <link href="https://aindien.com/perfect-competition-in-economics.html"/>
+        <id>https://aindien.com/perfect-competition-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-05-08T22:40:17-05:00</updated>
+        <updated>2023-07-30T16:31:01-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on short-run fluctuations in economics.</span></p>
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on perfect competition in Economics.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Monetary System in Economics</title>
+        <title>Sellers and Incentives in Economics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/monetary-system-in-economics.html"/>
-        <id>https://aindien.com/monetary-system-in-economics.html</id>
+        <link href="https://aindien.com/sellers-and-incentives-in-economics.html"/>
+        <id>https://aindien.com/sellers-and-incentives-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-05-07T22:37:49-05:00</updated>
+        <updated>2023-07-23T12:55:45-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on the monetary system in economics.</span></p>
+                    <p><span style="font-weight: 400;">Here are my notes and thoughts on sellers and incentives in economics.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Credit Markets In Economics</title>
+        <title>Consumers and Incentives in Economics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/credit-markets-in-economics.html"/>
-        <id>https://aindien.com/credit-markets-in-economics.html</id>
+        <link href="https://aindien.com/consumers-and-incentives-in-economics.html"/>
+        <id>https://aindien.com/consumers-and-incentives-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-05-06T15:20:48-05:00</updated>
+        <updated>2023-07-21T17:45:24-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on credit markets in Economics.</span></p>
+                    <p>Here are my notes and thoughts on consumers and incentives in economics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Demand, Supply, and Equilibrium in Economic</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/demand-supply-and-equilibrium-in-economic.html"/>
+        <id>https://aindien.com/demand-supply-and-equilibrium-in-economic.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-07-16T01:08:22-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>These are my notes and thoughts on demand, supply, and equilibrium in economics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Optimizing Your Decisions in Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/optimizing-your-decisions-in-economics.html"/>
+        <id>https://aindien.com/optimizing-your-decisions-in-economics.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-07-15T16:18:37-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on optimizing your decisions in economics.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Economic Methods</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/economic-methods.html"/>
+        <id>https://aindien.com/economic-methods.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-07-14T23:52:00-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Here are my notes and thoughts on economic methods.</p>
 
                 ]]>
             </summary>
