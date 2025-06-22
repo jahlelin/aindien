@@ -10,6 +10,66 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/using-functions-in-c.html",
+            "url": "https://aindien.com/using-functions-in-c.html",
+            "title": "Using Functions in C++",
+            "summary": "<div>This article is about using functions in C++. Functions reuse code to help solve problems. It is described as doing a small part that can be used elsewhere in your program. Today I want to show you how to do that.</div>\n<div> </div>\n<div> </div>\n<div>",
+            "image": "https://aindien.com/media/posts/31/Using-Functions-in-C.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "C++"
+            ],
+            "date_published": "2020-02-29T08:36:07-06:00",
+            "date_modified": "2024-09-24T13:51:36-05:00"
+        },
+        {
+            "id": "https://aindien.com/what-cloud-computing-really-means.html",
+            "url": "https://aindien.com/what-cloud-computing-really-means.html",
+            "title": "What Cloud Computing Really Means",
+            "summary": "<p>Cloud computing is used a lot these days. Many times people are referring to totally different concepts. When mentioning it, however, there is definitely a disconnect or a lack of understanding of what this means. I will clear some things up and give a good overview of what we are talking about when we say \"cloud computing\".</p>\n",
+            "image": "https://aindien.com/media/posts/30/cloud-computing.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Networking"
+            ],
+            "date_published": "2019-09-27T07:58:40-05:00",
+            "date_modified": "2024-09-24T13:51:16-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-construct-loops-in-c.html",
+            "url": "https://aindien.com/how-to-construct-loops-in-c.html",
+            "title": "How To Construct Loops in C++",
+            "summary": "<p>Today's guide will be over loops in C++. I have been wanting to get to my latest C++ article for a while. So lets break out our favorite text editor and compiler and have some real fun today!</p>\n",
+            "image": "https://aindien.com/media/posts/29/loops-in-c-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "C++"
+            ],
+            "date_published": "2019-07-21T16:30:11-05:00",
+            "date_modified": "2024-09-24T13:50:56-05:00"
+        },
+        {
+            "id": "https://aindien.com/network-management-guide.html",
+            "url": "https://aindien.com/network-management-guide.html",
+            "title": "Network Management Guide",
+            "summary": "<p>In this network management guide I try to talk about the basics of everything that goes into managing and monitoring a network. I will talk about monitoring most aspects of you network along with things to do to help it.</p>\n",
+            "image": "https://aindien.com/media/posts/28/network-management-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Networking"
+            ],
+            "date_published": "2018-06-26T12:56:11-05:00",
+            "date_modified": "2024-09-24T13:50:37-05:00"
+        },
+        {
             "id": "https://aindien.com/hints-on-using-onenote.html",
             "url": "https://aindien.com/hints-on-using-onenote.html",
             "title": "Hints On Using Onenote",
@@ -38,6 +98,21 @@
             ],
             "date_published": "2018-06-15T07:54:45-05:00",
             "date_modified": "2024-09-24T13:49:23-05:00"
+        },
+        {
+            "id": "https://aindien.com/getting-started-with-windows-10-accounts.html",
+            "url": "https://aindien.com/getting-started-with-windows-10-accounts.html",
+            "title": "Getting Started With Windows 10 Accounts",
+            "summary": "<p>Getting started with Windows 10 accounts is easy. There is a lot to Microsoft's new operating system and it changes constantly. It has been out a while now but it seems that the major changes are over for a while. So now is a good time to talk about user accounts.  In this article I will go over the things you need to have a great experience with it.</p>\n",
+            "image": "https://aindien.com/media/posts/26/IMG_20180417_082431-1.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Windows"
+            ],
+            "date_published": "2018-04-17T07:44:17-05:00",
+            "date_modified": "2024-09-24T13:48:47-05:00"
         },
         {
             "id": "https://aindien.com/guide-to-network-communications.html",
@@ -83,81 +158,6 @@
             ],
             "date_published": "2017-10-08T20:18:33-05:00",
             "date_modified": "2024-09-24T13:48:10-05:00"
-        },
-        {
-            "id": "https://aindien.com/step-by-step-excel-2016-tutorial.html",
-            "url": "https://aindien.com/step-by-step-excel-2016-tutorial.html",
-            "title": "Step by Step Excel 2016 Tutorial",
-            "summary": "<p>These are my notes on a step by step Excel 20126 tutorial.</p>\n",
-            "image": "https://aindien.com/media/posts/20/excel0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Office 365"
-            ],
-            "date_published": "2017-08-26T14:53:29-05:00",
-            "date_modified": "2024-09-24T13:47:58-05:00"
-        },
-        {
-            "id": "https://aindien.com/network-basics-easy-addressing-and-routing.html",
-            "url": "https://aindien.com/network-basics-easy-addressing-and-routing.html",
-            "title": "Network Basics: Easy Addressing and Routing",
-            "summary": "<p>These are my notes on addressing and routing in networking.</p>\n",
-            "image": "https://aindien.com/media/posts/19/addressing0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Networking"
-            ],
-            "date_published": "2017-08-20T21:34:18-05:00",
-            "date_modified": "2024-09-24T13:46:56-05:00"
-        },
-        {
-            "id": "https://aindien.com/google-docs-tutorial-for-beginners.html",
-            "url": "https://aindien.com/google-docs-tutorial-for-beginners.html",
-            "title": "Google Docs Tutorial For Beginners",
-            "summary": "<p>These are my notes on Google Docs for Beginners.</p>\n",
-            "image": "https://aindien.com/media/posts/18/docs0-1.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Google Workspace"
-            ],
-            "date_published": "2017-07-29T22:33:24-05:00",
-            "date_modified": "2024-09-24T13:45:53-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-the-osi-model-works.html",
-            "url": "https://aindien.com/how-the-osi-model-works.html",
-            "title": "How The OSI Model Works",
-            "summary": "<p>The OSI model is a theoretical framework on how networking works. It tries to tie together all of the different protocols that we depend on today to use the internet. In this guide I explain what it is in as much detail as I can and how it is used because knowing how the OSI model works can be very useful.</p>\n",
-            "image": "https://aindien.com/media/posts/16/OsiModel0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Networking"
-            ],
-            "date_published": "2017-07-12T17:49:16-05:00",
-            "date_modified": "2024-09-24T13:45:14-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-use-the-computer-management-tools-in-windows-10.html",
-            "url": "https://aindien.com/how-to-use-the-computer-management-tools-in-windows-10.html",
-            "title": "How To Use The Computer Management Tools In Windows 10",
-            "summary": "<p>In this article I am going to show you how to use the Computer Management Tools in Windows 10.</p>\n",
-            "image": "https://aindien.com/media/posts/15/AdminTools0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Networking"
-            ],
-            "date_published": "2017-07-03T17:14:16-05:00",
-            "date_modified": "2024-09-24T13:45:01-05:00"
         }
     ]
 }
