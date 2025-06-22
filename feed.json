@@ -10,153 +10,154 @@
     },
     "items": [
         {
-            "id": "https://aindien.com/working-with-files-in-linux.html",
-            "url": "https://aindien.com/working-with-files-in-linux.html",
-            "title": "Working With Files In Linux",
-            "summary": "<p>These are my notes on working with files in linux.</p>\n",
-            "image": "https://aindien.com/media/posts/166/trianglify-lowres1.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2024-07-15T17:03:04-05:00",
-            "date_modified": "2024-09-24T00:04:18-05:00"
-        },
-        {
-            "id": "https://aindien.com/markdown-introduction.html",
-            "url": "https://aindien.com/markdown-introduction.html",
-            "title": "Markdown Introduction",
-            "summary": "<p>These are my notes on markdown intro.</p>\n",
-            "image": "https://aindien.com/media/posts/165/trianglify-lowres2.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-07-15T17:00:39-05:00",
-            "date_modified": "2024-09-24T00:04:28-05:00"
-        },
-        {
-            "id": "https://aindien.com/callbacks-in-python.html",
-            "url": "https://aindien.com/callbacks-in-python.html",
-            "title": "Callbacks In Python",
-            "summary": "<p>These are my notes on callbacks in Python.</p>\n",
-            "image": "https://aindien.com/media/posts/164/trianglify-lowres9.png",
+            "id": "https://aindien.com/using-strings-in-python.html",
+            "url": "https://aindien.com/using-strings-in-python.html",
+            "title": "Using Strings in Python",
+            "summary": "<p>These are my notes on using strings in python. </p>\n",
+            "image": "https://aindien.com/media/posts/179/trianglify-lowres8.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Python"
             ],
-            "date_published": "2024-07-08T21:32:19-05:00",
-            "date_modified": "2024-09-24T00:04:37-05:00"
+            "date_published": "2024-09-15T15:18:35-05:00",
+            "date_modified": "2024-09-24T00:02:22-05:00"
         },
         {
-            "id": "https://aindien.com/vim-basics.html",
-            "url": "https://aindien.com/vim-basics.html",
-            "title": "Vim Basics",
-            "summary": "<p class=\"code highlight\" lang=\"plaintext\"><span class=\"\">These are my notes on Vim Basics.<br><br></span></p>\n",
-            "image": "https://aindien.com/media/posts/163/trianglify-lowres11.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2024-07-08T02:26:16-05:00",
-            "date_modified": "2024-09-24T00:04:46-05:00"
-        },
-        {
-            "id": "https://aindien.com/scope-of-functions-in-python.html",
-            "url": "https://aindien.com/scope-of-functions-in-python.html",
-            "title": "Scope of Functions in Python",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on the scope of functions in Python.</span></p>\n",
-            "image": "https://aindien.com/media/posts/162/trianglify-lowres.png",
+            "id": "https://aindien.com/using-modules-in-python.html",
+            "url": "https://aindien.com/using-modules-in-python.html",
+            "title": "Using Modules in Python",
+            "summary": "<p>This is my guide on using modules in python.</p>\n",
+            "image": "https://aindien.com/media/posts/178/trianglify-lowres8.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Python"
             ],
-            "date_published": "2024-06-22T18:17:23-05:00",
-            "date_modified": "2024-09-24T00:04:55-05:00"
+            "date_published": "2024-09-12T16:40:30-05:00",
+            "date_modified": "2024-09-24T00:02:31-05:00"
         },
         {
-            "id": "https://aindien.com/rstudio-tutorial.html",
-            "url": "https://aindien.com/rstudio-tutorial.html",
-            "title": "Rstudio Tutorial",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on Rstudio tutorial.</span></p>\n",
-            "image": "https://aindien.com/media/posts/161/trianglify-lowres1.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "R"
-            ],
-            "date_published": "2024-06-20T22:49:12-05:00",
-            "date_modified": "2024-09-24T13:16:56-05:00"
-        },
-        {
-            "id": "https://aindien.com/exploring-your-linux-system.html",
-            "url": "https://aindien.com/exploring-your-linux-system.html",
-            "title": "Exploring Your Linux System",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on finding your way around your Linux system.</span></p>\n",
-            "image": "https://aindien.com/media/posts/160/trianglify-lowres2.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2024-05-17T17:52:42-05:00",
-            "date_modified": "2024-09-24T13:17:07-05:00"
-        },
-        {
-            "id": "https://aindien.com/management-tools-for-aws.html",
-            "url": "https://aindien.com/management-tools-for-aws.html",
-            "title": "Management Tools for AWS",
-            "summary": "<p>These are my notes and thoughts on management tools for AWS.</p>\n",
-            "image": "https://aindien.com/media/posts/159/trianglify-lowres3.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Cloud Computing"
-            ],
-            "date_published": "2024-05-14T18:52:06-05:00",
-            "date_modified": "2024-09-24T13:17:18-05:00"
-        },
-        {
-            "id": "https://aindien.com/working-with-git-remotes.html",
-            "url": "https://aindien.com/working-with-git-remotes.html",
-            "title": "Working With Git Remotes",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on Git remotes.</span></p>\n",
-            "image": "https://aindien.com/media/posts/158/trianglify-lowres4.png",
+            "id": "https://aindien.com/aliases-in-git.html",
+            "url": "https://aindien.com/aliases-in-git.html",
+            "title": "Aliases in Git",
+            "summary": "<p>These are my notes on aliases in git.</p>\n",
+            "image": "https://aindien.com/media/posts/177/trianglify-lowres6.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Git"
             ],
-            "date_published": "2024-05-08T21:14:18-05:00",
-            "date_modified": "2024-09-24T13:17:28-05:00"
+            "date_published": "2024-08-25T13:34:03-05:00",
+            "date_modified": "2024-09-24T00:02:41-05:00"
         },
         {
-            "id": "https://aindien.com/branching-in-python.html",
-            "url": "https://aindien.com/branching-in-python.html",
-            "title": "Branching in Python",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on branching in Python.</span></p>\n",
-            "image": "https://aindien.com/media/posts/157/trianglify-lowres5.png",
+            "id": "https://aindien.com/sharing-your-home-network.html",
+            "url": "https://aindien.com/sharing-your-home-network.html",
+            "title": "Sharing Your Home Network",
+            "summary": "<p>These are my notes and worked examples on sharing your home network.</p>\n",
+            "image": "https://aindien.com/media/posts/176/trianglify-lowres6.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Networking"
+            ],
+            "date_published": "2024-08-22T20:16:29-05:00",
+            "date_modified": "2024-09-24T00:02:52-05:00"
+        },
+        {
+            "id": "https://aindien.com/modeling-data-in-sql.html",
+            "url": "https://aindien.com/modeling-data-in-sql.html",
+            "title": "Modeling Data in SQL",
+            "summary": "<p>There are my notes on modeling data in sql.</p>\n",
+            "image": "https://aindien.com/media/posts/175/trianglify-lowres6.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "SQL"
+            ],
+            "date_published": "2024-08-21T14:16:12-05:00",
+            "date_modified": "2024-09-24T00:03:02-05:00"
+        },
+        {
+            "id": "https://aindien.com/worksheet-data-in-excel.html",
+            "url": "https://aindien.com/worksheet-data-in-excel.html",
+            "title": "Worksheet Data in Excel",
+            "summary": "<p>These are my notes on worksheet data in excel.</p>\n",
+            "image": "https://aindien.com/media/posts/174/trianglify-lowres6.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Excel"
+            ],
+            "date_published": "2024-08-18T16:19:39-05:00",
+            "date_modified": "2024-09-24T00:03:11-05:00"
+        },
+        {
+            "id": "https://aindien.com/commands-in-linux.html",
+            "url": "https://aindien.com/commands-in-linux.html",
+            "title": "Commands in Linux",
+            "summary": "<p>These are my notes on commands in linux.</p>\n",
+            "image": "https://aindien.com/media/posts/173/trianglify-lowres6.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2024-08-15T20:02:08-05:00",
+            "date_modified": "2024-09-24T00:03:22-05:00"
+        },
+        {
+            "id": "https://aindien.com/exception-in-python.html",
+            "url": "https://aindien.com/exception-in-python.html",
+            "title": "Exceptions in Python",
+            "summary": "<p>These are my notes on exceptions in python.</p>\n",
+            "image": "https://aindien.com/media/posts/172/trianglify-lowres3.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Python"
             ],
-            "date_published": "2024-05-04T18:57:34-05:00",
-            "date_modified": "2024-09-24T13:17:39-05:00"
+            "date_published": "2024-08-12T21:43:51-05:00",
+            "date_modified": "2024-09-24T00:03:31-05:00"
+        },
+        {
+            "id": "https://aindien.com/tagging-with-git.html",
+            "url": "https://aindien.com/tagging-with-git.html",
+            "title": "Tagging With Git",
+            "summary": "<p>These are my notes on Tagging With Git.</p>\n",
+            "image": "https://aindien.com/media/posts/171/trianglify-lowres7.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Git"
+            ],
+            "date_published": "2024-07-22T13:28:26-05:00",
+            "date_modified": "2024-09-24T00:03:40-05:00"
+        },
+        {
+            "id": "https://aindien.com/intro-to-networking.html",
+            "url": "https://aindien.com/intro-to-networking.html",
+            "title": "Intro To Networking",
+            "summary": "<p>These are my notes on Intro To Networking.</p>\n",
+            "image": "https://aindien.com/media/posts/170/trianglify-lowres7.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Networking"
+            ],
+            "date_published": "2024-07-21T20:11:08-05:00",
+            "date_modified": "2024-09-24T00:03:49-05:00"
         }
     ]
 }
