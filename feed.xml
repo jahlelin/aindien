@@ -3,187 +3,193 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-24T13:25:26-05:00</updated>
+    <updated>2024-09-24T13:22:51-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
     <entry>
-        <title>Markets for Factors of Production in Economics</title>
+        <title>Getting Started With Python</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/markets-for-factors-of-production-in-economics.html"/>
-        <id>https://aindien.com/markets-for-factors-of-production-in-economics.html</id>
-            <category term="Economics"/>
+        <link href="https://aindien.com/getting-started-with-python.html"/>
+        <id>https://aindien.com/getting-started-with-python.html</id>
+        <media:content url="https://aindien.com/media/posts/143/bg4.png" medium="image" />
+            <category term="Python"/>
 
-        <updated>2023-08-05T20:48:43-05:00</updated>
+        <updated>2023-12-23T16:31:05-06:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on markets for factors of production.</span></p>
+                        <img src="https://aindien.com/media/posts/143/bg4.png" alt="" />
+                    <p>These are my notes on getting started with Python.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Taxes and Regulation in Economics</title>
+        <title>Social Economics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/taxes-and-regulation-in-economics.html"/>
-        <id>https://aindien.com/taxes-and-regulation-in-economics.html</id>
+        <link href="https://aindien.com/social-economics.html"/>
+        <id>https://aindien.com/social-economics.html</id>
+        <media:content url="https://aindien.com/media/posts/141/bg2.png" medium="image" />
             <category term="Economics"/>
 
-        <updated>2023-07-31T19:06:34-05:00</updated>
+        <updated>2023-12-09T22:33:35-06:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes and thoughts on taxes and regulation in Economics.</span></p>
+                        <img src="https://aindien.com/media/posts/141/bg2.png" alt="" />
+                    <p><span style="font-weight: 400;">These are my notes on social economics.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Externalities and Public Goods in Economics</title>
+        <title>R Functions For Statistics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/externalities-and-public-goods-in-economics.html"/>
-        <id>https://aindien.com/externalities-and-public-goods-in-economics.html</id>
-            <category term="Economics"/>
+        <link href="https://aindien.com/r-functions-for-statistics.html"/>
+        <id>https://aindien.com/r-functions-for-statistics.html</id>
+        <media:content url="https://aindien.com/media/posts/140/bg1.jpg" medium="image" />
+            <category term="R"/>
 
-        <updated>2023-07-30T16:40:34-05:00</updated>
+        <updated>2023-11-05T21:28:59-06:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes and thoughts on externalities and public goods in economics.</span></p>
+                        <img src="https://aindien.com/media/posts/140/bg1.jpg" alt="" />
+                    <p>These are some useful R functions for statistics.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Trade in Economics</title>
+        <title>Vectorizing Your Functions In R</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/trade-in-economics.html"/>
-        <id>https://aindien.com/trade-in-economics.html</id>
-            <category term="Economics"/>
+        <link href="https://aindien.com/vectorizing-your-functions-in-r.html"/>
+        <id>https://aindien.com/vectorizing-your-functions-in-r.html</id>
+            <category term="R"/>
 
-        <updated>2023-07-30T16:38:43-05:00</updated>
+        <updated>2023-09-07T19:06:56-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>These are my notes and thoughts on trade in economics.</p>
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on vectorizing your functions in R.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Perfect Competition in Economics</title>
+        <title>Auctions and Bargaining in Economics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/perfect-competition-in-economics.html"/>
-        <id>https://aindien.com/perfect-competition-in-economics.html</id>
+        <link href="https://aindien.com/auctions-and-bargaining-in-economics.html"/>
+        <id>https://aindien.com/auctions-and-bargaining-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-07-30T16:31:01-05:00</updated>
+        <updated>2023-08-24T18:39:44-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes and thoughts on perfect competition in Economics.</span></p>
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on auctions and bargaining in Economics.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Sellers and Incentives in Economics</title>
+        <title>The Economics of Information</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/sellers-and-incentives-in-economics.html"/>
-        <id>https://aindien.com/sellers-and-incentives-in-economics.html</id>
+        <link href="https://aindien.com/the-economics-of-information.html"/>
+        <id>https://aindien.com/the-economics-of-information.html</id>
             <category term="Economics"/>
 
-        <updated>2023-07-23T12:55:45-05:00</updated>
+        <updated>2023-08-11T16:17:39-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">Here are my notes and thoughts on sellers and incentives in economics.</span></p>
+                    <p><span style="font-weight: 400;">Here are my notes and thoughts on Economics of Information.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Consumers and Incentives in Economics</title>
+        <title>Trade-Offs Involving Time and Risk in Economics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/consumers-and-incentives-in-economics.html"/>
-        <id>https://aindien.com/consumers-and-incentives-in-economics.html</id>
+        <link href="https://aindien.com/trade-offs-involving-time-and-risk-in-economics.html"/>
+        <id>https://aindien.com/trade-offs-involving-time-and-risk-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-07-21T17:45:24-05:00</updated>
+        <updated>2023-08-11T09:11:00-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>Here are my notes and thoughts on consumers and incentives in economics.</p>
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on trade-offs involving time and risk in economics.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Demand, Supply, and Equilibrium in Economic</title>
+        <title>Oligopoly and Monopolistic Competition in Economics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/demand-supply-and-equilibrium-in-economic.html"/>
-        <id>https://aindien.com/demand-supply-and-equilibrium-in-economic.html</id>
+        <link href="https://aindien.com/oligopoly-and-monopolistic-competition-in-economics.html"/>
+        <id>https://aindien.com/oligopoly-and-monopolistic-competition-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-07-16T01:08:22-05:00</updated>
+        <updated>2023-08-09T20:29:46-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>These are my notes and thoughts on demand, supply, and equilibrium in economics.</p>
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on oligopoly and monopolistic competition in economics.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Optimizing Your Decisions in Economics</title>
+        <title>Game Theory and Strategic Play in Economics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/optimizing-your-decisions-in-economics.html"/>
-        <id>https://aindien.com/optimizing-your-decisions-in-economics.html</id>
+        <link href="https://aindien.com/game-theory-and-strategic-play-in-economics.html"/>
+        <id>https://aindien.com/game-theory-and-strategic-play-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-07-15T16:18:37-05:00</updated>
+        <updated>2023-08-08T23:34:44-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes and thoughts on optimizing your decisions in economics.</span></p>
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on game theory and strategic play in economics.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Economic Methods</title>
+        <title>Monopoly Market Structures in Economics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/economic-methods.html"/>
-        <id>https://aindien.com/economic-methods.html</id>
+        <link href="https://aindien.com/monopoly-market-structures-in-economics.html"/>
+        <id>https://aindien.com/monopoly-market-structures-in-economics.html</id>
             <category term="Economics"/>
 
-        <updated>2023-07-14T23:52:00-05:00</updated>
+        <updated>2023-08-07T23:48:17-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>Here are my notes and thoughts on economic methods.</p>
+                    <p>These are my notes and thoughts on monopoly market structures in Economics.</p>
 
                 ]]>
             </summary>
