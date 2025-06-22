@@ -10,6 +10,81 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/using-vectors-in-c.html",
+            "url": "https://aindien.com/using-vectors-in-c.html",
+            "title": "Using Vectors In C++",
+            "summary": "<p>The Vector container in C++ is very useful. It will be the better option when you want to store data in an array. Vector has several advantages over a traditional array structure. This makes it more flexible.</p>\n",
+            "image": "https://aindien.com/media/posts/38/using-vectors-in-c-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "C++"
+            ],
+            "date_published": "2020-09-13T15:22:17-05:00",
+            "date_modified": "2024-09-24T13:53:06-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-use-zoom-securely.html",
+            "url": "https://aindien.com/how-to-use-zoom-securely.html",
+            "title": "How To Use Zoom Securely",
+            "summary": "<p data-pm-slice=\"0 0 []\">With many people having to work from home, Zoom has become an important solution. Since remote work is now so popular, it is vital to understand how to be safe.</p>\n",
+            "image": "https://aindien.com/media/posts/37/how-to-use-zoom-securely-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Windows"
+            ],
+            "date_published": "2020-08-24T21:19:05-05:00",
+            "date_modified": "2024-09-24T13:52:50-05:00"
+        },
+        {
+            "id": "https://aindien.com/intro-to-network-security.html",
+            "url": "https://aindien.com/intro-to-network-security.html",
+            "title": "Intro To Network Security",
+            "summary": "<p data-pm-slice=\"1 1 []\">In today’s topic, Intro to Network Security, I am going to discuss the different ways you keep yourself and your network safe. As criminals are always trying to penetrate your network, it is important to have a good foundation concerning security.</p>\n",
+            "image": "https://aindien.com/media/posts/36/network-security-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Networking"
+            ],
+            "date_published": "2020-08-10T21:49:32-05:00",
+            "date_modified": "2024-09-24T13:52:35-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-start-with-arrays-in-c.html",
+            "url": "https://aindien.com/how-to-start-with-arrays-in-c.html",
+            "title": "How To Start With Arrays In C++",
+            "summary": "<p data-pm-slice=\"1 1 []\">This article is over arrays in c++ and how to get started with them. I will show you how to initialize them and then examples of some basic tasks.</p>\n",
+            "image": "https://aindien.com/media/posts/34/arrays0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "C++"
+            ],
+            "date_published": "2020-08-02T18:48:05-05:00",
+            "date_modified": "2024-09-24T13:52:12-05:00"
+        },
+        {
+            "id": "https://aindien.com/elements-of-unified-communications.html",
+            "url": "https://aindien.com/elements-of-unified-communications.html",
+            "title": "Elements Of Unified Communications",
+            "summary": "<div>Unified communications is an important buzzword these days. It can mean several different things. There are some things in common though. Almost all implementations include messaging, VOIP, and some sort of collaboration. I want to talk about those today. </div>\n<div> </div>\n<div>",
+            "image": "https://aindien.com/media/posts/32/Unified-Communications-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Networking"
+            ],
+            "date_published": "2020-05-19T13:49:36-05:00",
+            "date_modified": "2024-09-24T13:51:50-05:00"
+        },
+        {
             "id": "https://aindien.com/using-functions-in-c.html",
             "url": "https://aindien.com/using-functions-in-c.html",
             "title": "Using Functions in C++",
@@ -83,81 +158,6 @@
             ],
             "date_published": "2018-06-20T07:58:37-05:00",
             "date_modified": "2024-09-24T13:50:15-05:00"
-        },
-        {
-            "id": "https://aindien.com/guide-to-digital-analytics-principles.html",
-            "url": "https://aindien.com/guide-to-digital-analytics-principles.html",
-            "title": "Guide To Digital Analytics Principles",
-            "summary": "<p>Digital analytics principles is all the rage these days. It is easy to understand why. When you have a website you need to know exactly what your visitors are doing. You need to know where they are going and what buttons they are clicking on.This is where Analytics comes in. It is an extremely useful tool but you need to know how to use it. In this article I talk about terms, how to get started, and using it to your website's advantage.</p>\n",
-            "image": "https://aindien.com/media/posts/25/digital-analytics-principles0.jpeg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Windows"
-            ],
-            "date_published": "2018-06-15T07:54:45-05:00",
-            "date_modified": "2024-09-24T13:49:23-05:00"
-        },
-        {
-            "id": "https://aindien.com/getting-started-with-windows-10-accounts.html",
-            "url": "https://aindien.com/getting-started-with-windows-10-accounts.html",
-            "title": "Getting Started With Windows 10 Accounts",
-            "summary": "<p>Getting started with Windows 10 accounts is easy. There is a lot to Microsoft's new operating system and it changes constantly. It has been out a while now but it seems that the major changes are over for a while. So now is a good time to talk about user accounts.  In this article I will go over the things you need to have a great experience with it.</p>\n",
-            "image": "https://aindien.com/media/posts/26/IMG_20180417_082431-1.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Windows"
-            ],
-            "date_published": "2018-04-17T07:44:17-05:00",
-            "date_modified": "2024-09-24T13:48:47-05:00"
-        },
-        {
-            "id": "https://aindien.com/guide-to-network-communications.html",
-            "url": "https://aindien.com/guide-to-network-communications.html",
-            "title": "Guide To Network Communications",
-            "summary": "<p> </p>\n<p>A computer network can handle a lot of different roles these days. Essentially it pushes data around to devices and controls what happens. Some of the more interesting uses for a network now is VOIP communications and video conferencing. In this guide to network communications I go over some of those details.</p>\n<p> </p>\n",
-            "image": "https://aindien.com/media/posts/24/network_communications.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Networking"
-            ],
-            "date_published": "2018-02-21T21:30:32-06:00",
-            "date_modified": "2024-09-24T13:49:43-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-use-raid-on-your-computer.html",
-            "url": "https://aindien.com/how-to-use-raid-on-your-computer.html",
-            "title": "How To Use Raid On Your Computer",
-            "summary": "<p>How to use Raid on your computer is a guide explaining what Raid is and how you should approach it. I talk about how to get started with it and descriptions of the various types. It can be a tough decision as to whether you should use as hardware controller or software but I talk about this as well.</p>\n",
-            "image": "https://aindien.com/media/posts/22/how-to-use-raid-in-your-computer-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2017-10-18T20:58:41-05:00",
-            "date_modified": "2024-09-24T13:48:22-05:00"
-        },
-        {
-            "id": "https://aindien.com/computer-networking-devices.html",
-            "url": "https://aindien.com/computer-networking-devices.html",
-            "title": "Computer Networking Devices",
-            "summary": "<p>I have talked about computer networking devices before in previous articles. Today, however, I will go into more detail and cover some of the more common devices in more depth. The most common devices are access points, routers, firewalls, and switches. In their respective sections I want to discuss some of the details that I had to leave out before.</p>\n",
-            "image": "https://aindien.com/media/posts/21/computer-networking-devices-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Networking"
-            ],
-            "date_published": "2017-10-08T20:18:33-05:00",
-            "date_modified": "2024-09-24T13:48:10-05:00"
         }
     ]
 }

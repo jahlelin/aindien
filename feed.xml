@@ -3,12 +3,113 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-24T13:51:36-05:00</updated>
+    <updated>2024-09-24T13:53:06-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Using Vectors In C++</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/using-vectors-in-c.html"/>
+        <id>https://aindien.com/using-vectors-in-c.html</id>
+        <media:content url="https://aindien.com/media/posts/38/using-vectors-in-c-0.png" medium="image" />
+            <category term="C++"/>
+
+        <updated>2020-09-13T15:22:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/38/using-vectors-in-c-0.png" alt="using vectors in c++" />
+                    <p>The Vector container in C++ is very useful. It will be the better option when you want to store data in an array. Vector has several advantages over a traditional array structure. This makes it more flexible.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How To Use Zoom Securely</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-use-zoom-securely.html"/>
+        <id>https://aindien.com/how-to-use-zoom-securely.html</id>
+        <media:content url="https://aindien.com/media/posts/37/how-to-use-zoom-securely-0.png" medium="image" />
+            <category term="Windows"/>
+
+        <updated>2020-08-24T21:19:05-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/37/how-to-use-zoom-securely-0.png" alt="how to use zoom securely 0" />
+                    <p data-pm-slice="0 0 []">With many people having to work from home, Zoom has become an important solution. Since remote work is now so popular, it is vital to understand how to be safe.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Intro To Network Security</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/intro-to-network-security.html"/>
+        <id>https://aindien.com/intro-to-network-security.html</id>
+        <media:content url="https://aindien.com/media/posts/36/network-security-0.jpg" medium="image" />
+            <category term="Networking"/>
+
+        <updated>2020-08-10T21:49:32-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/36/network-security-0.jpg" alt="network security 0" />
+                    <p data-pm-slice="1 1 []">In today’s topic, Intro to Network Security, I am going to discuss the different ways you keep yourself and your network safe. As criminals are always trying to penetrate your network, it is important to have a good foundation concerning security.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How To Start With Arrays In C++</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-start-with-arrays-in-c.html"/>
+        <id>https://aindien.com/how-to-start-with-arrays-in-c.html</id>
+        <media:content url="https://aindien.com/media/posts/34/arrays0.png" medium="image" />
+            <category term="C++"/>
+
+        <updated>2020-08-02T18:48:05-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/34/arrays0.png" alt="" />
+                    <p data-pm-slice="1 1 []">This article is over arrays in c++ and how to get started with them. I will show you how to initialize them and then examples of some basic tasks.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Elements Of Unified Communications</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/elements-of-unified-communications.html"/>
+        <id>https://aindien.com/elements-of-unified-communications.html</id>
+        <media:content url="https://aindien.com/media/posts/32/Unified-Communications-0.png" medium="image" />
+            <category term="Networking"/>
+
+        <updated>2020-05-19T13:49:36-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/32/Unified-Communications-0.png" alt="" />
+                    <div>Unified communications is an important buzzword these days. It can mean several different things. There are some things in common though. Almost all implementations include messaging, VOIP, and some sort of collaboration. I want to talk about those today. </div>
+<div> </div>
+<div>
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Using Functions in C++</title>
         <author>
@@ -106,108 +207,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/23/hints-on-using-onenote0-1.png" alt="" />
                     <p>In this article I am going to give you some hints on using OneNote from Microsoft Office. OneNote is a great program to keep detailed records, a journal, documentation, or even a simple checklist. It has a lot of uses for a lot of people. Since you can customize the workflow in it almost anyone can make use of it.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Guide To Digital Analytics Principles</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/guide-to-digital-analytics-principles.html"/>
-        <id>https://aindien.com/guide-to-digital-analytics-principles.html</id>
-        <media:content url="https://aindien.com/media/posts/25/digital-analytics-principles0.jpeg" medium="image" />
-            <category term="Windows"/>
-
-        <updated>2018-06-15T07:54:45-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/25/digital-analytics-principles0.jpeg" alt="" />
-                    <p>Digital analytics principles is all the rage these days. It is easy to understand why. When you have a website you need to know exactly what your visitors are doing. You need to know where they are going and what buttons they are clicking on.This is where Analytics comes in. It is an extremely useful tool but you need to know how to use it. In this article I talk about terms, how to get started, and using it to your website's advantage.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Getting Started With Windows 10 Accounts</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/getting-started-with-windows-10-accounts.html"/>
-        <id>https://aindien.com/getting-started-with-windows-10-accounts.html</id>
-        <media:content url="https://aindien.com/media/posts/26/IMG_20180417_082431-1.jpg" medium="image" />
-            <category term="Windows"/>
-
-        <updated>2018-04-17T07:44:17-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/26/IMG_20180417_082431-1.jpg" alt="" />
-                    <p>Getting started with Windows 10 accounts is easy. There is a lot to Microsoft's new operating system and it changes constantly. It has been out a while now but it seems that the major changes are over for a while. So now is a good time to talk about user accounts.  In this article I will go over the things you need to have a great experience with it.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Guide To Network Communications</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/guide-to-network-communications.html"/>
-        <id>https://aindien.com/guide-to-network-communications.html</id>
-        <media:content url="https://aindien.com/media/posts/24/network_communications.png" medium="image" />
-            <category term="Networking"/>
-
-        <updated>2018-02-21T21:30:32-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/24/network_communications.png" alt="" />
-                    <p> </p>
-<p>A computer network can handle a lot of different roles these days. Essentially it pushes data around to devices and controls what happens. Some of the more interesting uses for a network now is VOIP communications and video conferencing. In this guide to network communications I go over some of those details.</p>
-<p> </p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Use Raid On Your Computer</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-use-raid-on-your-computer.html"/>
-        <id>https://aindien.com/how-to-use-raid-on-your-computer.html</id>
-        <media:content url="https://aindien.com/media/posts/22/how-to-use-raid-in-your-computer-0.png" medium="image" />
-            <category term="Linux"/>
-
-        <updated>2017-10-18T20:58:41-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/22/how-to-use-raid-in-your-computer-0.png" alt="" />
-                    <p>How to use Raid on your computer is a guide explaining what Raid is and how you should approach it. I talk about how to get started with it and descriptions of the various types. It can be a tough decision as to whether you should use as hardware controller or software but I talk about this as well.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Computer Networking Devices</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/computer-networking-devices.html"/>
-        <id>https://aindien.com/computer-networking-devices.html</id>
-        <media:content url="https://aindien.com/media/posts/21/computer-networking-devices-0.png" medium="image" />
-            <category term="Networking"/>
-
-        <updated>2017-10-08T20:18:33-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/21/computer-networking-devices-0.png" alt="" />
-                    <p>I have talked about computer networking devices before in previous articles. Today, however, I will go into more detail and cover some of the more common devices in more depth. The most common devices are access points, routers, firewalls, and switches. In their respective sections I want to discuss some of the details that I had to leave out before.</p>
 
                 ]]>
             </summary>
