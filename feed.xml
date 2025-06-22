@@ -3,187 +3,187 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-24T13:34:15-05:00</updated>
+    <updated>2024-09-24T13:31:28-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
     <entry>
-        <title>Working With Excel Sheets</title>
+        <title>Employment and Unemployment</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/working-with-excel-sheets.html"/>
-        <id>https://aindien.com/working-with-excel-sheets.html</id>
+        <link href="https://aindien.com/employment-and-unemployment.html"/>
+        <id>https://aindien.com/employment-and-unemployment.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-04-30T16:37:27-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>These are my notes on employment factors in economics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Why Some Countries Are Poorer Than Others</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/why-some-countries-are-poorer-than-others.html"/>
+        <id>https://aindien.com/why-some-countries-are-poorer-than-others.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-04-29T12:40:57-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes on why some countries are poorer than others.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Economic Growth</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/economic-growth.html"/>
+        <id>https://aindien.com/economic-growth.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-04-27T18:33:34-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes on the economic growth section in Economics.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Aggregate Incomes</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/aggregate-incomes.html"/>
+        <id>https://aindien.com/aggregate-incomes.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-04-26T13:51:57-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="1 1 []">These are my notes on aggregate incomes. Hope they are helpful.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Defining Macroeconomic Aggregates In Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/defining-macroeconomic-aggregates-in-economics.html"/>
+        <id>https://aindien.com/defining-macroeconomic-aggregates-in-economics.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-04-24T11:27:13-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="1 1 []">An aggregate is the totals of particular economic attributes and in this section we look at some of those.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Demand and Supply in Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/demand-and-supply-in-economics.html"/>
+        <id>https://aindien.com/demand-and-supply-in-economics.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-04-23T18:50:50-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">Demand and Supply are important concepts in Economics. In this section, we look at some of their main points.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Optimization in Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/optimization-in-economics.html"/>
+        <id>https://aindien.com/optimization-in-economics.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-04-22T23:57:13-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="1 1 []">Optimization in Economics is about making the best possible choice. In this article, the way this is done is demonstrated with scenarios and data.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Using Data and Models in Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/using-data-and-models-in-economics.html"/>
+        <id>https://aindien.com/using-data-and-models-in-economics.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-04-22T23:22:43-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="1 1 []">Economists use data to create models of the world. Through these objects, they try to understand the choices people make regarding money.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Principles of Economics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/principles-of-economics.html"/>
+        <id>https://aindien.com/principles-of-economics.html</id>
+            <category term="Economics"/>
+
+        <updated>2023-04-21T11:32:15-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">This article is about the main principles of economics and the choices we make.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Using Formulas In Excel</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/using-formulas-in-excel.html"/>
+        <id>https://aindien.com/using-formulas-in-excel.html</id>
             <category term="Office 365"/>
 
-        <updated>2022-11-14T22:45:40-06:00</updated>
+        <updated>2022-11-17T20:45:05-06:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">Working with sheets in an Excel document is a fundamental skill. In this guide, I will show you how to work with them.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Local Scope In C++</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/local-scope-in-c.html"/>
-        <id>https://aindien.com/local-scope-in-c.html</id>
-            <category term="C++"/>
-
-        <updated>2022-11-04T13:54:19-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">Understanding the scope of your variables is key to avoiding undefined behavior. In this article, I will explain what it means to be in or out of scope.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Write A Document In Word</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-write-a-document-in-word.html"/>
-        <id>https://aindien.com/how-to-write-a-document-in-word.html</id>
-            <category term="Office 365"/>
-
-        <updated>2022-11-02T11:56:07-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">Creating a document is easy enough, but creating a good document takes a little more effort. Read on to find out a few tricks to jumpstart your writing.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Office365 Outlook Archiving</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/office365-outlook-archiving.html"/>
-        <id>https://aindien.com/office365-outlook-archiving.html</id>
-            <category term="Office 365"/>
-
-        <updated>2022-10-31T22:23:48-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">When your Outlook mailbox gets full, it is a problem. I will show you how to fix this issue in this guide. </span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Using Functions in R Programming</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/using-functions-in-r-programming.html"/>
-        <id>https://aindien.com/using-functions-in-r-programming.html</id>
-            <category term="R"/>
-
-        <updated>2022-10-28T11:26:44-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">In this guide today, I want to talk about some of the basics of R programming and keeping your code organized.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Clear The Cache In Teams</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-clear-the-cache-in-teams.html"/>
-        <id>https://aindien.com/how-to-clear-the-cache-in-teams.html</id>
-            <category term="Office 365"/>
-
-        <updated>2022-10-25T11:17:42-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">If you are having regular issues with Microsoft Teams, clearing the cache is a good step to take. I will show you how to do that in this article.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Pictures Not Showing In Chrome</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/pictures-not-showing-in-chrome.html"/>
-        <id>https://aindien.com/pictures-not-showing-in-chrome.html</id>
-            <category term="Google Workspace"/>
-
-        <updated>2022-10-24T11:00:15-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">If your pictures are not showing in Google Chrome, there are a few things to check. In this article, I will go over those for you.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Basics of the Cardano Coin</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/basics-of-the-cardano-coin.html"/>
-        <id>https://aindien.com/basics-of-the-cardano-coin.html</id>
-            <category term="Cryptocurrency"/>
-
-        <updated>2022-10-06T09:15:38-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">Cardano is one of the largest digital currencies by market cap. In this article, we will talk about the basics and what you need to know about it.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Using Spell Check In Chrome</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/using-spell-check-in-chrome.html"/>
-        <id>https://aindien.com/using-spell-check-in-chrome.html</id>
-            <category term="Google Workspace"/>
-
-        <updated>2022-09-02T07:58:48-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">If you write things regularly, you need to use a spell checker. The most popular browser, Chrome, has one that works well. Let me show you how to use it. </span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Add Google Calendar To Outlook</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-add-google-calendar-to-outlook.html"/>
-        <id>https://aindien.com/how-to-add-google-calendar-to-outlook.html</id>
-            <category term="Office 365"/>
-
-        <updated>2022-08-30T22:11:15-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">Most of us use both of these calendars. It is handy to have one place to view both. Let me show you how to sync both together.</span></p>
+                    <p><span style="font-weight: 400;">If you are rusty with Excel, I will go over basic formula and function usage in this guide.</span></p>
 
                 ]]>
             </summary>
