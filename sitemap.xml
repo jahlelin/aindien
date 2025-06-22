@@ -69,6 +69,10 @@
 </image:image>
 </url>
 <url>
+<loc>https://aindien.com/basics-of-the-cardano-coin.html</loc>
+<lastmod>2024-09-24T13:33:40-05:00</lastmod>
+</url>
+<url>
 <loc>https://aindien.com/beginning-c-input-and-output-basics.html</loc>
 <lastmod>2024-09-24T13:40:09-05:00</lastmod>
 <image:image>
@@ -369,6 +373,10 @@
 </image:image>
 </url>
 <url>
+<loc>https://aindien.com/how-to-add-google-calendar-to-outlook.html</loc>
+<lastmod>2024-09-24T13:34:15-05:00</lastmod>
+</url>
+<url>
 <loc>https://aindien.com/how-to-boot-windows-10-to-safe-mode.html</loc>
 <lastmod>2024-09-24T13:34:50-05:00</lastmod>
 </url>
@@ -383,6 +391,10 @@
 <url>
 <loc>https://aindien.com/how-to-clear-the-cache-in-browsers.html</loc>
 <lastmod>2024-09-24T13:58:29-05:00</lastmod>
+</url>
+<url>
+<loc>https://aindien.com/how-to-clear-the-cache-in-teams.html</loc>
+<lastmod>2024-09-24T13:33:06-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/how-to-construct-loops-in-c.html</loc>
@@ -717,6 +729,10 @@
 </image:image>
 </url>
 <url>
+<loc>https://aindien.com/how-to-write-a-document-in-word.html</loc>
+<lastmod>2024-09-24T13:32:13-05:00</lastmod>
+</url>
+<url>
 <loc>https://aindien.com/intro-to-codeblocks-with-c.html</loc>
 <lastmod>2024-09-24T13:35:24-05:00</lastmod>
 </url>
@@ -727,6 +743,10 @@
 <image:loc>https://aindien.com/media/posts/36/network-security-0.jpg</image:loc>
 <image:title><![CDATA[network security 0]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://aindien.com/local-scope-in-c.html</loc>
+<lastmod>2024-09-24T13:31:57-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/making-decisions-in-c.html</loc>
@@ -833,6 +853,14 @@
 </image:image>
 </url>
 <url>
+<loc>https://aindien.com/office365-outlook-archiving.html</loc>
+<lastmod>2024-09-24T13:32:25-05:00</lastmod>
+</url>
+<url>
+<loc>https://aindien.com/pictures-not-showing-in-chrome.html</loc>
+<lastmod>2024-09-24T13:33:20-05:00</lastmod>
+</url>
+<url>
 <loc>https://aindien.com/process-management-in-linux.html</loc>
 <lastmod>2024-09-24T13:57:39-05:00</lastmod>
 <image:image>
@@ -937,6 +965,10 @@
 </image:image>
 </url>
 <url>
+<loc>https://aindien.com/using-functions-in-r-programming.html</loc>
+<lastmod>2024-09-24T13:32:40-05:00</lastmod>
+</url>
+<url>
 <loc>https://aindien.com/using-linear-search-in-c.html</loc>
 <lastmod>2024-09-24T13:53:50-05:00</lastmod>
 <image:image>
@@ -955,6 +987,10 @@
 <image:loc>https://aindien.com/media/posts/44/Linear-Search-3.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://aindien.com/using-spell-check-in-chrome.html</loc>
+<lastmod>2024-09-24T13:34:00-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/using-variables-in-c.html</loc>
@@ -983,5 +1019,9 @@
 <url>
 <loc>https://aindien.com/why-office365-is-running-slow.html</loc>
 <lastmod>2024-09-24T13:37:02-05:00</lastmod>
+</url>
+<url>
+<loc>https://aindien.com/working-with-excel-sheets.html</loc>
+<lastmod>2024-09-24T13:31:42-05:00</lastmod>
 </url>
 </urlset>

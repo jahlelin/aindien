@@ -3,185 +3,187 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-24T13:37:40-05:00</updated>
+    <updated>2024-09-24T13:34:15-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
     <entry>
-        <title>How To Boot Windows 10 To Safe Mode</title>
+        <title>Working With Excel Sheets</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/how-to-boot-windows-10-to-safe-mode.html"/>
-        <id>https://aindien.com/how-to-boot-windows-10-to-safe-mode.html</id>
-            <category term="Windows"/>
+        <link href="https://aindien.com/working-with-excel-sheets.html"/>
+        <id>https://aindien.com/working-with-excel-sheets.html</id>
+            <category term="Office 365"/>
 
-        <updated>2022-08-27T17:39:57-05:00</updated>
+        <updated>2022-11-14T22:45:40-06:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">Windows operating systems are popular for the masses. However, sometimes things go wrong. I will show you how to get into safe mode so Windows can be worked on.</span></p>
+                    <p><span style="font-weight: 400;">Working with sheets in an Excel document is a fundamental skill. In this guide, I will show you how to work with them.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>How To Update Windows</title>
+        <title>Local Scope In C++</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/how-to-update-windows.html"/>
-        <id>https://aindien.com/how-to-update-windows.html</id>
-            <category term="Windows"/>
-
-        <updated>2022-08-18T22:13:04-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">Updating Windows protects you from malware and keeps your hardware running well. In this article, I will show you the best way to update everything.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Intro To Codeblocks With C++ </title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/intro-to-codeblocks-with-c.html"/>
-        <id>https://aindien.com/intro-to-codeblocks-with-c.html</id>
+        <link href="https://aindien.com/local-scope-in-c.html"/>
+        <id>https://aindien.com/local-scope-in-c.html</id>
             <category term="C++"/>
 
-        <updated>2022-08-17T23:00:07-05:00</updated>
+        <updated>2022-11-04T13:54:19-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">Codeblocks is an IDE and in this section I want to show you how to get started using it with C++.</span></p>
+                    <p><span style="font-weight: 400;">Understanding the scope of your variables is key to avoiding undefined behavior. In this article, I will explain what it means to be in or out of scope.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>How To Share Your Screen On Teams</title>
+        <title>How To Write A Document In Word</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/how-to-share-your-screen-on-teams.html"/>
-        <id>https://aindien.com/how-to-share-your-screen-on-teams.html</id>
+        <link href="https://aindien.com/how-to-write-a-document-in-word.html"/>
+        <id>https://aindien.com/how-to-write-a-document-in-word.html</id>
             <category term="Office 365"/>
 
-        <updated>2022-08-12T23:44:14-05:00</updated>
+        <updated>2022-11-02T11:56:07-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p data-pm-slice="0 0 []">Microsoft Teams is a very popular communications app. Businesses far and wide use it, so it is good to know how to work with it.</p>
+                    <p><span style="font-weight: 400;">Creating a document is easy enough, but creating a good document takes a little more effort. Read on to find out a few tricks to jumpstart your writing.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>How To Search Google Effectively</title>
+        <title>Office365 Outlook Archiving</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/how-to-search-google-effectively.html"/>
-        <id>https://aindien.com/how-to-search-google-effectively.html</id>
+        <link href="https://aindien.com/office365-outlook-archiving.html"/>
+        <id>https://aindien.com/office365-outlook-archiving.html</id>
+            <category term="Office 365"/>
+
+        <updated>2022-10-31T22:23:48-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">When your Outlook mailbox gets full, it is a problem. I will show you how to fix this issue in this guide. </span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Using Functions in R Programming</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/using-functions-in-r-programming.html"/>
+        <id>https://aindien.com/using-functions-in-r-programming.html</id>
+            <category term="R"/>
+
+        <updated>2022-10-28T11:26:44-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">In this guide today, I want to talk about some of the basics of R programming and keeping your code organized.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How To Clear The Cache In Teams</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-clear-the-cache-in-teams.html"/>
+        <id>https://aindien.com/how-to-clear-the-cache-in-teams.html</id>
+            <category term="Office 365"/>
+
+        <updated>2022-10-25T11:17:42-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">If you are having regular issues with Microsoft Teams, clearing the cache is a good step to take. I will show you how to do that in this article.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Pictures Not Showing In Chrome</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/pictures-not-showing-in-chrome.html"/>
+        <id>https://aindien.com/pictures-not-showing-in-chrome.html</id>
             <category term="Google Workspace"/>
 
-        <updated>2022-08-12T23:25:33-05:00</updated>
+        <updated>2022-10-24T11:00:15-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p data-pm-slice="0 0 []">With these tips, I want to show you how to search Google effectively.</p>
+                    <p><span style="font-weight: 400;">If your pictures are not showing in Google Chrome, there are a few things to check. In this article, I will go over those for you.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Getting Started With SSH</title>
+        <title>Basics of the Cardano Coin</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/getting-started-with-ssh.html"/>
-        <id>https://aindien.com/getting-started-with-ssh.html</id>
-            <category term="Linux"/>
+        <link href="https://aindien.com/basics-of-the-cardano-coin.html"/>
+        <id>https://aindien.com/basics-of-the-cardano-coin.html</id>
+            <category term="Cryptocurrency"/>
 
-        <updated>2022-08-10T23:28:09-05:00</updated>
+        <updated>2022-10-06T09:15:38-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">In this guide, I will show you how to use SSH to access remote systems.</span></p>
+                    <p><span style="font-weight: 400;">Cardano is one of the largest digital currencies by market cap. In this article, we will talk about the basics and what you need to know about it.</span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Networking for the PC Technician Ebook</title>
+        <title>Using Spell Check In Chrome</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/my-first-ebook.html"/>
-        <id>https://aindien.com/my-first-ebook.html</id>
+        <link href="https://aindien.com/using-spell-check-in-chrome.html"/>
+        <id>https://aindien.com/using-spell-check-in-chrome.html</id>
+            <category term="Google Workspace"/>
 
-        <updated>2022-07-16T08:58:38-05:00</updated>
+        <updated>2022-09-02T07:58:48-05:00</updated>
             <summary>
                 <![CDATA[
-                    Good morning everyone. This post today is going to be a little different. I just wanted to announce my first Ebook on Amazon. It is about networking for the PC Technician. https://www.amazon.com/dp/B0B6D4X4BL It is not a deep dive into the theories of networking, just working&hellip;
+                    <p><span style="font-weight: 400;">If you write things regularly, you need to use a spell checker. The most popular browser, Chrome, has one that works well. Let me show you how to use it. </span></p>
+
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Why Office365 Is Running Slow</title>
+        <title>How To Add Google Calendar To Outlook</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/why-office365-is-running-slow.html"/>
-        <id>https://aindien.com/why-office365-is-running-slow.html</id>
+        <link href="https://aindien.com/how-to-add-google-calendar-to-outlook.html"/>
+        <id>https://aindien.com/how-to-add-google-calendar-to-outlook.html</id>
             <category term="Office 365"/>
 
-        <updated>2022-07-15T23:11:05-05:00</updated>
+        <updated>2022-08-30T22:11:15-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">It is common for Office 365 to run slow and in this document I will talk about this and what to do about it.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Encrypt Email In Outlook</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-encrypt-email-in-outlook.html"/>
-        <id>https://aindien.com/how-to-encrypt-email-in-outlook.html</id>
-            <category term="Office 365"/>
-
-        <updated>2022-07-14T23:35:56-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">Whether for work or personal business, knowing how to encrypt your email is an important skill. Today, I will show you how to do that.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How to Troubleshoot DNS On Linux</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-troubleshoot-dns-on-linux.html"/>
-        <id>https://aindien.com/how-to-troubleshoot-dns-on-linux.html</id>
-            <category term="Linux"/>
-
-        <updated>2022-07-13T23:31:22-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">I will show you how to troubleshoot DNS issues with Linux commands.</span></p>
+                    <p><span style="font-weight: 400;">Most of us use both of these calendars. It is handy to have one place to view both. Let me show you how to sync both together.</span></p>
 
                 ]]>
             </summary>
