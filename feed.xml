@@ -3,207 +3,206 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-24T13:20:24-05:00</updated>
+    <updated>2024-09-24T13:17:39-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
     <entry>
-        <title>Security and Compliance in AWS</title>
+        <title>Working With Files In Linux</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/security-and-compliance-in-aws.html"/>
-        <id>https://aindien.com/security-and-compliance-in-aws.html</id>
-        <media:content url="https://aindien.com/media/posts/156/trianglify-lowres6.png" medium="image" />
-            <category term="Cloud Computing"/>
-
-        <updated>2024-04-29T11:15:15-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/156/trianglify-lowres6.png" alt="" />
-                    <p><span style="font-weight: 400;">These are my notes and thoughts on security and compliance on AWS.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Statements in Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/statements-in-python.html"/>
-        <id>https://aindien.com/statements-in-python.html</id>
-        <media:content url="https://aindien.com/media/posts/155/trianglify-lowres7.png" medium="image" />
-            <category term="Python"/>
-
-        <updated>2024-03-31T12:10:15-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/155/trianglify-lowres7.png" alt="" />
-                    <p><span style="font-weight: 400;">These are my notes and worked examples on statements in python.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Python Operations</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/python-operations.html"/>
-        <id>https://aindien.com/python-operations.html</id>
-        <media:content url="https://aindien.com/media/posts/154/trianglify-lowres9.png" medium="image" />
-            <category term="Python"/>
-
-        <updated>2024-03-09T19:26:02-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/154/trianglify-lowres9.png" alt="" />
-                    <p><span style="font-weight: 400;">This article is about doing Python operations.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Doing Math in R</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/doing-math-in-r.html"/>
-        <id>https://aindien.com/doing-math-in-r.html</id>
-        <media:content url="https://aindien.com/media/posts/152/trianglify-lowres11.png" medium="image" />
-            <category term="R"/>
-
-        <updated>2023-12-29T18:04:55-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/152/trianglify-lowres11.png" alt="" />
-                    <p><span style="font-weight: 400;">This is my guide on doing math in R. </span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Using The Shell In Linux</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/using-the-shell-in-linux.html"/>
-        <id>https://aindien.com/using-the-shell-in-linux.html</id>
-        <media:content url="https://aindien.com/media/posts/151/trianglify-lowres12.png" medium="image" />
+        <link href="https://aindien.com/working-with-files-in-linux.html"/>
+        <id>https://aindien.com/working-with-files-in-linux.html</id>
+        <media:content url="https://aindien.com/media/posts/166/trianglify-lowres1.png" medium="image" />
             <category term="Linux"/>
 
-        <updated>2023-12-28T19:27:53-06:00</updated>
+        <updated>2024-07-15T17:03:04-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/151/trianglify-lowres12.png" alt="" />
-                    <p><span style="font-weight: 400;">In this article, I will explain how to get started using the shell in Linux.</span></p>
+                        <img src="https://aindien.com/media/posts/166/trianglify-lowres1.png" alt="" />
+                    <p>These are my notes on working with files in linux.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Getting Started With Networking</title>
+        <title>Markdown Introduction</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/getting-started-with-networking.html"/>
-        <id>https://aindien.com/getting-started-with-networking.html</id>
-        <media:content url="https://aindien.com/media/posts/150/trianglify-lowres13.png" medium="image" />
-            <category term="Networking"/>
+        <link href="https://aindien.com/markdown-introduction.html"/>
+        <id>https://aindien.com/markdown-introduction.html</id>
+        <media:content url="https://aindien.com/media/posts/165/trianglify-lowres2.png" medium="image" />
 
-        <updated>2023-12-28T19:20:13-06:00</updated>
+        <updated>2024-07-15T17:00:39-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/150/trianglify-lowres13.png" alt="" />
-                    <p><span style="font-weight: 400;">This is my study guide on getting started with networking.</span></p>
+                        <img src="https://aindien.com/media/posts/165/trianglify-lowres2.png" alt="" />
+                    <p>These are my notes on markdown intro.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>How To Use The Task Scheduler In Windows</title>
+        <title>Callbacks In Python</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/how-to-use-the-task-scheduler-in-windows.html"/>
-        <id>https://aindien.com/how-to-use-the-task-scheduler-in-windows.html</id>
-        <media:content url="https://aindien.com/media/posts/149/trianglify-lowres14.png" medium="image" />
-            <category term="Windows"/>
+        <link href="https://aindien.com/callbacks-in-python.html"/>
+        <id>https://aindien.com/callbacks-in-python.html</id>
+        <media:content url="https://aindien.com/media/posts/164/trianglify-lowres9.png" medium="image" />
+            <category term="Python"/>
 
-        <updated>2023-12-27T14:15:14-06:00</updated>
+        <updated>2024-07-08T21:32:19-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/149/trianglify-lowres14.png" alt="" />
-                    <p><span style="font-weight: 400;">In this article, I will show you how to use the task scheduler in Windows.</span></p>
+                        <img src="https://aindien.com/media/posts/164/trianglify-lowres9.png" alt="" />
+                    <p>These are my notes on callbacks in Python.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>How To Find Your MAC Address In Windows</title>
+        <title>Vim Basics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/how-to-find-your-mac-address-in-windows.html"/>
-        <id>https://aindien.com/how-to-find-your-mac-address-in-windows.html</id>
-        <media:content url="https://aindien.com/media/posts/147/bg8.png" medium="image" />
-            <category term="Windows"/>
+        <link href="https://aindien.com/vim-basics.html"/>
+        <id>https://aindien.com/vim-basics.html</id>
+        <media:content url="https://aindien.com/media/posts/163/trianglify-lowres11.png" medium="image" />
+            <category term="Linux"/>
 
-        <updated>2023-12-27T13:06:02-06:00</updated>
+        <updated>2024-07-08T02:26:16-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/147/bg8.png" alt="" />
-                    <p><span style="font-weight: 400;">In this article, I will show you how to find your MAC address in Windows.</span></p>
+                        <img src="https://aindien.com/media/posts/163/trianglify-lowres11.png" alt="" />
+                    <p class="code highlight" lang="plaintext"><span class="">These are my notes on Vim Basics.<br><br></span></p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Cloud Computing Basic</title>
+        <title>Scope of Functions in Python</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/cloud-computing-basics.html"/>
-        <id>https://aindien.com/cloud-computing-basics.html</id>
-        <media:content url="https://aindien.com/media/posts/145/bg6.png" medium="image" />
+        <link href="https://aindien.com/scope-of-functions-in-python.html"/>
+        <id>https://aindien.com/scope-of-functions-in-python.html</id>
+        <media:content url="https://aindien.com/media/posts/162/trianglify-lowres.png" medium="image" />
+            <category term="Python"/>
+
+        <updated>2024-06-22T18:17:23-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/162/trianglify-lowres.png" alt="" />
+                    <p><span style="font-weight: 400;">These are my notes on the scope of functions in Python.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Rstudio Tutorial</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/rstudio-tutorial.html"/>
+        <id>https://aindien.com/rstudio-tutorial.html</id>
+        <media:content url="https://aindien.com/media/posts/161/trianglify-lowres1.png" medium="image" />
+            <category term="R"/>
+
+        <updated>2024-06-20T22:49:12-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/161/trianglify-lowres1.png" alt="" />
+                    <p><span style="font-weight: 400;">These are my notes on Rstudio tutorial.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Exploring Your Linux System</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/exploring-your-linux-system.html"/>
+        <id>https://aindien.com/exploring-your-linux-system.html</id>
+        <media:content url="https://aindien.com/media/posts/160/trianglify-lowres2.png" medium="image" />
+            <category term="Linux"/>
+
+        <updated>2024-05-17T17:52:42-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/160/trianglify-lowres2.png" alt="" />
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on finding your way around your Linux system.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Management Tools for AWS</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/management-tools-for-aws.html"/>
+        <id>https://aindien.com/management-tools-for-aws.html</id>
+        <media:content url="https://aindien.com/media/posts/159/trianglify-lowres3.png" medium="image" />
             <category term="Cloud Computing"/>
 
-        <updated>2023-12-26T23:06:39-06:00</updated>
+        <updated>2024-05-14T18:52:06-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/145/bg6.png" alt="" />
-                    <p>This is my cloud computing study guide.</p>
+                        <img src="https://aindien.com/media/posts/159/trianglify-lowres3.png" alt="" />
+                    <p>These are my notes and thoughts on management tools for AWS.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>How To Use The Net Command</title>
+        <title>Working With Git Remotes</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/how-to-use-the-net-command.html"/>
-        <id>https://aindien.com/how-to-use-the-net-command.html</id>
-        <media:content url="https://aindien.com/media/posts/144/bg5.png" medium="image" />
-            <category term="Networking"/>
+        <link href="https://aindien.com/working-with-git-remotes.html"/>
+        <id>https://aindien.com/working-with-git-remotes.html</id>
+        <media:content url="https://aindien.com/media/posts/158/trianglify-lowres4.png" medium="image" />
+            <category term="Git"/>
 
-        <updated>2023-12-25T13:42:41-06:00</updated>
+        <updated>2024-05-08T21:14:18-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/144/bg5.png" alt="" />
-                    <p><span style="font-weight: 400;">In this article, I will show you how to use the Net command in Windows.</span></p>
+                        <img src="https://aindien.com/media/posts/158/trianglify-lowres4.png" alt="" />
+                    <p><span style="font-weight: 400;">These are my notes on Git remotes.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Branching in Python</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/branching-in-python.html"/>
+        <id>https://aindien.com/branching-in-python.html</id>
+        <media:content url="https://aindien.com/media/posts/157/trianglify-lowres5.png" medium="image" />
+            <category term="Python"/>
+
+        <updated>2024-05-04T18:57:34-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/157/trianglify-lowres5.png" alt="" />
+                    <p><span style="font-weight: 400;">These are my notes on branching in Python.</span></p>
 
                 ]]>
             </summary>
