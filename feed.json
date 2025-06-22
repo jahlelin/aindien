@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://aindien.com/employment-and-unemployment.html",
-            "url": "https://aindien.com/employment-and-unemployment.html",
-            "title": "Employment and Unemployment",
-            "summary": "<p>These are my notes on employment factors in economics.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-04-30T16:37:27-05:00",
-            "date_modified": "2024-09-24T13:29:06-05:00"
-        },
-        {
-            "id": "https://aindien.com/why-some-countries-are-poorer-than-others.html",
-            "url": "https://aindien.com/why-some-countries-are-poorer-than-others.html",
-            "title": "Why Some Countries Are Poorer Than Others",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on why some countries are poorer than others.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-04-29T12:40:57-05:00",
-            "date_modified": "2024-09-24T13:29:18-05:00"
-        },
-        {
-            "id": "https://aindien.com/economic-growth.html",
-            "url": "https://aindien.com/economic-growth.html",
-            "title": "Economic Growth",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on the economic growth section in Economics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-04-27T18:33:34-05:00",
-            "date_modified": "2024-09-24T13:29:41-05:00"
-        },
-        {
-            "id": "https://aindien.com/aggregate-incomes.html",
-            "url": "https://aindien.com/aggregate-incomes.html",
-            "title": "Aggregate Incomes",
-            "summary": "<p data-pm-slice=\"1 1 []\">These are my notes on aggregate incomes. Hope they are helpful.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-04-26T13:51:57-05:00",
-            "date_modified": "2024-09-24T13:29:57-05:00"
-        },
-        {
-            "id": "https://aindien.com/defining-macroeconomic-aggregates-in-economics.html",
-            "url": "https://aindien.com/defining-macroeconomic-aggregates-in-economics.html",
-            "title": "Defining Macroeconomic Aggregates In Economics",
-            "summary": "<p data-pm-slice=\"1 1 []\">An aggregate is the totals of particular economic attributes and in this section we look at some of those.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-04-24T11:27:13-05:00",
-            "date_modified": "2024-09-24T13:30:09-05:00"
-        },
-        {
-            "id": "https://aindien.com/demand-and-supply-in-economics.html",
-            "url": "https://aindien.com/demand-and-supply-in-economics.html",
-            "title": "Demand and Supply in Economics",
-            "summary": "<p data-pm-slice=\"0 0 []\">Demand and Supply are important concepts in Economics. In this section, we look at some of their main points.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-04-23T18:50:50-05:00",
-            "date_modified": "2024-09-24T13:30:23-05:00"
-        },
-        {
-            "id": "https://aindien.com/optimization-in-economics.html",
-            "url": "https://aindien.com/optimization-in-economics.html",
-            "title": "Optimization in Economics",
-            "summary": "<p data-pm-slice=\"1 1 []\">Optimization in Economics is about making the best possible choice. In this article, the way this is done is demonstrated with scenarios and data.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-04-22T23:57:13-05:00",
-            "date_modified": "2024-09-24T13:30:36-05:00"
-        },
-        {
-            "id": "https://aindien.com/using-data-and-models-in-economics.html",
-            "url": "https://aindien.com/using-data-and-models-in-economics.html",
-            "title": "Using Data and Models in Economics",
-            "summary": "<p data-pm-slice=\"1 1 []\">Economists use data to create models of the world. Through these objects, they try to understand the choices people make regarding money.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Economics"
-            ],
-            "date_published": "2023-04-22T23:22:43-05:00",
-            "date_modified": "2024-09-24T13:30:51-05:00"
-        },
-        {
-            "id": "https://aindien.com/principles-of-economics.html",
-            "url": "https://aindien.com/principles-of-economics.html",
+            "id": "https://aindien.com/principles-of-economics-2.html",
+            "url": "https://aindien.com/principles-of-economics-2.html",
             "title": "Principles of Economics",
-            "summary": "<p data-pm-slice=\"0 0 []\">This article is about the main principles of economics and the choices we make.</p>\n",
+            "summary": "<p>These are my notes on principles of economics.</p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Economics"
             ],
-            "date_published": "2023-04-21T11:32:15-05:00",
-            "date_modified": "2024-09-24T13:31:07-05:00"
+            "date_published": "2023-07-12T22:56:01-05:00",
+            "date_modified": "2024-09-24T13:25:39-05:00"
         },
         {
-            "id": "https://aindien.com/using-formulas-in-excel.html",
-            "url": "https://aindien.com/using-formulas-in-excel.html",
-            "title": "Using Formulas In Excel",
-            "summary": "<p><span style=\"font-weight: 400;\">If you are rusty with Excel, I will go over basic formula and function usage in this guide.</span></p>\n",
+            "id": "https://aindien.com/rsync-introduction.html",
+            "url": "https://aindien.com/rsync-introduction.html",
+            "title": "Rsync Introduction",
+            "summary": "<p>Here is how to use Rsync with examples.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2023-07-05T23:02:48-05:00",
+            "date_modified": "2024-09-24T13:25:52-05:00"
+        },
+        {
+            "id": "https://aindien.com/getting-started-with-microsoft-teams.html",
+            "url": "https://aindien.com/getting-started-with-microsoft-teams.html",
+            "title": "Getting Started With Microsoft Teams",
+            "summary": "<p><span style=\"font-weight: 400;\">Here are my notes and thoughts on getting started with Microsoft Teams.</span></p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Office 365"
             ],
-            "date_published": "2022-11-17T20:45:05-06:00",
-            "date_modified": "2024-09-24T13:31:28-05:00"
+            "date_published": "2023-06-16T21:49:33-05:00",
+            "date_modified": "2024-09-24T13:26:06-05:00"
+        },
+        {
+            "id": "https://aindien.com/naming-collisions-in-c.html",
+            "url": "https://aindien.com/naming-collisions-in-c.html",
+            "title": "Naming Collisions in C++",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts about naming collisions in C++.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "C++"
+            ],
+            "date_published": "2023-05-16T21:48:08-05:00",
+            "date_modified": "2024-09-24T13:26:21-05:00"
+        },
+        {
+            "id": "https://aindien.com/open-economy-macroeconomics.html",
+            "url": "https://aindien.com/open-economy-macroeconomics.html",
+            "title": "Open Economy Macroeconomics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on open economy macroeconomics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-05-11T11:34:24-05:00",
+            "date_modified": "2024-09-24T13:27:44-05:00"
+        },
+        {
+            "id": "https://aindien.com/macroeconomics-and-international-trade.html",
+            "url": "https://aindien.com/macroeconomics-and-international-trade.html",
+            "title": "Macroeconomics and International Trade",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on Macroeconomics and International Trade.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-05-10T13:59:15-05:00",
+            "date_modified": "2024-09-24T13:27:58-05:00"
+        },
+        {
+            "id": "https://aindien.com/countercyclical-macroeconomic-policy.html",
+            "url": "https://aindien.com/countercyclical-macroeconomic-policy.html",
+            "title": "Countercyclical Macroeconomic Policies In Economics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on Countercyclical Macroeconomic Policies in Economics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-05-09T16:28:34-05:00",
+            "date_modified": "2024-09-24T13:28:13-05:00"
+        },
+        {
+            "id": "https://aindien.com/short-run-fluctuations-in-economics.html",
+            "url": "https://aindien.com/short-run-fluctuations-in-economics.html",
+            "title": "Short-Run Fluctuations in Economics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on short-run fluctuations in economics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-05-08T22:40:17-05:00",
+            "date_modified": "2024-09-24T13:28:27-05:00"
+        },
+        {
+            "id": "https://aindien.com/monetary-system-in-economics.html",
+            "url": "https://aindien.com/monetary-system-in-economics.html",
+            "title": "Monetary System in Economics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on the monetary system in economics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-05-07T22:37:49-05:00",
+            "date_modified": "2024-09-24T13:28:39-05:00"
+        },
+        {
+            "id": "https://aindien.com/credit-markets-in-economics.html",
+            "url": "https://aindien.com/credit-markets-in-economics.html",
+            "title": "Credit Markets In Economics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on credit markets in Economics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Economics"
+            ],
+            "date_published": "2023-05-06T15:20:48-05:00",
+            "date_modified": "2024-09-24T13:28:53-05:00"
         }
     ]
 }
