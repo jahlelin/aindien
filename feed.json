@@ -10,154 +10,153 @@
     },
     "items": [
         {
-            "id": "https://aindien.com/using-vectors-in-c.html",
-            "url": "https://aindien.com/using-vectors-in-c.html",
-            "title": "Using Vectors In C++",
-            "summary": "<p>The Vector container in C++ is very useful. It will be the better option when you want to store data in an array. Vector has several advantages over a traditional array structure. This makes it more flexible.</p>\n",
-            "image": "https://aindien.com/media/posts/38/using-vectors-in-c-0.png",
+            "id": "https://aindien.com/using-variables-in-c.html",
+            "url": "https://aindien.com/using-variables-in-c.html",
+            "title": "Using Variables in C++",
+            "summary": "<p data-pm-slice=\"0 0 []\">Variables are storage containers in your computer’s memory and they hold the information that you work with.</p>\n",
+            "image": "https://aindien.com/media/posts/54/variables-in-c-0.jpg",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "C++"
             ],
-            "date_published": "2020-09-13T15:22:17-05:00",
-            "date_modified": "2024-09-24T13:53:06-05:00"
+            "date_published": "2021-07-14T20:29:52-05:00",
+            "date_modified": "2024-09-24T13:56:10-05:00"
         },
         {
-            "id": "https://aindien.com/how-to-use-zoom-securely.html",
-            "url": "https://aindien.com/how-to-use-zoom-securely.html",
-            "title": "How To Use Zoom Securely",
-            "summary": "<p data-pm-slice=\"0 0 []\">With many people having to work from home, Zoom has become an important solution. Since remote work is now so popular, it is vital to understand how to be safe.</p>\n",
-            "image": "https://aindien.com/media/posts/37/how-to-use-zoom-securely-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Windows"
-            ],
-            "date_published": "2020-08-24T21:19:05-05:00",
-            "date_modified": "2024-09-24T13:52:50-05:00"
-        },
-        {
-            "id": "https://aindien.com/intro-to-network-security.html",
-            "url": "https://aindien.com/intro-to-network-security.html",
-            "title": "Intro To Network Security",
-            "summary": "<p data-pm-slice=\"1 1 []\">In today’s topic, Intro to Network Security, I am going to discuss the different ways you keep yourself and your network safe. As criminals are always trying to penetrate your network, it is important to have a good foundation concerning security.</p>\n",
-            "image": "https://aindien.com/media/posts/36/network-security-0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Networking"
-            ],
-            "date_published": "2020-08-10T21:49:32-05:00",
-            "date_modified": "2024-09-24T13:52:35-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-start-with-arrays-in-c.html",
-            "url": "https://aindien.com/how-to-start-with-arrays-in-c.html",
-            "title": "How To Start With Arrays In C++",
-            "summary": "<p data-pm-slice=\"1 1 []\">This article is over arrays in c++ and how to get started with them. I will show you how to initialize them and then examples of some basic tasks.</p>\n",
-            "image": "https://aindien.com/media/posts/34/arrays0.png",
+            "id": "https://aindien.com/how-to-use-strings-in-c.html",
+            "url": "https://aindien.com/how-to-use-strings-in-c.html",
+            "title": "How To Use Strings In C++",
+            "summary": "<p data-pm-slice=\"0 0 []\">Using strings is a common occurrence in most programming languages. C++ is no exception. In this section I will go over the basic usage with some examples.</p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "C++"
             ],
-            "date_published": "2020-08-02T18:48:05-05:00",
-            "date_modified": "2024-09-24T13:52:12-05:00"
+            "date_published": "2021-06-23T22:42:55-05:00",
+            "date_modified": "2024-07-29T19:54:45-05:00"
         },
         {
-            "id": "https://aindien.com/elements-of-unified-communications.html",
-            "url": "https://aindien.com/elements-of-unified-communications.html",
-            "title": "Elements Of Unified Communications",
-            "summary": "<div>Unified communications is an important buzzword these days. It can mean several different things. There are some things in common though. Almost all implementations include messaging, VOIP, and some sort of collaboration. I want to talk about those today. </div>\n<div> </div>\n<div>",
-            "image": "https://aindien.com/media/posts/32/Unified-Communications-0.png",
+            "id": "https://aindien.com/how-to-run-powershell-commands.html",
+            "url": "https://aindien.com/how-to-run-powershell-commands.html",
+            "title": "How To Run Powershell Commands",
+            "summary": "<p>Powershell is a shell that allows you to run commands. In this chapter, I will show you how to make the most of this.</p>\n",
+            "image": "https://aindien.com/media/posts/49/patteern-05.jpg",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Networking"
+                   "Powershell"
             ],
-            "date_published": "2020-05-19T13:49:36-05:00",
-            "date_modified": "2024-09-24T13:51:50-05:00"
+            "date_published": "2021-05-13T22:31:49-05:00",
+            "date_modified": "2024-09-24T13:55:14-05:00"
         },
         {
-            "id": "https://aindien.com/using-functions-in-c.html",
-            "url": "https://aindien.com/using-functions-in-c.html",
-            "title": "Using Functions in C++",
-            "summary": "<div>This article is about using functions in C++. Functions reuse code to help solve problems. It is described as doing a small part that can be used elsewhere in your program. Today I want to show you how to do that.</div>\n<div> </div>\n<div> </div>\n<div>",
-            "image": "https://aindien.com/media/posts/31/Using-Functions-in-C.png",
+            "id": "https://aindien.com/the-linux-shell-for-beginners.html",
+            "url": "https://aindien.com/the-linux-shell-for-beginners.html",
+            "title": "The Linux Shell For Beginners",
+            "summary": "<p>The shell or command line interface has many great features and makes you into a better computer user. In this section I will go into details of how that happens.</p>\n",
+            "image": "https://aindien.com/media/posts/48/linux-shell-for-beginners-0.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "C++"
+                   "Linux"
             ],
-            "date_published": "2020-02-29T08:36:07-06:00",
-            "date_modified": "2024-09-24T13:51:36-05:00"
+            "date_published": "2021-04-27T22:35:05-05:00",
+            "date_modified": "2024-09-24T13:54:58-05:00"
         },
         {
-            "id": "https://aindien.com/what-cloud-computing-really-means.html",
-            "url": "https://aindien.com/what-cloud-computing-really-means.html",
-            "title": "What Cloud Computing Really Means",
-            "summary": "<p>Cloud computing is used a lot these days. Many times people are referring to totally different concepts. When mentioning it, however, there is definitely a disconnect or a lack of understanding of what this means. I will clear some things up and give a good overview of what we are talking about when we say \"cloud computing\".</p>\n",
-            "image": "https://aindien.com/media/posts/30/cloud-computing.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Networking"
-            ],
-            "date_published": "2019-09-27T07:58:40-05:00",
-            "date_modified": "2024-09-24T13:51:16-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-construct-loops-in-c.html",
-            "url": "https://aindien.com/how-to-construct-loops-in-c.html",
-            "title": "How To Construct Loops in C++",
-            "summary": "<p>Today's guide will be over loops in C++. I have been wanting to get to my latest C++ article for a while. So lets break out our favorite text editor and compiler and have some real fun today!</p>\n",
-            "image": "https://aindien.com/media/posts/29/loops-in-c-0.png",
+            "id": "https://aindien.com/how-to-use-pointers-in-c.html",
+            "url": "https://aindien.com/how-to-use-pointers-in-c.html",
+            "title": "How To Use Pointers In C++",
+            "summary": "<p>Pointers may not be the most intuitive of concepts. However, in C++, they can<br>still be useful in the right situation.</p>\n",
+            "image": "https://aindien.com/media/posts/47/startup-photos.jpg",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "C++"
             ],
-            "date_published": "2019-07-21T16:30:11-05:00",
-            "date_modified": "2024-09-24T13:50:56-05:00"
+            "date_published": "2021-04-13T21:22:42-05:00",
+            "date_modified": "2024-09-24T13:54:33-05:00"
         },
         {
-            "id": "https://aindien.com/network-management-guide.html",
-            "url": "https://aindien.com/network-management-guide.html",
-            "title": "Network Management Guide",
-            "summary": "<p>In this network management guide I try to talk about the basics of everything that goes into managing and monitoring a network. I will talk about monitoring most aspects of you network along with things to do to help it.</p>\n",
-            "image": "https://aindien.com/media/posts/28/network-management-0.png",
+            "id": "https://aindien.com/troubleshooting-a-computer-network.html",
+            "url": "https://aindien.com/troubleshooting-a-computer-network.html",
+            "title": "Troubleshooting A Computer Network",
+            "summary": "<p>Troubleshooting a network is not hard but requires a little bit of forethought. In this article I cover the most popular methods and scenarios to watch out for.</p>\n<p> </p>\n",
+            "image": "https://aindien.com/media/posts/46/Troubleshooting-A-Computer-Network.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Networking"
             ],
-            "date_published": "2018-06-26T12:56:11-05:00",
-            "date_modified": "2024-09-24T13:50:37-05:00"
+            "date_published": "2021-02-09T14:58:33-06:00",
+            "date_modified": "2024-09-24T13:54:19-05:00"
         },
         {
-            "id": "https://aindien.com/hints-on-using-onenote.html",
-            "url": "https://aindien.com/hints-on-using-onenote.html",
-            "title": "Hints On Using Onenote",
-            "summary": "<p>In this article I am going to give you some hints on using OneNote from Microsoft Office. OneNote is a great program to keep detailed records, a journal, documentation, or even a simple checklist. It has a lot of uses for a lot of people. Since you can customize the workflow in it almost anyone can make use of it.</p>\n",
-            "image": "https://aindien.com/media/posts/23/hints-on-using-onenote0-1.png",
+            "id": "https://aindien.com/things-to-know-before-you-install-linux.html",
+            "url": "https://aindien.com/things-to-know-before-you-install-linux.html",
+            "title": "Things To Know Before You Install Linux",
+            "summary": "<p data-pm-slice=\"0 0 []\">Installing Linux is pretty easy these days. Anyone can do it if they want to. However, there are a few options you should know about. </p>\n",
+            "image": "https://aindien.com/media/posts/45/Things-to-know-before-you-install-linux.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Windows"
+                   "Linux"
             ],
-            "date_published": "2018-06-20T07:58:37-05:00",
-            "date_modified": "2024-09-24T13:50:15-05:00"
+            "date_published": "2020-11-24T06:56:26-06:00",
+            "date_modified": "2024-09-24T13:54:04-05:00"
+        },
+        {
+            "id": "https://aindien.com/using-linear-search-in-c.html",
+            "url": "https://aindien.com/using-linear-search-in-c.html",
+            "title": "Using Linear Search In C++",
+            "summary": "<p>Programmers will often search data for specific items. The most basic way is to use a linear search. This algorithm will form the foundation of your searching.</p>\n<p> </p>\n",
+            "image": "https://aindien.com/media/posts/44/Linear-Search-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "C++"
+            ],
+            "date_published": "2020-10-19T06:52:14-05:00",
+            "date_modified": "2024-09-24T13:53:50-05:00"
+        },
+        {
+            "id": "https://aindien.com/disaster-recovery.html",
+            "url": "https://aindien.com/disaster-recovery.html",
+            "title": "Disaster Recovery",
+            "summary": "<p data-pm-slice=\"1 1 []\">Any network can fail. Even parts can fail that have grave consequences. When any of this happens, it is time to move on to the next step. You better have a plan for when it happens.</p>\n",
+            "image": "https://aindien.com/media/posts/43/Disaster-Recovery-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Networking"
+            ],
+            "date_published": "2020-09-25T06:28:59-05:00",
+            "date_modified": "2024-09-24T13:53:37-05:00"
+        },
+        {
+            "id": "https://aindien.com/history-and-usage-of-linux.html",
+            "url": "https://aindien.com/history-and-usage-of-linux.html",
+            "title": "History and Usage Of Linux",
+            "summary": "<p>This section will be about Linux and its beginnings. Since its inception, Linux has become prevalent and almost every computing sphere.</p>\n",
+            "image": "https://aindien.com/media/posts/41/History-and-Usage-of-Linux-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2020-09-20T10:57:08-05:00",
+            "date_modified": "2024-09-24T13:53:24-05:00"
         }
     ]
 }
