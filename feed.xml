@@ -3,12 +3,112 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-04-16T08:44:23-05:00</updated>
+    <updated>2024-09-24T13:44:24-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Read Data From A File With C++</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-read-data-from-a-file-with-c.html"/>
+        <id>https://aindien.com/how-to-read-data-from-a-file-with-c.html</id>
+        <media:content url="https://aindien.com/media/posts/11/IMG_20170630_100800_resized_20170630_10084903040.jpg" medium="image" />
+            <category term="C++"/>
+
+        <updated>2017-06-30T09:10:45-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/11/IMG_20170630_100800_resized_20170630_10084903040.jpg" alt="" />
+                    <p>These are my notes on how to read data from a file with C++.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How To Protect Yourself From Ransomware</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-protect-yourself-from-ransomware.html"/>
+        <id>https://aindien.com/how-to-protect-yourself-from-ransomware.html</id>
+        <media:content url="https://aindien.com/media/posts/14/ransomware0.jpg" medium="image" />
+            <category term="Windows"/>
+
+        <updated>2017-05-20T14:14:03-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/14/ransomware0.jpg" alt="" />
+                    <p>I am sure everyone on my email list has heard of the ransomware attacks going on across the world. For all of you I wanted to give you some information about it and how to protect yourself from ransomware. Ransomware can be scary stuff. Your computer at home or work and all of your files can be locked up by this malicious software. So I wanted to tell others what to do about it.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Networking Basics: Applications of Network Devices</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/networking-basics-applications-of-network-devices.html"/>
+        <id>https://aindien.com/networking-basics-applications-of-network-devices.html</id>
+        <media:content url="https://aindien.com/media/posts/13/networkdevices0.jpg" medium="image" />
+            <category term="Networking"/>
+
+        <updated>2017-04-10T07:48:39-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/13/networkdevices0.jpg" alt="" />
+                    <p style="text-align: left;">I wrote this article to help people understand basic network devices. It would be useful to individuals who want to learn a few more details and for anyone studying to take a networking exam such as Network+. I try to focus on the application of these network devices and what they are used for.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>11 Clever Tips For Word 2016</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/11-clever-tips-for-word-2016.html"/>
+        <id>https://aindien.com/11-clever-tips-for-word-2016.html</id>
+        <media:content url="https://aindien.com/media/posts/12/word2016_0-1.png" medium="image" />
+            <category term="Office 365"/>
+
+        <updated>2017-03-25T14:35:40-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/12/word2016_0-1.png" alt="" />
+                    <p>If you are an office worker or student then you may use Word 2016 or a previous version quite often. I often get questions about how to do certain things and then I realized that many people can only do the most basic of tasks. That will be sufficient for some. Others usually need to do a little more with their document but do not know how. So here is a list of some clever things you can do with Word 2016.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>15 Actionable Tips For Outlook 2016</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/15-actionable-tips-for-outlook-2016.html"/>
+        <id>https://aindien.com/15-actionable-tips-for-outlook-2016.html</id>
+        <media:content url="https://aindien.com/media/posts/10/outlook0.png" medium="image" />
+            <category term="Office 365"/>
+
+        <updated>2017-01-30T01:46:20-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aindien.com/media/posts/10/outlook0.png" alt="" />
+                    <p>The Microsoft Office suite of products has always been one of the most popular. Its email program, Outlook, is well loved by many. Almost every<a href="http://aindien.com/get-staff-submit-work-tickets.html"> IT department </a>uses this and supports it for their users. In this article I talk about a lot of the cool things that help your productivity and save you time. These are my 15 tips for Outlook 2016.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Computer Networking: Networking Hardware</title>
         <author>
@@ -104,46 +204,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/4/Banner-2.png" alt="" />
                     <p>This is my guide for students just starting with beginning C++. Programming in general is not the easiest thing to do. With just a little effort it can be easy to pick up. I cover the essential basics here with lots of examples.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Andromeda</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/about-me.html"/>
-        <id>https://aindien.com/about-me.html</id>
-        <media:content url="https://aindien.com/media/posts/3/trianglify-lowres6.png" medium="image" />
-
-        <updated>2016-09-26T21:56:27-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/3/trianglify-lowres6.png" alt="" />
-                    <p>This is a guide for Andromeda. Follow the bullet points.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Essential Linux Commands To Get You Started</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/essential-linux-commands-to-get-you-started.html"/>
-        <id>https://aindien.com/essential-linux-commands-to-get-you-started.html</id>
-        <media:content url="https://aindien.com/media/posts/2/Linux_feature.png" medium="image" />
-            <category term="Linux"/>
-
-        <updated>2016-09-08T02:13:04-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/2/Linux_feature.png" alt="" />
-                    <p>These essential Linux commands form the basis of your everyday work. It just makes sense to leverage these utilities as much as possible.</p>
-<p> </p>
 
                 ]]>
             </summary>
