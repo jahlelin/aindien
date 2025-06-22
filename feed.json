@@ -10,144 +10,143 @@
     },
     "items": [
         {
-            "id": "https://aindien.com/network-troubleshooting-with-traceroute.html",
-            "url": "https://aindien.com/network-troubleshooting-with-traceroute.html",
-            "title": "Network Troubleshooting With Traceroute",
-            "summary": "<p><span style=\"font-weight: 400;\">Network troubleshooting always begins with a few command line techniques. Traceroute is one of the basic utilities to learn. In this document, I will go over how to do this.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2022-07-12T23:26:28-05:00",
-            "date_modified": "2024-09-24T13:38:00-05:00"
-        },
-        {
-            "id": "https://aindien.com/getting-started-with-mariadb-on-fedora.html",
-            "url": "https://aindien.com/getting-started-with-mariadb-on-fedora.html",
-            "title": "Getting Started With MariaDB On Fedora",
-            "summary": "<p><span style=\"font-weight: 400;\">This document will show you how to install and get started with MariaDB on Fedora.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2022-07-08T23:00:45-05:00",
-            "date_modified": "2024-09-24T13:38:20-05:00"
-        },
-        {
-            "id": "https://aindien.com/getting-started-with-dnf-package-management.html",
-            "url": "https://aindien.com/getting-started-with-dnf-package-management.html",
-            "title": "Getting Started With DNF Package Management",
-            "summary": "<p data-pm-slice=\"0 0 []\">Linux operating systems have a centralized way of searching, installing, updating, and deleting software. In this document, I want to talk about the DNF package management system.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2022-06-23T23:53:44-05:00",
-            "date_modified": "2024-09-24T13:38:40-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-check-disk-space-in-linux.html",
-            "url": "https://aindien.com/how-to-check-disk-space-in-linux.html",
-            "title": "How To Check Disk Space In Linux",
-            "summary": "<p data-pm-slice=\"0 0 []\">See how to use the [df] command and its options to monitor your important file systems.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2022-06-11T08:45:23-05:00",
-            "date_modified": "2024-09-24T13:39:01-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-fix-papercut-printing-issues.html",
-            "url": "https://aindien.com/how-to-fix-papercut-printing-issues.html",
-            "title": "How To Fix PaperCut Printing Issues",
-            "summary": "<p data-pm-slice=\"0 0 []\">PaperCut is a print server and in this document, I will show how to fix the various errors we have seen in our environment.</p>\n",
+            "id": "https://aindien.com/how-to-boot-windows-10-to-safe-mode.html",
+            "url": "https://aindien.com/how-to-boot-windows-10-to-safe-mode.html",
+            "title": "How To Boot Windows 10 To Safe Mode",
+            "summary": "<p><span style=\"font-weight: 400;\">Windows operating systems are popular for the masses. However, sometimes things go wrong. I will show you how to get into safe mode so Windows can be worked on.</span></p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Windows"
             ],
-            "date_published": "2022-06-01T18:20:22-05:00",
-            "date_modified": "2024-09-24T13:39:24-05:00"
+            "date_published": "2022-08-27T17:39:57-05:00",
+            "date_modified": "2024-09-24T13:34:50-05:00"
         },
         {
-            "id": "https://aindien.com/setting-up-mfa-for-a-new-user.html",
-            "url": "https://aindien.com/setting-up-mfa-for-a-new-user.html",
-            "title": "Setting Up MFA For A New User",
-            "summary": "<p data-pm-slice=\"0 0 []\">MFA is required in a lot of places. In this document, I will show you how to get started, how to reset your MFA, and some details about the most popular authenticators.</p>\n",
+            "id": "https://aindien.com/how-to-update-windows.html",
+            "url": "https://aindien.com/how-to-update-windows.html",
+            "title": "How To Update Windows",
+            "summary": "<p><span style=\"font-weight: 400;\">Updating Windows protects you from malware and keeps your hardware running well. In this article, I will show you the best way to update everything.</span></p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Windows"
             ],
-            "date_published": "2022-05-31T18:03:50-05:00",
-            "date_modified": "2024-09-24T14:00:32-05:00"
+            "date_published": "2022-08-18T22:13:04-05:00",
+            "date_modified": "2024-09-24T13:35:06-05:00"
         },
         {
-            "id": "https://aindien.com/how-to-change-uac-behavior-in-windows.html",
-            "url": "https://aindien.com/how-to-change-uac-behavior-in-windows.html",
-            "title": "How To Change UAC Behavior In Windows",
-            "summary": "<p data-pm-slice=\"0 0 []\">User account control is a part of Windows and prevents programs from changing your system. In this document, I will talk about why you would change its behavior and how to do it.</p>\n",
+            "id": "https://aindien.com/intro-to-codeblocks-with-c.html",
+            "url": "https://aindien.com/intro-to-codeblocks-with-c.html",
+            "title": "Intro To Codeblocks With C++ ",
+            "summary": "<p><span style=\"font-weight: 400;\">Codeblocks is an IDE and in this section I want to show you how to get started using it with C++.</span></p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Powershell"
+                   "C++"
             ],
-            "date_published": "2022-05-19T22:22:02-05:00",
-            "date_modified": "2024-09-24T14:00:15-05:00"
+            "date_published": "2022-08-17T23:00:07-05:00",
+            "date_modified": "2024-09-24T13:35:24-05:00"
         },
         {
-            "id": "https://aindien.com/how-to-run-a-message-trace-in-exchange.html",
-            "url": "https://aindien.com/how-to-run-a-message-trace-in-exchange.html",
-            "title": "How To Run A Message Trace In Exchange",
-            "summary": "<p data-pm-slice=\"0 0 []\">A message trace is a feature in the Exchange admin center and you can use it to find out what happened to an email.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Powershell"
-            ],
-            "date_published": "2022-05-18T22:45:14-05:00",
-            "date_modified": "2024-09-24T13:59:54-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-fix-windows-needs-your-current-credentials.html",
-            "url": "https://aindien.com/how-to-fix-windows-needs-your-current-credentials.html",
-            "title": "How To Fix &quot;Windows Needs Your Current Credentials&quot;",
-            "summary": "<p data-pm-slice=\"0 0 []\">When you get the message “Windows Needs Your Current Credentials”, it can be frustrating. Let me show you how to resolve this notification that Windows gives you.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Windows"
-            ],
-            "date_published": "2022-05-17T22:34:32-05:00",
-            "date_modified": "2024-09-24T13:59:39-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-setup-a-new-outlook-profile.html",
-            "url": "https://aindien.com/how-to-setup-a-new-outlook-profile.html",
-            "title": "How To Setup A New Outlook Profile",
-            "summary": "<p data-pm-slice=\"0 0 []\"> </p>\n<p>In this article, I want to discuss why we might want to make a new outlook profile and how to do it. This will be for a Windows machine.</p>\n",
+            "id": "https://aindien.com/how-to-share-your-screen-on-teams.html",
+            "url": "https://aindien.com/how-to-share-your-screen-on-teams.html",
+            "title": "How To Share Your Screen On Teams",
+            "summary": "<p data-pm-slice=\"0 0 []\">Microsoft Teams is a very popular communications app. Businesses far and wide use it, so it is good to know how to work with it.</p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Office 365"
             ],
-            "date_published": "2022-05-16T22:02:02-05:00",
-            "date_modified": "2024-09-24T13:59:22-05:00"
+            "date_published": "2022-08-12T23:44:14-05:00",
+            "date_modified": "2024-09-24T13:35:52-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-search-google-effectively.html",
+            "url": "https://aindien.com/how-to-search-google-effectively.html",
+            "title": "How To Search Google Effectively",
+            "summary": "<p data-pm-slice=\"0 0 []\">With these tips, I want to show you how to search Google effectively.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Google Workspace"
+            ],
+            "date_published": "2022-08-12T23:25:33-05:00",
+            "date_modified": "2024-09-24T13:36:15-05:00"
+        },
+        {
+            "id": "https://aindien.com/getting-started-with-ssh.html",
+            "url": "https://aindien.com/getting-started-with-ssh.html",
+            "title": "Getting Started With SSH",
+            "summary": "<p><span style=\"font-weight: 400;\">In this guide, I will show you how to use SSH to access remote systems.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2022-08-10T23:28:09-05:00",
+            "date_modified": "2024-09-24T13:36:39-05:00"
+        },
+        {
+            "id": "https://aindien.com/my-first-ebook.html",
+            "url": "https://aindien.com/my-first-ebook.html",
+            "title": "Networking for the PC Technician Ebook",
+            "summary": "Good morning everyone. This post today is going to be a little different. I just wanted to announce my first Ebook on Amazon. It is about networking for the PC Technician. https://www.amazon.com/dp/B0B6D4X4BL It is not a deep dive into the theories of networking, just working&hellip;",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-16T08:58:38-05:00",
+            "date_modified": "2022-10-26T13:01:33-05:00"
+        },
+        {
+            "id": "https://aindien.com/why-office365-is-running-slow.html",
+            "url": "https://aindien.com/why-office365-is-running-slow.html",
+            "title": "Why Office365 Is Running Slow",
+            "summary": "<p><span style=\"font-weight: 400;\">It is common for Office 365 to run slow and in this document I will talk about this and what to do about it.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Office 365"
+            ],
+            "date_published": "2022-07-15T23:11:05-05:00",
+            "date_modified": "2024-09-24T13:37:02-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-encrypt-email-in-outlook.html",
+            "url": "https://aindien.com/how-to-encrypt-email-in-outlook.html",
+            "title": "How To Encrypt Email In Outlook",
+            "summary": "<p><span style=\"font-weight: 400;\">Whether for work or personal business, knowing how to encrypt your email is an important skill. Today, I will show you how to do that.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Office 365"
+            ],
+            "date_published": "2022-07-14T23:35:56-05:00",
+            "date_modified": "2024-09-24T13:37:21-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-troubleshoot-dns-on-linux.html",
+            "url": "https://aindien.com/how-to-troubleshoot-dns-on-linux.html",
+            "title": "How to Troubleshoot DNS On Linux",
+            "summary": "<p><span style=\"font-weight: 400;\">I will show you how to troubleshoot DNS issues with Linux commands.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2022-07-13T23:31:22-05:00",
+            "date_modified": "2024-09-24T13:37:40-05:00"
         }
     ]
 }
