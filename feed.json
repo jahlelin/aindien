@@ -10,6 +10,81 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/hints-on-using-onenote.html",
+            "url": "https://aindien.com/hints-on-using-onenote.html",
+            "title": "Hints On Using Onenote",
+            "summary": "<p>In this article I am going to give you some hints on using OneNote from Microsoft Office. OneNote is a great program to keep detailed records, a journal, documentation, or even a simple checklist. It has a lot of uses for a lot of people. Since you can customize the workflow in it almost anyone can make use of it.</p>\n",
+            "image": "https://aindien.com/media/posts/23/hints-on-using-onenote0-1.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Windows"
+            ],
+            "date_published": "2018-06-20T07:58:37-05:00",
+            "date_modified": "2024-09-24T13:50:15-05:00"
+        },
+        {
+            "id": "https://aindien.com/guide-to-digital-analytics-principles.html",
+            "url": "https://aindien.com/guide-to-digital-analytics-principles.html",
+            "title": "Guide To Digital Analytics Principles",
+            "summary": "<p>Digital analytics principles is all the rage these days. It is easy to understand why. When you have a website you need to know exactly what your visitors are doing. You need to know where they are going and what buttons they are clicking on.This is where Analytics comes in. It is an extremely useful tool but you need to know how to use it. In this article I talk about terms, how to get started, and using it to your website's advantage.</p>\n",
+            "image": "https://aindien.com/media/posts/25/digital-analytics-principles0.jpeg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Windows"
+            ],
+            "date_published": "2018-06-15T07:54:45-05:00",
+            "date_modified": "2024-09-24T13:49:23-05:00"
+        },
+        {
+            "id": "https://aindien.com/guide-to-network-communications.html",
+            "url": "https://aindien.com/guide-to-network-communications.html",
+            "title": "Guide To Network Communications",
+            "summary": "<p> </p>\n<p>A computer network can handle a lot of different roles these days. Essentially it pushes data around to devices and controls what happens. Some of the more interesting uses for a network now is VOIP communications and video conferencing. In this guide to network communications I go over some of those details.</p>\n<p> </p>\n",
+            "image": "https://aindien.com/media/posts/24/network_communications.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Networking"
+            ],
+            "date_published": "2018-02-21T21:30:32-06:00",
+            "date_modified": "2024-09-24T13:49:43-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-use-raid-on-your-computer.html",
+            "url": "https://aindien.com/how-to-use-raid-on-your-computer.html",
+            "title": "How To Use Raid On Your Computer",
+            "summary": "<p>How to use Raid on your computer is a guide explaining what Raid is and how you should approach it. I talk about how to get started with it and descriptions of the various types. It can be a tough decision as to whether you should use as hardware controller or software but I talk about this as well.</p>\n",
+            "image": "https://aindien.com/media/posts/22/how-to-use-raid-in-your-computer-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2017-10-18T20:58:41-05:00",
+            "date_modified": "2024-09-24T13:48:22-05:00"
+        },
+        {
+            "id": "https://aindien.com/computer-networking-devices.html",
+            "url": "https://aindien.com/computer-networking-devices.html",
+            "title": "Computer Networking Devices",
+            "summary": "<p>I have talked about computer networking devices before in previous articles. Today, however, I will go into more detail and cover some of the more common devices in more depth. The most common devices are access points, routers, firewalls, and switches. In their respective sections I want to discuss some of the details that I had to leave out before.</p>\n",
+            "image": "https://aindien.com/media/posts/21/computer-networking-devices-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Networking"
+            ],
+            "date_published": "2017-10-08T20:18:33-05:00",
+            "date_modified": "2024-09-24T13:48:10-05:00"
+        },
+        {
             "id": "https://aindien.com/step-by-step-excel-2016-tutorial.html",
             "url": "https://aindien.com/step-by-step-excel-2016-tutorial.html",
             "title": "Step by Step Excel 2016 Tutorial",
@@ -83,81 +158,6 @@
             ],
             "date_published": "2017-07-03T17:14:16-05:00",
             "date_modified": "2024-09-24T13:45:01-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-read-data-from-a-file-with-c.html",
-            "url": "https://aindien.com/how-to-read-data-from-a-file-with-c.html",
-            "title": "How To Read Data From A File With C++",
-            "summary": "<p>These are my notes on how to read data from a file with C++.</p>\n",
-            "image": "https://aindien.com/media/posts/11/IMG_20170630_100800_resized_20170630_10084903040.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "C++"
-            ],
-            "date_published": "2017-06-30T09:10:45-05:00",
-            "date_modified": "2024-09-24T13:44:24-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-protect-yourself-from-ransomware.html",
-            "url": "https://aindien.com/how-to-protect-yourself-from-ransomware.html",
-            "title": "How To Protect Yourself From Ransomware",
-            "summary": "<p>I am sure everyone on my email list has heard of the ransomware attacks going on across the world. For all of you I wanted to give you some information about it and how to protect yourself from ransomware. Ransomware can be scary stuff. Your computer at home or work and all of your files can be locked up by this malicious software. So I wanted to tell others what to do about it.</p>\n",
-            "image": "https://aindien.com/media/posts/14/ransomware0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Windows"
-            ],
-            "date_published": "2017-05-20T14:14:03-05:00",
-            "date_modified": "2024-09-24T13:43:06-05:00"
-        },
-        {
-            "id": "https://aindien.com/networking-basics-applications-of-network-devices.html",
-            "url": "https://aindien.com/networking-basics-applications-of-network-devices.html",
-            "title": "Networking Basics: Applications of Network Devices",
-            "summary": "<p style=\"text-align: left;\">I wrote this article to help people understand basic network devices. It would be useful to individuals who want to learn a few more details and for anyone studying to take a networking exam such as Network+. I try to focus on the application of these network devices and what they are used for.</p>\n",
-            "image": "https://aindien.com/media/posts/13/networkdevices0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Networking"
-            ],
-            "date_published": "2017-04-10T07:48:39-05:00",
-            "date_modified": "2024-09-24T13:42:57-05:00"
-        },
-        {
-            "id": "https://aindien.com/11-clever-tips-for-word-2016.html",
-            "url": "https://aindien.com/11-clever-tips-for-word-2016.html",
-            "title": "11 Clever Tips For Word 2016",
-            "summary": "<p>If you are an office worker or student then you may use Word 2016 or a previous version quite often. I often get questions about how to do certain things and then I realized that many people can only do the most basic of tasks. That will be sufficient for some. Others usually need to do a little more with their document but do not know how. So here is a list of some clever things you can do with Word 2016.</p>\n",
-            "image": "https://aindien.com/media/posts/12/word2016_0-1.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Office 365"
-            ],
-            "date_published": "2017-03-25T14:35:40-05:00",
-            "date_modified": "2024-09-24T13:42:46-05:00"
-        },
-        {
-            "id": "https://aindien.com/15-actionable-tips-for-outlook-2016.html",
-            "url": "https://aindien.com/15-actionable-tips-for-outlook-2016.html",
-            "title": "15 Actionable Tips For Outlook 2016",
-            "summary": "<p>The Microsoft Office suite of products has always been one of the most popular. Its email program, Outlook, is well loved by many. Almost every<a href=\"http://aindien.com/get-staff-submit-work-tickets.html\"> IT department </a>uses this and supports it for their users. In this article I talk about a lot of the cool things that help your productivity and save you time. These are my 15 tips for Outlook 2016.</p>\n",
-            "image": "https://aindien.com/media/posts/10/outlook0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Office 365"
-            ],
-            "date_published": "2017-01-30T01:46:20-06:00",
-            "date_modified": "2024-09-24T13:42:37-05:00"
         }
     ]
 }
