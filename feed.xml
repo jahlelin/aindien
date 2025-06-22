@@ -3,201 +3,188 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2024-09-24T13:59:00-05:00</updated>
+    <updated>2024-09-24T14:00:32-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
     <entry>
-        <title>How To Reset A Password In Azure AD</title>
+        <title>Network Troubleshooting With Traceroute</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/how-to-reset-a-password-in-azure-ad.html"/>
-        <id>https://aindien.com/how-to-reset-a-password-in-azure-ad.html</id>
+        <link href="https://aindien.com/network-troubleshooting-with-traceroute.html"/>
+        <id>https://aindien.com/network-troubleshooting-with-traceroute.html</id>
+            <category term="Linux"/>
+
+        <updated>2022-07-12T23:26:28-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">Network troubleshooting always begins with a few command line techniques. Traceroute is one of the basic utilities to learn. In this document, I will go over how to do this.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Getting Started With MariaDB On Fedora</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/getting-started-with-mariadb-on-fedora.html"/>
+        <id>https://aindien.com/getting-started-with-mariadb-on-fedora.html</id>
+            <category term="Linux"/>
+
+        <updated>2022-07-08T23:00:45-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">This document will show you how to install and get started with MariaDB on Fedora.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Getting Started With DNF Package Management</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/getting-started-with-dnf-package-management.html"/>
+        <id>https://aindien.com/getting-started-with-dnf-package-management.html</id>
+            <category term="Linux"/>
+
+        <updated>2022-06-23T23:53:44-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">Linux operating systems have a centralized way of searching, installing, updating, and deleting software. In this document, I want to talk about the DNF package management system.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How To Check Disk Space In Linux</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-check-disk-space-in-linux.html"/>
+        <id>https://aindien.com/how-to-check-disk-space-in-linux.html</id>
+            <category term="Linux"/>
+
+        <updated>2022-06-11T08:45:23-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">See how to use the [df] command and its options to monitor your important file systems.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How To Fix PaperCut Printing Issues</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-fix-papercut-printing-issues.html"/>
+        <id>https://aindien.com/how-to-fix-papercut-printing-issues.html</id>
             <category term="Windows"/>
 
-        <updated>2022-05-10T22:59:00-05:00</updated>
+        <updated>2022-06-01T18:20:22-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">PaperCut is a print server and in this document, I will show how to fix the various errors we have seen in our environment.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Setting Up MFA For A New User</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/setting-up-mfa-for-a-new-user.html"/>
+        <id>https://aindien.com/setting-up-mfa-for-a-new-user.html</id>
+            <category term="Windows"/>
+
+        <updated>2022-05-31T18:03:50-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">MFA is required in a lot of places. In this document, I will show you how to get started, how to reset your MFA, and some details about the most popular authenticators.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How To Change UAC Behavior In Windows</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-change-uac-behavior-in-windows.html"/>
+        <id>https://aindien.com/how-to-change-uac-behavior-in-windows.html</id>
+            <category term="Powershell"/>
+
+        <updated>2022-05-19T22:22:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">User account control is a part of Windows and prevents programs from changing your system. In this document, I will talk about why you would change its behavior and how to do it.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How To Run A Message Trace In Exchange</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-run-a-message-trace-in-exchange.html"/>
+        <id>https://aindien.com/how-to-run-a-message-trace-in-exchange.html</id>
+            <category term="Powershell"/>
+
+        <updated>2022-05-18T22:45:14-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">A message trace is a feature in the Exchange admin center and you can use it to find out what happened to an email.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How To Fix &quot;Windows Needs Your Current Credentials&quot;</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-fix-windows-needs-your-current-credentials.html"/>
+        <id>https://aindien.com/how-to-fix-windows-needs-your-current-credentials.html</id>
+            <category term="Windows"/>
+
+        <updated>2022-05-17T22:34:32-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">When you get the message “Windows Needs Your Current Credentials”, it can be frustrating. Let me show you how to resolve this notification that Windows gives you.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How To Setup A New Outlook Profile</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-setup-a-new-outlook-profile.html"/>
+        <id>https://aindien.com/how-to-setup-a-new-outlook-profile.html</id>
+            <category term="Office 365"/>
+
+        <updated>2022-05-16T22:02:02-05:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []"> </p>
-<p>Resetting a password is a frequent task in a Windows environment. For businesses that use Active Directory(AD), the password is reset in the system you used to manage it. That is the Azure AD portal for us at the present time of writing.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Troubleshoot Axis Cameras</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-troubleshoot-axis-cameras.html"/>
-        <id>https://aindien.com/how-to-troubleshoot-axis-cameras.html</id>
-            <category term="Windows"/>
-
-        <updated>2022-05-02T21:39:41-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <h3 data-pm-slice="0 0 []"><strong>Introduction</strong></h3>
-<p>This article is on troubleshooting the various issues we might encounter when dealing with Axis cameras. It will grow and be updated as needed.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Clear The Cache In Browsers</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-clear-the-cache-in-browsers.html"/>
-        <id>https://aindien.com/how-to-clear-the-cache-in-browsers.html</id>
-            <category term="Windows"/>
-
-        <updated>2022-04-20T22:32:15-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p data-pm-slice="0 0 []"> </p>
-<p>This page will be about clearing a browser’s cache. I will give instruction concerning Edge, Chrome, and Firefox.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Troubleshoot Printers</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-troubleshoot-printers.html"/>
-        <id>https://aindien.com/how-to-troubleshoot-printers.html</id>
-            <category term="Windows"/>
-
-        <updated>2022-04-19T22:01:12-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p data-pm-slice="0 0 []">In this article, I am going to talk about troubleshooting printers. Most businesses use them and learning how to deal with their issues is a big bonus. I talk about how to test, diagnosing failed print jobs, and power issues.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How to Install Creative Cloud From Mosyle</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-to-install-creative-cloud-from-mosyle.html"/>
-        <id>https://aindien.com/how-to-install-creative-cloud-from-mosyle.html</id>
-
-        <updated>2022-04-18T23:16:57-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><a href="https://mybusiness.mosyle.com/" target="_blank" rel="noopener">Mosyle</a> is an app center. It is used to install apps on a Mac. It is a short form for Mosyle Business Store. This software is designed for mobile device management. This means laptops, tablets, and even phones. We will use this software to install Creative Cloud on a user’s device.</p>
-<p> </p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Process Management In Linux</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/process-management-in-linux.html"/>
-        <id>https://aindien.com/process-management-in-linux.html</id>
-        <media:content url="https://aindien.com/media/posts/59/process-management-0.png" medium="image" />
-            <category term="Linux"/>
-
-        <updated>2021-11-13T11:08:26-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/59/process-management-0.png" alt="" />
-                    <p data-pm-slice="0 0 []">In this section, I go over process management in a Linux system.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Making Loops In C++</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/making-loops-in-c.html"/>
-        <id>https://aindien.com/making-loops-in-c.html</id>
-        <media:content url="https://aindien.com/media/posts/58/making-loops-in-c-0.png" medium="image" />
-            <category term="C++"/>
-
-        <updated>2021-09-27T16:23:24-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/58/making-loops-in-c-0.png" alt="" />
-                    <p data-pm-slice="0 0 []">Making loops in c++ is a fundamental skill just like it is in other languages. C++ has several options that I will go over.</p>
-<p data-pm-slice="0 0 []"> </p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title> Managing Input and Output Streams in the Linux Shell</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/managing-input-and-output-streams-in-the-linux-shell.html"/>
-        <id>https://aindien.com/managing-input-and-output-streams-in-the-linux-shell.html</id>
-        <media:content url="https://aindien.com/media/posts/57/RedirerectionLinuxShell-0.jpg" medium="image" />
-            <category term="Linux"/>
-
-        <updated>2021-08-07T08:43:06-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/57/RedirerectionLinuxShell-0.jpg" alt="" />
-                    <p data-pm-slice="0 0 []">In this Linux tutorial, I teach how to manage input and output streams in the command line through the use of redirection and piping.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Making Decisions In C++</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/making-decisions-in-c.html"/>
-        <id>https://aindien.com/making-decisions-in-c.html</id>
-        <media:content url="https://aindien.com/media/posts/56/making-decisions-in-c-0.jpg" medium="image" />
-            <category term="C++"/>
-
-        <updated>2021-08-02T16:12:28-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/56/making-decisions-in-c-0.jpg" alt="" />
-                    <p>Making decisions in C++ require the developer to specify one or more conditions to be evaluated by the program. </p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Managing Files In A Linux Environment</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/managing-files-in-a-linux-environment.html"/>
-        <id>https://aindien.com/managing-files-in-a-linux-environment.html</id>
-        <media:content url="https://aindien.com/media/posts/55/managing-files-linux-0.jpg" medium="image" />
-            <category term="Linux"/>
-
-        <updated>2021-07-15T23:08:56-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/55/managing-files-linux-0.jpg" alt="" />
-                    <p data-pm-slice="0 0 []">This article gives you a foundation for managing files in a Linux environment.</p>
+<p>In this article, I want to discuss why we might want to make a new outlook profile and how to do it. This will be for a Windows machine.</p>
 
                 ]]>
             </summary>

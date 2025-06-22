@@ -10,148 +10,144 @@
     },
     "items": [
         {
-            "id": "https://aindien.com/how-to-reset-a-password-in-azure-ad.html",
-            "url": "https://aindien.com/how-to-reset-a-password-in-azure-ad.html",
-            "title": "How To Reset A Password In Azure AD",
-            "summary": "<p data-pm-slice=\"0 0 []\"> </p>\n<p>Resetting a password is a frequent task in a Windows environment. For businesses that use Active Directory(AD), the password is reset in the system you used to manage it. That is the Azure AD portal for us at the present time of writing.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Windows"
-            ],
-            "date_published": "2022-05-10T22:59:00-05:00",
-            "date_modified": "2024-09-24T13:59:00-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-troubleshoot-axis-cameras.html",
-            "url": "https://aindien.com/how-to-troubleshoot-axis-cameras.html",
-            "title": "How To Troubleshoot Axis Cameras",
-            "summary": "<h3 data-pm-slice=\"0 0 []\"><strong>Introduction</strong></h3>\n<p>This article is on troubleshooting the various issues we might encounter when dealing with Axis cameras. It will grow and be updated as needed.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Windows"
-            ],
-            "date_published": "2022-05-02T21:39:41-05:00",
-            "date_modified": "2024-09-24T13:58:44-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-clear-the-cache-in-browsers.html",
-            "url": "https://aindien.com/how-to-clear-the-cache-in-browsers.html",
-            "title": "How To Clear The Cache In Browsers",
-            "summary": "<p data-pm-slice=\"0 0 []\"> </p>\n<p>This page will be about clearing a browser’s cache. I will give instruction concerning Edge, Chrome, and Firefox.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Windows"
-            ],
-            "date_published": "2022-04-20T22:32:15-05:00",
-            "date_modified": "2024-09-24T13:58:29-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-troubleshoot-printers.html",
-            "url": "https://aindien.com/how-to-troubleshoot-printers.html",
-            "title": "How To Troubleshoot Printers",
-            "summary": "<p data-pm-slice=\"0 0 []\">In this article, I am going to talk about troubleshooting printers. Most businesses use them and learning how to deal with their issues is a big bonus. I talk about how to test, diagnosing failed print jobs, and power issues.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Windows"
-            ],
-            "date_published": "2022-04-19T22:01:12-05:00",
-            "date_modified": "2024-09-24T13:58:13-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-to-install-creative-cloud-from-mosyle.html",
-            "url": "https://aindien.com/how-to-install-creative-cloud-from-mosyle.html",
-            "title": "How to Install Creative Cloud From Mosyle",
-            "summary": "<p><a href=\"https://mybusiness.mosyle.com/\" target=\"_blank\" rel=\"noopener\">Mosyle</a> is an app center. It is used to install apps on a Mac. It is a short form for Mosyle Business Store. This software is designed for mobile device management. This means laptops, tablets, and even phones. We will use this software to install Creative Cloud on a user’s device.</p>\n<p> </p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-04-18T23:16:57-05:00",
-            "date_modified": "2024-09-24T13:57:58-05:00"
-        },
-        {
-            "id": "https://aindien.com/process-management-in-linux.html",
-            "url": "https://aindien.com/process-management-in-linux.html",
-            "title": "Process Management In Linux",
-            "summary": "<p data-pm-slice=\"0 0 []\">In this section, I go over process management in a Linux system.</p>\n",
-            "image": "https://aindien.com/media/posts/59/process-management-0.png",
+            "id": "https://aindien.com/network-troubleshooting-with-traceroute.html",
+            "url": "https://aindien.com/network-troubleshooting-with-traceroute.html",
+            "title": "Network Troubleshooting With Traceroute",
+            "summary": "<p><span style=\"font-weight: 400;\">Network troubleshooting always begins with a few command line techniques. Traceroute is one of the basic utilities to learn. In this document, I will go over how to do this.</span></p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Linux"
             ],
-            "date_published": "2021-11-13T11:08:26-06:00",
-            "date_modified": "2024-09-24T13:57:39-05:00"
+            "date_published": "2022-07-12T23:26:28-05:00",
+            "date_modified": "2024-09-24T13:38:00-05:00"
         },
         {
-            "id": "https://aindien.com/making-loops-in-c.html",
-            "url": "https://aindien.com/making-loops-in-c.html",
-            "title": "Making Loops In C++",
-            "summary": "<p data-pm-slice=\"0 0 []\">Making loops in c++ is a fundamental skill just like it is in other languages. C++ has several options that I will go over.</p>\n<p data-pm-slice=\"0 0 []\"> </p>\n",
-            "image": "https://aindien.com/media/posts/58/making-loops-in-c-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "C++"
-            ],
-            "date_published": "2021-09-27T16:23:24-05:00",
-            "date_modified": "2024-09-24T13:57:22-05:00"
-        },
-        {
-            "id": "https://aindien.com/managing-input-and-output-streams-in-the-linux-shell.html",
-            "url": "https://aindien.com/managing-input-and-output-streams-in-the-linux-shell.html",
-            "title": " Managing Input and Output Streams in the Linux Shell",
-            "summary": "<p data-pm-slice=\"0 0 []\">In this Linux tutorial, I teach how to manage input and output streams in the command line through the use of redirection and piping.</p>\n",
-            "image": "https://aindien.com/media/posts/57/RedirerectionLinuxShell-0.jpg",
+            "id": "https://aindien.com/getting-started-with-mariadb-on-fedora.html",
+            "url": "https://aindien.com/getting-started-with-mariadb-on-fedora.html",
+            "title": "Getting Started With MariaDB On Fedora",
+            "summary": "<p><span style=\"font-weight: 400;\">This document will show you how to install and get started with MariaDB on Fedora.</span></p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Linux"
             ],
-            "date_published": "2021-08-07T08:43:06-05:00",
-            "date_modified": "2024-09-24T13:57:03-05:00"
+            "date_published": "2022-07-08T23:00:45-05:00",
+            "date_modified": "2024-09-24T13:38:20-05:00"
         },
         {
-            "id": "https://aindien.com/making-decisions-in-c.html",
-            "url": "https://aindien.com/making-decisions-in-c.html",
-            "title": "Making Decisions In C++",
-            "summary": "<p>Making decisions in C++ require the developer to specify one or more conditions to be evaluated by the program. </p>\n",
-            "image": "https://aindien.com/media/posts/56/making-decisions-in-c-0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "C++"
-            ],
-            "date_published": "2021-08-02T16:12:28-05:00",
-            "date_modified": "2024-09-24T13:56:48-05:00"
-        },
-        {
-            "id": "https://aindien.com/managing-files-in-a-linux-environment.html",
-            "url": "https://aindien.com/managing-files-in-a-linux-environment.html",
-            "title": "Managing Files In A Linux Environment",
-            "summary": "<p data-pm-slice=\"0 0 []\">This article gives you a foundation for managing files in a Linux environment.</p>\n",
-            "image": "https://aindien.com/media/posts/55/managing-files-linux-0.jpg",
+            "id": "https://aindien.com/getting-started-with-dnf-package-management.html",
+            "url": "https://aindien.com/getting-started-with-dnf-package-management.html",
+            "title": "Getting Started With DNF Package Management",
+            "summary": "<p data-pm-slice=\"0 0 []\">Linux operating systems have a centralized way of searching, installing, updating, and deleting software. In this document, I want to talk about the DNF package management system.</p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Linux"
             ],
-            "date_published": "2021-07-15T23:08:56-05:00",
-            "date_modified": "2024-09-24T13:56:31-05:00"
+            "date_published": "2022-06-23T23:53:44-05:00",
+            "date_modified": "2024-09-24T13:38:40-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-check-disk-space-in-linux.html",
+            "url": "https://aindien.com/how-to-check-disk-space-in-linux.html",
+            "title": "How To Check Disk Space In Linux",
+            "summary": "<p data-pm-slice=\"0 0 []\">See how to use the [df] command and its options to monitor your important file systems.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Linux"
+            ],
+            "date_published": "2022-06-11T08:45:23-05:00",
+            "date_modified": "2024-09-24T13:39:01-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-fix-papercut-printing-issues.html",
+            "url": "https://aindien.com/how-to-fix-papercut-printing-issues.html",
+            "title": "How To Fix PaperCut Printing Issues",
+            "summary": "<p data-pm-slice=\"0 0 []\">PaperCut is a print server and in this document, I will show how to fix the various errors we have seen in our environment.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Windows"
+            ],
+            "date_published": "2022-06-01T18:20:22-05:00",
+            "date_modified": "2024-09-24T13:39:24-05:00"
+        },
+        {
+            "id": "https://aindien.com/setting-up-mfa-for-a-new-user.html",
+            "url": "https://aindien.com/setting-up-mfa-for-a-new-user.html",
+            "title": "Setting Up MFA For A New User",
+            "summary": "<p data-pm-slice=\"0 0 []\">MFA is required in a lot of places. In this document, I will show you how to get started, how to reset your MFA, and some details about the most popular authenticators.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Windows"
+            ],
+            "date_published": "2022-05-31T18:03:50-05:00",
+            "date_modified": "2024-09-24T14:00:32-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-change-uac-behavior-in-windows.html",
+            "url": "https://aindien.com/how-to-change-uac-behavior-in-windows.html",
+            "title": "How To Change UAC Behavior In Windows",
+            "summary": "<p data-pm-slice=\"0 0 []\">User account control is a part of Windows and prevents programs from changing your system. In this document, I will talk about why you would change its behavior and how to do it.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Powershell"
+            ],
+            "date_published": "2022-05-19T22:22:02-05:00",
+            "date_modified": "2024-09-24T14:00:15-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-run-a-message-trace-in-exchange.html",
+            "url": "https://aindien.com/how-to-run-a-message-trace-in-exchange.html",
+            "title": "How To Run A Message Trace In Exchange",
+            "summary": "<p data-pm-slice=\"0 0 []\">A message trace is a feature in the Exchange admin center and you can use it to find out what happened to an email.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Powershell"
+            ],
+            "date_published": "2022-05-18T22:45:14-05:00",
+            "date_modified": "2024-09-24T13:59:54-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-fix-windows-needs-your-current-credentials.html",
+            "url": "https://aindien.com/how-to-fix-windows-needs-your-current-credentials.html",
+            "title": "How To Fix &quot;Windows Needs Your Current Credentials&quot;",
+            "summary": "<p data-pm-slice=\"0 0 []\">When you get the message “Windows Needs Your Current Credentials”, it can be frustrating. Let me show you how to resolve this notification that Windows gives you.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Windows"
+            ],
+            "date_published": "2022-05-17T22:34:32-05:00",
+            "date_modified": "2024-09-24T13:59:39-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-setup-a-new-outlook-profile.html",
+            "url": "https://aindien.com/how-to-setup-a-new-outlook-profile.html",
+            "title": "How To Setup A New Outlook Profile",
+            "summary": "<p data-pm-slice=\"0 0 []\"> </p>\n<p>In this article, I want to discuss why we might want to make a new outlook profile and how to do it. This will be for a Windows machine.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Office 365"
+            ],
+            "date_published": "2022-05-16T22:02:02-05:00",
+            "date_modified": "2024-09-24T13:59:22-05:00"
         }
     ]
 }
