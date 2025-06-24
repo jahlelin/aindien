@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/writing-effective-emails.html",
+            "url": "https://aindien.com/writing-effective-emails.html",
+            "title": "Writing Effective Emails",
+            "summary": "<p>These are my tips on writing effective emails.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-23T21:13:39-05:00",
+            "date_modified": "2025-06-23T21:13:39-05:00"
+        },
+        {
             "id": "https://aindien.com/improving-your-technical-writing-skills.html",
             "url": "https://aindien.com/improving-your-technical-writing-skills.html",
             "title": "Improving Your Technical Writing Skills",
@@ -21,20 +34,6 @@
             ],
             "date_published": "2025-06-19T22:29:18-05:00",
             "date_modified": "2025-06-19T22:29:18-05:00"
-        },
-        {
-            "id": "https://aindien.com/using-active-directory-from-scratch.html",
-            "url": "https://aindien.com/using-active-directory-from-scratch.html",
-            "title": "Learning Active Directory From Scratch",
-            "summary": "<p>Active directory makes managing a lot of users and machines a doable task. It<br>organizes all of your resources and users. </p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "active directory"
-            ],
-            "date_published": "2025-04-11T22:11:29-05:00",
-            "date_modified": "2025-04-29T16:44:59-05:00"
         },
         {
             "id": "https://aindien.com/data-structures-in-python.html",

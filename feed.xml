@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-06-19T22:29:18-05:00</updated>
+    <updated>2025-06-23T21:13:39-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Writing Effective Emails</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/writing-effective-emails.html"/>
+        <id>https://aindien.com/writing-effective-emails.html</id>
+
+        <updated>2025-06-23T21:13:39-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>These are my tips on writing effective emails.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Improving Your Technical Writing Skills</title>
         <author>
@@ -21,24 +38,6 @@
             <summary>
                 <![CDATA[
                     <p>Improving Your Technical Writing Skills</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Learning Active Directory From Scratch</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/using-active-directory-from-scratch.html"/>
-        <id>https://aindien.com/using-active-directory-from-scratch.html</id>
-            <category term="active directory"/>
-
-        <updated>2025-04-11T22:11:29-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Active directory makes managing a lot of users and machines a doable task. It<br>organizes all of your resources and users. </p>
 
                 ]]>
             </summary>

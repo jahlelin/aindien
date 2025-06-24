@@ -1413,10 +1413,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://aindien.com/using-active-directory-from-scratch.html</loc>
-<lastmod>2025-04-29T16:44:59-05:00</lastmod>
-</url>
-<url>
 <loc>https://aindien.com/using-data-and-models-in-economics.html</loc>
 <lastmod>2024-09-24T13:30:51-05:00</lastmod>
 </url>
@@ -1555,5 +1551,9 @@
 <image:loc>https://aindien.com/media/posts/174/trianglify-lowres6.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://aindien.com/writing-effective-emails.html</loc>
+<lastmod>2025-06-23T21:13:39-05:00</lastmod>
 </url>
 </urlset>
