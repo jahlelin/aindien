@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-06-23T21:16:55-05:00</updated>
+    <updated>2025-06-24T20:15:46-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Sending Emails to the Right People</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/sending-emails-to-the-right-people.html"/>
+        <id>https://aindien.com/sending-emails-to-the-right-people.html</id>
+
+        <updated>2025-06-24T20:14:42-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>These are my tips on sending emails to the right people.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Writing Effective Emails</title>
         <author>
@@ -166,26 +183,6 @@
                 <![CDATA[
                         <img src="https://aindien.com/media/posts/191/trianglify-lowres11.png" alt="" />
                     <p>These are my notes on launching a window in python.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Customizing the Prompt in Linux</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/customizing-the-prompt-in-linux.html"/>
-        <id>https://aindien.com/customizing-the-prompt-in-linux.html</id>
-        <media:content url="https://aindien.com/media/posts/190/trianglify-lowres11.png" medium="image" />
-            <category term="Linux"/>
-
-        <updated>2024-10-27T15:30:38-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/190/trianglify-lowres11.png" alt="" />
-                    <p>These are my notes on customizing the prompt in linux.</p>
 
                 ]]>
             </summary>
