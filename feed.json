@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/organizing-your-email.html",
+            "url": "https://aindien.com/organizing-your-email.html",
+            "title": "Organizing Your Email",
+            "summary": "<p>These are my tips on organizing your email.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-25T17:40:16-05:00",
+            "date_modified": "2025-06-25T17:40:16-05:00"
+        },
+        {
             "id": "https://aindien.com/sending-emails-to-the-right-people.html",
             "url": "https://aindien.com/sending-emails-to-the-right-people.html",
             "title": "Sending Emails to the Right People",
@@ -131,21 +144,6 @@
             ],
             "date_published": "2025-03-06T20:18:26-06:00",
             "date_modified": "2025-03-06T21:10:38-06:00"
-        },
-        {
-            "id": "https://aindien.com/launching-a-window-in-python.html",
-            "url": "https://aindien.com/launching-a-window-in-python.html",
-            "title": "Launching a Window in Python",
-            "summary": "<p>These are my notes on launching a window in python.</p>\n",
-            "image": "https://aindien.com/media/posts/191/trianglify-lowres11.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Python"
-            ],
-            "date_published": "2024-10-30T07:29:00-05:00",
-            "date_modified": "2024-10-30T14:35:22-05:00"
         }
     ]
 }

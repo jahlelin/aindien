@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-06-24T20:15:46-05:00</updated>
+    <updated>2025-06-25T17:40:16-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Organizing Your Email</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/organizing-your-email.html"/>
+        <id>https://aindien.com/organizing-your-email.html</id>
+
+        <updated>2025-06-25T17:40:16-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>These are my tips on organizing your email.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Sending Emails to the Right People</title>
         <author>
@@ -163,26 +180,6 @@
             <summary>
                 <![CDATA[
                     <p>This post is about designing your network.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Launching a Window in Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/launching-a-window-in-python.html"/>
-        <id>https://aindien.com/launching-a-window-in-python.html</id>
-        <media:content url="https://aindien.com/media/posts/191/trianglify-lowres11.png" medium="image" />
-            <category term="Python"/>
-
-        <updated>2024-10-30T07:29:00-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aindien.com/media/posts/191/trianglify-lowres11.png" alt="" />
-                    <p>These are my notes on launching a window in python.</p>
 
                 ]]>
             </summary>
