@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/generative-ai-foundations.html",
+            "url": "https://aindien.com/generative-ai-foundations.html",
+            "title": "Generative AI Foundations",
+            "summary": "<p>This is my guide on generative AI foundations.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-27T07:29:14-05:00",
+            "date_modified": "2025-06-27T07:29:40-05:00"
+        },
+        {
             "id": "https://aindien.com/introduction-to-telecom-networks.html",
             "url": "https://aindien.com/introduction-to-telecom-networks.html",
             "title": "Introduction To Telecom Networks",
@@ -129,20 +142,6 @@
             ],
             "date_published": "2025-03-09T15:54:24-05:00",
             "date_modified": "2025-03-09T15:56:10-05:00"
-        },
-        {
-            "id": "https://aindien.com/managing-software-in-linux.html",
-            "url": "https://aindien.com/managing-software-in-linux.html",
-            "title": "Managing Software In Linux",
-            "summary": "<p>This article is about managing software in Linux.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Linux"
-            ],
-            "date_published": "2025-03-08T15:48:49-06:00",
-            "date_modified": "2025-03-08T15:59:43-06:00"
         }
     ]
 }

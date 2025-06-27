@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-06-26T19:56:59-05:00</updated>
+    <updated>2025-06-27T07:29:40-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Generative AI Foundations</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/generative-ai-foundations.html"/>
+        <id>https://aindien.com/generative-ai-foundations.html</id>
+
+        <updated>2025-06-27T07:29:14-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is my guide on generative AI foundations.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Introduction To Telecom Networks</title>
         <author>
@@ -161,24 +178,6 @@
             <summary>
                 <![CDATA[
                     <p>This article is about creating PowerPoints in Office365.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Managing Software In Linux</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/managing-software-in-linux.html"/>
-        <id>https://aindien.com/managing-software-in-linux.html</id>
-            <category term="Linux"/>
-
-        <updated>2025-03-08T15:48:49-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This article is about managing software in Linux.</p>
 
                 ]]>
             </summary>
