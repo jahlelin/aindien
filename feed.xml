@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-06-25T17:40:16-05:00</updated>
+    <updated>2025-06-26T19:56:59-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Introduction To Telecom Networks</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/introduction-to-telecom-networks.html"/>
+        <id>https://aindien.com/introduction-to-telecom-networks.html</id>
+
+        <updated>2025-06-26T19:56:38-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is my introduction to telecom networks.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Organizing Your Email</title>
         <author>
@@ -162,24 +179,6 @@
             <summary>
                 <![CDATA[
                     <p>This article is about managing software in Linux.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Designing Your Network</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/designing-your-network.html"/>
-        <id>https://aindien.com/designing-your-network.html</id>
-            <category term="Networking"/>
-
-        <updated>2025-03-06T20:18:26-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This post is about designing your network.</p>
 
                 ]]>
             </summary>
