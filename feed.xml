@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-06-27T07:29:40-05:00</updated>
+    <updated>2025-06-27T22:26:36-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>What is Generative AI</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/what-is-generative-ai.html"/>
+        <id>https://aindien.com/what-is-generative-ai.html</id>
+
+        <updated>2025-06-27T19:12:34-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is an explanation on what is generative AI</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Generative AI Foundations</title>
         <author>
@@ -160,24 +177,6 @@
             <summary>
                 <![CDATA[
                     <p>This article is about creating random numbers in python.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Creating PowerPoints in Office365</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/creating-powerpoints-in-office365.html"/>
-        <id>https://aindien.com/creating-powerpoints-in-office365.html</id>
-            <category term="Office 365"/>
-
-        <updated>2025-03-09T15:54:24-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This article is about creating PowerPoints in Office365.</p>
 
                 ]]>
             </summary>

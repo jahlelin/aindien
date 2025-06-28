@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/what-is-generative-ai.html",
+            "url": "https://aindien.com/what-is-generative-ai.html",
+            "title": "What is Generative AI",
+            "summary": "<p>This is an explanation on what is generative AI</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-27T19:12:34-05:00",
+            "date_modified": "2025-06-27T22:25:58-05:00"
+        },
+        {
             "id": "https://aindien.com/generative-ai-foundations.html",
             "url": "https://aindien.com/generative-ai-foundations.html",
             "title": "Generative AI Foundations",
@@ -20,7 +33,7 @@
             "tags": [
             ],
             "date_published": "2025-06-27T07:29:14-05:00",
-            "date_modified": "2025-06-27T07:29:40-05:00"
+            "date_modified": "2025-06-27T22:26:18-05:00"
         },
         {
             "id": "https://aindien.com/introduction-to-telecom-networks.html",
@@ -33,7 +46,7 @@
             "tags": [
             ],
             "date_published": "2025-06-26T19:56:38-05:00",
-            "date_modified": "2025-06-26T19:56:59-05:00"
+            "date_modified": "2025-06-27T22:26:36-05:00"
         },
         {
             "id": "https://aindien.com/organizing-your-email.html",
@@ -128,20 +141,6 @@
             ],
             "date_published": "2025-03-12T08:57:29-05:00",
             "date_modified": "2025-03-12T08:59:24-05:00"
-        },
-        {
-            "id": "https://aindien.com/creating-powerpoints-in-office365.html",
-            "url": "https://aindien.com/creating-powerpoints-in-office365.html",
-            "title": "Creating PowerPoints in Office365",
-            "summary": "<p>This article is about creating PowerPoints in Office365.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Office 365"
-            ],
-            "date_published": "2025-03-09T15:54:24-05:00",
-            "date_modified": "2025-03-09T15:56:10-05:00"
         }
     ]
 }
