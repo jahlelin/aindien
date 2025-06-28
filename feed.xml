@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-06-27T22:26:36-05:00</updated>
+    <updated>2025-06-28T11:15:46-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>AI in the Workplace</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/ai-in-the-workplace.html"/>
+        <id>https://aindien.com/ai-in-the-workplace.html</id>
+
+        <updated>2025-06-28T11:14:53-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This article is on "AI in the Workplace".</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>What is Generative AI</title>
         <author>
@@ -159,24 +176,6 @@
             <summary>
                 <![CDATA[
                     <p>This article is about the basics of TCP/IP networking.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Creating Random Numbers in Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/creating-random-numbers-in-python.html"/>
-        <id>https://aindien.com/creating-random-numbers-in-python.html</id>
-            <category term="Python"/>
-
-        <updated>2025-03-12T08:57:29-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This article is about creating random numbers in python.</p>
 
                 ]]>
             </summary>
