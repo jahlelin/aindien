@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-06-28T19:38:38-05:00</updated>
+    <updated>2025-06-29T10:13:36-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How To Collaborate With AI</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-to-collaborate-with-ai.html"/>
+        <id>https://aindien.com/how-to-collaborate-with-ai.html</id>
+
+        <updated>2025-06-29T10:13:23-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Here are a couple tips on how to collaborate with AI.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How AI Works Under the Hood</title>
         <author>
@@ -157,24 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>Improving Your Technical Writing Skills</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Data Structures in Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/data-structures-in-python.html"/>
-        <id>https://aindien.com/data-structures-in-python.html</id>
-            <category term="Python"/>
-
-        <updated>2025-04-01T15:50:42-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This article is about data structures in python.</p>
 
                 ]]>
             </summary>
