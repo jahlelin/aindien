@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/how-ai-works-under-the-hood.html",
+            "url": "https://aindien.com/how-ai-works-under-the-hood.html",
+            "title": "How AI Works Under the Hood",
+            "summary": "<p>This is an article on how AI works under the hood.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-28T19:38:38-05:00",
+            "date_modified": "2025-06-28T19:38:38-05:00"
+        },
+        {
             "id": "https://aindien.com/ai-in-the-workplace.html",
             "url": "https://aindien.com/ai-in-the-workplace.html",
             "title": "AI in the Workplace",
@@ -126,20 +139,6 @@
             ],
             "date_published": "2025-04-01T15:50:42-05:00",
             "date_modified": "2025-04-01T15:51:18-05:00"
-        },
-        {
-            "id": "https://aindien.com/basics-of-tcpip.html",
-            "url": "https://aindien.com/basics-of-tcpip.html",
-            "title": "Basics of TCP/IP Networking",
-            "summary": "<p>This article is about the basics of TCP/IP networking.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Networking"
-            ],
-            "date_published": "2025-03-30T17:01:17-05:00",
-            "date_modified": "2025-03-30T17:03:01-05:00"
         }
     ]
 }

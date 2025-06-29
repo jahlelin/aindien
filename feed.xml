@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-06-28T11:15:46-05:00</updated>
+    <updated>2025-06-28T19:38:38-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>How AI Works Under the Hood</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-ai-works-under-the-hood.html"/>
+        <id>https://aindien.com/how-ai-works-under-the-hood.html</id>
+
+        <updated>2025-06-28T19:38:38-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is an article on how AI works under the hood.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>AI in the Workplace</title>
         <author>
@@ -158,24 +175,6 @@
             <summary>
                 <![CDATA[
                     <p>This article is about data structures in python.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Basics of TCP/IP Networking</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/basics-of-tcpip.html"/>
-        <id>https://aindien.com/basics-of-tcpip.html</id>
-            <category term="Networking"/>
-
-        <updated>2025-03-30T17:01:17-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This article is about the basics of TCP/IP networking.</p>
 
                 ]]>
             </summary>
