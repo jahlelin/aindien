@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-06-29T10:13:36-05:00</updated>
+    <updated>2025-06-29T20:38:58-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Introduction to Microsoft Teams</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/introduction-to-microsoft-teams.html"/>
+        <id>https://aindien.com/introduction-to-microsoft-teams.html</id>
+            <category term="Office 365"/>
+
+        <updated>2025-06-29T20:38:27-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is my introduction to Microsoft Teams.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Collaborate With AI</title>
         <author>
@@ -157,23 +175,6 @@
             <summary>
                 <![CDATA[
                     <p>These are my tips on writing effective emails.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Improving Your Technical Writing Skills</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/improving-your-technical-writing-skills.html"/>
-        <id>https://aindien.com/improving-your-technical-writing-skills.html</id>
-
-        <updated>2025-06-19T22:29:18-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Improving Your Technical Writing Skills</p>
 
                 ]]>
             </summary>

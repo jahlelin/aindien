@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/introduction-to-microsoft-teams.html",
+            "url": "https://aindien.com/introduction-to-microsoft-teams.html",
+            "title": "Introduction to Microsoft Teams",
+            "summary": "<p>This is my introduction to Microsoft Teams.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Office 365"
+            ],
+            "date_published": "2025-06-29T20:38:27-05:00",
+            "date_modified": "2025-06-29T20:38:58-05:00"
+        },
+        {
             "id": "https://aindien.com/how-to-collaborate-with-ai.html",
             "url": "https://aindien.com/how-to-collaborate-with-ai.html",
             "title": "How To Collaborate With AI",
@@ -125,19 +139,6 @@
             ],
             "date_published": "2025-06-23T21:13:39-05:00",
             "date_modified": "2025-06-23T21:16:40-05:00"
-        },
-        {
-            "id": "https://aindien.com/improving-your-technical-writing-skills.html",
-            "url": "https://aindien.com/improving-your-technical-writing-skills.html",
-            "title": "Improving Your Technical Writing Skills",
-            "summary": "<p>Improving Your Technical Writing Skills</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-06-19T22:29:18-05:00",
-            "date_modified": "2025-06-23T21:16:55-05:00"
         }
     ]
 }
