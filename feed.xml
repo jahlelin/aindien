@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-06-29T20:38:58-05:00</updated>
+    <updated>2025-06-30T17:51:31-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Generative AI Risks</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/generative-ai-risks.html"/>
+        <id>https://aindien.com/generative-ai-risks.html</id>
+
+        <updated>2025-06-30T17:51:13-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on generative AI risks.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Introduction to Microsoft Teams</title>
         <author>
@@ -158,23 +175,6 @@
             <summary>
                 <![CDATA[
                     <p>These are my tips on sending emails to the right people.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Writing Effective Emails</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/writing-effective-emails.html"/>
-        <id>https://aindien.com/writing-effective-emails.html</id>
-
-        <updated>2025-06-23T21:13:39-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>These are my tips on writing effective emails.</p>
 
                 ]]>
             </summary>
