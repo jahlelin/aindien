@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/risk-mitigation-and-generative-ai.html",
+            "url": "https://aindien.com/risk-mitigation-and-generative-ai.html",
+            "title": "Risk Mitigation and Generative AI",
+            "summary": "<p>This is a guide on risk mitigation and generative AI.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-01T07:21:14-05:00",
+            "date_modified": "2025-07-01T07:21:36-05:00"
+        },
+        {
             "id": "https://aindien.com/generative-ai-risks.html",
             "url": "https://aindien.com/generative-ai-risks.html",
             "title": "Generative AI Risks",
@@ -126,19 +139,6 @@
             ],
             "date_published": "2025-06-25T17:40:16-05:00",
             "date_modified": "2025-06-25T17:40:16-05:00"
-        },
-        {
-            "id": "https://aindien.com/sending-emails-to-the-right-people.html",
-            "url": "https://aindien.com/sending-emails-to-the-right-people.html",
-            "title": "Sending Emails to the Right People",
-            "summary": "<p>These are my tips on sending emails to the right people.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-06-24T20:14:42-05:00",
-            "date_modified": "2025-06-24T20:15:46-05:00"
         }
     ]
 }
