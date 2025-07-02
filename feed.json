@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/list-comprehension-in-python.html",
+            "url": "https://aindien.com/list-comprehension-in-python.html",
+            "title": "List Comprehension in Python",
+            "summary": "<div>This is a guide on list comprehension in Python</div>\n<div>",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-01T22:29:46-05:00",
+            "date_modified": "2025-07-01T22:30:38-05:00"
+        },
+        {
             "id": "https://aindien.com/ai-security-risks.html",
             "url": "https://aindien.com/ai-security-risks.html",
             "title": "AI Security Risks",
@@ -126,19 +139,6 @@
             ],
             "date_published": "2025-06-27T07:29:14-05:00",
             "date_modified": "2025-06-28T11:15:28-05:00"
-        },
-        {
-            "id": "https://aindien.com/introduction-to-telecom-networks.html",
-            "url": "https://aindien.com/introduction-to-telecom-networks.html",
-            "title": "Introduction To Telecom Networks",
-            "summary": "<p>This is my introduction to telecom networks.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-06-26T19:56:38-05:00",
-            "date_modified": "2025-06-28T11:15:46-05:00"
         }
     ]
 }
