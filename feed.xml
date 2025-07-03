@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-07-01T22:30:38-05:00</updated>
+    <updated>2025-07-02T19:14:32-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Introduction to Microsoft Outlook</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/introduction-to-microsoft-outlook.html"/>
+        <id>https://aindien.com/introduction-to-microsoft-outlook.html</id>
+
+        <updated>2025-07-02T19:14:05-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is an introduction to Microsoft Outlook.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>List Comprehension in Python</title>
         <author>
@@ -158,23 +175,6 @@
             <summary>
                 <![CDATA[
                     <p>This is an explanation on what is generative AI</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Generative AI Foundations</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/generative-ai-foundations.html"/>
-        <id>https://aindien.com/generative-ai-foundations.html</id>
-
-        <updated>2025-06-27T07:29:14-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is my guide on generative AI foundations.</p>
 
                 ]]>
             </summary>

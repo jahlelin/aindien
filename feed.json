@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/introduction-to-microsoft-outlook.html",
+            "url": "https://aindien.com/introduction-to-microsoft-outlook.html",
+            "title": "Introduction to Microsoft Outlook",
+            "summary": "<p>This is an introduction to Microsoft Outlook.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-02T19:14:05-05:00",
+            "date_modified": "2025-07-02T19:14:32-05:00"
+        },
+        {
             "id": "https://aindien.com/list-comprehension-in-python.html",
             "url": "https://aindien.com/list-comprehension-in-python.html",
             "title": "List Comprehension in Python",
@@ -126,19 +139,6 @@
             ],
             "date_published": "2025-06-27T19:12:34-05:00",
             "date_modified": "2025-06-28T11:15:09-05:00"
-        },
-        {
-            "id": "https://aindien.com/generative-ai-foundations.html",
-            "url": "https://aindien.com/generative-ai-foundations.html",
-            "title": "Generative AI Foundations",
-            "summary": "<p>This is my guide on generative AI foundations.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-06-27T07:29:14-05:00",
-            "date_modified": "2025-06-28T11:15:28-05:00"
         }
     ]
 }
