@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-07-02T19:14:32-05:00</updated>
+    <updated>2025-07-04T08:09:51-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Ticket Management Using Snap and ServiceNow</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/ticket-management-using-snap-and-servicenow.html"/>
+        <id>https://aindien.com/ticket-management-using-snap-and-servicenow.html</id>
+
+        <updated>2025-07-04T08:07:21-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on ticket management using SNAP and ServiceNow.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Introduction to Microsoft Outlook</title>
         <author>
@@ -158,23 +175,6 @@
             <summary>
                 <![CDATA[
                     <p>This article is on "AI in the Workplace".</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>What is Generative AI</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/what-is-generative-ai.html"/>
-        <id>https://aindien.com/what-is-generative-ai.html</id>
-
-        <updated>2025-06-27T19:12:34-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is an explanation on what is generative AI</p>
 
                 ]]>
             </summary>
