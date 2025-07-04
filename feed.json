@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/this-is-a-guide-on-dns-with-active-directory.html",
+            "url": "https://aindien.com/this-is-a-guide-on-dns-with-active-directory.html",
+            "title": "This is a guide on DNS with Active Directory.",
+            "summary": "<div>This is a guide on DNS with Active Directory.</div>\n<div>",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-04T15:59:17-05:00",
+            "date_modified": "2025-07-04T16:15:24-05:00"
+        },
+        {
             "id": "https://aindien.com/ticket-management-using-snap-and-servicenow.html",
             "url": "https://aindien.com/ticket-management-using-snap-and-servicenow.html",
             "title": "Ticket Management Using Snap and ServiceNow",
@@ -126,19 +139,6 @@
             ],
             "date_published": "2025-06-28T19:38:38-05:00",
             "date_modified": "2025-06-28T19:38:38-05:00"
-        },
-        {
-            "id": "https://aindien.com/ai-in-the-workplace.html",
-            "url": "https://aindien.com/ai-in-the-workplace.html",
-            "title": "AI in the Workplace",
-            "summary": "<p>This article is on \"AI in the Workplace\".</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-06-28T11:14:53-05:00",
-            "date_modified": "2025-06-28T11:14:53-05:00"
         }
     ]
 }

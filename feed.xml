@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-07-04T08:25:53-05:00</updated>
+    <updated>2025-07-04T16:15:24-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>This is a guide on DNS with Active Directory.</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/this-is-a-guide-on-dns-with-active-directory.html"/>
+        <id>https://aindien.com/this-is-a-guide-on-dns-with-active-directory.html</id>
+
+        <updated>2025-07-04T15:59:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <div>This is a guide on DNS with Active Directory.</div>
+<div>
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Ticket Management Using Snap and ServiceNow</title>
         <author>
@@ -158,23 +175,6 @@
             <summary>
                 <![CDATA[
                     <p>This is an article on how AI works under the hood.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>AI in the Workplace</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/ai-in-the-workplace.html"/>
-        <id>https://aindien.com/ai-in-the-workplace.html</id>
-
-        <updated>2025-06-28T11:14:53-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This article is on "AI in the Workplace".</p>
 
                 ]]>
             </summary>
