@@ -82,11 +82,11 @@
 </url>
 <url>
 <loc>https://aindien.com/ai-in-the-workplace.html</loc>
-<lastmod>2025-06-28T11:14:53-05:00</lastmod>
+<lastmod>2025-07-05T22:03:25-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/ai-security-risks.html</loc>
-<lastmod>2025-07-01T17:34:00-05:00</lastmod>
+<lastmod>2025-07-05T22:04:15-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/aliases-in-git.html</loc>
@@ -382,11 +382,11 @@
 </url>
 <url>
 <loc>https://aindien.com/generative-ai-foundations.html</loc>
-<lastmod>2025-06-28T11:15:28-05:00</lastmod>
+<lastmod>2025-07-05T22:03:07-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/generative-ai-risks.html</loc>
-<lastmod>2025-06-30T17:51:31-05:00</lastmod>
+<lastmod>2025-07-05T22:03:56-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/getting-started-with-dnf-package-management.html</loc>
@@ -558,7 +558,7 @@
 </url>
 <url>
 <loc>https://aindien.com/how-ai-works-under-the-hood.html</loc>
-<lastmod>2025-06-28T19:38:38-05:00</lastmod>
+<lastmod>2025-07-05T22:03:33-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/how-the-osi-model-works.html</loc>
@@ -598,7 +598,7 @@
 </url>
 <url>
 <loc>https://aindien.com/how-to-collaborate-with-ai.html</loc>
-<lastmod>2025-06-29T10:13:36-05:00</lastmod>
+<lastmod>2025-07-05T22:03:44-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/how-to-construct-loops-in-c.html</loc>
@@ -1002,11 +1002,11 @@
 </url>
 <url>
 <loc>https://aindien.com/intro-to-the-vim-text-editor.html</loc>
-<lastmod>2024-10-20T19:04:13-05:00</lastmod>
+<lastmod>2025-07-05T22:02:25-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/introduction-to-microsoft-outlook.html</loc>
-<lastmod>2025-07-02T19:14:32-05:00</lastmod>
+<lastmod>2025-07-05T22:01:09-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/introduction-to-microsoft-teams.html</loc>
@@ -1014,7 +1014,7 @@
 </url>
 <url>
 <loc>https://aindien.com/introduction-to-telecom-networks.html</loc>
-<lastmod>2025-06-28T11:15:46-05:00</lastmod>
+<lastmod>2025-07-05T22:02:55-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/launching-a-window-in-python.html</loc>
@@ -1026,7 +1026,7 @@
 </url>
 <url>
 <loc>https://aindien.com/list-comprehension-in-python.html</loc>
-<lastmod>2025-07-01T22:30:38-05:00</lastmod>
+<lastmod>2025-07-05T22:01:19-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/local-scope-in-c.html</loc>
@@ -1274,7 +1274,7 @@
 </url>
 <url>
 <loc>https://aindien.com/risk-mitigation-and-generative-ai.html</loc>
-<lastmod>2025-07-01T07:21:36-05:00</lastmod>
+<lastmod>2025-07-05T22:04:05-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/rstudio-tutorial.html</loc>
@@ -1295,6 +1295,10 @@
 <image:loc>https://aindien.com/media/posts/162/trianglify-lowres.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://aindien.com/searching-for-files-in-linux.html</loc>
+<lastmod>2025-07-05T21:59:00-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/security-and-compliance-in-aws.html</loc>
@@ -1450,7 +1454,7 @@
 </url>
 <url>
 <loc>https://aindien.com/this-is-a-guide-on-dns-with-active-directory.html</loc>
-<lastmod>2025-07-04T16:15:24-05:00</lastmod>
+<lastmod>2025-07-05T22:00:48-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/ticket-management-using-snap-and-servicenow.html</loc>
@@ -1578,7 +1582,7 @@
 </url>
 <url>
 <loc>https://aindien.com/what-is-generative-ai.html</loc>
-<lastmod>2025-06-28T11:15:09-05:00</lastmod>
+<lastmod>2025-07-05T22:03:16-05:00</lastmod>
 </url>
 <url>
 <loc>https://aindien.com/why-office365-is-running-slow.html</loc>
