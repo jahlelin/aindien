@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/introduction-to-microsoft-onedrive.html",
+            "url": "https://aindien.com/introduction-to-microsoft-onedrive.html",
+            "title": "Introduction to Microsoft OneDrive",
+            "summary": "<p>This is an introduction to Microsoft OneDrive.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Office 365"
+            ],
+            "date_published": "2025-07-07T20:31:50-05:00",
+            "date_modified": "2025-07-07T20:38:18-05:00"
+        },
+        {
             "id": "https://aindien.com/virtualizing-your-network.html",
             "url": "https://aindien.com/virtualizing-your-network.html",
             "title": "Virtualizing Your Network ",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2025-06-30T17:51:13-05:00",
             "date_modified": "2025-07-05T22:03:56-05:00"
-        },
-        {
-            "id": "https://aindien.com/introduction-to-microsoft-teams.html",
-            "url": "https://aindien.com/introduction-to-microsoft-teams.html",
-            "title": "Introduction to Microsoft Teams",
-            "summary": "<p>This is my introduction to Microsoft Teams.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Office 365"
-            ],
-            "date_published": "2025-06-29T20:38:27-05:00",
-            "date_modified": "2025-06-29T20:38:58-05:00"
         }
     ]
 }

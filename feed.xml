@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-07-06T19:28:15-05:00</updated>
+    <updated>2025-07-07T20:38:18-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Introduction to Microsoft OneDrive</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/introduction-to-microsoft-onedrive.html"/>
+        <id>https://aindien.com/introduction-to-microsoft-onedrive.html</id>
+            <category term="Office 365"/>
+
+        <updated>2025-07-07T20:31:50-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is an introduction to Microsoft OneDrive.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Virtualizing Your Network </title>
         <author>
@@ -165,24 +183,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on generative AI risks.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Introduction to Microsoft Teams</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/introduction-to-microsoft-teams.html"/>
-        <id>https://aindien.com/introduction-to-microsoft-teams.html</id>
-            <category term="Office 365"/>
-
-        <updated>2025-06-29T20:38:27-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is my introduction to Microsoft Teams.</p>
 
                 ]]>
             </summary>
