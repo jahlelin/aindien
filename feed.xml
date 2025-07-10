@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-07-09T20:44:54-05:00</updated>
+    <updated>2025-07-10T07:26:01-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Data Bias in Artificial Intelligence</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/data-bias-in-artificial-intelligence.html"/>
+        <id>https://aindien.com/data-bias-in-artificial-intelligence.html</id>
+            <category term="AI"/>
+
+        <updated>2025-07-10T07:25:03-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on data bias in artificial intelligence.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Prompt Engineering with AI</title>
         <author>
@@ -166,24 +184,6 @@
                 <![CDATA[
                     <div>This is a guide on list comprehension in Python</div>
 <div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>AI Security Risks</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/ai-security-risks.html"/>
-        <id>https://aindien.com/ai-security-risks.html</id>
-            <category term="AI"/>
-
-        <updated>2025-07-01T17:34:00-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on AI Security Risks.</p>
-
                 ]]>
             </summary>
         <content></content>
