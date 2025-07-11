@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-07-10T07:26:01-05:00</updated>
+    <updated>2025-07-10T20:36:10-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Sources of Bias in Data</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/sources-of-bias-in-data.html"/>
+        <id>https://aindien.com/sources-of-bias-in-data.html</id>
+            <category term="AI"/>
+
+        <updated>2025-07-10T20:34:52-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide of sources of bias in data.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Data Bias in Artificial Intelligence</title>
         <author>
@@ -166,24 +184,6 @@
                 <![CDATA[
                     <p>This is an introduction to Microsoft Outlook.</p>
 
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>List Comprehension in Python</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/list-comprehension-in-python.html"/>
-        <id>https://aindien.com/list-comprehension-in-python.html</id>
-            <category term="Python"/>
-
-        <updated>2025-07-01T22:29:46-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <div>This is a guide on list comprehension in Python</div>
-<div>
                 ]]>
             </summary>
         <content></content>
