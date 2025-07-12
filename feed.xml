@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-07-10T20:36:10-05:00</updated>
+    <updated>2025-07-11T20:42:50-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Transparency and Fairness in AI Model Development</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/transparency-and-fairness-in-ai-model-development.html"/>
+        <id>https://aindien.com/transparency-and-fairness-in-ai-model-development.html</id>
+            <category term="AI"/>
+
+        <updated>2025-07-11T20:41:56-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on transparency and fairness in AI model development.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Sources of Bias in Data</title>
         <author>
@@ -165,24 +183,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on ticket management using SNAP and ServiceNow.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Introduction to Microsoft Outlook</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/introduction-to-microsoft-outlook.html"/>
-        <id>https://aindien.com/introduction-to-microsoft-outlook.html</id>
-            <category term="Office 365"/>
-
-        <updated>2025-07-02T19:14:05-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is an introduction to Microsoft Outlook.</p>
 
                 ]]>
             </summary>
