@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-07-11T20:42:50-05:00</updated>
+    <updated>2025-07-12T08:56:44-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>AI Model Auditing</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/ai-model-auditing.html"/>
+        <id>https://aindien.com/ai-model-auditing.html</id>
+            <category term="AI"/>
+
+        <updated>2025-07-12T08:55:38-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a short guide on AI model auditing.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Transparency and Fairness in AI Model Development</title>
         <author>
@@ -167,23 +185,6 @@
                 <![CDATA[
                     <div>This is a guide on DNS with Active Directory.</div>
 <div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Ticket Management Using Snap and ServiceNow</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/ticket-management-using-snap-and-servicenow.html"/>
-        <id>https://aindien.com/ticket-management-using-snap-and-servicenow.html</id>
-
-        <updated>2025-07-04T08:07:21-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on ticket management using SNAP and ServiceNow.</p>
-
                 ]]>
             </summary>
         <content></content>
