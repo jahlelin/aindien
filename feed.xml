@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-07-12T18:58:22-05:00</updated>
+    <updated>2025-07-13T09:11:25-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Ethical Implications of Business AI</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/ethical-implications-of-business-ai.html"/>
+        <id>https://aindien.com/ethical-implications-of-business-ai.html</id>
+            <category term="AI"/>
+
+        <updated>2025-07-13T09:10:35-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <div>This is a guide on ethical implications of business AI.</div>
+<div>
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Ethical Use of AI</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <div>This is a guide on virtualizing your network.</div>
-<div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Searching for Files in Linux</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/searching-for-files-in-linux.html"/>
-        <id>https://aindien.com/searching-for-files-in-linux.html</id>
-            <category term="Linux"/>
-
-        <updated>2025-07-05T21:57:16-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <div>This is a guide on searching for files in Linux.</div>
 <div>
                 ]]>
             </summary>
