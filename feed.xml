@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-07-13T09:11:25-05:00</updated>
+    <updated>2025-07-13T21:18:15-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Ethical Impacts of AI Models</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/ethical-impacts-of-ai-models.html"/>
+        <id>https://aindien.com/ethical-impacts-of-ai-models.html</id>
+            <category term="AI"/>
+
+        <updated>2025-07-13T21:10:42-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <div>Here is a guide on the ethical impacts of AI models.</div>
+<div>
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Ethical Implications of Business AI</title>
         <author>
@@ -167,24 +185,6 @@
                 <![CDATA[
                     <p>This is an introduction to Microsoft OneDrive.</p>
 
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Virtualizing Your Network </title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/virtualizing-your-network.html"/>
-        <id>https://aindien.com/virtualizing-your-network.html</id>
-            <category term="Networking"/>
-
-        <updated>2025-07-06T19:26:29-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <div>This is a guide on virtualizing your network.</div>
-<div>
                 ]]>
             </summary>
         <content></content>
