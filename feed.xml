@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-07-13T21:18:15-05:00</updated>
+    <updated>2025-07-22T21:39:52-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Introduction to Excel</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/introduction-to-excel.html"/>
+        <id>https://aindien.com/introduction-to-excel.html</id>
+            <category term="Excel"/>
+
+        <updated>2025-07-22T21:39:33-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on the introduction to Microsoft Excel.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Ethical Impacts of AI Models</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on how AI works with Data.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Introduction to Microsoft OneDrive</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/introduction-to-microsoft-onedrive.html"/>
-        <id>https://aindien.com/introduction-to-microsoft-onedrive.html</id>
-            <category term="Office 365"/>
-
-        <updated>2025-07-07T20:31:50-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is an introduction to Microsoft OneDrive.</p>
 
                 ]]>
             </summary>
