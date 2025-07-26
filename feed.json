@@ -13,14 +13,15 @@
             "id": "https://aindien.com/ai-explained.html",
             "url": "https://aindien.com/ai-explained.html",
             "title": "AI Explained",
-            "summary": "Generative AI Foundations Whether we like it or not, artificial intelligence pervades every aspect of our life, and that makes it very important for us to understand what exactly is artificial intelligence and machine learning. As a technologist or anyone working in any kind of&hellip;",
+            "summary": "<p>This is a guide on business AI.</p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
+                   "AI"
             ],
             "date_published": "2025-07-26T17:39:24-05:00",
-            "date_modified": "2025-07-26T18:07:02-05:00"
+            "date_modified": "2025-07-26T18:18:48-05:00"
         },
         {
             "id": "https://aindien.com/technical-writing-explained.html",

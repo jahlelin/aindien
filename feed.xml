@@ -3,7 +3,7 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-07-26T18:07:02-05:00</updated>
+    <updated>2025-07-26T18:18:48-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -16,11 +16,13 @@
         </author>
         <link href="https://aindien.com/ai-explained.html"/>
         <id>https://aindien.com/ai-explained.html</id>
+            <category term="AI"/>
 
         <updated>2025-07-26T17:39:24-05:00</updated>
             <summary>
                 <![CDATA[
-                    Generative AI Foundations Whether we like it or not, artificial intelligence pervades every aspect of our life, and that makes it very important for us to understand what exactly is artificial intelligence and machine learning. As a technologist or anyone working in any kind of&hellip;
+                    <p>This is a guide on business AI.</p>
+
                 ]]>
             </summary>
         <content></content>
