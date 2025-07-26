@@ -10,6 +10,31 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/ai-explained.html",
+            "url": "https://aindien.com/ai-explained.html",
+            "title": "AI Explained",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-26T17:39:24-05:00",
+            "date_modified": "2025-07-26T17:39:24-05:00"
+        },
+        {
+            "id": "https://aindien.com/technical-writing-explained.html",
+            "url": "https://aindien.com/technical-writing-explained.html",
+            "title": "Technical Writing Explained",
+            "summary": "Improving Your Technical Writing Skills Sometimes you need to use your writing skill to be persuasive. Maybe you are writing marketing materials. You will find it easier to get the results you want if you use a few clever strategies in your persuasive writing. Persuasive&hellip;",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-26T17:39:03-05:00",
+            "date_modified": "2025-07-26T17:47:38-05:00"
+        },
+        {
             "id": "https://aindien.com/introduction-to-excel.html",
             "url": "https://aindien.com/introduction-to-excel.html",
             "title": "Introduction to Excel",
@@ -120,34 +145,6 @@
             ],
             "date_published": "2025-07-10T07:25:03-05:00",
             "date_modified": "2025-07-10T07:26:01-05:00"
-        },
-        {
-            "id": "https://aindien.com/prompt-engineering-with-ai.html",
-            "url": "https://aindien.com/prompt-engineering-with-ai.html",
-            "title": "Prompt Engineering with AI",
-            "summary": "<p>This is a guide on prompt engineering with AI.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "AI"
-            ],
-            "date_published": "2025-07-09T20:43:16-05:00",
-            "date_modified": "2025-07-09T20:44:54-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-ai-works-with-data.html",
-            "url": "https://aindien.com/how-ai-works-with-data.html",
-            "title": "How AI Works with Data",
-            "summary": "<p>This is a guide on how AI works with Data.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "AI"
-            ],
-            "date_published": "2025-07-08T19:20:24-05:00",
-            "date_modified": "2025-07-08T19:21:48-05:00"
         }
     ]
 }

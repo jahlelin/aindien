@@ -3,12 +3,40 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-07-22T21:39:52-05:00</updated>
+    <updated>2025-07-26T17:47:38-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>AI Explained</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/ai-explained.html"/>
+        <id>https://aindien.com/ai-explained.html</id>
+
+        <updated>2025-07-26T17:39:24-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Technical Writing Explained</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/technical-writing-explained.html"/>
+        <id>https://aindien.com/technical-writing-explained.html</id>
+
+        <updated>2025-07-26T17:39:03-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Improving Your Technical Writing Skills Sometimes you need to use your writing skill to be persuasive. Maybe you are writing marketing materials. You will find it easier to get the results you want if you use a few clever strategies in your persuasive writing. Persuasive&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Introduction to Excel</title>
         <author>
@@ -148,42 +176,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on data bias in artificial intelligence.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Prompt Engineering with AI</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/prompt-engineering-with-ai.html"/>
-        <id>https://aindien.com/prompt-engineering-with-ai.html</id>
-            <category term="AI"/>
-
-        <updated>2025-07-09T20:43:16-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on prompt engineering with AI.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How AI Works with Data</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-ai-works-with-data.html"/>
-        <id>https://aindien.com/how-ai-works-with-data.html</id>
-            <category term="AI"/>
-
-        <updated>2025-07-08T19:20:24-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on how AI works with Data.</p>
 
                 ]]>
             </summary>
