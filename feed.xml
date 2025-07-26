@@ -3,7 +3,7 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-07-26T18:00:54-05:00</updated>
+    <updated>2025-07-26T18:07:02-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -60,126 +60,122 @@
         <content></content>
     </entry>
     <entry>
-        <title>Ethical Impacts of AI Models</title>
+        <title>Introduction to Microsoft OneDrive</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/ethical-impacts-of-ai-models.html"/>
-        <id>https://aindien.com/ethical-impacts-of-ai-models.html</id>
-            <category term="AI"/>
+        <link href="https://aindien.com/introduction-to-microsoft-onedrive.html"/>
+        <id>https://aindien.com/introduction-to-microsoft-onedrive.html</id>
 
-        <updated>2025-07-13T21:10:42-05:00</updated>
+        <updated>2025-07-07T20:31:50-05:00</updated>
             <summary>
                 <![CDATA[
-                    <div>Here is a guide on the ethical impacts of AI models.</div>
+                    <p>This is an introduction to Microsoft OneDrive.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Ticket Management Using Snap and ServiceNow</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/ticket-management-using-snap-and-servicenow.html"/>
+        <id>https://aindien.com/ticket-management-using-snap-and-servicenow.html</id>
+
+        <updated>2025-07-04T08:07:21-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on ticket management using SNAP and ServiceNow.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Introduction to Microsoft Outlook</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/introduction-to-microsoft-outlook.html"/>
+        <id>https://aindien.com/introduction-to-microsoft-outlook.html</id>
+
+        <updated>2025-07-02T19:14:05-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is an introduction to Microsoft Outlook.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>List Comprehension in Python</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/list-comprehension-in-python.html"/>
+        <id>https://aindien.com/list-comprehension-in-python.html</id>
+            <category term="Python"/>
+
+        <updated>2025-07-01T22:29:46-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <div>This is a guide on list comprehension in Python</div>
 <div>
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Ethical Implications of Business AI</title>
+        <title>Introduction to Microsoft Teams</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/ethical-implications-of-business-ai.html"/>
-        <id>https://aindien.com/ethical-implications-of-business-ai.html</id>
-            <category term="AI"/>
+        <link href="https://aindien.com/introduction-to-microsoft-teams.html"/>
+        <id>https://aindien.com/introduction-to-microsoft-teams.html</id>
 
-        <updated>2025-07-13T09:10:35-05:00</updated>
+        <updated>2025-06-29T20:38:27-05:00</updated>
             <summary>
                 <![CDATA[
-                    <div>This is a guide on ethical implications of business AI.</div>
-<div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Ethical Use of AI</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/ethical-use-of-ai.html"/>
-        <id>https://aindien.com/ethical-use-of-ai.html</id>
-            <category term="AI"/>
-
-        <updated>2025-07-12T18:57:43-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a short guide on the ethical use of AI.</p>
+                    <p>This is my introduction to Microsoft Teams.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>AI Model Auditing</title>
+        <title>Active Directory Explained</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/ai-model-auditing.html"/>
-        <id>https://aindien.com/ai-model-auditing.html</id>
-            <category term="AI"/>
+        <link href="https://aindien.com/using-active-directory-from-scratch.html"/>
+        <id>https://aindien.com/using-active-directory-from-scratch.html</id>
+            <category term="active directory"/>
 
-        <updated>2025-07-12T08:55:38-05:00</updated>
+        <updated>2025-04-11T22:11:29-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>This is a short guide on AI model auditing.</p>
+                    <p>Active directory makes managing a lot of users and machines a doable task. It<br>organizes all of your resources and users. </p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Transparency and Fairness in AI Model Development</title>
+        <title>SQL Explained</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/transparency-and-fairness-in-ai-model-development.html"/>
-        <id>https://aindien.com/transparency-and-fairness-in-ai-model-development.html</id>
-            <category term="AI"/>
+        <link href="https://aindien.com/intro-to-sql.html"/>
+        <id>https://aindien.com/intro-to-sql.html</id>
+            <category term="SQL"/>
 
-        <updated>2025-07-11T20:41:56-05:00</updated>
+        <updated>2024-07-19T17:33:59-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>This is a guide on transparency and fairness in AI model development.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Sources of Bias in Data</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/sources-of-bias-in-data.html"/>
-        <id>https://aindien.com/sources-of-bias-in-data.html</id>
-            <category term="AI"/>
-
-        <updated>2025-07-10T20:34:52-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide of sources of bias in data.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Data Bias in Artificial Intelligence</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/data-bias-in-artificial-intelligence.html"/>
-        <id>https://aindien.com/data-bias-in-artificial-intelligence.html</id>
-            <category term="AI"/>
-
-        <updated>2025-07-10T07:25:03-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on data bias in artificial intelligence.</p>
+                    <p>These are my notes on SQL explained.</p>
 
                 ]]>
             </summary>
