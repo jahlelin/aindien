@@ -3,14 +3,14 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-07-26T19:12:39-05:00</updated>
+    <updated>2025-07-27T14:33:37-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
     <entry>
-        <title>ServiceNow Explained</title>
+        <title>Learning ServiceNow for IT Departments.</title>
         <author>
             <name>Jason Moore</name>
         </author>
@@ -20,14 +20,14 @@
         <updated>2025-07-26T18:59:06-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>This is a guide on ServiceNow.</p>
+                    <p>This is a guide on learning ServiceNow for IT departments.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>AI Explained</title>
+        <title>Learning AI for Business</title>
         <author>
             <name>Jason Moore</name>
         </author>
@@ -37,14 +37,14 @@
         <updated>2025-07-26T18:23:04-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>This is a guide on AI.</p>
+                    <p>This is a guide on learning AI for business.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Technical Writing Explained</title>
+        <title>Learning Technical Writing for Business</title>
         <author>
             <name>Jason Moore</name>
         </author>
@@ -54,7 +54,8 @@
         <updated>2025-07-26T17:39:03-05:00</updated>
             <summary>
                 <![CDATA[
-                    Improving Your Technical Writing Skills Sometimes you need to use your writing skill to be persuasive. Maybe you are writing marketing materials. You will find it easier to get the results you want if you use a few clever strategies in your persuasive writing. Persuasive&hellip;
+                    <p>This is a guide for learning technical writing for business.</p>
+
                 ]]>
             </summary>
         <content></content>
@@ -129,7 +130,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Active Directory Explained</title>
+        <title>Learning Active Directory for Windows</title>
         <author>
             <name>Jason Moore</name>
         </author>
@@ -140,14 +141,14 @@
         <updated>2025-04-11T22:11:29-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>Active directory makes managing a lot of users and machines a doable task. It<br>organizes all of your resources and users. </p>
+                    <p>This is a guide for learning Active Directory for Windows.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>SQL Explained</title>
+        <title>Learning SQL for Databases</title>
         <author>
             <name>Jason Moore</name>
         </author>
@@ -158,25 +159,25 @@
         <updated>2024-07-19T17:33:59-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>These are my notes on SQL explained.</p>
+                    <p>This is a guide for learning SQL for databases.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Excel Explained</title>
+        <title>Learning Git Version Control</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/intro-to-excel.html"/>
-        <id>https://aindien.com/intro-to-excel.html</id>
-            <category term="Excel"/>
+        <link href="https://aindien.com/getting-started-with-git.html"/>
+        <id>https://aindien.com/getting-started-with-git.html</id>
+            <category term="Git"/>
 
-        <updated>2024-07-19T00:22:30-05:00</updated>
+        <updated>2023-12-31T01:18:48-06:00</updated>
             <summary>
                 <![CDATA[
-                    <p>These are my notes on an Excel explained.</p>
+                    <p>This is a guide for learning Git version control.</p>
 
                 ]]>
             </summary>
