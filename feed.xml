@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-08-27T21:23:57-05:00</updated>
+    <updated>2025-08-28T20:29:34-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Azure AD and Access Management</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/azure-ad-and-access-management.html"/>
+        <id>https://aindien.com/azure-ad-and-access-management.html</id>
+
+        <updated>2025-08-28T20:29:34-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is an introduction to Azure AD and Access Management.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Learning ServiceNow for Beginners</title>
         <author>
@@ -160,24 +177,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide for learning SQL for databases.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Learning Git Version Control for Beginners</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/getting-started-with-git.html"/>
-        <id>https://aindien.com/getting-started-with-git.html</id>
-            <category term="Git"/>
-
-        <updated>2023-12-31T01:18:48-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide for learning Git version control.</p>
 
                 ]]>
             </summary>

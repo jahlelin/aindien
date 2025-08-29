@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/azure-ad-and-access-management.html",
+            "url": "https://aindien.com/azure-ad-and-access-management.html",
+            "title": "Azure AD and Access Management",
+            "summary": "<p>This is an introduction to Azure AD and Access Management.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-28T20:29:34-05:00",
+            "date_modified": "2025-08-28T20:29:34-05:00"
+        },
+        {
             "id": "https://aindien.com/servicenow-explained.html",
             "url": "https://aindien.com/servicenow-explained.html",
             "title": "Learning ServiceNow for Beginners",
@@ -128,20 +141,6 @@
             ],
             "date_published": "2024-07-19T17:33:59-05:00",
             "date_modified": "2025-08-20T20:45:59-05:00"
-        },
-        {
-            "id": "https://aindien.com/getting-started-with-git.html",
-            "url": "https://aindien.com/getting-started-with-git.html",
-            "title": "Learning Git Version Control for Beginners",
-            "summary": "<p>This is a guide for learning Git version control.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Git"
-            ],
-            "date_published": "2023-12-31T01:18:48-06:00",
-            "date_modified": "2025-08-20T20:45:40-05:00"
         }
     ]
 }
