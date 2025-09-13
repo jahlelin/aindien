@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-09-11T20:18:31-05:00</updated>
+    <updated>2025-09-12T23:11:58-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Storage Solutions in Windows</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/storage-solutions-in-windows.html"/>
+        <id>https://aindien.com/storage-solutions-in-windows.html</id>
+
+        <updated>2025-09-12T23:10:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on storage solutions in Windows</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Using the Desktop Environment in Windows</title>
         <author>
@@ -160,23 +177,6 @@
             <summary>
                 <![CDATA[
                     <p>This is an introduction to Microsoft Outlook.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Introduction to Microsoft Teams</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/introduction-to-microsoft-teams.html"/>
-        <id>https://aindien.com/introduction-to-microsoft-teams.html</id>
-
-        <updated>2025-06-29T20:38:27-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is my introduction to Microsoft Teams.</p>
 
                 ]]>
             </summary>

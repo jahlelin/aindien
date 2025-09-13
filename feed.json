@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/storage-solutions-in-windows.html",
+            "url": "https://aindien.com/storage-solutions-in-windows.html",
+            "title": "Storage Solutions in Windows",
+            "summary": "<p>This is a guide on storage solutions in Windows</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-12T23:10:17-05:00",
+            "date_modified": "2025-09-12T23:10:27-05:00"
+        },
+        {
             "id": "https://aindien.com/using-the-desktop-environment-in-windows.html",
             "url": "https://aindien.com/using-the-desktop-environment-in-windows.html",
             "title": "Using the Desktop Environment in Windows",
@@ -21,7 +34,7 @@
                    "Windows"
             ],
             "date_published": "2025-09-11T20:18:17-05:00",
-            "date_modified": "2025-09-11T20:18:31-05:00"
+            "date_modified": "2025-09-12T23:10:51-05:00"
         },
         {
             "id": "https://aindien.com/performing-data-calculations-in-excel.html",
@@ -35,7 +48,7 @@
                    "Excel"
             ],
             "date_published": "2025-09-04T22:14:30-05:00",
-            "date_modified": "2025-09-04T22:14:55-05:00"
+            "date_modified": "2025-09-12T23:11:35-05:00"
         },
         {
             "id": "https://aindien.com/azure-ad-and-access-management.html",
@@ -48,7 +61,7 @@
             "tags": [
             ],
             "date_published": "2025-08-28T20:29:34-05:00",
-            "date_modified": "2025-08-29T20:13:31-05:00"
+            "date_modified": "2025-09-12T23:11:58-05:00"
         },
         {
             "id": "https://aindien.com/servicenow-explained.html",
@@ -128,19 +141,6 @@
             ],
             "date_published": "2025-07-02T19:14:05-05:00",
             "date_modified": "2025-08-22T19:17:27-05:00"
-        },
-        {
-            "id": "https://aindien.com/introduction-to-microsoft-teams.html",
-            "url": "https://aindien.com/introduction-to-microsoft-teams.html",
-            "title": "Introduction to Microsoft Teams",
-            "summary": "<p>This is my introduction to Microsoft Teams.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-06-29T20:38:27-05:00",
-            "date_modified": "2025-07-26T17:41:35-05:00"
         }
     ]
 }
