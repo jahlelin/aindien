@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-09-12T23:11:58-05:00</updated>
+    <updated>2025-10-06T21:07:12-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Working with Peripheral Devices</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/working-with-peripheral-devices.html"/>
+        <id>https://aindien.com/working-with-peripheral-devices.html</id>
+
+        <updated>2025-10-06T21:07:12-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on working with peripheral devices.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Storage Solutions in Windows</title>
         <author>
@@ -160,23 +177,6 @@
             <summary>
                 <![CDATA[
                     <p>This is an introduction to Microsoft OneDrive.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Introduction to Microsoft Outlook</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/introduction-to-microsoft-outlook.html"/>
-        <id>https://aindien.com/introduction-to-microsoft-outlook.html</id>
-
-        <updated>2025-07-02T19:14:05-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is an introduction to Microsoft Outlook.</p>
 
                 ]]>
             </summary>
