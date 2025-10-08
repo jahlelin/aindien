@@ -10,6 +10,45 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/fundamentals-of-security.html",
+            "url": "https://aindien.com/fundamentals-of-security.html",
+            "title": "Fundamentals of Security",
+            "summary": "<p>This is a guide on the fundamentals of security.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-07T21:24:43-05:00",
+            "date_modified": "2025-10-07T21:24:43-05:00"
+        },
+        {
+            "id": "https://aindien.com/microsoft-command-line-tools.html",
+            "url": "https://aindien.com/microsoft-command-line-tools.html",
+            "title": "Microsoft Command Line Tools",
+            "summary": "<p>This is a guide on Microsoft command line tools.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-07T21:14:39-05:00",
+            "date_modified": "2025-10-07T21:15:01-05:00"
+        },
+        {
+            "id": "https://aindien.com/32-bit-vs-64-bit-processing.html",
+            "url": "https://aindien.com/32-bit-vs-64-bit-processing.html",
+            "title": "32-bit vs. 64-bit Processing",
+            "summary": "<p>This is a guide on 32-bit vs. 64-bit processing.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-07T20:54:58-05:00",
+            "date_modified": "2025-10-07T21:15:15-05:00"
+        },
+        {
             "id": "https://aindien.com/working-with-peripheral-devices.html",
             "url": "https://aindien.com/working-with-peripheral-devices.html",
             "title": "Working with Peripheral Devices",
@@ -101,46 +140,6 @@
             ],
             "date_published": "2025-07-26T18:23:04-05:00",
             "date_modified": "2025-08-20T20:56:40-05:00"
-        },
-        {
-            "id": "https://aindien.com/technical-writing-explained.html",
-            "url": "https://aindien.com/technical-writing-explained.html",
-            "title": "Learning Technical Writing for Business",
-            "summary": "<p>This is a guide for learning technical writing for business.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-07-26T17:39:03-05:00",
-            "date_modified": "2025-07-27T14:26:38-05:00"
-        },
-        {
-            "id": "https://aindien.com/introduction-to-excel.html",
-            "url": "https://aindien.com/introduction-to-excel.html",
-            "title": "Introduction to Excel",
-            "summary": "<p>This is a guide on the introduction to Microsoft Excel.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Excel"
-            ],
-            "date_published": "2025-07-22T21:39:33-05:00",
-            "date_modified": "2025-08-27T21:23:57-05:00"
-        },
-        {
-            "id": "https://aindien.com/introduction-to-microsoft-onedrive.html",
-            "url": "https://aindien.com/introduction-to-microsoft-onedrive.html",
-            "title": "Introduction to Microsoft OneDrive",
-            "summary": "<p>This is an introduction to Microsoft OneDrive.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-07-07T20:31:50-05:00",
-            "date_modified": "2025-07-26T17:40:15-05:00"
         }
     ]
 }

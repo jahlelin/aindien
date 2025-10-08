@@ -3,12 +3,63 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-10-06T21:07:12-05:00</updated>
+    <updated>2025-10-07T21:24:43-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Fundamentals of Security</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/fundamentals-of-security.html"/>
+        <id>https://aindien.com/fundamentals-of-security.html</id>
+
+        <updated>2025-10-07T21:24:43-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on the fundamentals of security.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Microsoft Command Line Tools</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/microsoft-command-line-tools.html"/>
+        <id>https://aindien.com/microsoft-command-line-tools.html</id>
+
+        <updated>2025-10-07T21:14:39-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on Microsoft command line tools.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>32-bit vs. 64-bit Processing</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/32-bit-vs-64-bit-processing.html"/>
+        <id>https://aindien.com/32-bit-vs-64-bit-processing.html</id>
+
+        <updated>2025-10-07T20:54:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on 32-bit vs. 64-bit processing.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Working with Peripheral Devices</title>
         <author>
@@ -125,58 +176,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on learning AI for business.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Learning Technical Writing for Business</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/technical-writing-explained.html"/>
-        <id>https://aindien.com/technical-writing-explained.html</id>
-
-        <updated>2025-07-26T17:39:03-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide for learning technical writing for business.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Introduction to Excel</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/introduction-to-excel.html"/>
-        <id>https://aindien.com/introduction-to-excel.html</id>
-            <category term="Excel"/>
-
-        <updated>2025-07-22T21:39:33-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on the introduction to Microsoft Excel.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Introduction to Microsoft OneDrive</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/introduction-to-microsoft-onedrive.html"/>
-        <id>https://aindien.com/introduction-to-microsoft-onedrive.html</id>
-
-        <updated>2025-07-07T20:31:50-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is an introduction to Microsoft OneDrive.</p>
 
                 ]]>
             </summary>
