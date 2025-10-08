@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/software-troubleshooting.html",
+            "url": "https://aindien.com/software-troubleshooting.html",
+            "title": "Software Troubleshooting",
+            "summary": "<p>This is a guide on software troubleshooting.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-07T21:29:20-05:00",
+            "date_modified": "2025-10-07T21:29:47-05:00"
+        },
+        {
             "id": "https://aindien.com/fundamentals-of-security.html",
             "url": "https://aindien.com/fundamentals-of-security.html",
             "title": "Fundamentals of Security",
@@ -127,19 +140,6 @@
             ],
             "date_published": "2025-07-26T18:59:06-05:00",
             "date_modified": "2025-08-20T20:47:37-05:00"
-        },
-        {
-            "id": "https://aindien.com/ai-explained-2.html",
-            "url": "https://aindien.com/ai-explained-2.html",
-            "title": "Learning Generative AI for Beginners",
-            "summary": "<p>This is a guide on learning AI for business.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-07-26T18:23:04-05:00",
-            "date_modified": "2025-08-20T20:56:40-05:00"
         }
     ]
 }
