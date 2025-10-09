@@ -3,12 +3,97 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-10-08T20:40:57-05:00</updated>
+    <updated>2025-10-08T22:20:58-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Networking</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/networking.html"/>
+        <id>https://aindien.com/networking.html</id>
+
+        <updated>2025-10-08T22:20:10-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on networking.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Network Hosts</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/network-hosts.html"/>
+        <id>https://aindien.com/network-hosts.html</id>
+
+        <updated>2025-10-08T22:11:48-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on network hosts.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Mobile Device Connectivity</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/mobile-device-connectivity.html"/>
+        <id>https://aindien.com/mobile-device-connectivity.html</id>
+
+        <updated>2025-10-08T21:56:34-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on mobile device connectivity.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Laptop Features and Mobile Device types</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/laptop-features-and-mobile-device-types.html"/>
+        <id>https://aindien.com/laptop-features-and-mobile-device-types.html</id>
+
+        <updated>2025-10-08T21:32:38-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on laptop features and mobile device types.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Installing Hardware and Display Components</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/installing-hardware-and-display-components.html"/>
+        <id>https://aindien.com/installing-hardware-and-display-components.html</id>
+
+        <updated>2025-10-08T21:19:49-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on installing hardware and display components.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Implementing Networking Concepts</title>
         <author>
@@ -89,91 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on control panel utilities in Windows.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>System Utilities in Windows</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/system-utilities-in-windows.html"/>
-        <id>https://aindien.com/system-utilities-in-windows.html</id>
-
-        <updated>2025-10-08T19:52:45-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on system utilities in Windows.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Software Troubleshooting</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/software-troubleshooting.html"/>
-        <id>https://aindien.com/software-troubleshooting.html</id>
-
-        <updated>2025-10-07T21:29:20-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on software troubleshooting.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Fundamentals of Security</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/fundamentals-of-security.html"/>
-        <id>https://aindien.com/fundamentals-of-security.html</id>
-
-        <updated>2025-10-07T21:24:43-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on the fundamentals of security.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Microsoft Command Line Tools</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/microsoft-command-line-tools.html"/>
-        <id>https://aindien.com/microsoft-command-line-tools.html</id>
-
-        <updated>2025-10-07T21:14:39-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on Microsoft command line tools.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>32-bit vs. 64-bit Processing</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/32-bit-vs-64-bit-processing.html"/>
-        <id>https://aindien.com/32-bit-vs-64-bit-processing.html</id>
-
-        <updated>2025-10-07T20:54:58-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on 32-bit vs. 64-bit processing.</p>
 
                 ]]>
             </summary>
