@@ -3,12 +3,114 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-10-07T21:29:47-05:00</updated>
+    <updated>2025-10-08T20:40:57-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Implementing Networking Concepts</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/implementing-networking-concepts.html"/>
+        <id>https://aindien.com/implementing-networking-concepts.html</id>
+
+        <updated>2025-10-08T20:40:52-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on implementing networking concepts.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Connectors for PC Equipment</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/connectors-for-pc-equipment.html"/>
+        <id>https://aindien.com/connectors-for-pc-equipment.html</id>
+
+        <updated>2025-10-08T20:29:18-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on connectors for pc equipment.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Basic Cable Types</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/basic-cable-types.html"/>
+        <id>https://aindien.com/basic-cable-types.html</id>
+
+        <updated>2025-10-08T20:22:06-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on basic cable types.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Accessories and Mobile Device Synchronization</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/accessories-and-mobile-device-synchronization.html"/>
+        <id>https://aindien.com/accessories-and-mobile-device-synchronization.html</id>
+
+        <updated>2025-10-08T20:09:31-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on accessories and mobile device synchronization.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Control Panel Utilities</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/control-panel-utilities.html"/>
+        <id>https://aindien.com/control-panel-utilities.html</id>
+
+        <updated>2025-10-08T20:01:05-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on control panel utilities in Windows.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>System Utilities in Windows</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/system-utilities-in-windows.html"/>
+        <id>https://aindien.com/system-utilities-in-windows.html</id>
+
+        <updated>2025-10-08T19:52:45-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on system utilities in Windows.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Software Troubleshooting</title>
         <author>
@@ -72,110 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on 32-bit vs. 64-bit processing.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Working with Peripheral Devices</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/working-with-peripheral-devices.html"/>
-        <id>https://aindien.com/working-with-peripheral-devices.html</id>
-
-        <updated>2025-10-06T21:07:12-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on working with peripheral devices.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Storage Solutions in Windows</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/storage-solutions-in-windows.html"/>
-        <id>https://aindien.com/storage-solutions-in-windows.html</id>
-
-        <updated>2025-09-12T23:10:17-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on storage solutions in Windows</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Using the Desktop Environment in Windows</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/using-the-desktop-environment-in-windows.html"/>
-        <id>https://aindien.com/using-the-desktop-environment-in-windows.html</id>
-            <category term="Windows"/>
-
-        <updated>2025-09-11T20:18:17-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Here is a guide on using the desktop environment in Windows</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Performing Data Calculations in Excel</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/performing-data-calculations-in-excel.html"/>
-        <id>https://aindien.com/performing-data-calculations-in-excel.html</id>
-            <category term="Excel"/>
-
-        <updated>2025-09-04T22:14:30-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Performing data calculation in Excel.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Azure AD and Access Management</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/azure-ad-and-access-management.html"/>
-        <id>https://aindien.com/azure-ad-and-access-management.html</id>
-
-        <updated>2025-08-28T20:29:34-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is an introduction to Azure AD and Access Management.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Learning ServiceNow for Beginners</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/servicenow-explained.html"/>
-        <id>https://aindien.com/servicenow-explained.html</id>
-
-        <updated>2025-07-26T18:59:06-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on learning ServiceNow for IT departments.</p>
 
                 ]]>
             </summary>

@@ -10,6 +10,84 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/implementing-networking-concepts.html",
+            "url": "https://aindien.com/implementing-networking-concepts.html",
+            "title": "Implementing Networking Concepts",
+            "summary": "<p>This is a guide on implementing networking concepts.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-08T20:40:52-05:00",
+            "date_modified": "2025-10-08T20:40:57-05:00"
+        },
+        {
+            "id": "https://aindien.com/connectors-for-pc-equipment.html",
+            "url": "https://aindien.com/connectors-for-pc-equipment.html",
+            "title": "Connectors for PC Equipment",
+            "summary": "<p>This is a guide on connectors for pc equipment.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-08T20:29:18-05:00",
+            "date_modified": "2025-10-08T20:29:35-05:00"
+        },
+        {
+            "id": "https://aindien.com/basic-cable-types.html",
+            "url": "https://aindien.com/basic-cable-types.html",
+            "title": "Basic Cable Types",
+            "summary": "<p>This is a guide on basic cable types.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-08T20:22:06-05:00",
+            "date_modified": "2025-10-08T20:22:06-05:00"
+        },
+        {
+            "id": "https://aindien.com/accessories-and-mobile-device-synchronization.html",
+            "url": "https://aindien.com/accessories-and-mobile-device-synchronization.html",
+            "title": "Accessories and Mobile Device Synchronization",
+            "summary": "<p>This is a guide on accessories and mobile device synchronization.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-08T20:09:31-05:00",
+            "date_modified": "2025-10-08T20:09:31-05:00"
+        },
+        {
+            "id": "https://aindien.com/control-panel-utilities.html",
+            "url": "https://aindien.com/control-panel-utilities.html",
+            "title": "Control Panel Utilities",
+            "summary": "<p>This is a guide on control panel utilities in Windows.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-08T20:01:05-05:00",
+            "date_modified": "2025-10-08T20:02:14-05:00"
+        },
+        {
+            "id": "https://aindien.com/system-utilities-in-windows.html",
+            "url": "https://aindien.com/system-utilities-in-windows.html",
+            "title": "System Utilities in Windows",
+            "summary": "<p>This is a guide on system utilities in Windows.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-08T19:52:45-05:00",
+            "date_modified": "2025-10-08T19:53:18-05:00"
+        },
+        {
             "id": "https://aindien.com/software-troubleshooting.html",
             "url": "https://aindien.com/software-troubleshooting.html",
             "title": "Software Troubleshooting",
@@ -60,86 +138,6 @@
             ],
             "date_published": "2025-10-07T20:54:58-05:00",
             "date_modified": "2025-10-07T21:15:15-05:00"
-        },
-        {
-            "id": "https://aindien.com/working-with-peripheral-devices.html",
-            "url": "https://aindien.com/working-with-peripheral-devices.html",
-            "title": "Working with Peripheral Devices",
-            "summary": "<p>This is a guide on working with peripheral devices.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-06T21:07:12-05:00",
-            "date_modified": "2025-10-06T21:07:12-05:00"
-        },
-        {
-            "id": "https://aindien.com/storage-solutions-in-windows.html",
-            "url": "https://aindien.com/storage-solutions-in-windows.html",
-            "title": "Storage Solutions in Windows",
-            "summary": "<p>This is a guide on storage solutions in Windows</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-09-12T23:10:17-05:00",
-            "date_modified": "2025-09-12T23:10:27-05:00"
-        },
-        {
-            "id": "https://aindien.com/using-the-desktop-environment-in-windows.html",
-            "url": "https://aindien.com/using-the-desktop-environment-in-windows.html",
-            "title": "Using the Desktop Environment in Windows",
-            "summary": "<p>Here is a guide on using the desktop environment in Windows</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Windows"
-            ],
-            "date_published": "2025-09-11T20:18:17-05:00",
-            "date_modified": "2025-09-12T23:10:51-05:00"
-        },
-        {
-            "id": "https://aindien.com/performing-data-calculations-in-excel.html",
-            "url": "https://aindien.com/performing-data-calculations-in-excel.html",
-            "title": "Performing Data Calculations in Excel",
-            "summary": "<p>Performing data calculation in Excel.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Excel"
-            ],
-            "date_published": "2025-09-04T22:14:30-05:00",
-            "date_modified": "2025-09-12T23:11:35-05:00"
-        },
-        {
-            "id": "https://aindien.com/azure-ad-and-access-management.html",
-            "url": "https://aindien.com/azure-ad-and-access-management.html",
-            "title": "Azure AD and Access Management",
-            "summary": "<p>This is an introduction to Azure AD and Access Management.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-08-28T20:29:34-05:00",
-            "date_modified": "2025-09-12T23:11:58-05:00"
-        },
-        {
-            "id": "https://aindien.com/servicenow-explained.html",
-            "url": "https://aindien.com/servicenow-explained.html",
-            "title": "Learning ServiceNow for Beginners",
-            "summary": "<p>This is a guide on learning ServiceNow for IT departments.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-07-26T18:59:06-05:00",
-            "date_modified": "2025-08-20T20:47:37-05:00"
         }
     ]
 }
