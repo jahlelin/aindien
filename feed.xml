@@ -3,12 +3,131 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-10-09T20:51:02-05:00</updated>
+    <updated>2025-10-10T18:36:08-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Application Installation, Networking, &amp; Tools</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/application-installation-networking-and-tools.html"/>
+        <id>https://aindien.com/application-installation-networking-and-tools.html</id>
+
+        <updated>2025-10-10T18:35:52-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on application installation, networking, and tools.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Network Types</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/network-types.html"/>
+        <id>https://aindien.com/network-types.html</id>
+
+        <updated>2025-10-10T18:31:32-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on network types.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Configuring a Wired/Wireless Network</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/configuring-a-wiredwireless-network.html"/>
+        <id>https://aindien.com/configuring-a-wiredwireless-network.html</id>
+
+        <updated>2025-10-10T18:28:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on configuring a wired/wireless network.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Excel 365: Linking, Printing, &amp; Protecting Workbooks</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/excel-365-linking-printing-and-protecting-workbooks.html"/>
+        <id>https://aindien.com/excel-365-linking-printing-and-protecting-workbooks.html</id>
+
+        <updated>2025-10-10T18:19:48-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on linking, printing, &amp; protecting workbooks.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>MS Operating System Administrative Tools</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/ms-operating-system-administrative-tools.html"/>
+        <id>https://aindien.com/ms-operating-system-administrative-tools.html</id>
+
+        <updated>2025-10-10T18:15:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on MS operating system administrative tools.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Troubleshooting Printers</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/troubleshooting-printers.html"/>
+        <id>https://aindien.com/troubleshooting-printers.html</id>
+
+        <updated>2025-10-10T18:11:53-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on troubleshooting printers.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Common Devices</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/common-devices.html"/>
+        <id>https://aindien.com/common-devices.html</id>
+
+        <updated>2025-10-10T18:07:43-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on common devices.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Event, Incident, and Problem Management</title>
         <author>
@@ -55,125 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on ITIL 4 Foundation.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Designing &amp; Shaping email in Outlook 365</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/designing-and-shaping-email-in-outlook-365.html"/>
-        <id>https://aindien.com/designing-and-shaping-email-in-outlook-365.html</id>
-
-        <updated>2025-10-09T20:31:26-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on designing and shaping email in Outlook.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Excel 365: Working With Charts &amp; Sparklines</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/excel-365-working-with-charts-and-sparklines.html"/>
-        <id>https://aindien.com/excel-365-working-with-charts-and-sparklines.html</id>
-
-        <updated>2025-10-09T20:26:11-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on working with charts and sparklines.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Excel 365: Validating, Cleaning, &amp; Performing Lookups on Data</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/excel-365-validating-cleaning-and-performing-lookups-on-data.html"/>
-        <id>https://aindien.com/excel-365-validating-cleaning-and-performing-lookups-on-data.html</id>
-
-        <updated>2025-10-09T20:20:26-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on validating, cleaning, and performing lookups on data.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Motherboards, CPUs, and Add-On Cards</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/motherboards-cpus-and-add-on-cards.html"/>
-        <id>https://aindien.com/motherboards-cpus-and-add-on-cards.html</id>
-
-        <updated>2025-10-09T20:14:24-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on motherboards, cpus, and add-on cards.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Troubleshooting</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/troubleshooting.html"/>
-        <id>https://aindien.com/troubleshooting.html</id>
-
-        <updated>2025-10-09T20:08:59-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on troubleshooting.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Resolving Problems</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/resolving-problems.html"/>
-        <id>https://aindien.com/resolving-problems.html</id>
-
-        <updated>2025-10-09T20:04:41-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on resolving problems.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Printers</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/printers.html"/>
-        <id>https://aindien.com/printers.html</id>
-
-        <updated>2025-10-09T20:01:18-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on printers.</p>
 
                 ]]>
             </summary>

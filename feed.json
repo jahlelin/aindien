@@ -10,6 +10,97 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/application-installation-networking-and-tools.html",
+            "url": "https://aindien.com/application-installation-networking-and-tools.html",
+            "title": "Application Installation, Networking, &amp; Tools",
+            "summary": "<p>This is a guide on application installation, networking, and tools.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-10T18:35:52-05:00",
+            "date_modified": "2025-10-10T18:36:08-05:00"
+        },
+        {
+            "id": "https://aindien.com/network-types.html",
+            "url": "https://aindien.com/network-types.html",
+            "title": "Network Types",
+            "summary": "<p>This is a guide on network types.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-10T18:31:32-05:00",
+            "date_modified": "2025-10-10T18:31:49-05:00"
+        },
+        {
+            "id": "https://aindien.com/configuring-a-wiredwireless-network.html",
+            "url": "https://aindien.com/configuring-a-wiredwireless-network.html",
+            "title": "Configuring a Wired/Wireless Network",
+            "summary": "<p>This is a guide on configuring a wired/wireless network.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-10T18:28:02-05:00",
+            "date_modified": "2025-10-10T18:28:20-05:00"
+        },
+        {
+            "id": "https://aindien.com/excel-365-linking-printing-and-protecting-workbooks.html",
+            "url": "https://aindien.com/excel-365-linking-printing-and-protecting-workbooks.html",
+            "title": "Excel 365: Linking, Printing, &amp; Protecting Workbooks",
+            "summary": "<p>This is a guide on linking, printing, &amp; protecting workbooks.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-10T18:19:48-05:00",
+            "date_modified": "2025-10-10T18:20:31-05:00"
+        },
+        {
+            "id": "https://aindien.com/ms-operating-system-administrative-tools.html",
+            "url": "https://aindien.com/ms-operating-system-administrative-tools.html",
+            "title": "MS Operating System Administrative Tools",
+            "summary": "<p>This is a guide on MS operating system administrative tools.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-10T18:15:29-05:00",
+            "date_modified": "2025-10-10T18:15:45-05:00"
+        },
+        {
+            "id": "https://aindien.com/troubleshooting-printers.html",
+            "url": "https://aindien.com/troubleshooting-printers.html",
+            "title": "Troubleshooting Printers",
+            "summary": "<p>This is a guide on troubleshooting printers.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-10T18:11:53-05:00",
+            "date_modified": "2025-10-10T18:11:53-05:00"
+        },
+        {
+            "id": "https://aindien.com/common-devices.html",
+            "url": "https://aindien.com/common-devices.html",
+            "title": "Common Devices",
+            "summary": "<p>This is a guide on common devices.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-10T18:07:43-05:00",
+            "date_modified": "2025-10-10T18:08:06-05:00"
+        },
+        {
             "id": "https://aindien.com/event-incident-and-problem-management.html",
             "url": "https://aindien.com/event-incident-and-problem-management.html",
             "title": "Event, Incident, and Problem Management",
@@ -47,97 +138,6 @@
             ],
             "date_published": "2025-10-09T20:34:59-05:00",
             "date_modified": "2025-10-09T20:35:59-05:00"
-        },
-        {
-            "id": "https://aindien.com/designing-and-shaping-email-in-outlook-365.html",
-            "url": "https://aindien.com/designing-and-shaping-email-in-outlook-365.html",
-            "title": "Designing &amp; Shaping email in Outlook 365",
-            "summary": "<p>This is a guide on designing and shaping email in Outlook.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-09T20:31:26-05:00",
-            "date_modified": "2025-10-09T20:31:44-05:00"
-        },
-        {
-            "id": "https://aindien.com/excel-365-working-with-charts-and-sparklines.html",
-            "url": "https://aindien.com/excel-365-working-with-charts-and-sparklines.html",
-            "title": "Excel 365: Working With Charts &amp; Sparklines",
-            "summary": "<p>This is a guide on working with charts and sparklines.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-09T20:26:11-05:00",
-            "date_modified": "2025-10-09T20:26:27-05:00"
-        },
-        {
-            "id": "https://aindien.com/excel-365-validating-cleaning-and-performing-lookups-on-data.html",
-            "url": "https://aindien.com/excel-365-validating-cleaning-and-performing-lookups-on-data.html",
-            "title": "Excel 365: Validating, Cleaning, &amp; Performing Lookups on Data",
-            "summary": "<p>This is a guide on validating, cleaning, and performing lookups on data.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-09T20:20:26-05:00",
-            "date_modified": "2025-10-09T20:20:48-05:00"
-        },
-        {
-            "id": "https://aindien.com/motherboards-cpus-and-add-on-cards.html",
-            "url": "https://aindien.com/motherboards-cpus-and-add-on-cards.html",
-            "title": "Motherboards, CPUs, and Add-On Cards",
-            "summary": "<p>This is a guide on motherboards, cpus, and add-on cards.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-09T20:14:24-05:00",
-            "date_modified": "2025-10-09T20:14:45-05:00"
-        },
-        {
-            "id": "https://aindien.com/troubleshooting.html",
-            "url": "https://aindien.com/troubleshooting.html",
-            "title": "Troubleshooting",
-            "summary": "<p>This is a guide on troubleshooting.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-09T20:08:59-05:00",
-            "date_modified": "2025-10-09T20:09:17-05:00"
-        },
-        {
-            "id": "https://aindien.com/resolving-problems.html",
-            "url": "https://aindien.com/resolving-problems.html",
-            "title": "Resolving Problems",
-            "summary": "<p>This is a guide on resolving problems.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-09T20:04:41-05:00",
-            "date_modified": "2025-10-09T20:04:58-05:00"
-        },
-        {
-            "id": "https://aindien.com/printers.html",
-            "url": "https://aindien.com/printers.html",
-            "title": "Printers",
-            "summary": "<p>This is a guide on printers.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-09T20:01:18-05:00",
-            "date_modified": "2025-10-09T20:01:40-05:00"
         }
     ]
 }
