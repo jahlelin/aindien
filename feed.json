@@ -10,6 +10,32 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/using-tables-in-word-365.html",
+            "url": "https://aindien.com/using-tables-in-word-365.html",
+            "title": "Using tables in Word 365",
+            "summary": "<p>This is a guide on using tables in Word 365.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-11T22:14:23-05:00",
+            "date_modified": "2025-10-11T22:14:44-05:00"
+        },
+        {
+            "id": "https://aindien.com/shaping-documents-in-word-365.html",
+            "url": "https://aindien.com/shaping-documents-in-word-365.html",
+            "title": "Shaping documents in Word 365",
+            "summary": "<p>This is a guide on shaping documents in Word 365.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-11T22:11:15-05:00",
+            "date_modified": "2025-10-11T22:11:31-05:00"
+        },
+        {
             "id": "https://aindien.com/critical-security-concepts.html",
             "url": "https://aindien.com/critical-security-concepts.html",
             "title": "Critical Security Concepts",
@@ -112,32 +138,6 @@
             ],
             "date_published": "2025-10-10T18:07:43-05:00",
             "date_modified": "2025-10-10T18:08:06-05:00"
-        },
-        {
-            "id": "https://aindien.com/event-incident-and-problem-management.html",
-            "url": "https://aindien.com/event-incident-and-problem-management.html",
-            "title": "Event, Incident, and Problem Management",
-            "summary": "<p>This is a guide on event, incident, and problem management.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-09T20:50:38-05:00",
-            "date_modified": "2025-10-09T20:51:02-05:00"
-        },
-        {
-            "id": "https://aindien.com/four-dimensions-of-service-management.html",
-            "url": "https://aindien.com/four-dimensions-of-service-management.html",
-            "title": "Four Dimensions of Service Management",
-            "summary": "<p>This is a guide on the four dimensions of service management.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-09T20:46:53-05:00",
-            "date_modified": "2025-10-09T20:47:12-05:00"
         }
     ]
 }

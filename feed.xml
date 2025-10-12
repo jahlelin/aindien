@@ -3,12 +3,46 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-10-10T19:21:38-05:00</updated>
+    <updated>2025-10-11T22:14:44-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Using tables in Word 365</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/using-tables-in-word-365.html"/>
+        <id>https://aindien.com/using-tables-in-word-365.html</id>
+
+        <updated>2025-10-11T22:14:23-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on using tables in Word 365.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Shaping documents in Word 365</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/shaping-documents-in-word-365.html"/>
+        <id>https://aindien.com/shaping-documents-in-word-365.html</id>
+
+        <updated>2025-10-11T22:11:15-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on shaping documents in Word 365.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Critical Security Concepts</title>
         <author>
@@ -140,40 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on common devices.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Event, Incident, and Problem Management</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/event-incident-and-problem-management.html"/>
-        <id>https://aindien.com/event-incident-and-problem-management.html</id>
-
-        <updated>2025-10-09T20:50:38-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on event, incident, and problem management.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Four Dimensions of Service Management</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/four-dimensions-of-service-management.html"/>
-        <id>https://aindien.com/four-dimensions-of-service-management.html</id>
-
-        <updated>2025-10-09T20:46:53-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on the four dimensions of service management.</p>
 
                 ]]>
             </summary>
