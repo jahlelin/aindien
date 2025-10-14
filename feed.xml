@@ -3,12 +3,46 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-10-11T22:14:44-05:00</updated>
+    <updated>2025-10-13T22:14:03-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Saving Time by Setting Goals</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/saving-time-by-setting-goals.html"/>
+        <id>https://aindien.com/saving-time-by-setting-goals.html</id>
+
+        <updated>2025-10-13T22:13:44-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on saving time by setting goals.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Choosing and Using the Best Solution</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/choosing-and-using-the-best-solution.html"/>
+        <id>https://aindien.com/choosing-and-using-the-best-solution.html</id>
+
+        <updated>2025-10-13T22:09:50-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on choosing and using the best solution.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Using tables in Word 365</title>
         <author>
@@ -140,40 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on MS operating system administrative tools.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Troubleshooting Printers</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/troubleshooting-printers.html"/>
-        <id>https://aindien.com/troubleshooting-printers.html</id>
-
-        <updated>2025-10-10T18:11:53-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on troubleshooting printers.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Common Devices</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/common-devices.html"/>
-        <id>https://aindien.com/common-devices.html</id>
-
-        <updated>2025-10-10T18:07:43-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on common devices.</p>
 
                 ]]>
             </summary>

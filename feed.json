@@ -10,6 +10,32 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/saving-time-by-setting-goals.html",
+            "url": "https://aindien.com/saving-time-by-setting-goals.html",
+            "title": "Saving Time by Setting Goals",
+            "summary": "<p>This is a guide on saving time by setting goals.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-13T22:13:44-05:00",
+            "date_modified": "2025-10-13T22:14:03-05:00"
+        },
+        {
+            "id": "https://aindien.com/choosing-and-using-the-best-solution.html",
+            "url": "https://aindien.com/choosing-and-using-the-best-solution.html",
+            "title": "Choosing and Using the Best Solution",
+            "summary": "<p>This is a guide on choosing and using the best solution.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-13T22:09:50-05:00",
+            "date_modified": "2025-10-13T22:10:09-05:00"
+        },
+        {
             "id": "https://aindien.com/using-tables-in-word-365.html",
             "url": "https://aindien.com/using-tables-in-word-365.html",
             "title": "Using tables in Word 365",
@@ -112,32 +138,6 @@
             ],
             "date_published": "2025-10-10T18:15:29-05:00",
             "date_modified": "2025-10-10T18:15:45-05:00"
-        },
-        {
-            "id": "https://aindien.com/troubleshooting-printers.html",
-            "url": "https://aindien.com/troubleshooting-printers.html",
-            "title": "Troubleshooting Printers",
-            "summary": "<p>This is a guide on troubleshooting printers.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-10T18:11:53-05:00",
-            "date_modified": "2025-10-10T18:11:53-05:00"
-        },
-        {
-            "id": "https://aindien.com/common-devices.html",
-            "url": "https://aindien.com/common-devices.html",
-            "title": "Common Devices",
-            "summary": "<p>This is a guide on common devices.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-10T18:07:43-05:00",
-            "date_modified": "2025-10-10T18:08:06-05:00"
         }
     ]
 }
