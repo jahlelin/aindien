@@ -3,12 +3,46 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-10-13T22:14:03-05:00</updated>
+    <updated>2025-10-14T22:47:53-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Service Value System and Continual Improvement Model</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/service-value-system-and-continual-improvement-model.html"/>
+        <id>https://aindien.com/service-value-system-and-continual-improvement-model.html</id>
+
+        <updated>2025-10-14T22:47:25-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on service value systems and continual improvement models.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>ITIL: Key Concepts of Service Management</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/itil-key-concepts-of-service-management.html"/>
+        <id>https://aindien.com/itil-key-concepts-of-service-management.html</id>
+
+        <updated>2025-10-14T22:42:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on Itil: key concepts of service management.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Saving Time by Setting Goals</title>
         <author>
@@ -140,40 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on configuring a wired/wireless network.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Excel 365: Linking, Printing, &amp; Protecting Workbooks</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/excel-365-linking-printing-and-protecting-workbooks.html"/>
-        <id>https://aindien.com/excel-365-linking-printing-and-protecting-workbooks.html</id>
-
-        <updated>2025-10-10T18:19:48-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on linking, printing, &amp; protecting workbooks.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>MS Operating System Administrative Tools</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/ms-operating-system-administrative-tools.html"/>
-        <id>https://aindien.com/ms-operating-system-administrative-tools.html</id>
-
-        <updated>2025-10-10T18:15:29-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on MS operating system administrative tools.</p>
 
                 ]]>
             </summary>
