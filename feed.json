@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/the-service-value-chain.html",
+            "url": "https://aindien.com/the-service-value-chain.html",
+            "title": "The Service Value Chain ",
+            "summary": "<p>This is a guide on the service value chain.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-15T20:11:29-05:00",
+            "date_modified": "2025-10-15T20:11:50-05:00"
+        },
+        {
             "id": "https://aindien.com/service-value-system-and-continual-improvement-model.html",
             "url": "https://aindien.com/service-value-system-and-continual-improvement-model.html",
             "title": "Service Value System and Continual Improvement Model",
@@ -125,19 +138,6 @@
             ],
             "date_published": "2025-10-10T18:31:32-05:00",
             "date_modified": "2025-10-10T18:31:49-05:00"
-        },
-        {
-            "id": "https://aindien.com/configuring-a-wiredwireless-network.html",
-            "url": "https://aindien.com/configuring-a-wiredwireless-network.html",
-            "title": "Configuring a Wired/Wireless Network",
-            "summary": "<p>This is a guide on configuring a wired/wireless network.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-10T18:28:02-05:00",
-            "date_modified": "2025-10-10T18:28:20-05:00"
         }
     ]
 }
