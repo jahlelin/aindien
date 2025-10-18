@@ -3,12 +3,46 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-10-15T20:11:50-05:00</updated>
+    <updated>2025-10-17T23:06:12-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Release, Service Level, and Availability Management</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/release-service-level-and-availability-management.html"/>
+        <id>https://aindien.com/release-service-level-and-availability-management.html</id>
+
+        <updated>2025-10-17T23:05:53-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on release, service level, and availability management.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Service Desk, IT Asset, and Service Configuration</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/service-desk-it-asset-and-service-configuration.html"/>
+        <id>https://aindien.com/service-desk-it-asset-and-service-configuration.html</id>
+
+        <updated>2025-10-17T23:00:11-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on service desk, IT asset, and service configuration.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>The Service Value Chain </title>
         <author>
@@ -140,40 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on critical security concepts.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Application Installation, Networking, &amp; Tools</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/application-installation-networking-and-tools.html"/>
-        <id>https://aindien.com/application-installation-networking-and-tools.html</id>
-
-        <updated>2025-10-10T18:35:52-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on application installation, networking, and tools.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Network Types</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/network-types.html"/>
-        <id>https://aindien.com/network-types.html</id>
-
-        <updated>2025-10-10T18:31:32-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on network types.</p>
 
                 ]]>
             </summary>

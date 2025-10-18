@@ -10,6 +10,32 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/release-service-level-and-availability-management.html",
+            "url": "https://aindien.com/release-service-level-and-availability-management.html",
+            "title": "Release, Service Level, and Availability Management",
+            "summary": "<p>This is a guide on release, service level, and availability management.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-17T23:05:53-05:00",
+            "date_modified": "2025-10-17T23:06:12-05:00"
+        },
+        {
+            "id": "https://aindien.com/service-desk-it-asset-and-service-configuration.html",
+            "url": "https://aindien.com/service-desk-it-asset-and-service-configuration.html",
+            "title": "Service Desk, IT Asset, and Service Configuration",
+            "summary": "<p>This is a guide on service desk, IT asset, and service configuration.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-17T23:00:11-05:00",
+            "date_modified": "2025-10-17T23:00:50-05:00"
+        },
+        {
             "id": "https://aindien.com/the-service-value-chain.html",
             "url": "https://aindien.com/the-service-value-chain.html",
             "title": "The Service Value Chain ",
@@ -112,32 +138,6 @@
             ],
             "date_published": "2025-10-10T19:21:16-05:00",
             "date_modified": "2025-10-10T19:21:38-05:00"
-        },
-        {
-            "id": "https://aindien.com/application-installation-networking-and-tools.html",
-            "url": "https://aindien.com/application-installation-networking-and-tools.html",
-            "title": "Application Installation, Networking, &amp; Tools",
-            "summary": "<p>This is a guide on application installation, networking, and tools.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-10T18:35:52-05:00",
-            "date_modified": "2025-10-10T18:36:08-05:00"
-        },
-        {
-            "id": "https://aindien.com/network-types.html",
-            "url": "https://aindien.com/network-types.html",
-            "title": "Network Types",
-            "summary": "<p>This is a guide on network types.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-10T18:31:32-05:00",
-            "date_modified": "2025-10-10T18:31:49-05:00"
         }
     ]
 }
