@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-10-19T20:28:07-05:00</updated>
+    <updated>2025-10-23T19:33:26-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Software Asset Management</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/software-asset-management.html"/>
+        <id>https://aindien.com/software-asset-management.html</id>
+
+        <updated>2025-10-23T19:32:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on software asset management.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Asset Management</title>
         <author>
@@ -157,23 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on choosing and using the best solution.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Using tables in Word 365</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/using-tables-in-word-365.html"/>
-        <id>https://aindien.com/using-tables-in-word-365.html</id>
-
-        <updated>2025-10-11T22:14:23-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on using tables in Word 365.</p>
 
                 ]]>
             </summary>

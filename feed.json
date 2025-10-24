@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/software-asset-management.html",
+            "url": "https://aindien.com/software-asset-management.html",
+            "title": "Software Asset Management",
+            "summary": "<p>This is a guide on software asset management.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-23T19:32:47-05:00",
+            "date_modified": "2025-10-23T19:33:26-05:00"
+        },
+        {
             "id": "https://aindien.com/asset-management.html",
             "url": "https://aindien.com/asset-management.html",
             "title": "Asset Management",
@@ -125,19 +138,6 @@
             ],
             "date_published": "2025-10-13T22:09:50-05:00",
             "date_modified": "2025-10-13T22:10:09-05:00"
-        },
-        {
-            "id": "https://aindien.com/using-tables-in-word-365.html",
-            "url": "https://aindien.com/using-tables-in-word-365.html",
-            "title": "Using tables in Word 365",
-            "summary": "<p>This is a guide on using tables in Word 365.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-11T22:14:23-05:00",
-            "date_modified": "2025-10-11T22:14:44-05:00"
         }
     ]
 }
