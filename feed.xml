@@ -3,12 +3,63 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-10-23T19:33:26-05:00</updated>
+    <updated>2025-10-24T22:29:11-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Hardware Asset Management</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/hardware-asset-management.html"/>
+        <id>https://aindien.com/hardware-asset-management.html</id>
+
+        <updated>2025-10-24T22:28:48-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on hardware asset management.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Windows 10, Autopilot, &amp; Azure</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/windows-10-autopilot-and-azure.html"/>
+        <id>https://aindien.com/windows-10-autopilot-and-azure.html</id>
+
+        <updated>2025-10-24T22:21:10-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on Windows 10, Autopilot, and Azure.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Managing macros in Excel 365</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/managing-macros-in-excel-365.html"/>
+        <id>https://aindien.com/managing-macros-in-excel-365.html</id>
+
+        <updated>2025-10-24T22:13:16-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <div>This is a guide on managing macros in Excel 365.</div>
+<div>
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Software Asset Management</title>
         <author>
@@ -123,57 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on service value systems and continual improvement models.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>ITIL: Key Concepts of Service Management</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/itil-key-concepts-of-service-management.html"/>
-        <id>https://aindien.com/itil-key-concepts-of-service-management.html</id>
-
-        <updated>2025-10-14T22:42:02-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on Itil: key concepts of service management.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Saving Time by Setting Goals</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/saving-time-by-setting-goals.html"/>
-        <id>https://aindien.com/saving-time-by-setting-goals.html</id>
-
-        <updated>2025-10-13T22:13:44-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on saving time by setting goals.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Choosing and Using the Best Solution</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/choosing-and-using-the-best-solution.html"/>
-        <id>https://aindien.com/choosing-and-using-the-best-solution.html</id>
-
-        <updated>2025-10-13T22:09:50-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on choosing and using the best solution.</p>
 
                 ]]>
             </summary>

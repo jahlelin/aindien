@@ -10,6 +10,45 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/hardware-asset-management.html",
+            "url": "https://aindien.com/hardware-asset-management.html",
+            "title": "Hardware Asset Management",
+            "summary": "<p>This is a guide on hardware asset management.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-24T22:28:48-05:00",
+            "date_modified": "2025-10-24T22:29:11-05:00"
+        },
+        {
+            "id": "https://aindien.com/windows-10-autopilot-and-azure.html",
+            "url": "https://aindien.com/windows-10-autopilot-and-azure.html",
+            "title": "Windows 10, Autopilot, &amp; Azure",
+            "summary": "<p>This is a guide on Windows 10, Autopilot, and Azure.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-24T22:21:10-05:00",
+            "date_modified": "2025-10-24T22:21:38-05:00"
+        },
+        {
+            "id": "https://aindien.com/managing-macros-in-excel-365.html",
+            "url": "https://aindien.com/managing-macros-in-excel-365.html",
+            "title": "Managing macros in Excel 365",
+            "summary": "<div>This is a guide on managing macros in Excel 365.</div>\n<div>",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-24T22:13:16-05:00",
+            "date_modified": "2025-10-24T22:14:42-05:00"
+        },
+        {
             "id": "https://aindien.com/software-asset-management.html",
             "url": "https://aindien.com/software-asset-management.html",
             "title": "Software Asset Management",
@@ -99,45 +138,6 @@
             ],
             "date_published": "2025-10-14T22:47:25-05:00",
             "date_modified": "2025-10-14T22:47:53-05:00"
-        },
-        {
-            "id": "https://aindien.com/itil-key-concepts-of-service-management.html",
-            "url": "https://aindien.com/itil-key-concepts-of-service-management.html",
-            "title": "ITIL: Key Concepts of Service Management",
-            "summary": "<p>This is a guide on Itil: key concepts of service management.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-14T22:42:02-05:00",
-            "date_modified": "2025-10-14T22:43:14-05:00"
-        },
-        {
-            "id": "https://aindien.com/saving-time-by-setting-goals.html",
-            "url": "https://aindien.com/saving-time-by-setting-goals.html",
-            "title": "Saving Time by Setting Goals",
-            "summary": "<p>This is a guide on saving time by setting goals.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-13T22:13:44-05:00",
-            "date_modified": "2025-10-13T22:14:03-05:00"
-        },
-        {
-            "id": "https://aindien.com/choosing-and-using-the-best-solution.html",
-            "url": "https://aindien.com/choosing-and-using-the-best-solution.html",
-            "title": "Choosing and Using the Best Solution",
-            "summary": "<p>This is a guide on choosing and using the best solution.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-13T22:09:50-05:00",
-            "date_modified": "2025-10-13T22:10:09-05:00"
         }
     ]
 }
