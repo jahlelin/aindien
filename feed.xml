@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-10-24T22:29:11-05:00</updated>
+    <updated>2025-10-25T23:01:09-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Software Asset Management</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/software-asset-management-2.html"/>
+        <id>https://aindien.com/software-asset-management-2.html</id>
+
+        <updated>2025-10-25T23:00:10-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <div>This is a guide on software asset management.</div>
+<div>
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Hardware Asset Management</title>
         <author>
@@ -157,23 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on the service value chain.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Service Value System and Continual Improvement Model</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/service-value-system-and-continual-improvement-model.html"/>
-        <id>https://aindien.com/service-value-system-and-continual-improvement-model.html</id>
-
-        <updated>2025-10-14T22:47:25-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on service value systems and continual improvement models.</p>
 
                 ]]>
             </summary>
