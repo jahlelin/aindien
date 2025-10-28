@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-10-25T23:01:09-05:00</updated>
+    <updated>2025-10-28T07:28:55-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Agentic AI</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/agentic-ai.html"/>
+        <id>https://aindien.com/agentic-ai.html</id>
+
+        <updated>2025-10-28T07:28:37-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <div>This is a guide on agentic AI.</div>
+<div>
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Software Asset Management</title>
         <author>
@@ -157,23 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on service desk, IT asset, and service configuration.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>The Service Value Chain </title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/the-service-value-chain.html"/>
-        <id>https://aindien.com/the-service-value-chain.html</id>
-
-        <updated>2025-10-15T20:11:29-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on the service value chain.</p>
 
                 ]]>
             </summary>
