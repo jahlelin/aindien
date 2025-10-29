@@ -3,12 +3,46 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-10-28T07:28:55-05:00</updated>
+    <updated>2025-10-28T21:11:23-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Cryptographic Methods</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/cryptographic-methods.html"/>
+        <id>https://aindien.com/cryptographic-methods.html</id>
+
+        <updated>2025-10-28T21:11:05-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on cryptographic methods.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Introducing Cryptography</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/introducing-cryptography.html"/>
+        <id>https://aindien.com/introducing-cryptography.html</id>
+
+        <updated>2025-10-28T21:07:31-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on introducing cryptography.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Agentic AI</title>
         <author>
@@ -140,40 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on hardware asset management foundation.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Release, Service Level, and Availability Management</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/release-service-level-and-availability-management.html"/>
-        <id>https://aindien.com/release-service-level-and-availability-management.html</id>
-
-        <updated>2025-10-17T23:05:53-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on release, service level, and availability management.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Service Desk, IT Asset, and Service Configuration</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/service-desk-it-asset-and-service-configuration.html"/>
-        <id>https://aindien.com/service-desk-it-asset-and-service-configuration.html</id>
-
-        <updated>2025-10-17T23:00:11-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on service desk, IT asset, and service configuration.</p>
 
                 ]]>
             </summary>
