@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-10-28T21:11:23-05:00</updated>
+    <updated>2025-11-02T14:47:41-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Defining Cryptography</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/defining-cryptography.html"/>
+        <id>https://aindien.com/defining-cryptography.html</id>
+
+        <updated>2025-11-02T14:46:50-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on defining cryptography.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Cryptographic Methods</title>
         <author>
@@ -157,23 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on asset management.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Hardware Asset Management Foundation</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/hardware-asset-management-foundation.html"/>
-        <id>https://aindien.com/hardware-asset-management-foundation.html</id>
-
-        <updated>2025-10-18T21:24:29-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on hardware asset management foundation.</p>
 
                 ]]>
             </summary>

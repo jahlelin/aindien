@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/defining-cryptography.html",
+            "url": "https://aindien.com/defining-cryptography.html",
+            "title": "Defining Cryptography",
+            "summary": "<p>This is a guide on defining cryptography.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-02T14:46:50-06:00",
+            "date_modified": "2025-11-02T14:47:41-06:00"
+        },
+        {
             "id": "https://aindien.com/cryptographic-methods.html",
             "url": "https://aindien.com/cryptographic-methods.html",
             "title": "Cryptographic Methods",
@@ -125,19 +138,6 @@
             ],
             "date_published": "2025-10-19T20:27:45-05:00",
             "date_modified": "2025-10-19T20:28:07-05:00"
-        },
-        {
-            "id": "https://aindien.com/hardware-asset-management-foundation.html",
-            "url": "https://aindien.com/hardware-asset-management-foundation.html",
-            "title": "Hardware Asset Management Foundation",
-            "summary": "<p>This is a guide on hardware asset management foundation.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-18T21:24:29-05:00",
-            "date_modified": "2025-10-18T21:24:54-05:00"
         }
     ]
 }
