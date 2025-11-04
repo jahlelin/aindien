@@ -3,12 +3,46 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-11-02T14:47:41-06:00</updated>
+    <updated>2025-11-03T19:10:53-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Firewalls &amp; Intrusion Detection</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/firewalls-and-intrusion-detection.html"/>
+        <id>https://aindien.com/firewalls-and-intrusion-detection.html</id>
+
+        <updated>2025-11-03T19:10:35-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on firewalls and intrusion detection.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Security Concepts</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/security-concepts.html"/>
+        <id>https://aindien.com/security-concepts.html</id>
+
+        <updated>2025-11-03T19:03:40-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on security concepts.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Defining Cryptography</title>
         <author>
@@ -141,40 +175,6 @@
                 <![CDATA[
                     <div>This is a guide on managing macros in Excel 365.</div>
 <div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Software Asset Management</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/software-asset-management.html"/>
-        <id>https://aindien.com/software-asset-management.html</id>
-
-        <updated>2025-10-23T19:32:47-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on software asset management.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Asset Management</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/asset-management.html"/>
-        <id>https://aindien.com/asset-management.html</id>
-
-        <updated>2025-10-19T20:27:45-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on asset management.</p>
-
                 ]]>
             </summary>
         <content></content>

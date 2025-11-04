@@ -10,6 +10,32 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/firewalls-and-intrusion-detection.html",
+            "url": "https://aindien.com/firewalls-and-intrusion-detection.html",
+            "title": "Firewalls &amp; Intrusion Detection",
+            "summary": "<p>This is a guide on firewalls and intrusion detection.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-03T19:10:35-06:00",
+            "date_modified": "2025-11-03T19:10:53-06:00"
+        },
+        {
+            "id": "https://aindien.com/security-concepts.html",
+            "url": "https://aindien.com/security-concepts.html",
+            "title": "Security Concepts",
+            "summary": "<p>This is a guide on security concepts.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-03T19:03:40-06:00",
+            "date_modified": "2025-11-03T19:03:59-06:00"
+        },
+        {
             "id": "https://aindien.com/defining-cryptography.html",
             "url": "https://aindien.com/defining-cryptography.html",
             "title": "Defining Cryptography",
@@ -112,32 +138,6 @@
             ],
             "date_published": "2025-10-24T22:13:16-05:00",
             "date_modified": "2025-10-24T22:14:42-05:00"
-        },
-        {
-            "id": "https://aindien.com/software-asset-management.html",
-            "url": "https://aindien.com/software-asset-management.html",
-            "title": "Software Asset Management",
-            "summary": "<p>This is a guide on software asset management.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-23T19:32:47-05:00",
-            "date_modified": "2025-10-23T19:33:26-05:00"
-        },
-        {
-            "id": "https://aindien.com/asset-management.html",
-            "url": "https://aindien.com/asset-management.html",
-            "title": "Asset Management",
-            "summary": "<p>This is a guide on asset management.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-19T20:27:45-05:00",
-            "date_modified": "2025-10-19T20:28:07-05:00"
         }
     ]
 }
