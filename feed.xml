@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-11-03T19:10:53-06:00</updated>
+    <updated>2025-11-04T20:16:36-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Malware</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/malware.html"/>
+        <id>https://aindien.com/malware.html</id>
+
+        <updated>2025-11-04T20:16:16-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on malware.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Firewalls &amp; Intrusion Detection</title>
         <author>
@@ -158,23 +175,6 @@
                 <![CDATA[
                     <p>This is a guide on Windows 10, Autopilot, and Azure.</p>
 
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Managing macros in Excel 365</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/managing-macros-in-excel-365.html"/>
-        <id>https://aindien.com/managing-macros-in-excel-365.html</id>
-
-        <updated>2025-10-24T22:13:16-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <div>This is a guide on managing macros in Excel 365.</div>
-<div>
                 ]]>
             </summary>
         <content></content>
