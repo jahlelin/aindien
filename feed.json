@@ -10,6 +10,32 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/threat-intelligence-information.html",
+            "url": "https://aindien.com/threat-intelligence-information.html",
+            "title": "Threat Intelligence Information",
+            "summary": "<p>This is a guide on threat intelligence information.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-05T19:56:13-06:00",
+            "date_modified": "2025-11-05T19:56:30-06:00"
+        },
+        {
+            "id": "https://aindien.com/data-security-standards.html",
+            "url": "https://aindien.com/data-security-standards.html",
+            "title": "Data Security Standards",
+            "summary": "<p>This is a guide on data security standards.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-05T19:52:02-06:00",
+            "date_modified": "2025-11-05T19:52:18-06:00"
+        },
+        {
             "id": "https://aindien.com/malware.html",
             "url": "https://aindien.com/malware.html",
             "title": "Malware",
@@ -112,32 +138,6 @@
             ],
             "date_published": "2025-10-25T23:00:10-05:00",
             "date_modified": "2025-10-25T23:01:09-05:00"
-        },
-        {
-            "id": "https://aindien.com/hardware-asset-management.html",
-            "url": "https://aindien.com/hardware-asset-management.html",
-            "title": "Hardware Asset Management",
-            "summary": "<p>This is a guide on hardware asset management.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-24T22:28:48-05:00",
-            "date_modified": "2025-10-24T22:29:11-05:00"
-        },
-        {
-            "id": "https://aindien.com/windows-10-autopilot-and-azure.html",
-            "url": "https://aindien.com/windows-10-autopilot-and-azure.html",
-            "title": "Windows 10, Autopilot, &amp; Azure",
-            "summary": "<p>This is a guide on Windows 10, Autopilot, and Azure.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-24T22:21:10-05:00",
-            "date_modified": "2025-10-24T22:21:38-05:00"
         }
     ]
 }

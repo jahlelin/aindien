@@ -3,12 +3,46 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-11-04T20:16:36-06:00</updated>
+    <updated>2025-11-05T19:56:30-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Threat Intelligence Information</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/threat-intelligence-information.html"/>
+        <id>https://aindien.com/threat-intelligence-information.html</id>
+
+        <updated>2025-11-05T19:56:13-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on threat intelligence information.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Data Security Standards</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/data-security-standards.html"/>
+        <id>https://aindien.com/data-security-standards.html</id>
+
+        <updated>2025-11-05T19:52:02-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on data security standards.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Malware</title>
         <author>
@@ -141,40 +175,6 @@
                 <![CDATA[
                     <div>This is a guide on software asset management.</div>
 <div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Hardware Asset Management</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/hardware-asset-management.html"/>
-        <id>https://aindien.com/hardware-asset-management.html</id>
-
-        <updated>2025-10-24T22:28:48-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on hardware asset management.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Windows 10, Autopilot, &amp; Azure</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/windows-10-autopilot-and-azure.html"/>
-        <id>https://aindien.com/windows-10-autopilot-and-azure.html</id>
-
-        <updated>2025-10-24T22:21:10-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on Windows 10, Autopilot, and Azure.</p>
-
                 ]]>
             </summary>
         <content></content>
