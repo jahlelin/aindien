@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-11-05T19:56:30-06:00</updated>
+    <updated>2025-11-05T21:04:27-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Vulnerability &amp; Penetration Testing</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/vulnerability-and-penetration-testing.html"/>
+        <id>https://aindien.com/vulnerability-and-penetration-testing.html</id>
+
+        <updated>2025-11-05T21:04:10-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on vulnerability and penetration testing.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Threat Intelligence Information</title>
         <author>
@@ -157,23 +174,6 @@
             <summary>
                 <![CDATA[
                     <div>This is a guide on agentic AI.</div>
-<div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Software Asset Management</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/software-asset-management-2.html"/>
-        <id>https://aindien.com/software-asset-management-2.html</id>
-
-        <updated>2025-10-25T23:00:10-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <div>This is a guide on software asset management.</div>
 <div>
                 ]]>
             </summary>
