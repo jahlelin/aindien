@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-11-06T22:02:56-06:00</updated>
+    <updated>2025-11-07T20:16:09-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Logging and Monitoring</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/logging-and-monitoring.html"/>
+        <id>https://aindien.com/logging-and-monitoring.html</id>
+
+        <updated>2025-11-07T20:15:30-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This a guide on logging and monitoring.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Managing Network Settings</title>
         <author>
@@ -157,23 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on cryptographic methods.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Introducing Cryptography</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/introducing-cryptography.html"/>
-        <id>https://aindien.com/introducing-cryptography.html</id>
-
-        <updated>2025-10-28T21:07:31-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on introducing cryptography.</p>
 
                 ]]>
             </summary>
