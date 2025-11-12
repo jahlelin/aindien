@@ -3,12 +3,46 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-11-07T20:16:09-06:00</updated>
+    <updated>2025-11-11T20:22:43-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Network Firewalls</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/network-firewalls.html"/>
+        <id>https://aindien.com/network-firewalls.html</id>
+
+        <updated>2025-11-11T20:22:27-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on network firewalls.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Server Storage</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/server-storage.html"/>
+        <id>https://aindien.com/server-storage.html</id>
+
+        <updated>2025-11-11T20:17:37-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on server storage.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Logging and Monitoring</title>
         <author>
@@ -140,40 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on security concepts.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Defining Cryptography</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/defining-cryptography.html"/>
-        <id>https://aindien.com/defining-cryptography.html</id>
-
-        <updated>2025-11-02T14:46:50-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on defining cryptography.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Cryptographic Methods</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/cryptographic-methods.html"/>
-        <id>https://aindien.com/cryptographic-methods.html</id>
-
-        <updated>2025-10-28T21:11:05-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on cryptographic methods.</p>
 
                 ]]>
             </summary>
