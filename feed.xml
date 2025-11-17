@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-11-11T20:22:43-06:00</updated>
+    <updated>2025-11-16T21:10:31-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Windows Server 2019 Features</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/windows-server-2019-features.html"/>
+        <id>https://aindien.com/windows-server-2019-features.html</id>
+
+        <updated>2025-11-16T21:07:40-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on the Windows Admin Center.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Network Firewalls</title>
         <author>
@@ -157,23 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on firewalls and intrusion detection.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Security Concepts</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/security-concepts.html"/>
-        <id>https://aindien.com/security-concepts.html</id>
-
-        <updated>2025-11-03T19:03:40-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on security concepts.</p>
 
                 ]]>
             </summary>
