@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-11-16T21:10:31-06:00</updated>
+    <updated>2025-11-17T20:29:02-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Storage, Failover Clustering, &amp; Application Platform</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/storage-failover-clustering-and-application-platform.html"/>
+        <id>https://aindien.com/storage-failover-clustering-and-application-platform.html</id>
+
+        <updated>2025-11-17T20:28:47-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on storage, failover clustering, and applications platforms.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Windows Server 2019 Features</title>
         <author>
@@ -157,23 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on malware.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Firewalls &amp; Intrusion Detection</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/firewalls-and-intrusion-detection.html"/>
-        <id>https://aindien.com/firewalls-and-intrusion-detection.html</id>
-
-        <updated>2025-11-03T19:10:35-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on firewalls and intrusion detection.</p>
 
                 ]]>
             </summary>
