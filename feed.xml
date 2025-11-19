@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-11-17T20:29:02-06:00</updated>
+    <updated>2025-11-18T20:36:40-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Windows Server Installations</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/windows-server-installations.html"/>
+        <id>https://aindien.com/windows-server-installations.html</id>
+
+        <updated>2025-11-18T20:36:23-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on Windows server installations.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Storage, Failover Clustering, &amp; Application Platform</title>
         <author>
@@ -157,23 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on data security standards.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Malware</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/malware.html"/>
-        <id>https://aindien.com/malware.html</id>
-
-        <updated>2025-11-04T20:16:16-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on malware.</p>
 
                 ]]>
             </summary>
