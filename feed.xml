@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-11-18T20:36:40-06:00</updated>
+    <updated>2025-11-20T19:59:52-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Server 2019 Configuration</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/server-2019-configuration.html"/>
+        <id>https://aindien.com/server-2019-configuration.html</id>
+
+        <updated>2025-11-20T19:59:14-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on server 2019 configuration.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Windows Server Installations</title>
         <author>
@@ -157,23 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on threat intelligence information.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Data Security Standards</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/data-security-standards.html"/>
-        <id>https://aindien.com/data-security-standards.html</id>
-
-        <updated>2025-11-05T19:52:02-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on data security standards.</p>
 
                 ]]>
             </summary>

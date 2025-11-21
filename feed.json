@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/server-2019-configuration.html",
+            "url": "https://aindien.com/server-2019-configuration.html",
+            "title": "Server 2019 Configuration",
+            "summary": "<p>This is a guide on server 2019 configuration.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-20T19:59:14-06:00",
+            "date_modified": "2025-11-20T19:59:52-06:00"
+        },
+        {
             "id": "https://aindien.com/windows-server-installations.html",
             "url": "https://aindien.com/windows-server-installations.html",
             "title": "Windows Server Installations",
@@ -125,19 +138,6 @@
             ],
             "date_published": "2025-11-05T19:56:13-06:00",
             "date_modified": "2025-11-05T19:56:30-06:00"
-        },
-        {
-            "id": "https://aindien.com/data-security-standards.html",
-            "url": "https://aindien.com/data-security-standards.html",
-            "title": "Data Security Standards",
-            "summary": "<p>This is a guide on data security standards.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-05T19:52:02-06:00",
-            "date_modified": "2025-11-05T19:52:18-06:00"
         }
     ]
 }
