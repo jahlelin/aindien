@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/getting-started-with-azure-cloud.html",
+            "url": "https://aindien.com/getting-started-with-azure-cloud.html",
+            "title": "Getting Started with Azure Cloud",
+            "summary": "<p>This is a guide on getting started with Azure Cloud.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-01T21:50:45-06:00",
+            "date_modified": "2025-12-01T21:51:10-06:00"
+        },
+        {
             "id": "https://aindien.com/powershell-for-windows-server.html",
             "url": "https://aindien.com/powershell-for-windows-server.html",
             "title": "Powershell for Windows Server",
@@ -125,19 +138,6 @@
             ],
             "date_published": "2025-11-07T20:15:30-06:00",
             "date_modified": "2025-11-07T20:16:09-06:00"
-        },
-        {
-            "id": "https://aindien.com/managing-network-settings.html",
-            "url": "https://aindien.com/managing-network-settings.html",
-            "title": "Managing Network Settings",
-            "summary": "<p>This is a guide on managing network settings.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-06T22:02:34-06:00",
-            "date_modified": "2025-11-06T22:02:56-06:00"
         }
     ]
 }

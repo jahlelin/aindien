@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-11-27T19:43:20-06:00</updated>
+    <updated>2025-12-01T21:51:10-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Getting Started with Azure Cloud</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/getting-started-with-azure-cloud.html"/>
+        <id>https://aindien.com/getting-started-with-azure-cloud.html</id>
+
+        <updated>2025-12-01T21:50:45-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on getting started with Azure Cloud.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Powershell for Windows Server</title>
         <author>
@@ -157,23 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This a guide on logging and monitoring.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Managing Network Settings</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/managing-network-settings.html"/>
-        <id>https://aindien.com/managing-network-settings.html</id>
-
-        <updated>2025-11-06T22:02:34-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on managing network settings.</p>
 
                 ]]>
             </summary>
