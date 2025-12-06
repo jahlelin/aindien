@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/attack-vectors-and-mitigations.html",
+            "url": "https://aindien.com/attack-vectors-and-mitigations.html",
+            "title": "Attack Vectors and Mitigations",
+            "summary": "<p>This is a guide on attack vectors and mitigations.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-05T19:37:23-06:00",
+            "date_modified": "2025-12-05T19:37:57-06:00"
+        },
+        {
             "id": "https://aindien.com/getting-started-with-azure-cloud.html",
             "url": "https://aindien.com/getting-started-with-azure-cloud.html",
             "title": "Getting Started with Azure Cloud",
@@ -125,19 +138,6 @@
             ],
             "date_published": "2025-11-11T20:17:37-06:00",
             "date_modified": "2025-11-11T20:17:57-06:00"
-        },
-        {
-            "id": "https://aindien.com/logging-and-monitoring.html",
-            "url": "https://aindien.com/logging-and-monitoring.html",
-            "title": "Logging and Monitoring",
-            "summary": "<p>This a guide on logging and monitoring.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-07T20:15:30-06:00",
-            "date_modified": "2025-11-07T20:16:09-06:00"
         }
     ]
 }

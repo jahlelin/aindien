@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-12-01T21:51:10-06:00</updated>
+    <updated>2025-12-05T19:37:57-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Attack Vectors and Mitigations</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/attack-vectors-and-mitigations.html"/>
+        <id>https://aindien.com/attack-vectors-and-mitigations.html</id>
+
+        <updated>2025-12-05T19:37:23-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on attack vectors and mitigations.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Getting Started with Azure Cloud</title>
         <author>
@@ -157,23 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on server storage.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Logging and Monitoring</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/logging-and-monitoring.html"/>
-        <id>https://aindien.com/logging-and-monitoring.html</id>
-
-        <updated>2025-11-07T20:15:30-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This a guide on logging and monitoring.</p>
 
                 ]]>
             </summary>
