@@ -3,12 +3,46 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-12-05T19:37:57-06:00</updated>
+    <updated>2025-12-09T19:36:36-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Basic Cloud Operations</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/basic-cloud-operations.html"/>
+        <id>https://aindien.com/basic-cloud-operations.html</id>
+
+        <updated>2025-12-09T19:36:19-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on basic cloud operations.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Security Operations</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/security-operations.html"/>
+        <id>https://aindien.com/security-operations.html</id>
+
+        <updated>2025-12-09T19:29:42-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on security operations.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Attack Vectors and Mitigations</title>
         <author>
@@ -140,40 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on the Windows Admin Center.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Network Firewalls</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/network-firewalls.html"/>
-        <id>https://aindien.com/network-firewalls.html</id>
-
-        <updated>2025-11-11T20:22:27-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on network firewalls.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Server Storage</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/server-storage.html"/>
-        <id>https://aindien.com/server-storage.html</id>
-
-        <updated>2025-11-11T20:17:37-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on server storage.</p>
 
                 ]]>
             </summary>
