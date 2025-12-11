@@ -3,12 +3,46 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-12-09T19:36:36-06:00</updated>
+    <updated>2025-12-10T20:58:15-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Cloud Infrastructure Security</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/cloud-infrastructure-security.html"/>
+        <id>https://aindien.com/cloud-infrastructure-security.html</id>
+
+        <updated>2025-12-10T20:57:56-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on cloud infrastructure security.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Security Architecture and Design Concepts</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/security-architecture-and-design-concepts.html"/>
+        <id>https://aindien.com/security-architecture-and-design-concepts.html</id>
+
+        <updated>2025-12-10T19:49:13-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on security architecture and design concepts.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Basic Cloud Operations</title>
         <author>
@@ -140,40 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on Windows server installations.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Storage, Failover Clustering, &amp; Application Platform</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/storage-failover-clustering-and-application-platform.html"/>
-        <id>https://aindien.com/storage-failover-clustering-and-application-platform.html</id>
-
-        <updated>2025-11-17T20:28:47-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on storage, failover clustering, and applications platforms.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Windows Server 2019 Features</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/windows-server-2019-features.html"/>
-        <id>https://aindien.com/windows-server-2019-features.html</id>
-
-        <updated>2025-11-16T21:07:40-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on the Windows Admin Center.</p>
 
                 ]]>
             </summary>
