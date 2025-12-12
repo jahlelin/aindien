@@ -3,12 +3,46 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-12-10T20:58:15-06:00</updated>
+    <updated>2025-12-11T20:58:09-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Cloud Application Security</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/cloud-application-security.html"/>
+        <id>https://aindien.com/cloud-application-security.html</id>
+
+        <updated>2025-12-11T20:58:00-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on cloud application security.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Cloud Data Security</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/cloud-data-security.html"/>
+        <id>https://aindien.com/cloud-data-security.html</id>
+
+        <updated>2025-12-11T20:52:20-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on cloud data security.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Cloud Infrastructure Security</title>
         <author>
@@ -140,40 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on server roles.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Server 2019 Configuration</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/server-2019-configuration.html"/>
-        <id>https://aindien.com/server-2019-configuration.html</id>
-
-        <updated>2025-11-20T19:59:14-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on server 2019 configuration.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Windows Server Installations</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/windows-server-installations.html"/>
-        <id>https://aindien.com/windows-server-installations.html</id>
-
-        <updated>2025-11-18T20:36:23-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on Windows server installations.</p>
 
                 ]]>
             </summary>
