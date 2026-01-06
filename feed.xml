@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2025-12-12T18:38:50-06:00</updated>
+    <updated>2026-01-05T19:11:26-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Risk and Compliance in the Cloud</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/risk-and-compliance-in-the-cloud.html"/>
+        <id>https://aindien.com/risk-and-compliance-in-the-cloud.html</id>
+
+        <updated>2026-01-05T19:10:54-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on risk and compliance in the cloud.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Cloud Network Security</title>
         <author>
@@ -157,23 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on attack vectors and mitigations.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Getting Started with Azure Cloud</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/getting-started-with-azure-cloud.html"/>
-        <id>https://aindien.com/getting-started-with-azure-cloud.html</id>
-
-        <updated>2025-12-01T21:50:45-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on getting started with Azure Cloud.</p>
 
                 ]]>
             </summary>
