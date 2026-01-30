@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/cloud-security-administraiton.html",
+            "url": "https://aindien.com/cloud-security-administraiton.html",
+            "title": "Cloud Security Administraiton",
+            "summary": "<p>This is a guide on cloud security administration.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-29T19:31:59-06:00",
+            "date_modified": "2026-01-29T19:31:59-06:00"
+        },
+        {
             "id": "https://aindien.com/risk-and-compliance-in-the-cloud.html",
             "url": "https://aindien.com/risk-and-compliance-in-the-cloud.html",
             "title": "Risk and Compliance in the Cloud",
@@ -125,19 +138,6 @@
             ],
             "date_published": "2025-12-09T19:29:42-06:00",
             "date_modified": "2025-12-09T19:31:47-06:00"
-        },
-        {
-            "id": "https://aindien.com/attack-vectors-and-mitigations.html",
-            "url": "https://aindien.com/attack-vectors-and-mitigations.html",
-            "title": "Attack Vectors and Mitigations",
-            "summary": "<p>This is a guide on attack vectors and mitigations.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-12-05T19:37:23-06:00",
-            "date_modified": "2025-12-05T19:37:57-06:00"
         }
     ]
 }
