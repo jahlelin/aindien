@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/cloud-data-and-application-security.html",
+            "url": "https://aindien.com/cloud-data-and-application-security.html",
+            "title": "Cloud Data and Application Security",
+            "summary": "<p>This is a guide on cloud data and application security.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-04T18:49:12-06:00",
+            "date_modified": "2026-02-04T18:49:54-06:00"
+        },
+        {
             "id": "https://aindien.com/infrastructure-planning.html",
             "url": "https://aindien.com/infrastructure-planning.html",
             "title": "Infrastructure Planning",
@@ -125,19 +138,6 @@
             ],
             "date_published": "2025-12-10T19:49:13-06:00",
             "date_modified": "2025-12-10T19:50:41-06:00"
-        },
-        {
-            "id": "https://aindien.com/basic-cloud-operations.html",
-            "url": "https://aindien.com/basic-cloud-operations.html",
-            "title": "Basic Cloud Operations",
-            "summary": "<p>This is a guide on basic cloud operations.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-12-09T19:36:19-06:00",
-            "date_modified": "2025-12-09T19:36:36-06:00"
         }
     ]
 }
