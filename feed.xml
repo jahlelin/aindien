@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2026-02-04T18:49:54-06:00</updated>
+    <updated>2026-02-21T16:54:05-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Hardened Cloud Security</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/hardened-cloud-security.html"/>
+        <id>https://aindien.com/hardened-cloud-security.html</id>
+
+        <updated>2026-02-21T16:53:19-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on hardened cloud security.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Cloud Data and Application Security</title>
         <author>
@@ -157,23 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on cloud infrastructure security.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Security Architecture and Design Concepts</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/security-architecture-and-design-concepts.html"/>
-        <id>https://aindien.com/security-architecture-and-design-concepts.html</id>
-
-        <updated>2025-12-10T19:49:13-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on security architecture and design concepts.</p>
 
                 ]]>
             </summary>
