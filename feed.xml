@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2026-03-26T21:11:41-05:00</updated>
+    <updated>2026-04-02T20:11:41-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Windows 11 Overview</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/windows-11-overview.html"/>
+        <id>https://aindien.com/windows-11-overview.html</id>
+
+        <updated>2026-04-02T20:10:49-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on Windows 11 Overview.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Tips on Setting Up Windows 11</title>
         <author>
@@ -157,23 +174,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on cloud network security.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Security and Compliance</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/security-and-compliance.html"/>
-        <id>https://aindien.com/security-and-compliance.html</id>
-
-        <updated>2025-12-12T18:31:44-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on security and compliance.</p>
 
                 ]]>
             </summary>
