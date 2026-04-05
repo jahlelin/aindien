@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/processing-text-in-linux.html",
+            "url": "https://aindien.com/processing-text-in-linux.html",
+            "title": "Processing Text in Linux",
+            "summary": "<div class=\"ds-message _63c77b1\">\n<div class=\"ds-markdown\">\n<p>This is a guide on processing text in Linux.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-05T18:15:22-05:00",
+            "date_modified": "2026-04-05T18:16:29-05:00"
+        },
+        {
             "id": "https://aindien.com/main-function-in-c.html",
             "url": "https://aindien.com/main-function-in-c.html",
             "title": "Main function in C++",
@@ -126,19 +139,6 @@
             ],
             "date_published": "2026-01-29T19:31:59-06:00",
             "date_modified": "2026-01-29T19:31:59-06:00"
-        },
-        {
-            "id": "https://aindien.com/risk-and-compliance-in-the-cloud.html",
-            "url": "https://aindien.com/risk-and-compliance-in-the-cloud.html",
-            "title": "Risk and Compliance in the Cloud",
-            "summary": "<p>This is a guide on risk and compliance in the cloud.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-01-05T19:10:54-06:00",
-            "date_modified": "2026-01-05T19:11:26-06:00"
         }
     ]
 }
