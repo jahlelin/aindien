@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/data-and-machine-learning.html",
+            "url": "https://aindien.com/data-and-machine-learning.html",
+            "title": "Data and Machine Learning",
+            "summary": "<p>This is a guide on data and machine learning.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-07T21:32:25-05:00",
+            "date_modified": "2026-05-07T21:37:45-05:00"
+        },
+        {
             "id": "https://aindien.com/customizing-windows-11.html",
             "url": "https://aindien.com/customizing-windows-11.html",
             "title": "Customizing Windows 11",
@@ -126,19 +139,6 @@
             ],
             "date_published": "2026-02-04T18:49:12-06:00",
             "date_modified": "2026-02-04T18:49:54-06:00"
-        },
-        {
-            "id": "https://aindien.com/infrastructure-planning.html",
-            "url": "https://aindien.com/infrastructure-planning.html",
-            "title": "Infrastructure Planning",
-            "summary": "<p>This is a guide on infrastructure planning.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-01-30T20:16:38-06:00",
-            "date_modified": "2026-01-30T20:16:38-06:00"
         }
     ]
 }
