@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2026-07-11T18:16:22-05:00</updated>
+    <updated>2026-08-22T22:45:27-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Defining Cloud Computing</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/defining-cloud-computing.html"/>
+        <id>https://aindien.com/defining-cloud-computing.html</id>
+
+        <updated>2026-08-22T22:41:05-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on defining cloud computing.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Comprehensive Guide to Windows System Management</title>
         <author>
@@ -160,23 +177,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on continuous operational improvements.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Hardened Cloud Security</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/hardened-cloud-security.html"/>
-        <id>https://aindien.com/hardened-cloud-security.html</id>
-
-        <updated>2026-02-21T16:53:19-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on hardened cloud security.</p>
 
                 ]]>
             </summary>

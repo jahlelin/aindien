@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/defining-cloud-computing.html",
+            "url": "https://aindien.com/defining-cloud-computing.html",
+            "title": "Defining Cloud Computing",
+            "summary": "<p>This is a guide on defining cloud computing.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-22T22:41:05-05:00",
+            "date_modified": "2026-08-22T22:45:27-05:00"
+        },
+        {
             "id": "https://aindien.com/comprehensive-guide-to-windows-system-management.html",
             "url": "https://aindien.com/comprehensive-guide-to-windows-system-management.html",
             "title": "Comprehensive Guide to Windows System Management",
@@ -127,19 +140,6 @@
             ],
             "date_published": "2026-03-03T21:55:32-06:00",
             "date_modified": "2026-03-03T21:56:10-06:00"
-        },
-        {
-            "id": "https://aindien.com/hardened-cloud-security.html",
-            "url": "https://aindien.com/hardened-cloud-security.html",
-            "title": "Hardened Cloud Security",
-            "summary": "<p>This is a guide on hardened cloud security.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-02-21T16:53:19-06:00",
-            "date_modified": "2026-02-21T16:54:05-06:00"
         }
     ]
 }
