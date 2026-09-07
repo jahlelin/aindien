@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2026-08-22T22:45:27-05:00</updated>
+    <updated>2026-09-07T17:29:44-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Cloud Infrastructure</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/cloud-infrastructure.html"/>
+        <id>https://aindien.com/cloud-infrastructure.html</id>
+
+        <updated>2026-09-07T17:29:44-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on cloud infrastructure.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Defining Cloud Computing</title>
         <author>
@@ -160,23 +177,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on regulatory conformance.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Continuous Operational Improvements</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/continuous-operational-improvements.html"/>
-        <id>https://aindien.com/continuous-operational-improvements.html</id>
-
-        <updated>2026-03-03T21:55:32-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on continuous operational improvements.</p>
 
                 ]]>
             </summary>

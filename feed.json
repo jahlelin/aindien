@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/cloud-infrastructure.html",
+            "url": "https://aindien.com/cloud-infrastructure.html",
+            "title": "Cloud Infrastructure",
+            "summary": "<p>This is a guide on cloud infrastructure.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-07T17:29:44-05:00",
+            "date_modified": "2026-09-07T17:29:44-05:00"
+        },
+        {
             "id": "https://aindien.com/defining-cloud-computing.html",
             "url": "https://aindien.com/defining-cloud-computing.html",
             "title": "Defining Cloud Computing",
@@ -127,19 +140,6 @@
             ],
             "date_published": "2026-03-04T20:50:33-06:00",
             "date_modified": "2026-03-04T20:50:33-06:00"
-        },
-        {
-            "id": "https://aindien.com/continuous-operational-improvements.html",
-            "url": "https://aindien.com/continuous-operational-improvements.html",
-            "title": "Continuous Operational Improvements",
-            "summary": "<p>This is a guide on continuous operational improvements.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-03-03T21:55:32-06:00",
-            "date_modified": "2026-03-03T21:56:10-06:00"
         }
     ]
 }
