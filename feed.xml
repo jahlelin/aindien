@@ -3,12 +3,63 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2026-09-07T17:29:44-05:00</updated>
+    <updated>2026-09-14T22:09:38-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Why Safety and Responsible AI Matter</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/why-safety-and-responsible-ai-matter.html"/>
+        <id>https://aindien.com/why-safety-and-responsible-ai-matter.html</id>
+
+        <updated>2026-09-14T22:09:19-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on why safety anbd responsible AI matter.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Cloud Migrations</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/cloud-migrations.html"/>
+        <id>https://aindien.com/cloud-migrations.html</id>
+
+        <updated>2026-09-14T22:03:21-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on cloud migrations.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Cloud Native Apps</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/cloud-native-apps.html"/>
+        <id>https://aindien.com/cloud-native-apps.html</id>
+
+        <updated>2026-09-14T21:59:39-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on cloud native apps.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Cloud Infrastructure</title>
         <author>
@@ -126,57 +177,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on the main function in C++.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Windows 11 Overview</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/windows-11-overview.html"/>
-        <id>https://aindien.com/windows-11-overview.html</id>
-
-        <updated>2026-04-02T20:10:49-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on Windows 11 Overview.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Tips on Setting Up Windows 11</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/tips-on-setting-up-windows-11.html"/>
-        <id>https://aindien.com/tips-on-setting-up-windows-11.html</id>
-            <category term="Windows"/>
-
-        <updated>2026-03-26T21:11:41-05:00</updated>
-            <summary>
-                <![CDATA[
-                    You don’t set up a new PC every day, but when you do, it’s nice to know a few things ahead of time. Back up your data This is a must whenever you switch devices. The easiest way to back up your files is using&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Regulatory Conformance</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/regulatory-conformance.html"/>
-        <id>https://aindien.com/regulatory-conformance.html</id>
-
-        <updated>2026-03-04T20:50:33-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on regulatory conformance.</p>
 
                 ]]>
             </summary>
