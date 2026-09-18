@@ -10,6 +10,48 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/ai-applications-and-technologies.html",
+            "url": "https://aindien.com/ai-applications-and-technologies.html",
+            "title": "AI Applications and Technologies",
+            "summary": "<p>This is a guide on AI applications and technologies.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "AI"
+            ],
+            "date_published": "2026-09-17T22:28:02-05:00",
+            "date_modified": "2026-09-17T22:28:24-05:00"
+        },
+        {
+            "id": "https://aindien.com/ai-and-machine-learning-fundamentals.html",
+            "url": "https://aindien.com/ai-and-machine-learning-fundamentals.html",
+            "title": "AI and Machine Learning Fundamentals",
+            "summary": "<p>This is a guide on AI and machine learning fundamentals.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "AI"
+            ],
+            "date_published": "2026-09-17T22:20:33-05:00",
+            "date_modified": "2026-09-17T22:20:33-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-ai-is-driving-business.html",
+            "url": "https://aindien.com/how-ai-is-driving-business.html",
+            "title": "How AI Is Driving Business",
+            "summary": "<p>This is a guide on how AI is driving business.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "AI"
+            ],
+            "date_published": "2026-09-15T22:40:11-05:00",
+            "date_modified": "2026-09-17T22:21:24-05:00"
+        },
+        {
             "id": "https://aindien.com/why-safety-and-responsible-ai-matter.html",
             "url": "https://aindien.com/why-safety-and-responsible-ai-matter.html",
             "title": "Why Safety and Responsible AI Matter",
@@ -100,45 +142,6 @@
             ],
             "date_published": "2026-05-07T21:32:25-05:00",
             "date_modified": "2026-05-07T21:37:45-05:00"
-        },
-        {
-            "id": "https://aindien.com/customizing-windows-11.html",
-            "url": "https://aindien.com/customizing-windows-11.html",
-            "title": "Customizing Windows 11",
-            "summary": "<p>This is a guide on customizing Windows 11.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-04-15T21:02:29-05:00",
-            "date_modified": "2026-04-15T21:10:02-05:00"
-        },
-        {
-            "id": "https://aindien.com/processing-text-in-linux.html",
-            "url": "https://aindien.com/processing-text-in-linux.html",
-            "title": "Processing Text in Linux",
-            "summary": "<div class=\"ds-message _63c77b1\">\n<div class=\"ds-markdown\">\n<p>This is a guide on processing text in Linux.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-04-05T18:15:22-05:00",
-            "date_modified": "2026-04-05T18:16:29-05:00"
-        },
-        {
-            "id": "https://aindien.com/main-function-in-c.html",
-            "url": "https://aindien.com/main-function-in-c.html",
-            "title": "Main function in C++",
-            "summary": "<p>This is a guide on the main function in C++.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-04-04T19:54:13-05:00",
-            "date_modified": "2026-04-04T20:00:59-05:00"
         }
     ]
 }

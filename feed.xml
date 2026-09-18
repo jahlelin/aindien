@@ -3,12 +3,66 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2026-09-14T22:09:38-05:00</updated>
+    <updated>2026-09-17T22:28:24-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>AI Applications and Technologies</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/ai-applications-and-technologies.html"/>
+        <id>https://aindien.com/ai-applications-and-technologies.html</id>
+            <category term="AI"/>
+
+        <updated>2026-09-17T22:28:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on AI applications and technologies.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>AI and Machine Learning Fundamentals</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/ai-and-machine-learning-fundamentals.html"/>
+        <id>https://aindien.com/ai-and-machine-learning-fundamentals.html</id>
+            <category term="AI"/>
+
+        <updated>2026-09-17T22:20:33-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on AI and machine learning fundamentals.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How AI Is Driving Business</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/how-ai-is-driving-business.html"/>
+        <id>https://aindien.com/how-ai-is-driving-business.html</id>
+            <category term="AI"/>
+
+        <updated>2026-09-15T22:40:11-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on how AI is driving business.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Why Safety and Responsible AI Matter</title>
         <author>
@@ -124,59 +178,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on data and machine learning.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Customizing Windows 11</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/customizing-windows-11.html"/>
-        <id>https://aindien.com/customizing-windows-11.html</id>
-
-        <updated>2026-04-15T21:02:29-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on customizing Windows 11.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Processing Text in Linux</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/processing-text-in-linux.html"/>
-        <id>https://aindien.com/processing-text-in-linux.html</id>
-
-        <updated>2026-04-05T18:15:22-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <div class="ds-message _63c77b1">
-<div class="ds-markdown">
-<p>This is a guide on processing text in Linux.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Main function in C++</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/main-function-in-c.html"/>
-        <id>https://aindien.com/main-function-in-c.html</id>
-
-        <updated>2026-04-04T19:54:13-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on the main function in C++.</p>
 
                 ]]>
             </summary>
