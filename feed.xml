@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2026-09-18T22:36:13-05:00</updated>
+    <updated>2026-09-21T21:29:42-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Understanding OpenAI</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/understanding-openai.html"/>
+        <id>https://aindien.com/understanding-openai.html</id>
+            <category term="AI"/>
+
+        <updated>2026-09-21T21:25:40-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on understanding OpenAI.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Agents and Agentic Workflows</title>
         <author>
@@ -162,23 +180,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on cloud infrastructure.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Defining Cloud Computing</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/defining-cloud-computing.html"/>
-        <id>https://aindien.com/defining-cloud-computing.html</id>
-
-        <updated>2026-08-22T22:41:05-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on defining cloud computing.</p>
 
                 ]]>
             </summary>

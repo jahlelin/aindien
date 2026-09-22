@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/understanding-openai.html",
+            "url": "https://aindien.com/understanding-openai.html",
+            "title": "Understanding OpenAI",
+            "summary": "<p>This is a guide on understanding OpenAI.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "AI"
+            ],
+            "date_published": "2026-09-21T21:25:40-05:00",
+            "date_modified": "2026-09-21T21:29:42-05:00"
+        },
+        {
             "id": "https://aindien.com/agents-and-agentic-workflows.html",
             "url": "https://aindien.com/agents-and-agentic-workflows.html",
             "title": "Agents and Agentic Workflows",
@@ -130,19 +144,6 @@
             ],
             "date_published": "2026-09-07T17:29:44-05:00",
             "date_modified": "2026-09-07T17:29:44-05:00"
-        },
-        {
-            "id": "https://aindien.com/defining-cloud-computing.html",
-            "url": "https://aindien.com/defining-cloud-computing.html",
-            "title": "Defining Cloud Computing",
-            "summary": "<p>This is a guide on defining cloud computing.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-08-22T22:41:05-05:00",
-            "date_modified": "2026-08-22T22:45:27-05:00"
         }
     ]
 }
