@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/codex-essentials.html",
+            "url": "https://aindien.com/codex-essentials.html",
+            "title": "Codex Essentials",
+            "summary": "<p>This is a guide on Codex essentials.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "AI"
+            ],
+            "date_published": "2026-09-22T22:10:02-05:00",
+            "date_modified": "2026-09-22T22:10:56-05:00"
+        },
+        {
             "id": "https://aindien.com/understanding-openai.html",
             "url": "https://aindien.com/understanding-openai.html",
             "title": "Understanding OpenAI",
@@ -131,19 +145,6 @@
             ],
             "date_published": "2026-09-14T21:59:39-05:00",
             "date_modified": "2026-09-14T21:59:57-05:00"
-        },
-        {
-            "id": "https://aindien.com/cloud-infrastructure.html",
-            "url": "https://aindien.com/cloud-infrastructure.html",
-            "title": "Cloud Infrastructure",
-            "summary": "<p>This is a guide on cloud infrastructure.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-09-07T17:29:44-05:00",
-            "date_modified": "2026-09-07T17:29:44-05:00"
         }
     ]
 }
