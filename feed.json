@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/real-world-ai-solutions.html",
+            "url": "https://aindien.com/real-world-ai-solutions.html",
+            "title": "Real World AI Solutions",
+            "summary": "<p>This is a guide on real world AI solutions.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "AI"
+            ],
+            "date_published": "2026-09-23T21:49:29-05:00",
+            "date_modified": "2026-09-23T21:50:16-05:00"
+        },
+        {
+            "id": "https://aindien.com/api-essentials.html",
+            "url": "https://aindien.com/api-essentials.html",
+            "title": "API Essentials",
+            "summary": "<p>This is a guide on API essentials.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "AI"
+            ],
+            "date_published": "2026-09-23T21:39:36-05:00",
+            "date_modified": "2026-09-23T21:40:43-05:00"
+        },
+        {
             "id": "https://aindien.com/codex-essentials.html",
             "url": "https://aindien.com/codex-essentials.html",
             "title": "Codex Essentials",
@@ -119,32 +147,6 @@
             ],
             "date_published": "2026-09-14T22:09:19-05:00",
             "date_modified": "2026-09-14T22:09:38-05:00"
-        },
-        {
-            "id": "https://aindien.com/cloud-migrations.html",
-            "url": "https://aindien.com/cloud-migrations.html",
-            "title": "Cloud Migrations",
-            "summary": "<p>This is a guide on cloud migrations.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-09-14T22:03:21-05:00",
-            "date_modified": "2026-09-14T22:03:44-05:00"
-        },
-        {
-            "id": "https://aindien.com/cloud-native-apps.html",
-            "url": "https://aindien.com/cloud-native-apps.html",
-            "title": "Cloud Native Apps",
-            "summary": "<p>This is a guide on cloud native apps.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-09-14T21:59:39-05:00",
-            "date_modified": "2026-09-14T21:59:57-05:00"
         }
     ]
 }
