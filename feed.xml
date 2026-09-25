@@ -3,12 +3,47 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2026-09-23T21:50:16-05:00</updated>
+    <updated>2026-09-24T22:05:51-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Network Security Groups</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/network-security-groups.html"/>
+        <id>https://aindien.com/network-security-groups.html</id>
+
+        <updated>2026-09-24T21:59:03-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide to network security groups.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Effective Safety Communication in AI</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/effective-safety-communication-in-ai.html"/>
+        <id>https://aindien.com/effective-safety-communication-in-ai.html</id>
+            <category term="AI"/>
+
+        <updated>2026-09-24T21:49:45-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on effective safety communication in AI.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Real World AI Solutions</title>
         <author>
@@ -148,41 +183,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on AI and machine learning fundamentals.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How AI Is Driving Business</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/how-ai-is-driving-business.html"/>
-        <id>https://aindien.com/how-ai-is-driving-business.html</id>
-            <category term="AI"/>
-
-        <updated>2026-09-15T22:40:11-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on how AI is driving business.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Why Safety and Responsible AI Matter</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/why-safety-and-responsible-ai-matter.html"/>
-        <id>https://aindien.com/why-safety-and-responsible-ai-matter.html</id>
-
-        <updated>2026-09-14T22:09:19-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on why safety anbd responsible AI matter.</p>
 
                 ]]>
             </summary>

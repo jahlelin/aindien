@@ -10,6 +10,33 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/network-security-groups.html",
+            "url": "https://aindien.com/network-security-groups.html",
+            "title": "Network Security Groups",
+            "summary": "<p>This is a guide to network security groups.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-24T21:59:03-05:00",
+            "date_modified": "2026-09-24T22:05:51-05:00"
+        },
+        {
+            "id": "https://aindien.com/effective-safety-communication-in-ai.html",
+            "url": "https://aindien.com/effective-safety-communication-in-ai.html",
+            "title": "Effective Safety Communication in AI",
+            "summary": "<p>This is a guide on effective safety communication in AI.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "AI"
+            ],
+            "date_published": "2026-09-24T21:49:45-05:00",
+            "date_modified": "2026-09-24T21:50:38-05:00"
+        },
+        {
             "id": "https://aindien.com/real-world-ai-solutions.html",
             "url": "https://aindien.com/real-world-ai-solutions.html",
             "title": "Real World AI Solutions",
@@ -120,33 +147,6 @@
             ],
             "date_published": "2026-09-17T22:20:33-05:00",
             "date_modified": "2026-09-17T22:20:33-05:00"
-        },
-        {
-            "id": "https://aindien.com/how-ai-is-driving-business.html",
-            "url": "https://aindien.com/how-ai-is-driving-business.html",
-            "title": "How AI Is Driving Business",
-            "summary": "<p>This is a guide on how AI is driving business.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "AI"
-            ],
-            "date_published": "2026-09-15T22:40:11-05:00",
-            "date_modified": "2026-09-17T22:21:24-05:00"
-        },
-        {
-            "id": "https://aindien.com/why-safety-and-responsible-ai-matter.html",
-            "url": "https://aindien.com/why-safety-and-responsible-ai-matter.html",
-            "title": "Why Safety and Responsible AI Matter",
-            "summary": "<p>This is a guide on why safety anbd responsible AI matter.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-09-14T22:09:19-05:00",
-            "date_modified": "2026-09-14T22:09:38-05:00"
         }
     ]
 }
