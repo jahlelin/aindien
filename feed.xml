@@ -3,12 +3,32 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2026-09-24T22:05:51-05:00</updated>
+    <updated>2026-09-27T17:06:06-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>SQL Concepts</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/sql-concepts.html"/>
+        <id>https://aindien.com/sql-concepts.html</id>
+            <category term="SQL"/>
+
+        <updated>2026-09-27T17:05:40-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <div id="root">
+<div class="cb86951c">
+<div>This is a guide on an introduction to databases.</div>
+<div>
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Network Security Groups</title>
         <author>
@@ -165,24 +185,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on AI applications and technologies.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>AI and Machine Learning Fundamentals</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/ai-and-machine-learning-fundamentals.html"/>
-        <id>https://aindien.com/ai-and-machine-learning-fundamentals.html</id>
-            <category term="AI"/>
-
-        <updated>2026-09-17T22:20:33-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on AI and machine learning fundamentals.</p>
 
                 ]]>
             </summary>

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/sql-concepts.html",
+            "url": "https://aindien.com/sql-concepts.html",
+            "title": "SQL Concepts",
+            "summary": "<div id=\"root\">\n<div class=\"cb86951c\">\n<div>This is a guide on an introduction to databases.</div>\n<div>",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "SQL"
+            ],
+            "date_published": "2026-09-27T17:05:40-05:00",
+            "date_modified": "2026-09-27T17:06:06-05:00"
+        },
+        {
             "id": "https://aindien.com/network-security-groups.html",
             "url": "https://aindien.com/network-security-groups.html",
             "title": "Network Security Groups",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2026-09-17T22:28:02-05:00",
             "date_modified": "2026-09-17T22:28:24-05:00"
-        },
-        {
-            "id": "https://aindien.com/ai-and-machine-learning-fundamentals.html",
-            "url": "https://aindien.com/ai-and-machine-learning-fundamentals.html",
-            "title": "AI and Machine Learning Fundamentals",
-            "summary": "<p>This is a guide on AI and machine learning fundamentals.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "AI"
-            ],
-            "date_published": "2026-09-17T22:20:33-05:00",
-            "date_modified": "2026-09-17T22:20:33-05:00"
         }
     ]
 }
