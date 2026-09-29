@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2026-09-27T17:06:06-05:00</updated>
+    <updated>2026-09-28T22:15:19-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Architecture Concepts of Databases</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/architecture-concepts-of-databases.html"/>
+        <id>https://aindien.com/architecture-concepts-of-databases.html</id>
+            <category term="SQL"/>
+
+        <updated>2026-09-28T22:13:35-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on architecture concepts of databases. </p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>SQL Concepts</title>
         <author>
@@ -167,24 +185,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on AI Infrastructure and Implementation.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>AI Applications and Technologies</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/ai-applications-and-technologies.html"/>
-        <id>https://aindien.com/ai-applications-and-technologies.html</id>
-            <category term="AI"/>
-
-        <updated>2026-09-17T22:28:02-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on AI applications and technologies.</p>
 
                 ]]>
             </summary>

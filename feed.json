@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/architecture-concepts-of-databases.html",
+            "url": "https://aindien.com/architecture-concepts-of-databases.html",
+            "title": "Architecture Concepts of Databases",
+            "summary": "<p>This is a guide on architecture concepts of databases. </p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "SQL"
+            ],
+            "date_published": "2026-09-28T22:13:35-05:00",
+            "date_modified": "2026-09-28T22:15:19-05:00"
+        },
+        {
             "id": "https://aindien.com/sql-concepts.html",
             "url": "https://aindien.com/sql-concepts.html",
             "title": "SQL Concepts",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2026-09-18T22:27:19-05:00",
             "date_modified": "2026-09-18T22:28:03-05:00"
-        },
-        {
-            "id": "https://aindien.com/ai-applications-and-technologies.html",
-            "url": "https://aindien.com/ai-applications-and-technologies.html",
-            "title": "AI Applications and Technologies",
-            "summary": "<p>This is a guide on AI applications and technologies.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "AI"
-            ],
-            "date_published": "2026-09-17T22:28:02-05:00",
-            "date_modified": "2026-09-17T22:28:24-05:00"
         }
     ]
 }
