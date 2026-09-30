@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/databases-and-procedures.html",
+            "url": "https://aindien.com/databases-and-procedures.html",
+            "title": "Databases and Procedures",
+            "summary": "<div class=\"ds-message _63c77b1\">\n<div class=\"ds-markdown ds-assistant-message-main-content\">\n<div class=\"ds-message _63c77b1\">\n<div class=\"ds-markdown ds-assistant-message-main-content\">\n<p>This is a guide on databases and procedures.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "SQL"
+            ],
+            "date_published": "2026-09-29T19:28:24-05:00",
+            "date_modified": "2026-09-29T19:40:13-05:00"
+        },
+        {
             "id": "https://aindien.com/architecture-concepts-of-databases.html",
             "url": "https://aindien.com/architecture-concepts-of-databases.html",
             "title": "Architecture Concepts of Databases",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2026-09-18T22:35:40-05:00",
             "date_modified": "2026-09-18T22:36:13-05:00"
-        },
-        {
-            "id": "https://aindien.com/ai-infrastructure-and-implementations.html",
-            "url": "https://aindien.com/ai-infrastructure-and-implementations.html",
-            "title": "AI Infrastructure and Implementations",
-            "summary": "<p>This is a guide on AI Infrastructure and Implementation.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "AI"
-            ],
-            "date_published": "2026-09-18T22:27:19-05:00",
-            "date_modified": "2026-09-18T22:28:03-05:00"
         }
     ]
 }
