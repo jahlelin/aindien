@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2026-09-29T19:40:13-05:00</updated>
+    <updated>2026-10-01T22:33:13-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Relational Databases</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/relational-databases.html"/>
+        <id>https://aindien.com/relational-databases.html</id>
+            <category term="SQL"/>
+
+        <updated>2026-10-01T22:32:38-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on relational databases.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Databases and Procedures</title>
         <author>
@@ -171,24 +189,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on understanding OpenAI.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Agents and Agentic Workflows</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/agents-and-agentic-workflows.html"/>
-        <id>https://aindien.com/agents-and-agentic-workflows.html</id>
-            <category term="AI"/>
-
-        <updated>2026-09-18T22:35:40-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on agents and agentic workflows.</p>
 
                 ]]>
             </summary>
