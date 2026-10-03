@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2026-10-01T22:33:13-05:00</updated>
+    <updated>2026-10-02T19:19:36-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Introduction to Network Function Virtualization</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/introduction-to-network-function-virtualization.html"/>
+        <id>https://aindien.com/introduction-to-network-function-virtualization.html</id>
+            <category term="Virtualization"/>
+
+        <updated>2026-10-02T19:17:32-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on network function virtualization.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Relational Databases</title>
         <author>
@@ -171,24 +189,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on Codex essentials.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Understanding OpenAI</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/understanding-openai.html"/>
-        <id>https://aindien.com/understanding-openai.html</id>
-            <category term="AI"/>
-
-        <updated>2026-09-21T21:25:40-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on understanding OpenAI.</p>
 
                 ]]>
             </summary>

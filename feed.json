@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/introduction-to-network-function-virtualization.html",
+            "url": "https://aindien.com/introduction-to-network-function-virtualization.html",
+            "title": "Introduction to Network Function Virtualization",
+            "summary": "<p>This is a guide on network function virtualization.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Virtualization"
+            ],
+            "date_published": "2026-10-02T19:17:32-05:00",
+            "date_modified": "2026-10-02T19:19:36-05:00"
+        },
+        {
             "id": "https://aindien.com/relational-databases.html",
             "url": "https://aindien.com/relational-databases.html",
             "title": "Relational Databases",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2026-09-22T22:10:02-05:00",
             "date_modified": "2026-09-22T22:10:56-05:00"
-        },
-        {
-            "id": "https://aindien.com/understanding-openai.html",
-            "url": "https://aindien.com/understanding-openai.html",
-            "title": "Understanding OpenAI",
-            "summary": "<p>This is a guide on understanding OpenAI.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "AI"
-            ],
-            "date_published": "2026-09-21T21:25:40-05:00",
-            "date_modified": "2026-09-21T21:29:42-05:00"
         }
     ]
 }
