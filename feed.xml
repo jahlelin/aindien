@@ -3,12 +3,30 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2026-10-04T22:45:34-05:00</updated>
+    <updated>2026-10-05T22:11:03-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Virtualization with VMWare Fusion</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/virtualization-with-vmware-fusion.html"/>
+        <id>https://aindien.com/virtualization-with-vmware-fusion.html</id>
+            <category term="Virtualization"/>
+
+        <updated>2026-10-05T22:10:30-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on virtualization with VMWare Fusion.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Desktop Virtualization with VMWare</title>
         <author>
@@ -171,24 +189,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on real world AI solutions.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>API Essentials</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/api-essentials.html"/>
-        <id>https://aindien.com/api-essentials.html</id>
-            <category term="AI"/>
-
-        <updated>2026-09-23T21:39:36-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on API essentials.</p>
 
                 ]]>
             </summary>
