@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/cloud-service-solutions.html",
+            "url": "https://aindien.com/cloud-service-solutions.html",
+            "title": "Cloud Service Solutions",
+            "summary": "<p>This is a guide on cloud service solutions.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Cloud Computing"
+            ],
+            "date_published": "2026-10-06T20:49:06-05:00",
+            "date_modified": "2026-10-06T20:49:35-05:00"
+        },
+        {
+            "id": "https://aindien.com/chatgpt-essentials.html",
+            "url": "https://aindien.com/chatgpt-essentials.html",
+            "title": "ChatGPT Essentials",
+            "summary": "<p>This is a guide on ChatGPT Essentials.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "AI"
+            ],
+            "date_published": "2026-10-06T20:45:26-05:00",
+            "date_modified": "2026-10-06T20:45:54-05:00"
+        },
+        {
             "id": "https://aindien.com/virtualization-with-vmware-fusion.html",
             "url": "https://aindien.com/virtualization-with-vmware-fusion.html",
             "title": "Virtualization with VMWare Fusion",
@@ -119,34 +147,6 @@
             ],
             "date_published": "2026-09-24T21:59:03-05:00",
             "date_modified": "2026-09-24T22:05:51-05:00"
-        },
-        {
-            "id": "https://aindien.com/effective-safety-communication-in-ai.html",
-            "url": "https://aindien.com/effective-safety-communication-in-ai.html",
-            "title": "Effective Safety Communication in AI",
-            "summary": "<p>This is a guide on effective safety communication in AI.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "AI"
-            ],
-            "date_published": "2026-09-24T21:49:45-05:00",
-            "date_modified": "2026-09-24T21:50:38-05:00"
-        },
-        {
-            "id": "https://aindien.com/real-world-ai-solutions.html",
-            "url": "https://aindien.com/real-world-ai-solutions.html",
-            "title": "Real World AI Solutions",
-            "summary": "<p>This is a guide on real world AI solutions.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "AI"
-            ],
-            "date_published": "2026-09-23T21:49:29-05:00",
-            "date_modified": "2026-09-23T21:50:16-05:00"
         }
     ]
 }
