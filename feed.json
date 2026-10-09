@@ -10,6 +10,32 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/server-components.html",
+            "url": "https://aindien.com/server-components.html",
+            "title": "Server Components",
+            "summary": "<p>This is a guide on server components.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-08T20:11:19-05:00",
+            "date_modified": "2026-10-08T20:11:19-05:00"
+        },
+        {
+            "id": "https://aindien.com/enterprise-architecture.html",
+            "url": "https://aindien.com/enterprise-architecture.html",
+            "title": "Enterprise Architecture",
+            "summary": "<p>This is a guide on enterprise architecture.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-08T19:59:34-05:00",
+            "date_modified": "2026-10-08T20:00:05-05:00"
+        },
+        {
             "id": "https://aindien.com/cloud-service-solutions.html",
             "url": "https://aindien.com/cloud-service-solutions.html",
             "title": "Cloud Service Solutions",
@@ -120,33 +146,6 @@
             ],
             "date_published": "2026-09-28T22:13:35-05:00",
             "date_modified": "2026-09-28T22:15:19-05:00"
-        },
-        {
-            "id": "https://aindien.com/sql-concepts.html",
-            "url": "https://aindien.com/sql-concepts.html",
-            "title": "SQL Concepts",
-            "summary": "<div id=\"root\">\n<div class=\"cb86951c\">\n<div>This is a guide on an introduction to databases.</div>\n<div>",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "SQL"
-            ],
-            "date_published": "2026-09-27T17:05:40-05:00",
-            "date_modified": "2026-09-27T17:06:06-05:00"
-        },
-        {
-            "id": "https://aindien.com/network-security-groups.html",
-            "url": "https://aindien.com/network-security-groups.html",
-            "title": "Network Security Groups",
-            "summary": "<p>This is a guide to network security groups.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-09-24T21:59:03-05:00",
-            "date_modified": "2026-09-24T22:05:51-05:00"
         }
     ]
 }
