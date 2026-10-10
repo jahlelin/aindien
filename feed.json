@@ -10,6 +10,33 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/guide-to-security.html",
+            "url": "https://aindien.com/guide-to-security.html",
+            "title": "Guide to Security",
+            "summary": "<p>This is a guide to security.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-10T01:18:22-05:00",
+            "date_modified": "2026-10-10T01:19:16-05:00"
+        },
+        {
+            "id": "https://aindien.com/osi-model.html",
+            "url": "https://aindien.com/osi-model.html",
+            "title": "OSI Model",
+            "summary": "<p>This is a guide on the OSI model.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Networking"
+            ],
+            "date_published": "2026-10-10T01:14:59-05:00",
+            "date_modified": "2026-10-10T01:15:26-05:00"
+        },
+        {
             "id": "https://aindien.com/server-components.html",
             "url": "https://aindien.com/server-components.html",
             "title": "Server Components",
@@ -118,34 +145,6 @@
             ],
             "date_published": "2026-10-01T22:32:38-05:00",
             "date_modified": "2026-10-01T22:33:13-05:00"
-        },
-        {
-            "id": "https://aindien.com/databases-and-procedures.html",
-            "url": "https://aindien.com/databases-and-procedures.html",
-            "title": "Databases and Procedures",
-            "summary": "<div class=\"ds-message _63c77b1\">\n<div class=\"ds-markdown ds-assistant-message-main-content\">\n<div class=\"ds-message _63c77b1\">\n<div class=\"ds-markdown ds-assistant-message-main-content\">\n<p>This is a guide on databases and procedures.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "SQL"
-            ],
-            "date_published": "2026-09-29T19:28:24-05:00",
-            "date_modified": "2026-09-29T19:40:13-05:00"
-        },
-        {
-            "id": "https://aindien.com/architecture-concepts-of-databases.html",
-            "url": "https://aindien.com/architecture-concepts-of-databases.html",
-            "title": "Architecture Concepts of Databases",
-            "summary": "<p>This is a guide on architecture concepts of databases. </p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "SQL"
-            ],
-            "date_published": "2026-09-28T22:13:35-05:00",
-            "date_modified": "2026-09-28T22:15:19-05:00"
         }
     ]
 }

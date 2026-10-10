@@ -3,12 +3,47 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2026-10-08T20:11:19-05:00</updated>
+    <updated>2026-10-10T01:19:16-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Guide to Security</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/guide-to-security.html"/>
+        <id>https://aindien.com/guide-to-security.html</id>
+
+        <updated>2026-10-10T01:18:22-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide to security.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>OSI Model</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/osi-model.html"/>
+        <id>https://aindien.com/osi-model.html</id>
+            <category term="Networking"/>
+
+        <updated>2026-10-10T01:14:59-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on the OSI model.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Server Components</title>
         <author>
@@ -146,46 +181,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on relational databases.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Databases and Procedures</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/databases-and-procedures.html"/>
-        <id>https://aindien.com/databases-and-procedures.html</id>
-            <category term="SQL"/>
-
-        <updated>2026-09-29T19:28:24-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <div class="ds-message _63c77b1">
-<div class="ds-markdown ds-assistant-message-main-content">
-<div class="ds-message _63c77b1">
-<div class="ds-markdown ds-assistant-message-main-content">
-<p>This is a guide on databases and procedures.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Architecture Concepts of Databases</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/architecture-concepts-of-databases.html"/>
-        <id>https://aindien.com/architecture-concepts-of-databases.html</id>
-            <category term="SQL"/>
-
-        <updated>2026-09-28T22:13:35-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on architecture concepts of databases. </p>
 
                 ]]>
             </summary>
