@@ -3,12 +3,29 @@
     <title>Jason&#x27;s Computing Guides</title>
     <link href="https://aindien.com/feed.xml" rel="self" />
     <link href="https://aindien.com" />
-    <updated>2026-10-10T01:19:16-05:00</updated>
+    <updated>2026-10-10T20:15:11-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://aindien.com</id>
 
+    <entry>
+        <title>Security Practices</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://aindien.com/security-practices.html"/>
+        <id>https://aindien.com/security-practices.html</id>
+
+        <updated>2026-10-10T20:14:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on security practices.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Guide to Security</title>
         <author>
@@ -163,24 +180,6 @@
             <summary>
                 <![CDATA[
                     <p>This is a guide on network function virtualization.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Relational Databases</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://aindien.com/relational-databases.html"/>
-        <id>https://aindien.com/relational-databases.html</id>
-            <category term="SQL"/>
-
-        <updated>2026-10-01T22:32:38-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on relational databases.</p>
 
                 ]]>
             </summary>
