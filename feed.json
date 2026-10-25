@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://aindien.com/identifiers-in-c.html",
+            "url": "https://aindien.com/identifiers-in-c.html",
+            "title": "Identifiers in C++",
+            "summary": "<p>This is a guide on identifiers in C++.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "C++"
+            ],
+            "date_published": "2026-10-25T16:55:28-05:00",
+            "date_modified": "2026-10-25T16:55:58-05:00"
+        },
+        {
             "id": "https://aindien.com/security-practices.html",
             "url": "https://aindien.com/security-practices.html",
             "title": "Security Practices",
@@ -130,20 +144,6 @@
             ],
             "date_published": "2026-10-04T22:44:59-05:00",
             "date_modified": "2026-10-04T22:45:34-05:00"
-        },
-        {
-            "id": "https://aindien.com/introduction-to-network-function-virtualization.html",
-            "url": "https://aindien.com/introduction-to-network-function-virtualization.html",
-            "title": "Introduction to Network Function Virtualization",
-            "summary": "<p>This is a guide on network function virtualization.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Virtualization"
-            ],
-            "date_published": "2026-10-02T19:17:32-05:00",
-            "date_modified": "2026-10-02T19:19:36-05:00"
         }
     ]
 }
